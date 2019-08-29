@@ -11,6 +11,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
+    "helmet": "^3.20.1",
+    "knex": "^0.19.3",
+    "morgan": "^1.9.1",
     "nodemon": "^1.18.7"
   }
 }
