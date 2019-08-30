@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import * as THREE from "three";
 import "./App.css";
+var aviationJson = require("aviation-json");
 
 const App = props => {
   const [message, setMessage] = useState({
@@ -10,6 +11,7 @@ const App = props => {
   const mount = useRef(null);
   const [isAnimating, setAnimating] = useState(true);
   const controls = useRef(null);
+  console.log(aviationJson.airline_destination);
 
   useEffect(() => {
     // === THREE.JS CODE START ===
