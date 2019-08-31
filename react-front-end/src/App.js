@@ -4,10 +4,13 @@ import * as THREE from "three";
 import { TrackballControls } from "three/examples/jsm/controls/TrackballControls.js";
 import "./App.css";
 
+
+
 const App = props => {
   const [message, setMessage] = useState({
     message: "Click the button to load data!"
   });
+
 
   useEffect(() => {
     // === THREE.JS CODE START ===
@@ -149,6 +152,7 @@ const App = props => {
     <div className="App">
       {/* <h1>{message.message}</h1>
       <button onClick={fetchData}>Fetch Data</button> */}
+
     </div>
   );
 };
