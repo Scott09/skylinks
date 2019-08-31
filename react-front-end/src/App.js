@@ -1,16 +1,13 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import * as THREE from "three";
-import { TrackballControls } from "three/examples/jsm/controls/TrackballControls.js";
+import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import "./App.css";
-
-
 
 const App = props => {
   const [message, setMessage] = useState({
     message: "Click the button to load data!"
   });
-
 
   useEffect(() => {
     // === THREE.JS CODE START ===
@@ -41,16 +38,16 @@ const App = props => {
     let material = new THREE.MeshPhongMaterial({
       map: THREE.ImageUtils.loadTexture("images/2_no_clouds_4k.jpg"),
       bumpMap: THREE.ImageUtils.loadTexture("images/elev_bump_4k.jpg"),
-      bumpScale: 0.05,
+      bumpScale: 0.02,
       specularMap: THREE.ImageUtils.loadTexture("images/water_4k.png"),
       specular: new THREE.Color("grey"),
-      shininess: 15
+      shininess: 10
     });
     let sphere = new THREE.Mesh(geometry_sphere, material);
     scene.add(sphere);
     // Set up the clouds
     let clouds = new THREE.Mesh(
-      new THREE.SphereGeometry(5.2 + 0.003, 32, 32),
+      new THREE.SphereGeometry(5.3, 32, 32),
       new THREE.MeshPhongMaterial({
         map: THREE.ImageUtils.loadTexture("images/fair_clouds_4k.png"),
         transparent: true
@@ -93,7 +90,7 @@ const App = props => {
     const CURVE_MIN_ALTITUDE = 2;
     const CURVE_MAX_ALTITUDE = 4;
     const DEGREE_TO_RADIAN = Math.PI / 180;
-    const VanCoor = [45.6387, -122.6615];
+    const VanCoor = [49.1966913, -123.183701];
     const GZCoor = [23.1292, 113.2644];
 
     const start = coordinateToPosition(VanCoor[0], VanCoor[1], RADIUS);
@@ -116,9 +113,15 @@ const App = props => {
     camera.position.z = 10;
 
     // Set up the controls
-    let controls = new TrackballControls(camera);
-    controls.rotateSpeed = 1.0;
+    let controls = new OrbitControls(camera);
+    controls.minPolarAngle = 1.52; // radians
+    controls.maxPolarAngle = 1.52; // radians
+    controls.minAzimuthAngle = -Infinity; // radians
+    controls.maxAzimuthAngle = Infinity; // radians
+    controls.rotateSpeed = 0.3;
     controls.zoomSpeed = 1.0;
+    controls.maxDistance = 50;
+    controls.minDistance = 6;
     // controls.panSpeed = 100;
     // controls.noZoom=false;
     controls.noPan = false;
@@ -152,7 +155,6 @@ const App = props => {
     <div className="App">
       {/* <h1>{message.message}</h1>
       <button onClick={fetchData}>Fetch Data</button> */}
-
     </div>
   );
 };
