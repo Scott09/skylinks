@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import * as THREE from "three";
+import { TrackballControls } from "three/examples/jsm/controls/TrackballControls.js";
 import "./App.css";
 
 const App = props => {
@@ -21,21 +22,23 @@ const App = props => {
     let renderer = new THREE.WebGLRenderer();
     renderer.setSize(window.innerWidth, window.innerHeight);
     document.body.appendChild(renderer.domElement);
+
     // Set up the lines
-    let geometry_line = new THREE.SphereGeometry(5.5, 32, 32);
-    let mat = new THREE.LineBasicMaterial({ color: 0xffffff, linewidth: 2 });
-    let wireframe = new THREE.WireframeGeometry(geometry_line);
-    let line = new THREE.LineSegments(wireframe, mat);
-    line.material.depthTest = true;
-    line.material.transparent = true;
-    line.material.opacity = 0.7;
-    // scene.add(line);
+    // let geometry_line = new THREE.SphereGeometry(5.4, 32, 32);
+    // let mat = new THREE.LineBasicMaterial({ color: 0xffffff, linewidth: 2 });
+    // let wireframe = new THREE.WireframeGeometry(geometry_line);
+    // let line = new THREE.LineSegments(wireframe, mat);
+    // line.material.depthTest = true;
+    // line.material.transparent = true;
+    // line.material.opacity = 0.7;
+    // // scene.add(line);
+
     // Set up the sphere
     let geometry_sphere = new THREE.SphereGeometry(5, 32, 32);
     let material = new THREE.MeshPhongMaterial({
       map: THREE.ImageUtils.loadTexture("images/2_no_clouds_4k.jpg"),
       bumpMap: THREE.ImageUtils.loadTexture("images/elev_bump_4k.jpg"),
-      bumpScale: 0.005,
+      bumpScale: 0.05,
       specularMap: THREE.ImageUtils.loadTexture("images/water_4k.png"),
       specular: new THREE.Color("grey"),
       shininess: 15
@@ -67,36 +70,85 @@ const App = props => {
       })
     );
     scene.add(stars);
-    // add the objects to the scene
+    // Add flight path
+    function coordinateToPosition(lat, lng, radius) {
+      const phi = (90 - lat) * DEGREE_TO_RADIAN;
+      const theta = (lng + 180) * DEGREE_TO_RADIAN;
+
+      return new THREE.Vector3(
+        -radius * Math.sin(phi) * Math.cos(theta),
+        radius * Math.cos(phi),
+        radius * Math.sin(phi) * Math.sin(theta)
+      );
+    }
+
+    function clamp(num, min, max) {
+      return num <= min ? min : num >= max ? max : num;
+    }
+
+    const RADIUS = 5;
+    const CURVE_MIN_ALTITUDE = 2;
+    const CURVE_MAX_ALTITUDE = 4;
+    const DEGREE_TO_RADIAN = Math.PI / 180;
+    const VanCoor = [45.6387, -122.6615];
+    const GZCoor = [23.1292, 113.2644];
+
+    const start = coordinateToPosition(VanCoor[0], VanCoor[1], RADIUS);
+    const end = coordinateToPosition(GZCoor[0], GZCoor[1], RADIUS);
+
+    const spline = new THREE.CubicBezierCurve3(start, 123, 123, end);
+    scene.add(spline);
+    //
+    let geometry_place = new THREE.SphereGeometry(0.05, 32, 32);
+    let mat_place = new THREE.MeshBasicMaterial({
+      color: 0xff0000
+    });
+    let sphere_place1 = new THREE.Mesh(geometry_place, mat_place);
+    let sphere_place2 = new THREE.Mesh(geometry_place, mat_place);
+    sphere_place1.position.set(start.x, start.y, start.z);
+    sphere_place2.position.set(end.x, end.y, end.z);
+    scene.add(sphere_place1);
+    scene.add(sphere_place2);
+    // Set up camera position
     camera.position.z = 10;
+
+    // Set up the controls
+    let controls = new TrackballControls(camera);
+    controls.rotateSpeed = 1.0;
+    controls.zoomSpeed = 1.0;
+    // controls.panSpeed = 100;
+    // controls.noZoom=false;
+    controls.noPan = false;
+    controls.staticMoving = false;
+    controls.dynamicDampingFactor = 0.3;
+    controls.update();
+
     let animate = function() {
       requestAnimationFrame(animate);
-      // line.rotation.x += 0.01;
-      line.rotation.y += 0.1;
-      // sphere.rotation.x += 0.01;
-      sphere.rotation.y += 0.003;
-      clouds.rotation.y += 0.002;
+
+      clouds.rotation.y += 0.0001;
+      controls.update();
       renderer.render(scene, camera);
     };
     animate();
   }, []);
 
-  const fetchData = () => {
-    axios.get("/api/data").then(response => {
-      // handle success
-      console.log(response.data);
+  // const fetchData = () => {
+  //   axios.get("/api/data").then(response => {
+  //     // handle success
+  //     console.log(response.data);
 
-      console.log(response.data.message);
-      setMessage({
-        message: response.data.message
-      });
-    });
-  };
+  //     console.log(response.data.message);
+  //     setMessage({
+  //       message: response.data.message
+  //     });
+  //   });
+  // };
 
   return (
     <div className="App">
-      <h1>{message.message}</h1>
-      <button onClick={fetchData}>Fetch Data</button>
+      {/* <h1>{message.message}</h1>
+      <button onClick={fetchData}>Fetch Data</button> */}
     </div>
   );
 };
