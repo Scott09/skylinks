@@ -17,7 +17,7 @@ CREATE TABLE routes (
   id SERIAL PRIMARY KEY NOT NULL,
   stops INT DEFAULT 0,
   departure_iata VARCHAR(255) REFERENCES airports(iata),
-  arrival_iata VARCHAR(255) REFERENCES airports(iata)
+  arrival_iata VARCHAR(255)
 );
 
 
