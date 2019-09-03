@@ -8534,7 +8534,29 @@
     "longitude": "007°31′45″E",
     "name": "EuroAirport\nBasel Mulhouse Freiburg",
     "nickname": "Aéroport de Bâle-Mulhouse",
-    "iata": "BSL, MLH, EAP[1]",
+    "iata": "MLH",
+    "icao": "LFSB, LSZM",
+    "dd_latitude": 47.59,
+    "dd_longitude": 7.529166666666667,
+    "airlinesFlying": 27
+  },
+  "EuroAirport_Basel-Mulhouse-Freiburg": {
+    "latitude": "47°35′24″N",
+    "longitude": "007°31′45″E",
+    "name": "EuroAirport\nBasel Mulhouse Freiburg",
+    "nickname": "Aéroport de Bâle-Mulhouse",
+    "iata": "EAP",
+    "icao": "LFSB, LSZM",
+    "dd_latitude": 47.59,
+    "dd_longitude": 7.529166666666667,
+    "airlinesFlying": 27
+  },
+  "EuroAirport_Basel-Mulhouse-Freiburg": {
+    "latitude": "47°35′24″N",
+    "longitude": "007°31′45″E",
+    "name": "EuroAirport\nBasel Mulhouse Freiburg",
+    "nickname": "Aéroport de Bâle-Mulhouse",
+    "iata": "BSL",
     "icao": "LFSB, LSZM",
     "dd_latitude": 47.59,
     "dd_longitude": 7.529166666666667,
@@ -16872,16 +16894,6 @@
     "dd_latitude": 32.540277777777774,
     "dd_longitude": -93.745
   },
-  "Wudalianchi_Airport": {
-    "latitude": "",
-    "longitude": "",
-    "name": "Wudalianchi Airport",
-    "nickname": "五大连池机场",
-    "iata": "DTU[1]",
-    "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
-  },
   "Detroit_Metropolitan_Airport": {
     "latitude": "42°12′45″N",
     "longitude": "083°21′12″W",
@@ -20152,16 +20164,6 @@
     "dd_latitude": 26.072499999999998,
     "dd_longitude": -80.15277777777779,
     "airlinesFlying": 12
-  },
-  "Filadelfia_Airport": {
-    "latitude": "22°21′35″S",
-    "longitude": "60°03′13″W",
-    "name": "Filadelfia Airport",
-    "nickname": "IATA: FIL",
-    "iata": "FIL",
-    "icao": "SGFI",
-    "dd_latitude": -22.359722222222224,
-    "dd_longitude": -60.05361111111111
   },
   "Herc%C3%ADlio_Luz_International_Airport": {
     "latitude": "27°40′13″S",
@@ -33847,16 +33849,6 @@
     "dd_latitude": 12.350833333333332,
     "dd_longitude": -5.430555555555556
   },
-  "Katukurunda_Airport": {
-    "latitude": "06°33′07″N",
-    "longitude": "079°58′43″E",
-    "name": "Katukurunda Airport\nSLAF Katukurunda",
-    "nickname": "කටුකුරුන්ද ගුවන්තොටුපළ",
-    "iata": "KTA",
-    "icao": "VCCN",
-    "dd_latitude": 6.551944444444445,
-    "dd_longitude": 79.9786111111111
-  },
   "Sultan_Haji_Ahmad_Shah_Airport": {
     "latitude": "03°46′11″N",
     "longitude": "103°12′34″E",
@@ -40762,16 +40754,6 @@
     "dd_latitude": -7.926388888888889,
     "dd_longitude": 112.71444444444445,
     "airlinesFlying": 4
-  },
-  "EuroAirport_Basel_Mulhouse_Freiburg": {
-    "latitude": "47°35′24″N",
-    "longitude": "007°31′45″E",
-    "name": "EuroAirport\nBasel Mulhouse Freiburg",
-    "nickname": "Aéroport de Bâle-Mulhouse",
-    "iata": "BSL, MLH, EAP[1]",
-    "icao": "LFSB, LSZM",
-    "dd_latitude": 47.59,
-    "dd_longitude": 7.529166666666667
   },
   "Quad_City_International_Airport": {
     "latitude": "41°26′55″N",
@@ -48971,16 +48953,6 @@
     "icao": "KPAE",
     "dd_latitude": 47.90611111111111,
     "dd_longitude": -122.28138888888888
-  },
-  "Pakuba_Airfield": {
-    "latitude": "02°20′00″N",
-    "longitude": "031°30′00″E",
-    "name": "Pakuba AirfieldPakuba Airport",
-    "nickname": "IATA: PAF",
-    "iata": "PAF",
-    "icao": "HUPA",
-    "dd_latitude": 2.3333333333333335,
-    "dd_longitude": 31.5
   },
   "Pagadian_Airport": {
     "latitude": "07°49′38″N",
@@ -72668,16 +72640,6 @@
     "icao": "CYIF",
     "dd_latitude": 51.21,
     "dd_longitude": -58.65833333333333
-  },
-  "Big_Bay_Water_Aerodrome": {
-    "latitude": "50°24′N",
-    "longitude": "125°08′W",
-    "name": "Big Bay Water Aerodrome",
-    "nickname": "IATA: YIG",
-    "iata": "YIG",
-    "icao": "",
-    "dd_latitude": 50.4,
-    "dd_longitude": -125.13333333333334
   },
   "Yichang_Sanxia_Airport": {
     "latitude": "30°33′23.3″N",

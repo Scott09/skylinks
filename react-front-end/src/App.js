@@ -11,7 +11,8 @@ import {
   getSplineFromCoords
 } from "./components/curve.js";
 
-import data from "./cities.json";
+import YVR_routes from "./YVR_routes.json";
+import airports from "./airports.json";
 
 const App = props => {
   // let [cities, setCity] = useState([]);
@@ -50,13 +51,8 @@ const App = props => {
     scene.add(CLOUDS);
     scene.add(STARS);
 
-    // Set up cities
-    // const RADIUS = 5;
-    // const VanCoor = [49.1966913, -123.183701];
-    // const GZCoor = [23.1292, 113.2644];
-
-    // const start = coordinateToPosition(VanCoor[0], VanCoor[1], RADIUS);
-    // const end = coordinateToPosition(GZCoor[0], GZCoor[1], RADIUS);
+    // const start = coordinateToPosition(VanCoor[0], VanCoor[1], 5);
+    // const end = coordinateToPosition(GZCoor[0], GZCoor[1], 5);
 
     // let geometry_place = new THREE.SphereGeometry(0.05, 32, 32);
     // let mat_place = new THREE.MeshPhongMaterial({
@@ -70,21 +66,68 @@ const App = props => {
     // scene.add(sphere_place1);
     // scene.add(sphere_place2);
 
-    // Set up the flight path
-    const random_num = Math.floor(Math.random() * data.length - 1000);
-    for (let i = random_num; i < random_num + 100; i += 2) {
-      const start = data[i];
-      const end = data[i + 1];
-      const startCoor = [start.dd_latitude, start.dd_longitude];
-      const endCoor = [end.dd_latitude, end.dd_longitude];
-      const { spline } = getSplineFromCoords(startCoor, endCoor);
-      const points = spline.getPoints(32);
-      const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
-      const curve_material = new THREE.LineBasicMaterial({ color: 0xffffff });
-      const curveObject = new THREE.Line(curve_geometry, curve_material);
-      scene.add(curveObject);
-    }
+    // Set up random flight paths
+    // const random_num = Math.floor(Math.random() * data.length - 1000);
+    // for (let i = random_num; i < random_num + 100; i += 2) {
+    //   const start = data[i];
+    //   const end = data[i + 1];
+    //   const startCoor = [start.dd_latitude, start.dd_longitude];
+    //   const endCoor = [end.dd_latitude, end.dd_longitude];
+    //   const { spline } = getSplineFromCoords(startCoor, endCoor);
+    //   const points = spline.getPoints(32);
+    //   const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
+    //   const curve_material = new THREE.LineBasicMaterial({ color: 0xffffff });
+    //   const curveObject = new THREE.Line(curve_geometry, curve_material);
+    //   scene.add(curveObject);
+    // }
 
+    // YVR routes only
+    for (let i of YVR_routes) {
+      if (i.start_airport === "YVR") {
+        const start_iata = i.start_airport;
+        const end_iata = i.destination_airport;
+        if (airports[start_iata] && airports[end_iata]) {
+          const start = [
+            airports[start_iata].dd_latitude,
+            airports[start_iata].dd_longitude
+          ];
+          const end = [
+            airports[end_iata].dd_latitude,
+            airports[end_iata].dd_longitude
+          ];
+          const startCoor = [start[0], start[1]];
+          const endCoor = [end[0], end[1]];
+          const { spline } = getSplineFromCoords(startCoor, endCoor);
+          const points = spline.getPoints(32);
+          const curve_geometry = new THREE.BufferGeometry().setFromPoints(
+            points
+          );
+          const curve_material = new THREE.LineBasicMaterial({
+            color: 0xffffff
+          });
+          const curveObject = new THREE.Line(curve_geometry, curve_material);
+          scene.add(curveObject);
+        }
+      }
+    }
+    // Set up interactions with 3d objects
+    document.addEventListener("mousedown", onDocumentMouseDown);
+
+    function onDocumentMouseDown(event) {
+      event.preventDefault();
+      var mouse3D = new THREE.Vector3(
+        (event.clientX / window.innerWidth) * 2 - 1,
+        -(event.clientY / window.innerHeight) * 2 + 1,
+        0.5
+      );
+      var raycaster = new THREE.Raycaster();
+      raycaster.setFromCamera(mouse3D, camera);
+      var intersects = raycaster.intersectObjects([CLOUDS]);
+
+      if (intersects.length > 0) {
+        intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+      }
+    }
     // Set up the controls
     let controls = new OrbitControls(camera);
     controls.minPolarAngle = 1.52;
@@ -95,9 +138,9 @@ const App = props => {
     controls.zoomSpeed = 0.5;
     controls.maxDistance = 50;
     controls.minDistance = 6;
-    controls.autoRotate = true;
-    controls.autoRotateSpeed = 0.3;
     controls.enablePan = false;
+    // controls.autoRotate = true;
+    // controls.autoRotateSpeed = 0.3;
     controls.update();
 
     let animate = function() {
