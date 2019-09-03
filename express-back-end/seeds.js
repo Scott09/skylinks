@@ -1,5 +1,7 @@
 const airports = require("./db/data/airports.json");
 const routes = require("./db/data/routes.json");
+const airlines = require("./db/data/airlines.json");
+const flights = require("./db/data/flights.json");
 const { Pool } = require("pg");
 require("dotenv").config();
 
@@ -66,3 +68,27 @@ for (let i of routes) {
   }
   resolve(()=>{console.log(`done`)})
 })
+
+const airline_keys = Object.keys(airlines);
+
+
+
+for (const key of airline_keys) {
+  pool.query(
+    `INSERT INTO airlines (iata, name, logo_link, website_link) VALUES ($1, $2, $3, $4)`, [airlines[key].IATA, airlines[key].name, airlines[key].logoLink, airlines[key].website]
+  )
+}
+
+const getRouteByLocations = (departure, arrival) => {
+  return pool.query(`SELECT ID FROM ROUTES WHERE Departure_iata = ${departure} AND Arrival_iata = ${arrival}`)
+}
+
+// loops over flight data and inserts flights. will need to use the getRouteByLocations to find the routeid of the loop
+for (const item of flights) {
+  console.log('HEY WE ARE HERE');
+  pool.query(
+    `INSERT INTO flights (model, route_id, airline_iata) VALUES ($1, $2, $3)`,
+    [item.model, item.route_id, item.airline_iata]
+  )
+}
+
