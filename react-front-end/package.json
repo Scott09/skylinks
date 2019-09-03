@@ -2,6 +2,7 @@
   "name": "react-front-end",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:8080",
   "dependencies": {
     "axios": "^0.18.0",
     "d3-geo": "^1.11.6",
@@ -24,6 +25,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "proxy": "http://localhost:8080"
+  ]
 }
