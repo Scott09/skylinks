@@ -1,0 +1,22 @@
+[
+  {
+    "model": "B789",
+    "route_id": 5,
+    "airline_iata": "AC"
+  },
+  {
+    "model": "B789",
+    "route_id": 10,
+    "airline_iata": "AC"
+  },
+  {
+    "model": "B789",
+    "route_id": 1,
+    "airline_iata": "AC"
+  },
+  {
+    "model": "B789",
+    "route_id": 100,
+    "airline_iata": "AC"
+  }
+]
