@@ -3,6 +3,8 @@ import axios from "axios";
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import "./App.css";
+import ThreeContainer from "./test/ThreeContainer";
+
 import { EARTH } from "./components/earth.js";
 import { CLOUDS } from "./components/clouds.js";
 import { STARS } from "./components/stars.js";
@@ -53,8 +55,8 @@ const App = props => {
     scene.add(STARS);
 
     /**
-     * return filtered list of airports by name of airport
-     * @param  {} name_of_airport
+     * returns a filtedred list if airports
+     * @param  {} name_of_airport, the of the airport
      * @param  {} list_of_airports
      */
     function filterRoutesByIATA(name_of_airport, list_of_airports) {
@@ -93,12 +95,14 @@ const App = props => {
 
         const curvedLine = new THREE.Line(curve_geometry, curve_material);
         curvedLine.name = `line_${start_iata}_${end_iata}`;
+        curvedLine.start_iata = start_iata;
+        curvedLine.end_iata = end_iata;
         scene.add(curvedLine);
         return curvedLine;
       }
     }
 
-    function routesPerRoutes(airport_name, file_of_routes) {
+    function routesPerAirport(airport_name, file_of_routes) {
       const group = {};
       for (const airport of filterRoutesByIATA(airport_name, file_of_routes)) {
         const start_iata = airport.start_airport;
@@ -113,27 +117,24 @@ const App = props => {
           curve_material,
           lineDetail
         );
-        const lineName = "";
         if (line) {
-          lineName = line.name;
-          group[lineName] = line;
+          group[line.name] = line;
         }
       }
       setLines(group);
       return group;
     }
 
-    routesPerRoutes("YVR", YVR_routes);
+    console.log(routesPerAirport("YVR", YVR_routes));
 
     // console.log(group[0].name);
 
     // Set up interactions with 3d objects
-    document.addEventListener("mousedown", onDocumentMouseDown);
 
     function onDocumentMouseDown(event) {
       event.preventDefault();
       var mouse3D = new THREE.Vector3(
-        (event.clientX / window.innerWidth) * 2 - 1,
+        EARTH(event.clientX / window.innerWidth) * 2 - 1,
         -(event.clientY / window.innerHeight) * 2 + 1,
         0.5
       );
@@ -145,6 +146,7 @@ const App = props => {
         intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
       }
     }
+    // document.addEventListener("mousedown", onDocumentMouseDown);
     // Set up the controls
     let controls = new OrbitControls(camera);
     controls.minPolarAngle = 1.52;
@@ -170,9 +172,10 @@ const App = props => {
   }, []);
 
   return (
-    <div className="App">
+    <>
+      <ThreeContainer />
       <button onClick={fetchData}> Fetch Data </button>
-    </div>
+    </>
   );
 };
 
