@@ -4,7 +4,7 @@ import {
   GLOBE_RADIUS,
   GLOBE_SHININESS,
   GLOBE_BUMPSCALE
-} from "./constants";
+} from "../helpers/constants";
 
 export default scene => {
   const group = new THREE.Group();

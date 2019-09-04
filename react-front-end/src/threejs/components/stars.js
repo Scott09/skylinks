@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import { CURVE_SEGMENTS, GLOBE_RADIUS } from "./constants";
+import { CURVE_SEGMENTS, GLOBE_RADIUS } from "../helpers/constants";
 
 export default scene => {
   const group = new THREE.Group();
