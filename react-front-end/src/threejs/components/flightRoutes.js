@@ -1,6 +1,9 @@
 import * as THREE from "three";
-import YVR_routes from "./YVR_routes.json";
-import airports from "./airports.json";
+
+import YVR_routes from "../../YVR_routes.json";
+import airports from "../../airports.json";
+
+import { coordinateToPosition, getSplineFromCoords } from "../helpers/curve";
 
 export default scene => {
   const group = new THREE.Group();
@@ -67,9 +70,10 @@ export default scene => {
         group[line.name] = line;
       }
     }
-    setLines(group);
     return group;
   }
+
+  group.add(routesPerAirport("YVR", YVR_routes));
 
   scene.add(group);
 

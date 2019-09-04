@@ -1,15 +1,16 @@
 import * as THREE from "three";
-import Earth from "./objects/earth";
+import Earth from "./components/earth";
+import StarsBackGround from "./components/stars";
+import Clouds from "./components/clouds";
+import FlightRoutes from "./components/flightRoutes";
 import GeneralLights from "./GeneralLights";
-import StarsBackGround from "./objects/stars";
-import Clouds from "./objects/clouds";
 
 export default canvas => {
   const clock = new THREE.Clock();
 
   const screenDimensions = {
     width: window.innerWidth,
-    height: canvas.height
+    height: window.innerHeight
   };
 
   const mousePosition = {
@@ -31,9 +32,7 @@ export default canvas => {
 
   function buildRender({ width, height }) {
     const renderer = new THREE.WebGLRenderer({
-      canvas: canvas,
-      antialias: true,
-      alpha: true
+      canvas: canvas
     });
     const DPR = window.devicePixelRatio ? window.devicePixelRatio : 1;
     renderer.setPixelRatio(DPR);
@@ -67,7 +66,8 @@ export default canvas => {
       new Earth(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene),
-      new Clouds(scene)
+      new Clouds(scene),
+      new FlightRoutes(scene)
     ];
 
     return sceneSubjects;
