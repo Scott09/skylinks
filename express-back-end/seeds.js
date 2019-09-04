@@ -1,4 +1,4 @@
-const airports = require("./db/data/airports.json");
+const airport = require("./db/data/airports.json");
 const routes = require("./db/data/routes.json");
 const airlines = require("./db/data/airlines.json");
 const flights = require("./db/data/flights.json");
@@ -23,20 +23,21 @@ pool.connect((error, client) => {
 });
 
 const promise = new Promise((resolve, reject) => {
-  const airport_keys = Object.keys(airports);
-  for (let i of airport_keys) {
-    if (airports[i].iata) {
+  const airports = airport.airports;
+  for (let item of airports) {
+    if (item.iata) {
       pool
         .query(
-          `INSERT INTO airports (iata, name, latitude, longitude, country, city)
-  VALUES ($1, $2, $3, $4, $5, $6)`,
+          `INSERT INTO airports (iata, name, latitude, longitude, countrycode,countryname, city)
+  VALUES ($1, $2, $3, $4, $5, $6, $7)`,
           [
-            airports[i].iata,
-            airports[i].name,
-            airports[i].dd_latitude,
-            airports[i].dd_longitude,
-            "",
-            ""
+            item.iata,
+            item.name,
+            item.latitude,
+            item.longitude,
+            item.countrycode,
+            item.countryname,
+            item.city
           ]
         )
         .catch(err => {
@@ -70,13 +71,15 @@ const promise = new Promise((resolve, reject) => {
 
 
 
-for (const item of airlines) {
+for (const item of airlines.airlines) {
   if (item.iata) {
     pool.query(
-      `INSERT INTO airlines (iata, name) VALUES ($1, $2)`,
+      `INSERT INTO airlines (iata, name, fs, icao) VALUES ($1, $2, $3, $4)`,
       [
         item.iata,
-        item.name
+        item.name,
+        item.fs,
+        item.icao
       ]
     ).catch(err => console.log(err));
   }

@@ -9,7 +9,8 @@ CREATE TABLE airports (
   name VARCHAR(255) NOT NULL,
   latitude DECIMAL NOT NULL,
   longitude DECIMAL NOT NULL,
-  country VARCHAR(255),
+  countrycode VARCHAR(255),
+  countryname VARCHAR(255),
   city VARCHAR(255)
 );
 
@@ -23,7 +24,9 @@ CREATE TABLE routes (
 
 CREATE TABLE airlines (
   iata VARCHAR(255) PRIMARY KEY NOT NULL,
-  name VARCHAR(255) NOT NULL
+  name VARCHAR(255) NOT NULL,
+  fs VARCHAR(255),
+  icao VARCHAR(255)
 );
 
 
