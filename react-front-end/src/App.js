@@ -16,8 +16,9 @@ import airports from "./airports.json";
 
 const App = props => {
   // let [cities, setCity] = useState([]);
+  const [lines, setLines] = useState({});
   const fetchData = () => {
-    axios.get("/api/airpots").then(response => {
+    axios.get("/api/airports").then(response => {
       console.log(response.data);
       // setCity(response.data);
     });
@@ -51,65 +52,81 @@ const App = props => {
     scene.add(CLOUDS);
     scene.add(STARS);
 
-    // const start = coordinateToPosition(VanCoor[0], VanCoor[1], 5);
-    // const end = coordinateToPosition(GZCoor[0], GZCoor[1], 5);
+    /**
+     * return filtered list of airports by name of airport
+     * @param  {} name_of_airport
+     * @param  {} list_of_airports
+     */
+    function filterRoutesByIATA(name_of_airport, list_of_airports) {
+      let filteredAirports = list_of_airports.filter(function(airport) {
+        return airport.start_airport === name_of_airport;
+      });
+      return filteredAirports;
+    }
 
-    // let geometry_place = new THREE.SphereGeometry(0.05, 32, 32);
-    // let mat_place = new THREE.MeshPhongMaterial({
-    //   color: 0xff0000,
-    //   specular: new THREE.Color("red")
-    // });
-    // let sphere_place1 = new THREE.Mesh(geometry_place, mat_place);
-    // let sphere_place2 = new THREE.Mesh(geometry_place, mat_place);
-    // sphere_place1.position.set(start.x, start.y, start.z);
-    // sphere_place2.position.set(end.x, end.y, end.z);
-    // scene.add(sphere_place1);
-    // scene.add(sphere_place2);
-
-    // Set up random flight paths
-    // const random_num = Math.floor(Math.random() * data.length - 1000);
-    // for (let i = random_num; i < random_num + 100; i += 2) {
-    //   const start = data[i];
-    //   const end = data[i + 1];
-    //   const startCoor = [start.dd_latitude, start.dd_longitude];
-    //   const endCoor = [end.dd_latitude, end.dd_longitude];
-    //   const { spline } = getSplineFromCoords(startCoor, endCoor);
-    //   const points = spline.getPoints(32);
-    //   const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
-    //   const curve_material = new THREE.LineBasicMaterial({ color: 0xffffff });
-    //   const curveObject = new THREE.Line(curve_geometry, curve_material);
-    //   scene.add(curveObject);
-    // }
-
-    // YVR routes only
-    for (let i of YVR_routes) {
-      if (i.start_airport === "YVR") {
-        const start_iata = i.start_airport;
-        const end_iata = i.destination_airport;
-        if (airports[start_iata] && airports[end_iata]) {
-          const start = [
-            airports[start_iata].dd_latitude,
-            airports[start_iata].dd_longitude
-          ];
-          const end = [
-            airports[end_iata].dd_latitude,
-            airports[end_iata].dd_longitude
-          ];
-          const startCoor = [start[0], start[1]];
-          const endCoor = [end[0], end[1]];
-          const { spline } = getSplineFromCoords(startCoor, endCoor);
-          const points = spline.getPoints(32);
-          const curve_geometry = new THREE.BufferGeometry().setFromPoints(
-            points
-          );
-          const curve_material = new THREE.LineBasicMaterial({
-            color: 0xffffff
-          });
-          const curveObject = new THREE.Line(curve_geometry, curve_material);
-          scene.add(curveObject);
-        }
+    function validRoute(start_iata, end_iata) {
+      if (airports[start_iata] && airports[end_iata]) {
+        return true;
       }
     }
+
+    function makeLineInstance(
+      start_iata,
+      end_iata,
+      curve_material,
+      lineDetail
+    ) {
+      if (validRoute(start_iata, end_iata)) {
+        const start = [
+          airports[start_iata].dd_latitude,
+          airports[start_iata].dd_longitude
+        ];
+        const end = [
+          airports[end_iata].dd_latitude,
+          airports[end_iata].dd_longitude
+        ];
+        const startCoor = [...start];
+        const endCoor = [...end];
+        const { spline } = getSplineFromCoords(startCoor, endCoor);
+        const points = spline.getPoints(lineDetail);
+        const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
+
+        const curvedLine = new THREE.Line(curve_geometry, curve_material);
+        curvedLine.name = `line_${start_iata}_${end_iata}`;
+        scene.add(curvedLine);
+        return curvedLine;
+      }
+    }
+
+    function routesPerRoutes(airport_name, file_of_routes) {
+      const group = {};
+      for (const airport of filterRoutesByIATA(airport_name, file_of_routes)) {
+        const start_iata = airport.start_airport;
+        const end_iata = airport.destination_airport;
+        const curve_material = new THREE.LineBasicMaterial({
+          color: 0xffffff
+        });
+        const lineDetail = 32;
+        const line = makeLineInstance(
+          start_iata,
+          end_iata,
+          curve_material,
+          lineDetail
+        );
+        const lineName = "";
+        if (line) {
+          lineName = line.name;
+          group[lineName] = line;
+        }
+      }
+      setLines(group);
+      return group;
+    }
+
+    routesPerRoutes("YVR", YVR_routes);
+
+    // console.log(group[0].name);
+
     // Set up interactions with 3d objects
     document.addEventListener("mousedown", onDocumentMouseDown);
 
@@ -154,7 +171,7 @@ const App = props => {
 
   return (
     <div className="App">
-      <button onClick={fetchData}>Fetch Data</button>
+      <button onClick={fetchData}> Fetch Data </button>
     </div>
   );
 };
