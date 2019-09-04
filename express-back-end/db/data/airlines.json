@@ -205,8 +205,8 @@
   "Aerovista": {
     "name": "Aerovista Aircraft Leasing",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aerovista_Corporate_Identity.png/200px-Aerovista_Corporate_Identity.png",
-    "IATA": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "Callsign": "",
     "hubs": [
       {
         "name": "UAE",
@@ -374,9 +374,9 @@
   },
   "Air_Southwest_(Canada)": {
     "name": "Air Southwest",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Chilliwack Airport",
@@ -475,7 +475,7 @@
   "AirClass_Airways": {
     "name": "AirClass Airways",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/AIRCLASSAIRWAYS.JPG/250px-AIRCLASSAIRWAYS.JPG",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "VSG",
     "Callsign": "VISIG",
     "hubs": [
@@ -583,7 +583,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/be/Air_Liberte.svg/250px-Air_Liberte.svg.png",
     "IATA": "IJ",
     "ICAO": "LIB",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [],
     "website": "http://web.archive.org/web/*/http://www.airliberte.fr"
   },
@@ -742,7 +742,7 @@
     "name": "Air Service Gabon",
     "IATA": "X7",
     "ICAO": "AGB",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Libreville International Airport",
@@ -1167,9 +1167,9 @@
   },
   "Air_West": {
     "name": "Air West",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AWZ",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Khartoum International Airport",
@@ -1323,7 +1323,7 @@
   "Air_Memphis": {
     "name": "Air Memphis",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/45/Air_Memphis_logo.svg/250px-Air_Memphis_logo.svg.png",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "MHS[1]",
     "Callsign": "AIR MEMPHIS[1]",
     "hubs": [
@@ -1366,9 +1366,9 @@
   },
   "Air_Max_Africa": {
     "name": "Air Max Africa",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AZX",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Libreville International Airport",
@@ -1492,7 +1492,7 @@
   "Abaet%C3%A9_Linhas_A%C3%A9reas": {
     "name": "Abaeté Linhas Aéreas S/A",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/5/51/Abaet%C3%A9_Linhas_A%C3%A9reas_logo.png",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "ABJ",
     "hubs": [],
     "website": "http://www.abaete.com.br/"
@@ -1500,7 +1500,7 @@
   "Alberta_Citylink": {
     "name": "Alberta Citylink",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/43/Alberta_City_Link_Logo.svg/100px-Alberta_City_Link_Logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ABK",
     "Callsign": "ALBERTA CITYLINK",
     "hubs": [
@@ -1512,7 +1512,7 @@
   },
   "APSA_Colombia": {
     "name": "AeroExpreso Bogotá",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ABO",
     "Callsign": "AEROEXPRESO",
     "hubs": [
@@ -1571,7 +1571,7 @@
   "ATA_Brasil": {
     "name": "ATA Brasil",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/ATA_Brasil_logo.svg/200px-ATA_Brasil_logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ABZ",
     "Callsign": "ATA Brasil",
     "hubs": [
@@ -1616,7 +1616,7 @@
   "Antonov_Airlines": {
     "name": "Antonov Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/7/7f/AntonovAirlineslogo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ADB",
     "Callsign": "ANTONOV BUREAU",
     "hubs": [
@@ -1643,7 +1643,7 @@
   },
   "Audeli_Air": {
     "name": "Audeli (Gestair Airlines)",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ADI",
     "Callsign": "AUDELI",
     "hubs": [],
@@ -1929,7 +1929,7 @@
   },
   "Auvia_Air": {
     "name": "Auvia Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "UVT",
     "Callsign": "AUVIA",
     "hubs": []
@@ -2017,7 +2017,7 @@
   },
   "Angola_Air_Charter": {
     "name": "Angola Air Charter",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AGO",
     "Callsign": "ANGOLA CHARTER",
     "hubs": [
@@ -2044,7 +2044,7 @@
   "Aviogenex": {
     "name": "Aviogenex",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/f/f9/AvioGENEX.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AGX",
     "Callsign": "GENEX",
     "hubs": [],
@@ -2105,7 +2105,7 @@
   },
   "Azal_Avia_Cargo": {
     "name": "Azal Avia Cargo",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AHC",
     "Callsign": "AZALAVIACARGO",
     "hubs": [
@@ -2117,7 +2117,7 @@
   },
   "ABC_Air_Hungary": {
     "name": "ABC Air Hungary",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "AHU",
     "Callsign": "ABC HUNGARY",
     "hubs": []
@@ -2191,7 +2191,7 @@
   "African_International_Airways": {
     "name": "African International Airways",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/0a/Africanialogo.jpg/155px-Africanialogo.jpg",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "AIN",
     "Callsign": "FLY CARGO",
     "hubs": [
@@ -2248,7 +2248,7 @@
   "Airest": {
     "name": "Airest",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2f/Airest_Cargo_Aviation_Partner_logo_and_slogan.png/250px-Airest_Cargo_Aviation_Partner_logo_and_slogan.png",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "AEG",
     "Callsign": "AIREST CARGO",
     "hubs": [],
@@ -2256,7 +2256,7 @@
   },
   "Aircruising_Australia": {
     "name": "Aircruising Australia",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AIX",
     "Callsign": "CRUISER",
     "hubs": [
@@ -2278,7 +2278,7 @@
   },
   "Aero_Jet_Express": {
     "name": "Aero Jet Express",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AJE",
     "Callsign": "JET EXPRESS",
     "hubs": []
@@ -2389,7 +2389,7 @@
   "Alkan_Air": {
     "name": "Alkan Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/37/Alkan_Air_logo.png/250px-Alkan_Air_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AKN",
     "Callsign": "ALKAN AIR",
     "hubs": [],
@@ -2431,7 +2431,7 @@
   },
   "ACM_Air_Charter": {
     "name": "ACM Air Charter",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BVR",
     "Callsign": "BAVARIAN",
     "hubs": [],
@@ -2495,7 +2495,7 @@
   "Amerer_Air": {
     "name": "Amerer Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c4/Amerer_Air_logo.png/250px-Amerer_Air_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AMK",
     "Callsign": "AMER AIR",
     "hubs": [
@@ -2561,7 +2561,7 @@
   "AeroBratsk": {
     "name": "AeroBratsk\nАэроБратск",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Aerobratsk_logo.svg/250px-Aerobratsk_logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BRP",
     "Callsign": "AEROBRA",
     "hubs": [
@@ -2629,15 +2629,15 @@
   },
   "Aviaci%C3%B3n_del_Noroeste": {
     "name": "Aviación del Noroeste",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": []
   },
   "Aerolimousine": {
     "name": "Aerolimousine\nАэролимузин",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Aerolimousine_logo.gif/164px-Aerolimousine_logo.gif",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LIN",
     "Callsign": "AEROLIMOUSINE",
     "hubs": [
@@ -2669,7 +2669,7 @@
   },
   "Aero_Rent": {
     "name": "Aero Rent\nОАО «АЭРО РЕНТ»",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "NRO [1]",
     "Callsign": "AEROMASTER [1]",
     "hubs": [
@@ -2707,7 +2707,7 @@
   "Aeropro": {
     "name": "Aeropro",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/42/Aeropro_Business_Charter_Logo.gif/250px-Aeropro_Business_Charter_Logo.gif",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "APO",
     "Callsign": "AEROPRO",
     "hubs": [
@@ -2741,7 +2741,7 @@
   "AirQuarius_Aviation": {
     "name": "AirQuarius Aviation",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/44/Airquariusavi.jpg/250px-Airquariusavi.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AQU",
     "Callsign": "QUARIUS",
     "hubs": [
@@ -2818,7 +2818,7 @@
   },
   "Aria_(French_airline)": {
     "name": "Aria",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ARW",
     "Callsign": "ARIABIRD",
     "hubs": [
@@ -2888,7 +2888,7 @@
   "Aero_Slovakia": {
     "name": "Aero Slovakia",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/9d/Aeroslovakia.gif/250px-Aeroslovakia.gif",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ASO",
     "Callsign": "AERO NITRA",
     "hubs": [],
@@ -2910,7 +2910,7 @@
     "name": "Aero-Tropics Air Services",
     "IATA": "HC",
     "ICAO": "ATI",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Horn Island Airport",
@@ -2921,7 +2921,7 @@
   },
   "AeroTACA": {
     "name": "AeroTACA",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ATK",
     "Callsign": "AEROTACA",
     "hubs": [
@@ -2957,7 +2957,7 @@
   "Avanti_Air": {
     "name": "Avanti Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8c/Avanti_air-logo.png/250px-Avanti_air-logo.png",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "ATV",
     "Callsign": "AVANTI AIR",
     "hubs": [
@@ -3075,7 +3075,7 @@
   "Aviation_Beauport_Ltd": {
     "name": "Aviation Beauport",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aviation_Beauport_Staff_and_aircraft_at_Jersey_airport.jpg/250px-Aviation_Beauport_Staff_and_aircraft_at_Jersey_airport.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AVB",
     "Callsign": "BEAUPAIR",
     "hubs": [],
@@ -3136,7 +3136,7 @@
   "Arab_Wings": {
     "name": "Air Arabia Jordan",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/a/a2/Arab_wings_logo.gif",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AWS",
     "Callsign": "ARAB WINGS",
     "hubs": [],
@@ -3195,7 +3195,7 @@
   "Alexandair": {
     "name": "Alexandair",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AXN",
     "Callsign": "ALEXANDROS",
     "hubs": [
@@ -3267,7 +3267,7 @@
   "Atlantic_Airlines_(United_Kingdom)": {
     "name": "Atlantic Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/West_atlantic_logo.svg/300px-West_atlantic_logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "NPT",
     "Callsign": "NEPTUNE",
     "hubs": [],
@@ -3283,7 +3283,7 @@
   "Ayit_Aviation_and_Tourism": {
     "name": "Ayit Aviation\nעיט שירותי תעופה ותיירות",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Ayitaviation.jpg/250px-Ayitaviation.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AYT",
     "Callsign": "AYIT",
     "hubs": [
@@ -3355,14 +3355,14 @@
   },
   "Africa_One": {
     "name": "Africa One",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CFR",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": []
   },
   "Azov_Avia_Airlines": {
     "name": "Azov Avia Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AZV",
     "Callsign": "AZOV AVIA",
     "hubs": []
@@ -3383,7 +3383,7 @@
   },
   "Azza_Transport": {
     "name": "Azza Transport",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AZZ",
     "Callsign": "AZZA TRANSPORT",
     "hubs": []
@@ -3527,7 +3527,7 @@
   },
   "Aero_Ejecutivos": {
     "name": "Aeroejecutivos",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "VEJ",
     "Callsign": "VENEJECUTIV",
     "hubs": [
@@ -3547,7 +3547,7 @@
   "Aeronaves_TSM": {
     "name": "Aeronaves TSM",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/9b/Aeronaves_TSM_Logo.jpg/250px-Aeronaves_TSM_Logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "VTM",
     "Callsign": "Aeronaves",
     "hubs": [
@@ -3608,7 +3608,7 @@
   "Air_Midwest_(Nigeria)": {
     "name": "Air Midwest",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5d/Airmidwestnigeria.jpg/201px-Airmidwestnigeria.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "VTY",
     "Callsign": "VICTORY",
     "hubs": [],
@@ -3648,7 +3648,7 @@
   },
   "Airwaves_Airlink": {
     "name": "Airwaves Airlink",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "WLA",
     "Callsign": "AIRLIMITED",
     "hubs": []
@@ -3670,7 +3670,7 @@
   "ARP_410_Airlines": {
     "name": "ARP 410 Airlines\nАвіакомпанія «ARP 410»",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "URP",
     "Callsign": "AIR-ARP",
     "hubs": [],
@@ -3679,7 +3679,7 @@
   "Aurora_Airlines": {
     "name": "Aurora Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/a5/Aurora_Airlines_logo.png/250px-Aurora_Airlines_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "URR",
     "Callsign": "AIR AURORA",
     "hubs": [
@@ -3856,7 +3856,7 @@
   "Aerocardal": {
     "name": "AeroCardal",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/f/f4/Aerocardal.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CDA",
     "Callsign": "AEROCARDAL",
     "hubs": [
@@ -3883,7 +3883,7 @@
   },
   "Aerofan": {
     "name": "Aerofan",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CFF",
     "Callsign": "Aerofan",
     "hubs": [
@@ -4157,7 +4157,7 @@
   "Aerodavinci": {
     "name": "Aero Davinci",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/72/LogoAeroDaVinci2.png/250px-LogoAeroDaVinci2.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "DVI",
     "Callsign": "AERO DAVINCI",
     "hubs": [
@@ -4390,7 +4390,7 @@
   },
   "Aeron%C3%A1utica_(Angola)": {
     "name": "Aeronáutica",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GGL",
     "Callsign": "GIRA GLOBO",
     "hubs": [
@@ -4458,7 +4458,7 @@
   "Air_Scotland": {
     "name": "Air Scotland",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/e/e6/AirScotland.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GRE",
     "Callsign": "GREECE AIRWAYS",
     "hubs": []
@@ -4479,9 +4479,9 @@
   },
   "Agroar_Carga_A%C3%A9rea": {
     "name": "Agroar Carga Aérea",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GRR",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [],
     "website": "https://web.archive.org/web/20080314203636/http://www.agroar.pt/"
   },
@@ -4570,7 +4570,7 @@
   },
   "Al_Rais_Cargo": {
     "name": "Al Rais Cargo\nالريس للشحن",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "HJT",
     "Callsign": "AL-RAIS CARGO",
     "hubs": [
@@ -4584,7 +4584,7 @@
   "Air_Tahoma": {
     "name": "Air Tahoma",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8a/Air_Tahoma_logo.png/200px-Air_Tahoma_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "HMA",
     "Callsign": "TAHOMA",
     "hubs": [
@@ -4626,7 +4626,7 @@
   },
   "Aria_Air": {
     "name": "Aria Air\nهواپیمایی آریا",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "IRX",
     "Callsign": "ARIA",
     "hubs": [],
@@ -4857,9 +4857,9 @@
   },
   "Aerol%C3%ADneas_Ejecutivas": {
     "name": "Aerolíneas Ejecutivas",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LET",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Toluca",
@@ -4894,7 +4894,7 @@
   },
   "Al-Dawood_Air": {
     "name": "Al-Dawood Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LIE",
     "Callsign": "AL-DAWOOD AIR",
     "hubs": [
@@ -4982,7 +4982,7 @@
   "Alrosa-Avia": {
     "name": "Alrosa Avia\nАлроса-Авиа",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/4b/Alrosa-Avia_logo.jpg/150px-Alrosa-Avia_logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LRO",
     "Callsign": "ALROSA",
     "hubs": [
@@ -4995,7 +4995,7 @@
   },
   "Al_Rida_Airways": {
     "name": "Al Rida Airways",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LRW",
     "Callsign": "AL RIDA",
     "hubs": []
@@ -5003,7 +5003,7 @@
   "Aurela": {
     "name": "Aurela",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aurela_logo.svg/250px-Aurela_logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LSK",
     "Callsign": "AURELA",
     "hubs": [
@@ -5018,7 +5018,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/a/ae/Atlantis_European_Airways_logo.png",
     "IATA": "TD",
     "ICAO": "LUR",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [],
     "website": "http://atlantis.am/"
   },
@@ -5051,7 +5051,7 @@
   },
   "Apatas_Air": {
     "name": "Apatas Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LYT",
     "Callsign": "APATAS",
     "hubs": [
@@ -5232,7 +5232,7 @@
   },
   "Aerom%C3%A1s": {
     "name": "Aeromás",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MSM",
     "Callsign": "AEROMAS EXPRESS",
     "hubs": [
@@ -5329,7 +5329,7 @@
   },
   "Avial_NV": {
     "name": "Avial NV\nАвиаль НВ",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "NVI",
     "Callsign": "NEW AVIAL",
     "hubs": []
@@ -5391,7 +5391,7 @@
   },
   "Aeropostal_Cargo_de_M%C3%A9xico": {
     "name": "Aeropostal Cargo de Mexico",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "PCG",
     "Callsign": "POSTAL CARGO",
     "hubs": [],
@@ -5408,7 +5408,7 @@
   },
   "Pakistan_Airways": {
     "name": "Pakistan Airways",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "PKA",
     "Callsign": "PAKISTAN AIRWAY",
     "hubs": [
@@ -5460,7 +5460,7 @@
   },
   "Alada": {
     "name": "Alada",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RAD",
     "Callsign": "AIR ALADA",
     "hubs": [
@@ -5472,7 +5472,7 @@
   },
   "Aerotur-KZ_Airlines": {
     "name": "Aerotur Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RAI",
     "Callsign": "DIASA",
     "hubs": []
@@ -5518,7 +5518,7 @@
   },
   "Aero_Africa": {
     "name": "Aero Africa",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RFC",
     "Callsign": "AERO AFRICA",
     "hubs": []
@@ -5592,7 +5592,7 @@
   },
   "Air_Leone": {
     "name": "Air Leone",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RLL",
     "Callsign": "AEROLEONE",
     "hubs": []
@@ -5678,7 +5678,7 @@
   "JeTran_Air": {
     "name": "JeTran Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/82/JeTran_Air_logo.jpg/175px-JeTran_Air_logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MDJ",
     "Callsign": "JETRAN AIR",
     "hubs": [
@@ -5731,7 +5731,7 @@
   "Air_Rum": {
     "name": "Air Rum",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/b/bc/Air_Rum_logo.gif",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RUM",
     "Callsign": "AIR RUM",
     "hubs": [
@@ -5788,7 +5788,7 @@
   "Associated_Aviation": {
     "name": "Associated Aviation",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/22/Associatedavi.jpg/250px-Associatedavi.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "SCD",
     "Callsign": "ASSOCIATED",
     "hubs": [
@@ -5928,7 +5928,7 @@
   },
   "Air_Tomisko": {
     "name": "Air Tomisko",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "TOH",
     "Callsign": "TOMISKO CARGO",
     "hubs": []
@@ -5949,7 +5949,7 @@
   },
   "Aero_Tropical": {
     "name": "Aero Tropical",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "TPB",
     "Callsign": "AERO TROPICAL",
     "hubs": []
@@ -6006,7 +6006,7 @@
   "Airtransse": {
     "name": "airtransse",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8d/Airtranssee06jp.jpg/200px-Airtranssee06jp.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "TSQ",
     "Callsign": "AIRTRA",
     "hubs": [
@@ -6039,7 +6039,7 @@
   "Aerostar_Airlines": {
     "name": "Aerostar",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/a/af/Aerostar_Airlines.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "UAR",
     "Callsign": "AEROSTAR",
     "hubs": [
@@ -6086,7 +6086,7 @@
   "AirNet_Express": {
     "name": "AirNet",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AirNet_Logo.png/250px-AirNet_Logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "USC",
     "Callsign": "STAR CHECK",
     "hubs": [
@@ -6245,7 +6245,7 @@
   "Meridian_Airways": {
     "name": "Meridian Airways",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Meridian_Airways_logo.jpg/250px-Meridian_Airways_logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MAG",
     "Callsign": "MERID AIR",
     "hubs": [
@@ -6265,9 +6265,9 @@
   },
   "Air_East": {
     "name": "Air East",
-    "IATA": "–",
-    "ICAO": "–",
-    "Callsign": "–",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Johnstown–Cambria County Airport",
@@ -6278,7 +6278,7 @@
   "Air_Poland": {
     "name": "Air Poland",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/09/Air_Poland_logo.png/250px-Air_Poland_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "AEI",
     "Callsign": "POLISH BIRD",
     "hubs": [],
@@ -6326,7 +6326,7 @@
   "Airpink": {
     "name": "Airpink",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/37/Air_Pink_logo.svg/250px-Air_Pink_logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "PNK",
     "Callsign": "AIR PINK",
     "hubs": [
@@ -6507,7 +6507,7 @@
   },
   "Bluebird_Aviation": {
     "name": "Bluebird Aviation",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "BBZ",
     "Callsign": "COBRA",
     "hubs": [
@@ -6621,7 +6621,7 @@
   },
   "Berkut_Air": {
     "name": "Berkut Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BEC",
     "Callsign": "BEC",
     "hubs": []
@@ -6664,7 +6664,7 @@
   },
   "British_Gulf_International_Airlines": {
     "name": "British Gulf International Company LTD.",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BGI",
     "Callsign": "BRITISH GULF",
     "hubs": [
@@ -6731,7 +6731,7 @@
   },
   "Balkh_Airlines": {
     "name": "Balkh Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BHI",
     "Callsign": "SHARIF",
     "hubs": []
@@ -6774,7 +6774,7 @@
   },
   "Bighorn_Airways": {
     "name": "Bighorn Airways",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BHR",
     "Callsign": "BIGHORN AIR",
     "hubs": [
@@ -6823,7 +6823,7 @@
   "Bin_Air": {
     "name": "Bin Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Bin_Air_logo.png/150px-Bin_Air_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BID[1]",
     "Callsign": "BINAIR[2]",
     "hubs": [],
@@ -6831,7 +6831,7 @@
   },
   "Big_Island_Air": {
     "name": "Big Island Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BIG",
     "Callsign": "BIG ISLE",
     "hubs": [
@@ -6867,7 +6867,7 @@
   "Blink_(airline)": {
     "name": "Blink",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BLNK_POS_RGB.jpg/150px-BLNK_POS_RGB.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BKK",
     "Callsign": "BLINKAIR",
     "hubs": [
@@ -6914,7 +6914,7 @@
   },
   "Blue_Bird_Aviation": {
     "name": "Blue Bird Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BLB",
     "Callsign": "BLUEBIRD SUDAN",
     "hubs": [],
@@ -7038,7 +7038,7 @@
   "Babcock_Mission_Critical_Services_Offshore": {
     "name": "Bond Offshore Helicopters - now Babcock",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/46/Babcock_Logo.png/250px-Babcock_Logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BND",
     "Callsign": "BOND",
     "hubs": [],
@@ -7072,7 +7072,7 @@
   "Bookajet": {
     "name": "Bookajet",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bookajet_Logo_%28White_Rectangle_Low_Res%29.jpg/250px-Bookajet_Logo_%28White_Rectangle_Low_Res%29.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BOO",
     "Callsign": "BOOKJET",
     "hubs": [
@@ -7138,7 +7138,7 @@
   "Budapest_Aircraft_Service": {
     "name": "Budapest Aircraft Service",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/4/47/Budapest_Aircraft_Service_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BPS",
     "Callsign": "BASE",
     "hubs": [
@@ -7165,7 +7165,7 @@
   "Brock_Air_Services": {
     "name": "Brock Air Services",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/c/c0/BrockAirServices.gif",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BRD",
     "Callsign": "BROCK AIR",
     "hubs": [],
@@ -7376,7 +7376,7 @@
   },
   "Baron_Aviation_Services": {
     "name": "Baron Aviation Services",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BVN",
     "Callsign": "SHOW-ME",
     "hubs": [
@@ -7465,7 +7465,7 @@
   "Berry_Aviation": {
     "name": "Berry Aviation",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/cd/Berry_Aviation_Logo.gif/250px-Berry_Aviation_Logo.gif",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BYA",
     "Callsign": "BERRY",
     "hubs": [
@@ -7478,16 +7478,16 @@
   },
   "Berytos_Airlines": {
     "name": "Berytos Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BYR",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [],
     "website": "http://www.berytosairlines.com/"
   },
   "Brit_Air": {
     "name": "Brit Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/4/4a/BritAirlogo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BZH",
     "Callsign": "BRITAIR",
     "hubs": [
@@ -7571,7 +7571,7 @@
   "Burundaiavia": {
     "name": "Burundaiavia",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/c/c9/Burundaiavia_logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BRY",
     "Callsign": "BURAIR",
     "hubs": [],
@@ -7649,7 +7649,7 @@
   },
   "HD_Air_Ltd": {
     "name": "HD Air Ltd",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RPX",
     "Callsign": "RAPEX",
     "hubs": [
@@ -7679,7 +7679,7 @@
   },
   "Blue_Sky_Airlines": {
     "name": "Blue Sky",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "BLM[1]",
     "Callsign": "BLUE ARMENIA[1]",
     "hubs": []
@@ -7788,7 +7788,7 @@
   },
   "CATA_L%C3%ADnea_A%C3%A9rea": {
     "name": "CATA Línea Aérea",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CTZ",
     "Callsign": "CATA",
     "hubs": [
@@ -7825,7 +7825,7 @@
   "CHC_Helikopter_Service": {
     "name": "CHC Helikopter Service",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/0f/Chctitle_new.png/250px-Chctitle_new.png",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "HKS",
     "Callsign": "HELIBUS",
     "hubs": [
@@ -7838,7 +7838,7 @@
   },
   "CSA_Air": {
     "name": "CSA Air, Inc.",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "IRO",
     "Callsign": "IRON AIR",
     "hubs": [
@@ -7863,7 +7863,7 @@
   "Cabo_Verde_Express": {
     "name": "Cabo Verde Express",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/CVE_Logo.jpg/100px-CVE_Logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CVE",
     "Callsign": "KABEX",
     "hubs": [
@@ -8225,7 +8225,7 @@
   },
   "Caribintair": {
     "name": "Caribintair, S.A.",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CRT",
     "Callsign": "CARIBINTAIR",
     "hubs": [
@@ -8256,7 +8256,7 @@
   "Castle_Aviation": {
     "name": "Castle Aviation",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/27/Castle_Aviation_Logo.png/250px-Castle_Aviation_Logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CSJ",
     "Callsign": "CASTLE",
     "hubs": [
@@ -8482,7 +8482,7 @@
   },
   "Chabahar_Airlines": {
     "name": "Chabahar Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "IRU",
     "Callsign": "CHABAHAR",
     "hubs": [],
@@ -8521,7 +8521,7 @@
   },
   "Challenge_Aero": {
     "name": "Challenge Aero",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CHG",
     "Callsign": "SKY CHALLENGER",
     "hubs": [],
@@ -8659,7 +8659,7 @@
   },
   "Chim-Nir_Aviation": {
     "name": "Chim-Nir Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ETN",
     "Callsign": "CHIMNIR",
     "hubs": [
@@ -8744,7 +8744,7 @@
   },
   "China_Flying_Dragon_Aviation": {
     "name": "China Flying Dragon Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CFA",
     "Callsign": "FEILONG",
     "hubs": [
@@ -9025,7 +9025,7 @@
   },
   "Club_328": {
     "name": "Club 328",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "SDJ",
     "Callsign": "SPACEJET",
     "hubs": [
@@ -9240,7 +9240,7 @@
   "Constanta_Airline": {
     "name": "Constanta Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9440737%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP23265.jpg/250px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9440737%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP23265.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "UZA",
     "Callsign": "CONSTANTA",
     "hubs": [
@@ -9366,7 +9366,7 @@
   },
   "Copenhagen_AirTaxi": {
     "name": "Copenhagen Air Taxi",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CAT",
     "Callsign": "AIRCAT",
     "hubs": [],
@@ -9434,7 +9434,7 @@
   "Cougar_Helicopters": {
     "name": "Cougar Helicopters Incorporated",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b8/Cougar_helicopters_logo.png/200px-Cougar_helicopters_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "CHI",
     "Callsign": "COUGAR",
     "hubs": [
@@ -9601,7 +9601,7 @@
   "Delta_Private_Jets": {
     "name": "Delta Private Jets[1]",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5d/Delta_Private_Jets_Logo.png/250px-Delta_Private_Jets_Logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "DPJ",
     "Callsign": "JET CARD",
     "hubs": [
@@ -9622,7 +9622,7 @@
   },
   "DAP_Helic%C3%B3pteros": {
     "name": "DAP Helicópteros",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "DHE",
     "Callsign": "HELIDAP",
     "hubs": [
@@ -9732,7 +9732,7 @@
     "name": "Aero Express del Ecuador",
     "IATA": "L3[1]",
     "ICAO": "JOS",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "La Aurora International Airport",
@@ -9845,7 +9845,7 @@
   "DayJet": {
     "name": "DayJet",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/8/8c/Dayjet.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "DJS",
     "Callsign": "DAYJET",
     "hubs": [
@@ -10028,7 +10028,7 @@
   "Deraya_Air_Taxi": {
     "name": "Deraya Air Taxi",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/3f/Deraya_Air_Taxi_logo.jpg/250px-Deraya_Air_Taxi_logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "DRY",
     "Callsign": "DERAYA",
     "hubs": [
@@ -10048,7 +10048,7 @@
   "Di_Air": {
     "name": "DI Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diair.png/200px-Diair.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "DIS",
     "Callsign": "DI AIR",
     "hubs": [
@@ -10097,7 +10097,7 @@
   "Direct_Fly": {
     "name": "Direct Fly",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Directfly.jpg/130px-Directfly.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "SXP",
     "Callsign": "EXPRESS SKY",
     "hubs": [],
@@ -10236,7 +10236,7 @@
   "Dornier_Aviation_Nigeria": {
     "name": "Dornier Aviation Nigeria",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/16/Dornierana.jpg/78px-Dornierana.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "DAV",
     "Callsign": "DANA AIR",
     "hubs": [
@@ -10402,7 +10402,7 @@
   "Eagle_Air_(Iceland)": {
     "name": "Eagle Air Iceland",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/EagleAir_Iceland_logo.png/177px-EagleAir_Iceland_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FEI",
     "Callsign": "ARCTIC EAGLE",
     "hubs": [
@@ -10415,7 +10415,7 @@
   },
   "Eagle_Air_(Guinea)": {
     "name": "Eagle Air S.A.",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "EGR",
     "Callsign": "EAGLE SIERRA",
     "hubs": [
@@ -10456,7 +10456,7 @@
   },
   "Eagle_Aviation_France": {
     "name": "Eagle Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "EGN",
     "Callsign": "FRENCH EAGLE",
     "hubs": [],
@@ -10464,7 +10464,7 @@
   },
   "Earth_Airlines": {
     "name": "Earth Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ERX",
     "Callsign": "EARTH AIR",
     "hubs": []
@@ -10513,7 +10513,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/da/Sky_Shuttle_logo.png/250px-Sky_Shuttle_logo.png",
     "IATA": "3E",
     "ICAO": "EMU",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [],
     "website": "http://www.skyshuttlehk.com/"
   },
@@ -10640,9 +10640,9 @@
   },
   "Metro_Airlines": {
     "name": "Metro Airlines",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": []
   },
   "Eastern_SkyJets": {
@@ -10696,7 +10696,7 @@
   },
   "Easy_Link_Aviation": {
     "name": "Easy Link Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FYE",
     "Callsign": "FLY ME",
     "hubs": []
@@ -10732,7 +10732,7 @@
   "Air_Efata": {
     "name": "Air Efata",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/3/3a/AirEfataIndonesia.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "EIJ",
     "Callsign": "EFATA",
     "hubs": []
@@ -10754,7 +10754,7 @@
   "EgyptAir_Cargo": {
     "name": "EgyptAir Cargo",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/db/EgyptAir_Cargo_logo.png/270px-EgyptAir_Cargo_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MSX",
     "Callsign": "EGYPTAIR CARGO",
     "hubs": [
@@ -10803,9 +10803,9 @@
   },
   "Elbrus-Avia": {
     "name": "Elbrus-Avia (Эльбрус-авиа)",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "NLK",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [],
     "website": "http://www.elbrus-avia.ru/"
   },
@@ -10888,7 +10888,7 @@
   },
   "Enimex": {
     "name": "Enimex",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ENI",
     "Callsign": "ENIMEX",
     "hubs": [],
@@ -11095,7 +11095,7 @@
   "Eurojet_Romania": {
     "name": "Eurojet Romania",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/5/53/Eurojet_logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RDP",
     "Callsign": "JET-ARROW",
     "hubs": [],
@@ -11139,7 +11139,7 @@
   },
   "European_2000_Airlines": {
     "name": "European 2000 Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "EUT",
     "Callsign": "FIESTA",
     "hubs": [
@@ -11210,7 +11210,7 @@
   },
   "European_Executive": {
     "name": "European Executive",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ETV",
     "Callsign": "EURO EXEC",
     "hubs": [
@@ -11297,7 +11297,7 @@
   },
   "Exin": {
     "name": "Exin",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "EXN",
     "Callsign": "EXIN",
     "hubs": [
@@ -11415,7 +11415,7 @@
   "Falcon_Aviation_Services": {
     "name": "Falcon Aviation Services",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/d/d8/Falcon_Aviation_Services_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FVS",
     "Callsign": "FALCON AVIATION",
     "hubs": [
@@ -11454,7 +11454,7 @@
   },
   "ASL_Airlines_Hungary": {
     "name": "ASL Airlines Hungary",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FAH",
     "Callsign": "BLUE STRIP",
     "hubs": [
@@ -11468,7 +11468,7 @@
   "ASL_Airlines_Switzerland": {
     "name": "ASL Airlines Switzerland AG",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/e/e4/ASLS_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FAT",
     "Callsign": "FARNER",
     "hubs": [
@@ -11524,7 +11524,7 @@
   },
   "Fine_Air": {
     "name": "Fine Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FBF",
     "Callsign": "FINE AIR",
     "hubs": [
@@ -11536,7 +11536,7 @@
   },
   "Finist%27air": {
     "name": "Finist'air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FTR",
     "Callsign": "FINISTAIR",
     "hubs": [],
@@ -11636,7 +11636,7 @@
   },
   "Prima_Charter": {
     "name": "Prima Charter",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FFP",
     "Callsign": "FLYING FISH",
     "hubs": []
@@ -12026,7 +12026,7 @@
   },
   "Freedom_Air_Services": {
     "name": "Freedom Air Services",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FFF",
     "Callsign": "INTER FREEDOM",
     "hubs": [
@@ -12348,7 +12348,7 @@
   },
   "Georgian_Cargo_Airlines_Africa": {
     "name": "Georgian Cargo Airlines Africa",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GGF",
     "Callsign": "GEORGIAN AFRICA",
     "hubs": []
@@ -12483,9 +12483,9 @@
   },
   "Globe_Jet": {
     "name": "Globe Jet",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GJA",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Beirut Rafic Hariri International Airport",
@@ -12615,14 +12615,14 @@
   "Zambia": {
     "name": "Republic of Zambia",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/125px-Flag_of_Zambia.svg.png",
-    "IATA": "\n\n",
-    "ICAO": "\n\n",
+    "IATA": "",
+    "ICAO": "",
     "Callsign": "Flag",
     "hubs": []
   },
   "Grand_Aire_Express": {
     "name": "Grand Aire Express",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GAE",
     "Callsign": "GRAND EXPRESS",
     "hubs": [
@@ -12729,7 +12729,7 @@
   },
   "Guinea_Ecuatorial_Airlines": {
     "name": "Guinea Ecuatorial Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GEA",
     "Callsign": "GEASA",
     "hubs": [
@@ -12908,7 +12908,7 @@
     "name": "Haïti Ambassador Airlines",
     "IATA": "2T",
     "ICAO": "HAM",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": []
   },
   "Ha%C3%AFti_Trans_Air": {
@@ -12948,7 +12948,7 @@
   "Hangar8_plc": {
     "name": "Hangar8",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Hangar_8_Plc.jpg/250px-Hangar_8_Plc.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "HGR",
     "Callsign": "HANG",
     "hubs": [],
@@ -13099,7 +13099,7 @@
   },
   "Heli_Air_Services": {
     "name": "Heli Air Services",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "HLR",
     "Callsign": "HELI BULGARIA",
     "hubs": [
@@ -13139,7 +13139,7 @@
   "Heliswiss": {
     "name": "Heliswiss",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e8/Heliswiss_logo.svg/250px-Heliswiss_logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "HSI",
     "Callsign": "HELISWISS",
     "hubs": [],
@@ -13307,7 +13307,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/1/1a/HolidayAirlines.jpg",
     "IATA": "HW",
     "ICAO": "HLD",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": []
   },
   "Holidays_Czech_Airlines": {
@@ -13493,7 +13493,7 @@
   "Ibertrans_A%C3%A9rea": {
     "name": "Ibertrans Aérea",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/9/94/Ibertranslogo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "IBT",
     "Callsign": "IBERTRANS",
     "hubs": [
@@ -13524,7 +13524,7 @@
   },
   "Icar_Air": {
     "name": "Icar Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "RAC",
     "Callsign": "TUZLA AIR",
     "hubs": []
@@ -13554,7 +13554,7 @@
   "Illich-Avia": {
     "name": "Illich-Avia \"Ілліч-Авіа\"",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/0/05/Ilicha-Logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "ILL",
     "Callsign": "ILLICHAVIA",
     "hubs": [
@@ -13920,9 +13920,9 @@
   "Island_Air_Charters": {
     "name": "Island Air Charters",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/1/11/Island_Air_logo.jpg",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": [],
     "website": "http://www.islandair.co.nz/"
   },
@@ -14130,7 +14130,7 @@
   "JALways": {
     "name": "JALways\n株式会社ジャルウェイズ\nKabushiki-gaisha Jaruweizu",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5b/JALways_logo.png/200px-JALways_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "JAZ",
     "Callsign": "JALWAYS",
     "hubs": [
@@ -14163,7 +14163,7 @@
   },
   "Janet_(airline)": {
     "name": "Janet NSA",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "WWW",
     "Callsign": "JANET",
     "hubs": [
@@ -14376,7 +14376,7 @@
   "Jet-2000": {
     "name": "Jet-2000 Business Jets\nООО \"Авиакомпания Джет-2000\"",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/9/9e/Jet-2000_Business_Jets_logo.gif",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "JTT [1]",
     "Callsign": "MOSCOW JET [1]",
     "hubs": [],
@@ -14448,7 +14448,7 @@
   "Jetalliance": {
     "name": "Jetalliance Flugbetriebs GesmbH",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/76/Jetalliance_logo.svg/300px-Jetalliance_logo.svg.png",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "JAG",
     "Callsign": "JETALLIANCE",
     "hubs": [
@@ -14473,7 +14473,7 @@
   "Toll_Global_Express": {
     "name": "Toll Global ExpressToll Aviation",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/6/61/Toll_Holdings_Logo_2012.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "TFX",
     "Callsign": "TOLL EXPRESS",
     "hubs": [
@@ -14585,7 +14585,7 @@
   },
   "Johnsons_Air": {
     "name": "Johnsons Air",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "JON",
     "Callsign": "Johnsons Air[1]",
     "hubs": []
@@ -14609,7 +14609,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/f1/JIAC_logo.gif/300px-JIAC_logo.gif",
     "IATA": "J4",
     "ICAO": "JCI",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Marka International Airport",
@@ -15036,7 +15036,7 @@
   },
   "Keystone_Air_Service": {
     "name": "Keystone Air Service Ltd",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "KEE",
     "Callsign": "KEYSTONE",
     "hubs": [
@@ -15077,7 +15077,7 @@
   },
   "Khyber_Afghan_Airlines": {
     "name": "Khyber Afghan Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "KHY[1]",
     "Callsign": "KHYBER",
     "hubs": [
@@ -15110,7 +15110,7 @@
   },
   "Kinshasa_Airways": {
     "name": "Kinshasa Airways",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "KNS",
     "Callsign": "KINSHASA AIRWAYS",
     "hubs": [
@@ -15149,9 +15149,9 @@
   },
   "Kitty_Hawk_Airways": {
     "name": "Kitty Hawks Airways",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": []
   },
   "Kiwi_Regional_Airlines": {
@@ -15237,7 +15237,7 @@
   },
   "Kosmos_Airlines": {
     "name": "Kosmos Airlines\nProduction Association",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "KSM",
     "Callsign": "KOSMOS",
     "hubs": [
@@ -15251,9 +15251,9 @@
   "Kosova_Airlines": {
     "name": "Kosova Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/2/2c/Kosova_Airlines_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "KOS",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Pristina International Airport",
@@ -15343,7 +15343,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/20px-Flag_of_Kyrgyzstan.svg.png",
     "IATA": "6K",
     "ICAO": "KTC",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": [
       {
         "name": "Manas International Airport",
@@ -15377,9 +15377,9 @@
   "Logistic_Air": {
     "name": "Logistic Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/38/Logistic_Air_Logo.png/250px-Logistic_Air_Logo.png",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": [],
     "website": "http://www.logisticair.com"
   },
@@ -15684,7 +15684,7 @@
   "LUKoil-Avia": {
     "name": "LLC \"LUKoil-Avia\"\nООО «ЛУКойл-Авиа»",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/8/86/LUKoil-Avia_logo.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LUK[1]",
     "Callsign": "LUKOIL[1]",
     "hubs": [
@@ -15899,7 +15899,7 @@
   },
   "Libyan_Arab_Air_Cargo": {
     "name": "Libyan Arab Air Cargo",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LCR",
     "Callsign": "LIBAC",
     "hubs": []
@@ -15919,7 +15919,7 @@
   },
   "Lina_Congo": {
     "name": "Lina Congo",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "GCB",
     "Callsign": "LINACONGO",
     "hubs": []
@@ -15927,7 +15927,7 @@
   "L%C3%ADnea_Tur%C3%ADstica_Aereotuy": {
     "name": "Línea Turística Aereotuy",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/5/5e/L%C3%ADnea_Tur%C3%ADstica_Aereotuy_logo.png",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "TUY",
     "Callsign": "AEREOTUY",
     "hubs": [
@@ -15961,7 +15961,7 @@
   },
   "L%C3%ADneas_A%C3%A9reas_Federales": {
     "name": "Líneas Aéreas Federales",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "FED",
     "Callsign": "FEDERALES",
     "hubs": []
@@ -16067,7 +16067,7 @@
   },
   "London_Executive_Aviation": {
     "name": "London Executive Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LNX",
     "Callsign": "LONEX",
     "hubs": [],
@@ -16087,7 +16087,7 @@
   },
   "Longtail_Aviation": {
     "name": "Longtail Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LGT",
     "Callsign": "LONGTAIL",
     "hubs": [
@@ -16245,14 +16245,14 @@
   },
   "Luxor_Air": {
     "name": "Luxor Air",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "LXO",
-    "Callsign": "–",
+    "Callsign": "",
     "hubs": []
   },
   "Luzair": {
     "name": "Luzair",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LUZ",
     "Callsign": "LISBON JET",
     "hubs": [
@@ -16278,7 +16278,7 @@
   "LyddAir": {
     "name": "LyddAir",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1c/Lydd_air_logo.svg/200px-Lydd_air_logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LYD",
     "Callsign": "LYDDAIR",
     "hubs": [],
@@ -16300,7 +16300,7 @@
   },
   "Lynx_Air_International": {
     "name": "Lynx Air International",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "LXF",
     "Callsign": "LYNX FLIGHT",
     "hubs": [
@@ -16523,7 +16523,7 @@
   },
   "Magic_Blue_Airlines": {
     "name": "Magic Blue Airlines",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MJB",
     "Callsign": "Magic Blue",
     "hubs": []
@@ -16580,7 +16580,7 @@
   "Mali_Air_Express": {
     "name": "Mali Air Express",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "VXP",
     "hubs": [
       {
@@ -16605,7 +16605,7 @@
   "Malift_Air": {
     "name": "Malift Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/ee/Malift.png/200px-Malift.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MLC",
     "Callsign": "MALILA",
     "hubs": [
@@ -16619,8 +16619,8 @@
     "name": "Mall Airways",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/b/b7/Mallairways.jpg",
     "IATA": "FH",
-    "ICAO": "-",
-    "Callsign": "-",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": []
   },
   "Braathens_Regional_Aviation": {
@@ -16727,7 +16727,7 @@
   },
   "MarcoPolo_Airways": {
     "name": "MarcoPolo Airways",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MCP[1]",
     "Callsign": "MARCOPOLO",
     "hubs": []
@@ -16798,7 +16798,7 @@
   },
   "Martinaire": {
     "name": "Martinaire",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MRA",
     "Callsign": "MARTEX",
     "hubs": [
@@ -16857,7 +16857,7 @@
   "Maximus_Air_Cargo": {
     "name": "Maximus Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Maximus_Air_Cargo_Antonov_An-124-100_Vanzura.jpg/250px-Maximus_Air_Cargo_Antonov_An-124-100_Vanzura.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MXU",
     "Callsign": "CARGO MAX",
     "hubs": [
@@ -16918,7 +16918,7 @@
   },
   "Mediterranean_Air_Freight": {
     "name": "Mediterranean Air Freight",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MDF",
     "Callsign": "MED-FREIGHT",
     "hubs": [
@@ -16931,7 +16931,7 @@
   "Mega_Aircompany": {
     "name": "Mega Aircompany",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/b/b4/Megaairlogo.PNG",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MGK",
     "Callsign": "MEGLA",
     "hubs": [
@@ -16966,14 +16966,14 @@
   },
   "Pacific_American_Airlines": {
     "name": "Pacific American Airlines",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": []
   },
   "Merchant_Express_Aviation": {
     "name": "Merchant Express Aviation",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MXX",
     "Callsign": "Merchant",
     "hubs": []
@@ -17000,7 +17000,7 @@
   },
   "Merlin_Airways": {
     "name": "Merlin Airways",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MEI",
     "Callsign": "AVALON",
     "hubs": [
@@ -17095,7 +17095,7 @@
   "Meta_Linhas_A%C3%A9reas": {
     "name": "Meta Linhas Aéreas",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/e/e0/Meta_Linhas_A%C3%A9reas_logo.jpg",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "MSQ",
     "Callsign": "META",
     "hubs": [],
@@ -17103,7 +17103,7 @@
   },
   "Metrojet_Ltd.": {
     "name": "Metrojet Ltd.",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "MTJ",
     "Callsign": "METROJET",
     "hubs": [
@@ -17257,9 +17257,9 @@
   },
   "Midwest_Aviation": {
     "name": "Midwest Aviation",
-    "IATA": "-",
-    "ICAO": "-",
-    "Callsign": "-",
+    "IATA": "",
+    "ICAO": "",
+    "Callsign": "",
     "hubs": []
   },
   "Mihin_Lanka": {
@@ -17317,7 +17317,7 @@
     "name": "Misr Overseas Airways",
     "IATA": "MO",
     "ICAO": "MOS",
-    "Callsign": "-",
+    "Callsign": "",
     "hubs": []
   },
   "Mississippi_State_University": {
@@ -17342,7 +17342,7 @@
   },
   "Mo%C3%A7ambique_Expresso": {
     "name": "Moçambique Expresso",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MXE",
     "Callsign": "MOZAMBIQUE EXPRESS",
     "hubs": [
@@ -17390,14 +17390,14 @@
   "Moldova": {
     "name": "Republic of Moldova",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/125px-Flag_of_Moldova.svg.png",
-    "IATA": "\n\n",
-    "ICAO": "\n\n",
+    "IATA": "",
+    "ICAO": "",
     "Callsign": "Flag",
     "hubs": []
   },
   "Mombasa_Air_Safari": {
     "name": "Mombasa Air Safari",
-    "IATA": "–",
+    "IATA": "",
     "ICAO": "RRV",
     "Callsign": "SKYROVER",
     "hubs": [],
@@ -17430,7 +17430,7 @@
   "Morningstar_Air_Express": {
     "name": "Morningstar Air Express",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/50/Morningstar_Air_Express_Logo.svg/290px-Morningstar_Air_Express_Logo.svg.png",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MAL",
     "Callsign": "MORNINGSTAR",
     "hubs": [
@@ -17452,7 +17452,7 @@
   },
   "Mosphil_Aero": {
     "name": "Mosphil Aero",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MPI",
     "Callsign": "MOSPHIL",
     "hubs": [
@@ -17501,7 +17501,7 @@
   },
   "Mountain_Air_Express": {
     "name": "Mountain Air Express",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MAX",
     "Callsign": "-Pikes Peak",
     "hubs": []
@@ -17537,7 +17537,7 @@
   "Mustique_Airways": {
     "name": "Mustique Airways",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/d/d8/Mustique_logo.jpg",
-    "IATA": "-",
+    "IATA": "",
     "ICAO": "MAW",
     "Callsign": "MUSTIQUE",
     "hubs": [
