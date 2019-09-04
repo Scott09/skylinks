@@ -68,17 +68,15 @@ const promise = new Promise((resolve, reject) => {
   });
 });
 
-const airline_keys = Object.keys(airlines);
 
-for (const key of airline_keys) {
-  if (airlines[key].IATA) {
+
+for (const item of airlines) {
+  if (item.iata) {
     pool.query(
-      `INSERT INTO airlines (iata, name, logo_link, website_link) VALUES ($1, $2, $3, $4)`,
+      `INSERT INTO airlines (iata, name) VALUES ($1, $2)`,
       [
-        airlines[key].IATA,
-        airlines[key].name,
-        airlines[key].logoLink,
-        airlines[key].website
+        item.iata,
+        item.name
       ]
     ).catch(err => console.log(err));
   }

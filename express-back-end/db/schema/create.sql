@@ -23,10 +23,9 @@ CREATE TABLE routes (
 
 CREATE TABLE airlines (
   iata VARCHAR(255) PRIMARY KEY NOT NULL,
-  name VARCHAR(255) NOT NULL,
-  logo_link VARCHAR(255),
-  website_link VARCHAR(255)
+  name VARCHAR(255) NOT NULL
 );
+
 
 
 CREATE TABLE flights (
