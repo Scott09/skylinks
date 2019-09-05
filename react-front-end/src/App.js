@@ -1,47 +1,31 @@
-import React from "react";
+import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
-import canvas from "./threejs/SceneManager";
+import YVR_routes from "./YVR_routes.json";
 
 const App = props => {
-  const { emptyRoutes } = canvas();
+  const [clearToggle, setClearToggle] = useState(false);
+
   const fetchData = () => {
-    emptyRoutes();
     axios.get("/api/airports").then(response => {
       console.log(response.data);
-      // setCity(response.data);
+      // setCity(response.data);props
     });
   };
-  // document.addEventListener("mousedown", onDocumentMouseDown);
-  // // Set up the controls
-  //   let controls = new OrbitControls(camera);
-  //   controls.minPolarAngle = 1.52;
-  //   controls.maxPolarAngle = 1.52;
-  //   controls.minAzimuthAngle = -Infinity;
-  //   controls.maxAzimuthAngle = Infinity;
-  //   controls.rotateSpeed = 0.3;
-  //   controls.zoomSpeed = 0.5;
-  //   controls.maxDistance = 50;
-  //   controls.minDistance = 6;
-  //   controls.enablePan = false;
-  //   // controls.autoRotate = true;
-  //   // controls.autoRotateSpeed = 0.3;
-  //   controls.update();
+  const _addEntity = () => {
+    setClearToggle(false);
+  };
 
-  //   let animate = function() {
-  //     requestAnimationFrame(animate);
-  //     CLOUDS.rotation.y += 0.0001;
-  //     controls.update();
-  //     renderer.render(scene, camera);
-  //   };
-  //   animate();
-  // }, []);
+  const _removeEntity = () => {
+    setClearToggle(true);
+  };
 
   return (
     <>
-      <button onClick={fetchData}> Fetch Data </button>
-      <ThreeContainer />
+      <button onClick={_addEntity}> add entity </button>
+      <button onClick={_removeEntity}> remove entity </button>
+      <ThreeContainer clear={clearToggle} newAirport={YVR_routes} />
     </>
   );
 };

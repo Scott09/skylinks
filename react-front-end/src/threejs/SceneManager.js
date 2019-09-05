@@ -14,17 +14,12 @@ export default canvas => {
     height: window.innerHeight
   };
 
-  const mousePosition = {
-    x: 0,
-    y: 0
-  };
-
   const scene = buildScene();
   const renderer = buildRender(screenDimensions);
   const camera = buildCamera(screenDimensions);
   const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
-  let sceneRoutes = createSceneRoute(scene);
+  let sceneRoutes = [];
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -35,14 +30,12 @@ export default canvas => {
 
   function buildRender({ width, height }) {
     const renderer = new THREE.WebGLRenderer({
-      canvas: canvas
+      canvas: canvas,
+      powerPreference: "high-performance"
     });
     const DPR = window.devicePixelRatio ? window.devicePixelRatio : 1;
     renderer.setPixelRatio(DPR);
     renderer.setSize(width, height);
-
-    renderer.gammaInput = true;
-    renderer.gammaOutput = true;
 
     return renderer;
   }
@@ -73,9 +66,7 @@ export default canvas => {
       nearPlane,
       farPlane
     );
-
     camera.position.z = 10;
-
     return camera;
   }
 
@@ -86,16 +77,37 @@ export default canvas => {
       new GeneralLights(scene),
       new StarsBackGround(scene)
     ];
-
     return sceneSubjects;
   }
 
-  function emptyRoutes() {}
+  function createSceneRoute(scene, airport) {
+    return [new FlightRoutes(scene, airport)];
+  }
 
-  function createSceneRoute(scene) {
-    const sceneRoutes = [new FlightRoutes(scene)];
-    console.log("here");
-    return sceneRoutes;
+  function addEntity(airport) {
+    sceneRoutes.push(createSceneRoute(scene, airport));
+  }
+
+  function clear() {
+    var selectedObject = scene.getObjectByName("routes");
+    var children_to_remove = [];
+
+    selectedObject &&
+      selectedObject.traverse(line => {
+        if (line.type === "Line") {
+          console.log("removed");
+          children_to_remove.push(line);
+        }
+      });
+    //remove all children
+    children_to_remove.forEach(function(child) {
+      scene.remove(child);
+      child.geometry.dispose();
+      child.material.dispose();
+    });
+
+    sceneRoutes.length = 0;
+    scene.remove(selectedObject);
   }
 
   function update() {
@@ -104,11 +116,6 @@ export default canvas => {
     for (let i = 0; i < sceneSubjects.length; i++) {
       sceneSubjects[i].update(elapsedTime);
     }
-
-    for (let i = 0; i < sceneRoutes.length; i++) {
-      sceneRoutes[i].update(elapsedTime);
-    }
-
     controls.update();
     renderer.render(scene, camera);
   }
@@ -128,36 +135,13 @@ export default canvas => {
 
   function onMouseDown(event) {
     event.preventDefault();
-
-    // var mouse3D = new THREE.Vector3(
-    //   sceneSubjects.reduce((acc, cur) => {
-    //     if (cur.name === "EARTH") {
-    //       return cur;FlightRoutes
-    //     }
-    //   })(event.clientX / window.innerWidth) *
-    //     2 -
-    //     1,
-    //   -(event.clientY / window.innerHeight) * 2 + 1,
-    //   0.5
-    // );
-    // var raycaster = new THREE.Raycaster();
-    // raycaster.setFromCamera(mouse3D, camera);
-    // var intersects = raycaster.intersectObjects([sceneSubjects[1]]);
-
-    // if (intersects.length > 0) {
-    //   intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
-    // }
-  }
-
-  function onMouseMove(x, y) {
-    mousePosition.x = x;
-    mousePosition.y = y;
   }
 
   return {
     update,
     onWindowResize,
     onMouseDown,
-    emptyRoutes
+    clear,
+    addEntity
   };
 };
