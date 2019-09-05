@@ -1,11 +1,18 @@
-import React, { Component } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import threeEntryPoint from "./threeEntryPoint";
+const ThreeContainer = props => {
+  const [state, setState] = useState(null);
+  let sceneManager = threeEntryPoint(threeRootElement);
 
-export default class ThreeContainer extends Component {
-  componentDidMount() {
-    threeEntryPoint(this.threeRootElement);
-  }
-  render() {
-    return <div ref={element => (this.threeRootElement = element)} />;
-  }
-}
+  let threeRootElement = useRef(null);
+  useEffect(() => {
+    if (props.remove) {
+      sceneManager.toggleRemove();
+    }
+  }, [state]);
+  // useEffect(() => {
+  //   let sceneManager = threeEntryPoint(threeRootElement);
+  // }, []);
+  return <div ref={element => (threeRootElement = element)} />;
+};
+export default ThreeContainer;
