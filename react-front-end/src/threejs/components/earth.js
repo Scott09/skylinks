@@ -7,8 +7,6 @@ import {
 } from "../helpers/constants";
 
 export default scene => {
-  const group = new THREE.Group();
-
   const geometry_sphere = new THREE.SphereGeometry(
     GLOBE_RADIUS,
     CURVE_SEGMENTS,
@@ -26,11 +24,6 @@ export default scene => {
 
   const earth = new THREE.Mesh(geometry_sphere, material);
   earth.name = "earth";
-
-  const earthtWireframe = new THREE.LineSegments(
-    new THREE.EdgesGeometry(geometry_sphere),
-    new THREE.LineBasicMaterial()
-  );
 
   scene.add(earth);
 

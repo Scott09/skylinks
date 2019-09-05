@@ -19,7 +19,11 @@ export default scene => {
   scene.add(clouds);
 
   function update(time) {
+<<<<<<< HEAD
     clouds.rotation.y += 0.0005;
+=======
+    clouds.rotation.y += 0.00005;
+>>>>>>> fea964dd99483841bca751ec6934137c4e6b9dd2
   }
 
   return {

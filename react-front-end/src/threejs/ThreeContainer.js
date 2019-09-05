@@ -1,14 +1,23 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import threeEntryPoint from "./threeEntryPoint";
-
 const ThreeContainer = props => {
-  let div = useRef(null);
+  const [state, setState] = useState(null);
 
+  let threeRootElement = useRef(null);
   useEffect(() => {
-    threeEntryPoint(div);
+    const manager = threeEntryPoint(threeRootElement);
+    setState(manager);
   }, []);
 
-  return <div ref={element => (div = element)} />;
-};
+  if (state) {
+    if (props.clear) {
+      state.clear();
+    }
+    if (!props.clear) {
+      state.addEntity(props.newAirport);
+    }
+  }
 
+  return <div ref={element => (threeRootElement = element)} />;
+};
 export default ThreeContainer;
