@@ -1,11 +1,16 @@
 import * as THREE from "three";
 
-import YVR_routes from "../../YVR_routes.json";
 import airports from "../../airports.json";
 
 import { getSplineFromCoords } from "../helpers/curve";
 
+<<<<<<< HEAD
 export default scene => {
+=======
+export default (scene, airport) => {
+  const group = new THREE.Group();
+
+>>>>>>> fea964dd99483841bca751ec6934137c4e6b9dd2
   /**
    * returns a filtedred list if airports
    * @param  {} name_of_airport, the of the airport
@@ -49,8 +54,11 @@ export default scene => {
   }
 
   function routesPerAirport(airport_name, file_of_routes) {
+<<<<<<< HEAD
     const group = new THREE.Group();
     group.name = "routes";
+=======
+>>>>>>> fea964dd99483841bca751ec6934137c4e6b9dd2
     for (const airport of filterRoutesByIATA(airport_name, file_of_routes)) {
       const start_iata = airport.start_airport;
       const end_iata = airport.destination_airport;
@@ -64,14 +72,26 @@ export default scene => {
         curve_material,
         lineDetail
       );
+<<<<<<< HEAD
       group.add(line);
+=======
+      if (line) {
+        group.add(line);
+      }
+>>>>>>> fea964dd99483841bca751ec6934137c4e6b9dd2
     }
-    return group;
   }
+<<<<<<< HEAD
 
   scene.add(routesPerAirport("YVR", YVR_routes));
+=======
+  routesPerAirport("YVR", airport);
+  group.name = "routes";
 
-  function update(time) {}
+  scene.add(group);
+>>>>>>> fea964dd99483841bca751ec6934137c4e6b9dd2
+
+  function update() {}
 
   return {
     update

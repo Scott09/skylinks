@@ -1,6 +1,7 @@
 import SceneManager from "./SceneManager";
-export default containerElement => {
-  const canvas = createCanvas(document, containerElement);
+
+const containerElement = elm => {
+  const canvas = createCanvas(document, elm);
   const sceneManager = new SceneManager(canvas);
 
   bindEventListeners();
@@ -29,8 +30,11 @@ export default containerElement => {
     canvas.height = canvas.offsetHeight;
     sceneManager.onWindowResize();
   }
-  function render(time) {
-    requestAnimationFrame(render);
+  function render() {
     sceneManager.update();
+    requestAnimationFrame(render);
   }
+  return sceneManager;
 };
+
+export default containerElement;

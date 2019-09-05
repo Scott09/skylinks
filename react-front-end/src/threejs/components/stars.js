@@ -2,12 +2,6 @@ import * as THREE from "three";
 import { CURVE_SEGMENTS, GLOBE_RADIUS } from "../helpers/constants";
 
 export default scene => {
-  const geometry_sphere = new THREE.SphereGeometry(
-    GLOBE_RADIUS,
-    CURVE_SEGMENTS,
-    CURVE_SEGMENTS
-  );
-
   const sphere = new THREE.SphereGeometry(
     GLOBE_RADIUS * 200,
     CURVE_SEGMENTS,

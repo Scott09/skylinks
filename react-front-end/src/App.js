@@ -1,29 +1,31 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
-import canvas from "./threejs/SceneManager";
+import YVR_routes from "./YVR_routes.json";
 
 const App = props => {
-  const [state, setState] = useState();
-  const { emptyRoutes } = canvas();
+  const [clearToggle, setClearToggle] = useState(false);
 
   const fetchData = () => {
-    emptyRoutes();
     axios.get("/api/airports").then(response => {
-      setState(response.data);
+      console.log(response.data);
+      // setCity(response.data);props
     });
   };
+  const _addEntity = () => {
+    setClearToggle(false);
+  };
 
-  useEffect(() => {
-    emptyRoutes();
-    console.log(emptyRoutes());
-  }, [state]);
+  const _removeEntity = () => {
+    setClearToggle(true);
+  };
 
   return (
     <>
-      <button onClick={fetchData}> Fetch Data </button>
-      <ThreeContainer />
+      <button onClick={_addEntity}> add entity </button>
+      <button onClick={_removeEntity}> remove entity </button>
+      <ThreeContainer clear={clearToggle} newAirport={YVR_routes} />
     </>
   );
 };
