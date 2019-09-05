@@ -25,13 +25,19 @@ export default scene => {
   const clouds = new THREE.Mesh(sphere, material);
 
   group.add(clouds);
+  group.name = clouds;
   scene.add(group);
 
   function update(time) {
     group.rotation.y = time / 60;
   }
 
+  function getName() {
+    return "Clouds";
+  }
+
   return {
-    update
+    update,
+    getName
   };
 };

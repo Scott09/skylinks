@@ -24,9 +24,14 @@ export default scene => {
   group.add(stars);
   scene.add(group);
 
+  function getName() {
+    return "Stars";
+  }
+
   function update() {}
 
   return {
-    update
+    update,
+    getName
   };
 };

@@ -73,6 +73,10 @@ export default scene => {
     return group;
   }
 
+  function getName() {
+    return "FlightRoutes";
+  }
+
   group.add(routesPerAirport("YVR", YVR_routes));
 
   scene.add(group);
@@ -80,6 +84,7 @@ export default scene => {
   function update(time) {}
 
   return {
-    update
+    update,
+    getName
   };
 };
