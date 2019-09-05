@@ -24,8 +24,7 @@ export default canvas => {
   const camera = buildCamera(screenDimensions);
   const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
-  let sceneRoutes = createSceneRoute(scene);
-  let remove = false;
+  let sceneRoutes = [];
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -72,16 +71,8 @@ export default canvas => {
       nearPlane,
       farPlane
     );
-
     camera.position.z = 10;
-
     return camera;
-  }
-
-  function toggleRemove() {
-    console.log(`${remove} before`);
-    remove = !remove;
-    console.log(`${remove} after`);
   }
 
   function createSceneSubjects(scene) {
@@ -94,26 +85,21 @@ export default canvas => {
     return sceneSubjects;
   }
 
-  function createSceneRoute(scene) {
-    return [new FlightRoutes(scene)];
+  function createSceneRoute(scene, airport) {
+    return [new FlightRoutes(scene, airport)];
   }
 
-  function addEntity() {
-    console.log("New Flight Was added");
-    sceneRoutes.push(createSceneRoute(scene));
+  function addEntity(airport) {
+    sceneRoutes.push(createSceneRoute(scene, airport));
   }
 
   function printScene() {
     console.log(scene);
   }
 
-  function removeEntity() {
-    console.log("New Flight Was removed");
+  function clear() {
     var selectedObject = scene.getObjectByName("routes");
     var children_to_remove = [];
-    console.log(scene.getObjectByName("routes"));
-
-    //add each line to be removed
 
     selectedObject &&
       selectedObject.traverse(line => {
@@ -135,17 +121,9 @@ export default canvas => {
 
   function update() {
     const elapsedTime = clock.getElapsedTime();
-    if (remove) {
-      removeEntity();
-      console.log("removing");
-      toggleRemove();
-    }
+
     for (let i = 0; i < sceneSubjects.length; i++) {
       sceneSubjects[i].update();
-    }
-
-    for (let i = 0; i < sceneRoutes.length; i++) {
-      sceneRoutes[i].update();
     }
 
     renderer.render(scene, camera);
@@ -166,25 +144,6 @@ export default canvas => {
 
   function onMouseDown(event) {
     event.preventDefault();
-
-    // var mouse3D = new THREE.Vector3(
-    //   sceneSubjects.reduce((acc, cur) => {
-    //     if (cur.name === "EARTH") {
-    //       return cur;FlightRoutes
-    //     }
-    //   })(event.clientX / window.innerWidth) *
-    //     2 -
-    //     1,
-    //   -(event.clientY / window.innerHeight) * 2 + 1,
-    //   0.5
-    // );
-    // var raycaster = new THREE.Raycaster();
-    // raycaster.setFromCamera(mouse3D, camera);
-    // var intersects = raycaster.intersectObjects([sceneSubjects[1]]);
-
-    // if (intersects.length > 0) {
-    //   intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
-    // }
   }
 
   function onMouseMove(x, y) {
@@ -196,9 +155,8 @@ export default canvas => {
     update,
     onWindowResize,
     onMouseDown,
-    removeEntity,
+    clear,
     addEntity,
-    printScene,
-    toggleRemove
+    printScene
   };
 };
