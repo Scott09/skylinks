@@ -25,6 +25,7 @@ export default canvas => {
   const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
   let sceneRoutes = createSceneRoute(scene);
+  let remove = false;
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -35,14 +36,12 @@ export default canvas => {
 
   function buildRender({ width, height }) {
     const renderer = new THREE.WebGLRenderer({
-      canvas: canvas
+      canvas: canvas,
+      powerPreference: "high-performance"
     });
     const DPR = window.devicePixelRatio ? window.devicePixelRatio : 1;
     renderer.setPixelRatio(DPR);
     renderer.setSize(width, height);
-
-    renderer.gammaInput = true;
-    renderer.gammaOutput = true;
 
     return renderer;
   }
@@ -79,6 +78,12 @@ export default canvas => {
     return camera;
   }
 
+  function toggleRemove() {
+    console.log(`${remove} before`);
+    remove = !remove;
+    console.log(`${remove} after`);
+  }
+
   function createSceneSubjects(scene) {
     const sceneSubjects = [
       new Earth(scene),
@@ -86,30 +91,63 @@ export default canvas => {
       new GeneralLights(scene),
       new StarsBackGround(scene)
     ];
-
     return sceneSubjects;
   }
 
-  function emptyRoutes() {}
-
   function createSceneRoute(scene) {
-    const sceneRoutes = [new FlightRoutes(scene)];
-    console.log("here");
-    return sceneRoutes;
+    return [new FlightRoutes(scene)];
+  }
+
+  function addEntity() {
+    console.log("New Flight Was added");
+    sceneRoutes.push(createSceneRoute(scene));
+  }
+
+  function printScene() {
+    console.log(scene);
+  }
+
+  function removeEntity() {
+    console.log("New Flight Was removed");
+    var selectedObject = scene.getObjectByName("routes");
+    var children_to_remove = [];
+    console.log(scene.getObjectByName("routes"));
+
+    //add each line to be removed
+
+    selectedObject &&
+      selectedObject.traverse(line => {
+        if (line.type === "Line") {
+          console.log("removed");
+          children_to_remove.push(line);
+        }
+      });
+    //remove all children
+    children_to_remove.forEach(function(child) {
+      scene.remove(child);
+      child.geometry.dispose();
+      child.material.dispose();
+    });
+
+    sceneRoutes.length = 0;
+    scene.remove(selectedObject);
   }
 
   function update() {
     const elapsedTime = clock.getElapsedTime();
-
+    if (remove) {
+      removeEntity();
+      console.log("removing");
+      toggleRemove();
+    }
     for (let i = 0; i < sceneSubjects.length; i++) {
-      sceneSubjects[i].update(elapsedTime);
+      sceneSubjects[i].update();
     }
 
     for (let i = 0; i < sceneRoutes.length; i++) {
-      sceneRoutes[i].update(elapsedTime);
+      sceneRoutes[i].update();
     }
 
-    controls.update();
     renderer.render(scene, camera);
   }
 
@@ -158,6 +196,9 @@ export default canvas => {
     update,
     onWindowResize,
     onMouseDown,
-    emptyRoutes
+    removeEntity,
+    addEntity,
+    printScene,
+    toggleRemove
   };
 };

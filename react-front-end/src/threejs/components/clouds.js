@@ -15,21 +15,12 @@ export default scene => {
     transparent: true
   });
 
-  const subjectMaterial = new THREE.MeshStandardMaterial({
-    color: "#000",
-    transparent: true,
-    side: THREE.DoubleSide,
-    alphaTest: 0.5
-  });
-
   const clouds = new THREE.Mesh(sphere, material);
   clouds.name = "clouds";
 
   scene.add(clouds);
 
-  function update(time) {
-    group.rotation.y = time / 60;
-  }
+  function update() {}
 
   return {
     update

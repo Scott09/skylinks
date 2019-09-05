@@ -5,13 +5,23 @@ import ThreeContainer from "./threejs/ThreeContainer";
 import canvas from "./threejs/SceneManager";
 
 const App = props => {
-  const { emptyRoutes } = canvas();
+  const { removeEntity, printScene, addEntity, toggleRemove } = canvas();
   const fetchData = () => {
-    emptyRoutes();
+    removeEntity();
     axios.get("/api/airports").then(response => {
       console.log(response.data);
       // setCity(response.data);
     });
+  };
+  const _printScene = () => {
+    printScene();
+  };
+  const _addEntity = () => {
+    addEntity();
+  };
+
+  const _removeEntity = () => {
+    let random = Math.random();
   };
   // document.addEventListener("mousedown", onDocumentMouseDown);
   // // Set up the controls
@@ -40,8 +50,10 @@ const App = props => {
 
   return (
     <>
-      <button onClick={fetchData}> Fetch Data </button>
-      <ThreeContainer />
+      <button onClick={_addEntity}> add entity </button>
+      <button onClick={_removeEntity}> remove entity </button>
+      <button onClick={_printScene}> print Scene </button>
+      <ThreeContainer clear={random} />
     </>
   );
 };
