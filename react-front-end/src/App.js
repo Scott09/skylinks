@@ -2,9 +2,12 @@ import React from "react";
 import axios from "axios";
 import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
+import canvas from "./threejs/SceneManager";
 
 const App = props => {
+  const { emptyRoutes } = canvas();
   const fetchData = () => {
+    emptyRoutes();
     axios.get("/api/airports").then(response => {
       console.log(response.data);
       // setCity(response.data);
