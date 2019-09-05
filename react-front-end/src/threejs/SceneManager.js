@@ -22,9 +22,10 @@ export default canvas => {
   const scene = buildScene();
   const renderer = buildRender(screenDimensions);
   const camera = buildCamera(screenDimensions);
-  const controls = buildControls(camera);
+  buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
-  let sceneRoutes = createSceneRoute(scene);
+  createSceneRoute(scene);
+  console.log(scene);
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -58,8 +59,6 @@ export default canvas => {
     controls.maxDistance = 50;
     controls.minDistance = 6;
     controls.enablePan = false;
-
-    return controls;
   }
 
   function buildCamera({ width, height }) {
@@ -80,22 +79,19 @@ export default canvas => {
   }
 
   function createSceneSubjects(scene) {
-    const sceneSubjects = [
+    const a = [
       new Earth(scene),
       new Clouds(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene)
     ];
-
-    return sceneSubjects;
+    return a;
   }
 
   function emptyRoutes() {}
 
   function createSceneRoute(scene) {
-    const sceneRoutes = [new FlightRoutes(scene)];
-    console.log("here");
-    return sceneRoutes;
+    new FlightRoutes(scene);
   }
 
   function update() {
@@ -105,11 +101,11 @@ export default canvas => {
       sceneSubjects[i].update(elapsedTime);
     }
 
-    for (let i = 0; i < sceneRoutes.length; i++) {
-      sceneRoutes[i].update(elapsedTime);
-    }
+    // for (let i = 0; i < sceneRoutes.length; i++) {
+    //   sceneRoutes[i].update(elapsedTime);
+    // }
 
-    controls.update();
+    // controls.update();
     renderer.render(scene, camera);
   }
 
@@ -128,25 +124,26 @@ export default canvas => {
 
   function onMouseDown(event) {
     event.preventDefault();
+    let mouse3D = new THREE.Vector3(
+      (event.clientX / window.innerWidth) * 2 - 1,
+      -(event.clientY / window.innerHeight) * 2 + 1
+    );
+    let raycaster = new THREE.Raycaster();
+    raycaster.linePrecision = 0.1;
+    raycaster.setFromCamera(mouse3D, camera);
+    // find the object that we want to intersect
 
-    // var mouse3D = new THREE.Vector3(
-    //   sceneSubjects.reduce((acc, cur) => {
-    //     if (cur.name === "EARTH") {
-    //       return cur;FlightRoutes
-    //     }
-    //   })(event.clientX / window.innerWidth) *
-    //     2 -
-    //     1,
-    //   -(event.clientY / window.innerHeight) * 2 + 1,
-    //   0.5
-    // );
-    // var raycaster = new THREE.Raycaster();
-    // raycaster.setFromCamera(mouse3D, camera);
-    // var intersects = raycaster.intersectObjects([sceneSubjects[1]]);
+    let routes = scene.getObjectByName("routes");
 
-    // if (intersects.length > 0) {
-    //   intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
-    // }
+    let intersects = raycaster.intersectObjects(routes.children);
+
+    if (intersects.length > 0) {
+      for (let i of intersects) {
+        i.object.material.color.setHex(Math.random() * 0xffffff);
+        console.log(`From: ${i.object.start_iata} to: ${i.object.end_iata}`);
+      }
+      // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+    }
   }
 
   function onMouseMove(x, y) {

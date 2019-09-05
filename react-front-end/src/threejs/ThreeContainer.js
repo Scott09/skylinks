@@ -1,11 +1,14 @@
-import React, { Component } from "react";
+import React, { useEffect, useRef } from "react";
 import threeEntryPoint from "./threeEntryPoint";
 
-export default class ThreeContainer extends Component {
-  componentDidMount() {
-    threeEntryPoint(this.threeRootElement);
-  }
-  render() {
-    return <div ref={element => (this.threeRootElement = element)} />;
-  }
-}
+const ThreeContainer = props => {
+  let div = useRef(null);
+
+  useEffect(() => {
+    threeEntryPoint(div);
+  }, []);
+
+  return <div ref={element => (div = element)} />;
+};
+
+export default ThreeContainer;
