@@ -24,26 +24,19 @@ export default scene => {
     shininess: GLOBE_SHININESS
   });
 
-  const earthMesh = new THREE.Mesh(geometry_sphere, material);
+  const earth = new THREE.Mesh(geometry_sphere, material);
+  earth.name = "earth";
 
   const earthtWireframe = new THREE.LineSegments(
     new THREE.EdgesGeometry(geometry_sphere),
     new THREE.LineBasicMaterial()
   );
 
-  group.add(earthMesh);
-  //group.add(earthtWireframe);
-  console.log(scene);
-  scene.add(group);
-
-  function getName() {
-    return "Earth";
-  }
+  scene.add(earth);
 
   function update() {}
 
   return {
-    update,
-    getName
+    update
   };
 };
