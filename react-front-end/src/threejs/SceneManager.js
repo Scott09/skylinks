@@ -4,6 +4,7 @@ import StarsBackGround from "./components/stars";
 import Clouds from "./components/clouds";
 import FlightRoutes from "./components/flightRoutes";
 import GeneralLights from "./GeneralLights";
+import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
 export default canvas => {
   const clock = new THREE.Clock();
@@ -21,6 +22,7 @@ export default canvas => {
   const scene = buildScene();
   const renderer = buildRender(screenDimensions);
   const camera = buildCamera(screenDimensions);
+  const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
 
   function buildScene() {
@@ -44,6 +46,21 @@ export default canvas => {
     return renderer;
   }
 
+  function buildControls(scene) {
+    var controls = new OrbitControls(camera);
+    controls.minPolarAngle = 1.52;
+    controls.maxPolarAngle = 1.52;
+    controls.minAzimuthAngle = -Infinity;
+    controls.maxAzimuthAngle = Infinity;
+    controls.rotateSpeed = 0.3;
+    controls.zoomSpeed = 0.5;
+    controls.maxDistance = 50;
+    controls.minDistance = 6;
+    controls.enablePan = false;
+
+    return controls;
+  }
+
   function buildCamera({ width, height }) {
     const aspectRatio = width / height;
     const fieldOfView = 75;
@@ -64,9 +81,9 @@ export default canvas => {
   function createSceneSubjects(scene) {
     const sceneSubjects = [
       new Earth(scene),
+      new Clouds(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene),
-      new Clouds(scene),
       new FlightRoutes(scene)
     ];
 
@@ -76,13 +93,16 @@ export default canvas => {
   function update() {
     const elapsedTime = clock.getElapsedTime();
 
-    for (let i = 0; i < sceneSubjects.length; i++)
+    for (let i = 0; i < sceneSubjects.length; i++) {
       sceneSubjects[i].update(elapsedTime);
+    }
+    controls.update();
     renderer.render(scene, camera);
   }
 
   function onWindowResize() {
-    const { width, height } = canvas;
+    const width = window.innerWidth;
+    const height = window.innerHeight;
 
     screenDimensions.width = width;
     screenDimensions.height = height;
@@ -93,6 +113,32 @@ export default canvas => {
     renderer.setSize(width, height);
   }
 
+  function onMouseDown(event) {
+    event.preventDefault();
+    for (let i = 0; i < sceneSubjects.length; i++) {
+      console.log(sceneSubjects[i].getName());
+    }
+    console.log("event");
+    // var mouse3D = new THREE.Vector3(
+    //   sceneSubjects.reduce((acc, cur) => {
+    //     if (cur.name === "EARTH") {
+    //       return cur;
+    //     }
+    //   })(event.clientX / window.innerWidth) *
+    //     2 -
+    //     1,
+    //   -(event.clientY / window.innerHeight) * 2 + 1,
+    //   0.5
+    // );
+    // var raycaster = new THREE.Raycaster();
+    // raycaster.setFromCamera(mouse3D, camera);
+    // var intersects = raycaster.intersectObjects([sceneSubjects[1]]);
+
+    // if (intersects.length > 0) {
+    //   intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+    // }
+  }
+
   function onMouseMove(x, y) {
     mousePosition.x = x;
     mousePosition.y = y;
@@ -101,6 +147,6 @@ export default canvas => {
   return {
     update,
     onWindowResize,
-    onMouseMove
+    onMouseDown
   };
 };

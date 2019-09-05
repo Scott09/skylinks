@@ -36,9 +36,14 @@ export default scene => {
   console.log(scene);
   scene.add(group);
 
+  function getName() {
+    return "Earth";
+  }
+
   function update() {}
 
   return {
-    update
+    update,
+    getName
   };
 };

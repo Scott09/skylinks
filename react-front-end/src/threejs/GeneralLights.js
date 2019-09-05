@@ -10,7 +10,12 @@ export default scene => {
 
   function update() {}
 
+  function getName() {
+    return "Lights";
+  }
+
   return {
-    update
+    update,
+    getName
   };
 };
