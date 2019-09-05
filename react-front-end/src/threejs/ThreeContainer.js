@@ -13,7 +13,6 @@ const ThreeContainer = props => {
     if (props.clear) {
       state.clear();
     }
-
     if (!props.clear) {
       state.addEntity(props.newAirport);
     }

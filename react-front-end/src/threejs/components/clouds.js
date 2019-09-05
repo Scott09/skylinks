@@ -2,8 +2,6 @@ import * as THREE from "three";
 import { CURVE_SEGMENTS, GLOBE_RADIUS } from "../helpers/constants";
 
 export default scene => {
-  const group = new THREE.Group();
-
   const sphere = new THREE.SphereGeometry(
     GLOBE_RADIUS + 0.3,
     CURVE_SEGMENTS,
@@ -20,7 +18,9 @@ export default scene => {
 
   scene.add(clouds);
 
-  function update() {}
+  function update(time) {
+    clouds.rotation.y += 0.00005;
+  }
 
   return {
     update

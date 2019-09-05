@@ -14,11 +14,6 @@ export default canvas => {
     height: window.innerHeight
   };
 
-  const mousePosition = {
-    x: 0,
-    y: 0
-  };
-
   const scene = buildScene();
   const renderer = buildRender(screenDimensions);
   const camera = buildCamera(screenDimensions);
@@ -93,10 +88,6 @@ export default canvas => {
     sceneRoutes.push(createSceneRoute(scene, airport));
   }
 
-  function printScene() {
-    console.log(scene);
-  }
-
   function clear() {
     var selectedObject = scene.getObjectByName("routes");
     var children_to_remove = [];
@@ -123,9 +114,9 @@ export default canvas => {
     const elapsedTime = clock.getElapsedTime();
 
     for (let i = 0; i < sceneSubjects.length; i++) {
-      sceneSubjects[i].update();
+      sceneSubjects[i].update(elapsedTime);
     }
-
+    controls.update();
     renderer.render(scene, camera);
   }
 
@@ -146,17 +137,11 @@ export default canvas => {
     event.preventDefault();
   }
 
-  function onMouseMove(x, y) {
-    mousePosition.x = x;
-    mousePosition.y = y;
-  }
-
   return {
     update,
     onWindowResize,
     onMouseDown,
     clear,
-    addEntity,
-    printScene
+    addEntity
   };
 };

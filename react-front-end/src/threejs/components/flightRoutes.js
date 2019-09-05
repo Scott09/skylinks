@@ -68,7 +68,6 @@ export default (scene, airport) => {
       }
     }
   }
-  console.log(airport);
   routesPerAirport("YVR", airport);
   group.name = "routes";
 
