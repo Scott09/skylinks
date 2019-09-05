@@ -2,8 +2,6 @@ import * as THREE from "three";
 import { CURVE_SEGMENTS, GLOBE_RADIUS } from "../helpers/constants";
 
 export default scene => {
-  const group = new THREE.Group();
-
   const geometry_sphere = new THREE.SphereGeometry(
     GLOBE_RADIUS,
     CURVE_SEGMENTS,
@@ -19,19 +17,14 @@ export default scene => {
     map: THREE.ImageUtils.loadTexture("images/galaxy_starfield.png"),
     side: THREE.BackSide
   });
-  const stars = new THREE.Mesh(sphere, material);
+  const background = new THREE.Mesh(sphere, material);
+  background.name = "background";
 
-  group.add(stars);
-  scene.add(group);
-
-  function getName() {
-    return "Stars";
-  }
+  scene.add(background);
 
   function update() {}
 
   return {
-    update,
-    getName
+    update
   };
 };

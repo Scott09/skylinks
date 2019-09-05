@@ -24,6 +24,7 @@ export default canvas => {
   const camera = buildCamera(screenDimensions);
   const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
+  let sceneRoutes = createSceneRoute(scene);
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -46,7 +47,7 @@ export default canvas => {
     return renderer;
   }
 
-  function buildControls(scene) {
+  function buildControls(camera) {
     var controls = new OrbitControls(camera);
     controls.minPolarAngle = 1.52;
     controls.maxPolarAngle = 1.52;
@@ -83,11 +84,18 @@ export default canvas => {
       new Earth(scene),
       new Clouds(scene),
       new GeneralLights(scene),
-      new StarsBackGround(scene),
-      new FlightRoutes(scene)
+      new StarsBackGround(scene)
     ];
 
     return sceneSubjects;
+  }
+
+  function emptyRoutes() {}
+
+  function createSceneRoute(scene) {
+    const sceneRoutes = [new FlightRoutes(scene)];
+    console.log("here");
+    return sceneRoutes;
   }
 
   function update() {
@@ -96,6 +104,11 @@ export default canvas => {
     for (let i = 0; i < sceneSubjects.length; i++) {
       sceneSubjects[i].update(elapsedTime);
     }
+
+    for (let i = 0; i < sceneRoutes.length; i++) {
+      sceneRoutes[i].update(elapsedTime);
+    }
+
     controls.update();
     renderer.render(scene, camera);
   }
@@ -115,14 +128,11 @@ export default canvas => {
 
   function onMouseDown(event) {
     event.preventDefault();
-    for (let i = 0; i < sceneSubjects.length; i++) {
-      console.log(sceneSubjects[i].getName());
-    }
-    console.log("event");
+
     // var mouse3D = new THREE.Vector3(
     //   sceneSubjects.reduce((acc, cur) => {
     //     if (cur.name === "EARTH") {
-    //       return cur;
+    //       return cur;FlightRoutes
     //     }
     //   })(event.clientX / window.innerWidth) *
     //     2 -
@@ -147,6 +157,7 @@ export default canvas => {
   return {
     update,
     onWindowResize,
-    onMouseDown
+    onMouseDown,
+    emptyRoutes
   };
 };
