@@ -1,48 +1,49 @@
-import React, { useState } from "react";
-import Container from "@material-ui/core/Container";
-import MenuItem from "@material-ui/core/MenuItem";
-import TextField from "@material-ui/core/TextField";
-import { makeStyles } from "@material-ui/core/styles";
+import React, { useState } from 'react';
+import { makeStyles } from '@material-ui/core/styles';
+import TextField from '@material-ui/core/TextField';
+import { Button } from 'antd';
+import { Input } from 'antd';
+import 'antd/dist/antd.css';
+import './SearchForm.css';
 
-const useStyles = makeStyles(theme => ({
-  container: {
-    display: "flex",
-    flexWrap: "wrap"
-  },
-  textField: {
-    marginLeft: theme.spacing(1),
-    marginRight: theme.spacing(1)
-  },
-  dense: {
-    marginTop: theme.spacing(2)
-  },
-  menu: {
-    width: 200
-  }
-}));
 
-const SearchForm = props => {
-  const classes = useStyles();
-  const [departure, setDeparture] = useState("");
+const SearchForm = (props) => {
 
-  return (
-    <>
+    const [arrival, setArrival] = useState('');
+    const [departure, setDeparture] = useState('');
+
+    const handleDepartureChange = (event) => {
+      setDeparture(event.target.value);
+    }
+
+    const handleArrivalChange = (event) => {
+      setArrival(event.target.value);
+    }
+
+    const onFormSubmit = (event) => {
+      
+      setDeparture('');
+      setArrival('');
+    }
+
+    return (
       <form>
-        <label>
-          Departure Airport:
-          <TextField
-            id="filled-name"
-            label="Departure"
-            className={classes.textField}
-            value={departure}
-            onChange={handleChange("name")}
-            margin="normal"
-            variant="filled"
-          />
-        </label>
+        <div className="example-input">
+          <div className="containerdiv">
+          <h4>Please enter a departure or arrival airport</h4>
+          <label> Departure Airport:
+          <Input className= "textinput" value = {departure} placeholder="" onChange={handleDepartureChange} />
+          </label>
+          <label> Arrival Airport:
+          <Input className="textinput" placeholder="" value={arrival} onChange={handleArrivalChange} />
+          </label>
+          <Button className="searchbutton" type="submit" className= "searchbutton" type="primary" icon="search" onSubmit={onFormSubmit} >Search</Button>
+          </div>
+        </div>
       </form>
-    </>
-  );
-};
+    );
+  
+}
+
 
 export default SearchForm;
