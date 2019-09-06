@@ -2,15 +2,17 @@ import React, { useState } from "react";
 import axios from "axios";
 import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
-import YVR_routes from "./YVR_routes.json";
+import flightData from "./frontcomponents/fakeData/fakeData.json";
+import FlightList from "./frontcomponents/FlightList";
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
+  const [departureAirport, setDepartureAirport] = useState("");
+  const [iata, setIata] = useState("");
 
   const fetchData = () => {
-    axios.get("/api/airports").then(response => {
-      console.log(response.data);
-      // setCity(response.data);props
+    axios.get(`/api/airports/${iata}`).then(response => {
+      setDepartureAirport(response.data);
     });
   };
   const _addEntity = () => {
@@ -20,12 +22,30 @@ const App = props => {
   const _removeEntity = () => {
     setClearToggle(true);
   };
-
   return (
     <>
-      <button onClick={_addEntity}> add entity </button>
-      <button onClick={_removeEntity}> remove entity </button>
-      <ThreeContainer clear={clearToggle} newAirport={YVR_routes} />
+      <div>
+        <button onClick={fetchData}> Get DATA </button>
+        <button onClick={() => setIata("YVR")}> Vancouver Airport </button>
+        <button onClick={() => setIata("YYZ")}> Toronto Airport </button>
+        <button onClick={() => setIata("CAN")}> Guangzhou Airport </button>
+        <button onClick={() => setIata("GRU")}> São Paulo Airport </button>
+        <input
+          value={iata}
+          onChange={event => setIata(event.target.value)}
+          type="text"
+          placeholder="Airport IATA"
+        />
+        <button onClick={_addEntity}> add entity </button>
+        <button onClick={_removeEntity}> remove entity </button>
+        {departureAirport && (
+          <span>
+            Current data from server: {departureAirport.departure.iata}
+          </span>
+        )}
+        <FlightList flights={flightData}></FlightList>
+      </div>
+      <ThreeContainer clear={clearToggle} newAirport={departureAirport} />
     </>
   );
 };
