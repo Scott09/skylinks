@@ -1,9 +1,10 @@
 const airport = require("./db/data/airports.json");
 const routes = require("./db/data/routes.json");
 const airlines = require("./db/data/airlines.json");
-const flights = require("./db/data/flights.json");
+const flights = require("./db/flightdata/departvansept13");
 const { Pool } = require("pg");
 require("dotenv").config();
+
 
 const pool = new Pool({
   host: process.env.DB_HOST,
@@ -74,28 +75,28 @@ const promise = new Promise((resolve, reject) => {
 for (const item of airlines.airlines) {
   if (item.iata) {
     pool.query(
-      `INSERT INTO airlines (iata, name, fs, icao) VALUES ($1, $2, $3, $4)`,
+      `INSERT INTO airlines (fs, name, iata, icao) VALUES ($1, $2, $3, $4)`,
       [
-        item.iata,
-        item.name,
         item.fs,
+        item.name,
+        item.iata,
         item.icao
       ]
     ).catch(err => console.log(err));
   }
 }
 
-const getRouteByLocations = (departure, arrival) => {
-  return pool.query(
-    `SELECT ID FROM ROUTES WHERE Departure_iata = ${departure} AND Arrival_iata = ${arrival}`
-  );
-};
 
-// loops over flight data and inserts flights. will need to use the getRouteByLocations to find the routeid of the loop
-for (const item of flights) {
-  console.log("HEY WE ARE HERE");
-  pool.query(
-    `INSERT INTO flights (model, route_id, airline_iata) VALUES ($1, $2, $3)`,
-    [item.model, item.route_id, item.airline_iata]
-  );
+for (const item of flights.scheduledFlights) {
+  pool.query(`INSERT into flights(airlineFsCode, stops, departureAirportFs, arrivalAirportFs, departureTime, arrivalTime) values ($1, $2, $3, $4, $5, $6)`, 
+  [
+    item.carrierFsCode,
+    item.stops,
+    item.departureAirportFsCode,
+    item.arrivalAirportFsCode,
+    item.departureTime,
+    item.arrivalTime
+  ]
+  )
 }
+
