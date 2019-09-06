@@ -4,6 +4,7 @@ import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
 import flightData from "./frontcomponents/fakeData/fakeData.json";
 import FlightList from "./frontcomponents/FlightList";
+import SearchForm from './frontcomponents/SearchForm';
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
@@ -44,6 +45,7 @@ const App = props => {
           </span>
         )}
         <FlightList flights={flightData}></FlightList>
+        <SearchForm />
       </div>
       <ThreeContainer clear={clearToggle} newAirport={departureAirport} />
     </>
