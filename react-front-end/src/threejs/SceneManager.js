@@ -42,8 +42,8 @@ export default canvas => {
 
   function buildControls(camera) {
     var controls = new OrbitControls(camera);
-    controls.minPolarAngle = 1.52;
-    controls.maxPolarAngle = 1.52;
+    controls.minPolarAngle = -Math.PI;
+    controls.maxPolarAngle = Math.PI;
     controls.minAzimuthAngle = -Infinity;
     controls.maxAzimuthAngle = Infinity;
     controls.rotateSpeed = 0.3;
@@ -51,6 +51,9 @@ export default canvas => {
     controls.maxDistance = 50;
     controls.minDistance = 6;
     controls.enablePan = false;
+
+    //controls.enabled = false;
+
     return controls;
   }
 
