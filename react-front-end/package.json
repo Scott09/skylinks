@@ -8,6 +8,7 @@
     "@material-ui/icons": "^4.2.1",
     "@material-ui/styles": "^4.3.3",
     "@material/list": "^3.1.0",
+    "antd": "^3.23.1",
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "d3-geo": "^1.11.6",

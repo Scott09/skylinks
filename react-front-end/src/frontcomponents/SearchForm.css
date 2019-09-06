@@ -1,0 +1,26 @@
+form {
+  width: '100%';
+  max-width: 320px;
+  background-color: lightgray;
+  border: 3px outset #1C6EA4;
+  border-radius: 8px;
+  box-shadow: 20px 16px 44px -16px rgba(101,101,102,1);
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.searchbutton {
+   margin-top: 10px;
+
+}
+
+.textinput {
+  background-color: rgb(235, 224, 224);
+  
+  
+}
+
+
+.containerdiv {
+  padding: 8px;
+}
