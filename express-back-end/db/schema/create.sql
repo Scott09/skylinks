@@ -23,9 +23,9 @@ CREATE TABLE routes (
 
 
 CREATE TABLE airlines (
-  iata VARCHAR(255) PRIMARY KEY NOT NULL,
+  fs VARCHAR(255) PRIMARY KEY NOT NULL,
   name VARCHAR(255) NOT NULL,
-  fs VARCHAR(255),
+  iata VARCHAR(255),
   icao VARCHAR(255)
 );
 
@@ -33,9 +33,12 @@ CREATE TABLE airlines (
 
 CREATE TABLE flights (
   id SERIAL PRIMARY KEY NOT NULL,
-  model VARCHAR(255),
-  route_id INT REFERENCES routes(id),
-  airline_iata VARCHAR(255) REFERENCES airlines(iata)
+  airlineFsCode VARCHAR(255) REFERENCES airlines(fs),
+  stops INT, 
+  departureAirportFs VARCHAR(255),
+  arrivalAirportFs VARCHAR(255),
+  departureTime VARCHAR(255),
+  arrivalTime VARCHAR(255)
 );
 
 
