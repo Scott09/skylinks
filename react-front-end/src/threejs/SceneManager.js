@@ -42,8 +42,8 @@ export default canvas => {
 
   function buildControls(camera) {
     var controls = new OrbitControls(camera);
-    controls.minPolarAngle = 1.52;
-    controls.maxPolarAngle = 1.52;
+    controls.minPolarAngle = -Math.PI;
+    controls.maxPolarAngle = Math.PI;
     controls.minAzimuthAngle = -Infinity;
     controls.maxAzimuthAngle = Infinity;
     controls.rotateSpeed = 0.3;
@@ -51,6 +51,8 @@ export default canvas => {
     controls.maxDistance = 50;
     controls.minDistance = 6;
     controls.enablePan = false;
+    controls.enabled = false;
+
     return controls;
   }
 
@@ -131,9 +133,15 @@ export default canvas => {
 
     renderer.setSize(width, height);
   }
+  function onMouseLeave(event) {
+    controls.enabled = false;
+  }
+
+  function onMouseEnter(event) {
+    controls.enabled = true;
+  }
 
   function onMouseDown(event) {
-    event.preventDefault();
     let mouse3D = new THREE.Vector3(
       (event.clientX / window.innerWidth) * 2 - 1,
       -(event.clientY / window.innerHeight) * 2 + 1
@@ -148,11 +156,13 @@ export default canvas => {
       let intersects = raycaster.intersectObjects(routes.children);
 
       if (intersects.length > 0) {
-        for (let i of intersects) {
-          i.object.material.color.setHex(Math.random() * 0xffffff);
-          console.log(`From: ${i.object.start_iata} to: ${i.object.end_iata}`);
-        }
-        // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+        // for (let i of intersects) {
+        //   i.object.material.color.setHex(Math.random() * 0xffffff);
+        //   console.log(
+        //     `From: ${i.object.departure_iata} to: ${i.object.arrival_iata}`
+        //   );
+        // }
+        intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
       }
     }
   }
@@ -162,6 +172,8 @@ export default canvas => {
     onWindowResize,
     onMouseDown,
     clear,
-    addEntity
+    addEntity,
+    onMouseEnter,
+    onMouseLeave
   };
 };
