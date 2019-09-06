@@ -9,7 +9,7 @@ export const PI_TWO = Math.PI * 2;
 export const PI_HALF = Math.PI / 2;
 
 export const CURVE_SEGMENTS = 32;
-export const CURVE_MIN_ALTITUDE = 3;
-export const CURVE_MAX_ALTITUDE = 5;
+export const CURVE_MIN_ALTITUDE = 1.5;
+export const CURVE_MAX_ALTITUDE = 3;
 export const CURVE_COLOR = 0xe43c59;
 export const DEGREE_TO_RADIAN = Math.PI / 180;
