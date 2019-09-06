@@ -7,6 +7,7 @@ import ListItemText from "@material-ui/core/ListItemText";
 import Divider from "@material-ui/core/Divider";
 import PlaneLogo from "./flying-airliner.svg";
 import Arrow from "./right-arrow.svg";
+import TextField from "@material-ui/core/TextField";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -29,6 +30,7 @@ export default function FlightList(props) {
         {props.flights.map(flight => {
           return (
             <>
+              <TextField></TextField>
               <ListItem className={classes.mainContainer} button>
                 <ListItemIcon>
                   <img src={PlaneLogo} height="44" width="44" />

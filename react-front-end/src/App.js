@@ -24,32 +24,28 @@ const App = props => {
   };
   return (
     <>
-      <button onClick={fetchData}> Get DATA </button>
-      <button onClick={() => setIata("YVR")}> Vancouver Airport </button>
-      <button onClick={() => setIata("YYZ")}> Toronto Airport </button>
-      <button onClick={() => setIata("CAN")}> Guangzhou Airport </button>
-      <button onClick={() => setIata("GRU")}> São Paulo Airport </button>
-      <input
-        value={iata}
-        onChange={event => setIata(event.target.value)}
-        type="text"
-        placeholder="Airport IATA"
-      />
-      <button onClick={_addEntity}> add entity </button>
-      <button onClick={_removeEntity}> remove entity </button>
-      {departureAirport && (
-        <span>Current data from server: {departureAirport.departure.iata}</span>
-      )}
-      <FlightList flights={flightData}></FlightList>
+      <div>
+        <button onClick={fetchData}> Get DATA </button>
+        <button onClick={() => setIata("YVR")}> Vancouver Airport </button>
+        <button onClick={() => setIata("YYZ")}> Toronto Airport </button>
+        <button onClick={() => setIata("CAN")}> Guangzhou Airport </button>
+        <button onClick={() => setIata("GRU")}> São Paulo Airport </button>
+        <input
+          value={iata}
+          onChange={event => setIata(event.target.value)}
+          type="text"
+          placeholder="Airport IATA"
+        />
+        <button onClick={_addEntity}> add entity </button>
+        <button onClick={_removeEntity}> remove entity </button>
+        {departureAirport && (
+          <span>
+            Current data from server: {departureAirport.departure.iata}
+          </span>
+        )}
+        <FlightList flights={flightData}></FlightList>
+      </div>
       <ThreeContainer clear={clearToggle} newAirport={departureAirport} />
-
-      {/* <button style={style} onClick={_addEntity}>
-        add entity
-      </button>
-      <button style={style} onClick={_removeEntity}>
-        {" "}
-        remove entity
-      </button> */}
     </>
   );
 };
