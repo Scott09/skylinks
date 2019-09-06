@@ -71,8 +71,8 @@ export default canvas => {
 
   function createSceneSubjects(scene) {
     const sceneSubjects = [
-      // new Earth(scene),
-      // new Clouds(scene),
+      new Earth(scene),
+      new Clouds(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene)
     ];
@@ -148,11 +148,13 @@ export default canvas => {
       let intersects = raycaster.intersectObjects(routes.children);
 
       if (intersects.length > 0) {
-        for (let i of intersects) {
-          i.object.material.color.setHex(Math.random() * 0xffffff);
-          console.log(`From: ${i.object.start_iata} to: ${i.object.end_iata}`);
-        }
-        // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+        // for (let i of intersects) {
+        //   i.object.material.color.setHex(Math.random() * 0xffffff);
+        //   console.log(
+        //     `From: ${i.object.departure_iata} to: ${i.object.arrival_iata}`
+        //   );
+        // }
+        intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
       }
     }
   }
