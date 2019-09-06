@@ -33,13 +33,14 @@ App.get("/api/data", (req, res) => {
   });
 });
 
-App.get("/api/airports", (req, res) => {
+App.get("/api/airports/:id", (req, res) => {
+  const airport = req.params.id;
   const findDepartureCoords = {
     text: `
     SELECT iata, latitude, longitude FROM airports 
     WHERE iata = $1;
     `,
-    values: ["YYZ"]
+    values: [airport]
   };
   const findArrivalCoords = {
     text: `
@@ -47,9 +48,9 @@ App.get("/api/airports", (req, res) => {
     WHERE iata IN
     (SELECT DISTINCT arrival_iata FROM airports 
     JOIN routes ON routes.departure_iata = airports.iata 
-    WHERE airports.iata = $1);
+    WHERE routes.stops = 0 AND airports.iata = $1);
     `,
-    values: ["YYZ"]
+    values: [airport]
   };
 
   pool
@@ -57,7 +58,6 @@ App.get("/api/airports", (req, res) => {
     .then(depart => {
       pool.query(findArrivalCoords).then(arrive => {
         console.log(depart.rows);
-        console.log(arrive.rows);
         res.json({
           departure: depart.rows[0],
           arrival: arrive.rows

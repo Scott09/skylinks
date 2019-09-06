@@ -6,7 +6,6 @@ import { CURVE_SEGMENTS } from "../helpers/constants";
 export default (scene, airport) => {
   if (airport) {
     const group = new THREE.Group();
-    console.log(`spider test 1`, airport);
     /**
      * returns a filtedred list if airports
      * @param  {} name_of_airport, the of the airport
@@ -19,11 +18,13 @@ export default (scene, airport) => {
       curve_material
     ) {
       const startCoor = [
-        departure_airport.latitude,
-        departure_airport.longitude
+        parseFloat(departure_airport.latitude),
+        parseFloat(departure_airport.longitude)
       ];
-      const endCoor = [arrival_airport.latitude, arrival_airport.longitude];
-      console.log(startCoor, endCoor);
+      const endCoor = [
+        parseFloat(arrival_airport.latitude),
+        parseFloat(arrival_airport.longitude)
+      ];
       const { spline } = getSplineFromCoords(startCoor, endCoor);
       const points = spline.getPoints(CURVE_SEGMENTS);
       const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
