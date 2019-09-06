@@ -6,12 +6,11 @@ import YVR_routes from "./YVR_routes.json";
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
-  const [airport, setAirport] = useState("");
+  const [departureAirport, setDepartureAirport] = useState("");
 
   const fetchData = () => {
     axios.get("/api/airports").then(response => {
-      console.log({ response });
-      setAirport(response);
+      setDepartureAirport(response.data);
     });
   };
   const _addEntity = () => {
@@ -27,7 +26,7 @@ const App = props => {
       <button onClick={fetchData}> Toronto Airport </button>
       <button onClick={_addEntity}> add entity </button>
       <button onClick={_removeEntity}> remove entity </button>
-      <ThreeContainer clear={clearToggle} newAirport={YVR_routes} />
+      <ThreeContainer clear={clearToggle} newAirport={departureAirport} />
     </>
   );
 };

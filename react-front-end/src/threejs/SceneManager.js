@@ -71,8 +71,8 @@ export default canvas => {
 
   function createSceneSubjects(scene) {
     const sceneSubjects = [
-      new Earth(scene),
-      new Clouds(scene),
+      // new Earth(scene),
+      // new Clouds(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene)
     ];
