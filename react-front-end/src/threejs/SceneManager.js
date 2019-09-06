@@ -51,7 +51,6 @@ export default canvas => {
     controls.maxDistance = 50;
     controls.minDistance = 6;
     controls.enablePan = false;
-
     return controls;
   }
 
@@ -135,6 +134,27 @@ export default canvas => {
 
   function onMouseDown(event) {
     event.preventDefault();
+    let mouse3D = new THREE.Vector3(
+      (event.clientX / window.innerWidth) * 2 - 1,
+      -(event.clientY / window.innerHeight) * 2 + 1
+    );
+    let raycaster = new THREE.Raycaster();
+    raycaster.linePrecision = 0.1;
+    raycaster.setFromCamera(mouse3D, camera);
+    // find the object that we want to intersect
+
+    let routes = scene.getObjectByName("routes");
+    if (routes) {
+      let intersects = raycaster.intersectObjects(routes.children);
+
+      if (intersects.length > 0) {
+        for (let i of intersects) {
+          i.object.material.color.setHex(Math.random() * 0xffffff);
+          console.log(`From: ${i.object.start_iata} to: ${i.object.end_iata}`);
+        }
+        // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+      }
+    }
   }
 
   return {
