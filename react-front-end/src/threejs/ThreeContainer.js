@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import threeEntryPoint from "./threeEntryPoint";
+import { height } from "@material-ui/system";
 const ThreeContainer = props => {
   const [state, setState] = useState(null);
 
@@ -17,7 +18,12 @@ const ThreeContainer = props => {
       state.addEntity(props.newAirport);
     }
   }
+  const style = {
+    height: "100vh",
+    overflow: "hidden",
+    zIndex: "0"
+  };
 
-  return <div ref={element => (threeRootElement = element)} />;
+  return <div style={style} ref={element => (threeRootElement = element)} />;
 };
 export default ThreeContainer;
