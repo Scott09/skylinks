@@ -17,7 +17,7 @@ export default canvas => {
   const scene = buildScene();
   const renderer = buildRender(screenDimensions);
   const camera = buildCamera(screenDimensions);
-  buildControls(camera);
+  const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
   let sceneRoutes = [];
 
@@ -51,6 +51,7 @@ export default canvas => {
     controls.maxDistance = 50;
     controls.minDistance = 6;
     controls.enablePan = false;
+    return controls;
   }
 
   function buildCamera({ width, height }) {
@@ -69,7 +70,7 @@ export default canvas => {
   }
 
   function createSceneSubjects(scene) {
-    const a = [
+    const sceneSubjects = [
       new Earth(scene),
       new Clouds(scene),
       new GeneralLights(scene),
@@ -143,21 +144,17 @@ export default canvas => {
     // find the object that we want to intersect
 
     let routes = scene.getObjectByName("routes");
+    if (routes) {
+      let intersects = raycaster.intersectObjects(routes.children);
 
-    let intersects = raycaster.intersectObjects(routes.children);
-
-    if (intersects.length > 0) {
-      for (let i of intersects) {
-        i.object.material.color.setHex(Math.random() * 0xffffff);
-        console.log(`From: ${i.object.start_iata} to: ${i.object.end_iata}`);
+      if (intersects.length > 0) {
+        for (let i of intersects) {
+          i.object.material.color.setHex(Math.random() * 0xffffff);
+          console.log(`From: ${i.object.start_iata} to: ${i.object.end_iata}`);
+        }
+        // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
       }
-      // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
     }
-  }
-
-  function onMouseMove(x, y) {
-    mousePosition.x = x;
-    mousePosition.y = y;
   }
 
   return {
