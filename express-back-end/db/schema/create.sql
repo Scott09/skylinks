@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS flights CASCADE;
 DROP TABLE IF EXISTS flights_info CASCADE;
 
 CREATE TABLE airports (
-  iata VARCHAR(255) PRIMARY KEY NOT NULL,
+  fs VARCHAR(255) PRIMARY KEY NOT NULL,
   name VARCHAR(255) NOT NULL,
   latitude DECIMAL NOT NULL,
   longitude DECIMAL NOT NULL,
@@ -17,7 +17,7 @@ CREATE TABLE airports (
 CREATE TABLE routes (
   id SERIAL PRIMARY KEY NOT NULL,
   stops INT DEFAULT 0,
-  departure_iata VARCHAR(255) REFERENCES airports(iata),
+  departure_iata VARCHAR(255) REFERENCES airports(fs),
   arrival_iata VARCHAR(255)
 );
 

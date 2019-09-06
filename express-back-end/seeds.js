@@ -29,10 +29,10 @@ const promise = new Promise((resolve, reject) => {
     if (item.iata) {
       pool
         .query(
-          `INSERT INTO airports (iata, name, latitude, longitude, countrycode,countryname, city)
+          `INSERT INTO airports (fs, name, latitude, longitude, countrycode,countryname, city)
   VALUES ($1, $2, $3, $4, $5, $6, $7)`,
           [
-            item.iata,
+            item.fs,
             item.name,
             item.latitude,
             item.longitude,
