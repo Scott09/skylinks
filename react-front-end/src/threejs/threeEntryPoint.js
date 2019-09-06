@@ -15,7 +15,12 @@ const containerElement = elm => {
   function bindEventListeners() {
     window.onmousedown = moveGlobe;
     window.onresize = resizeCanvas;
+    window.onscroll = stopWheel;
     resizeCanvas();
+  }
+
+  function stopWheel(event) {
+    event.preventDefault();
   }
 
   function moveGlobe(event) {
