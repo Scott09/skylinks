@@ -51,8 +51,7 @@ export default canvas => {
     controls.maxDistance = 50;
     controls.minDistance = 6;
     controls.enablePan = false;
-
-    //controls.enabled = false;
+    controls.enabled = false;
 
     return controls;
   }
@@ -134,9 +133,15 @@ export default canvas => {
 
     renderer.setSize(width, height);
   }
+  function onMouseLeave(event) {
+    controls.enabled = false;
+  }
+
+  function onMouseEnter(event) {
+    controls.enabled = true;
+  }
 
   function onMouseDown(event) {
-    event.preventDefault();
     let mouse3D = new THREE.Vector3(
       (event.clientX / window.innerWidth) * 2 - 1,
       -(event.clientY / window.innerHeight) * 2 + 1
@@ -167,6 +172,8 @@ export default canvas => {
     onWindowResize,
     onMouseDown,
     clear,
-    addEntity
+    addEntity,
+    onMouseEnter,
+    onMouseLeave
   };
 };
