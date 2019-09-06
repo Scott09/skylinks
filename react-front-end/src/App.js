@@ -3,6 +3,8 @@ import axios from "axios";
 import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
 import YVR_routes from "./YVR_routes.json";
+import flightData from "./frontcomponents/fakeData/fakeData.json";
+import FlightList from "./frontcomponents/FlightList";
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
@@ -20,12 +22,17 @@ const App = props => {
   const _removeEntity = () => {
     setClearToggle(true);
   };
-
   return (
     <>
-      <button onClick={_addEntity}> add entity </button>
-      <button onClick={_removeEntity}> remove entity </button>
+      <FlightList flights={flightData}></FlightList>
       <ThreeContainer clear={clearToggle} newAirport={YVR_routes} />
+      {/* <button style={style} onClick={_addEntity}>
+        add entity
+      </button>
+      <button style={style} onClick={_removeEntity}>
+        {" "}
+        remove entity
+      </button> */}
     </>
   );
 };
