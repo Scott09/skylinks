@@ -54,13 +54,13 @@ App.get("/api/airports", (req, res) => {
 
   pool
     .query(findDepartureCoords)
-    .then(coords => {
-      pool.query(findArrivalCoords).then(arrival => {
-        console.log(coords.rows);
-        console.log(arrival.rows);
+    .then(depart => {
+      pool.query(findArrivalCoords).then(arrive => {
+        console.log(depart.rows);
+        console.log(arrive.rows);
         res.json({
-          airport: coords.rows[0],
-          arrival: arrival.rows
+          departure: depart.rows[0],
+          arrival: arrive.rows
         });
       });
     })
