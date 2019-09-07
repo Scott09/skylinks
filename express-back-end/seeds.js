@@ -1,9 +1,10 @@
 const airport = require("./db/data/airports.json");
 const routes = require("./db/data/routes.json");
 const airlines = require("./db/data/airlines.json");
-const flights = require("./db/flightdata/departvansept13");
+const flights = require("./db/data/flights");
 const { Pool } = require("pg");
 require("dotenv").config();
+const vancouvertorontowaypoints = require("./db/data/vancouvertorontowaypoints");
 
 
 const pool = new Pool({
