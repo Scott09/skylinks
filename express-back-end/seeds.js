@@ -4,7 +4,7 @@ const airlines = require("./db/data/airlines.json");
 const flights = require("./db/data/flights");
 const { Pool } = require("pg");
 require("dotenv").config();
-const vancouvertorontowaypoints = require("./db/data/vanTorontoWaypoints.json");
+const vancouverToronto = require('./db/waypoints/vancouverToronto.json')
 
 
 const pool = new Pool({
@@ -100,6 +100,12 @@ for (const item of flights.scheduledFlights) {
   ]
   )
 }
+
+
+vancouverTorontoString = JSON.stringify(vancouverToronto);
+pool.query(`INSERT INTO test (info) values ($1)`, [vancouverTorontoString]);
+
+
 
 
 
