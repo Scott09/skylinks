@@ -29,15 +29,15 @@ const SearchForm = (props) => {
     return (
       <form>
         <div className="example-input">
-          <div className="containerdiv">
-          <h4>Please enter a departure or arrival airport</h4>
-          <label> Departure Airport:
-          <Input className= "textinput" value = {departure} placeholder="" onChange={handleDepartureChange} />
-          </label>
-          <label> Arrival Airport:
-          <Input className="textinput" placeholder="" value={arrival} onChange={handleArrivalChange} />
-          </label>
+          <div id="containerdiv">
+         
+         <span>
+          <Input id="containerdiv" className= "textinput" value = {departure} placeholder="Search Departure" onChange={handleDepartureChange} />
+          </span>
+          <span>
           <Button className="searchbutton" type="submit" className= "searchbutton" type="primary" icon="search" onSubmit={onFormSubmit} >Search</Button>
+          </span>
+          
           </div>
         </div>
       </form>
