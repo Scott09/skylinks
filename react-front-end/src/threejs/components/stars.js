@@ -3,7 +3,7 @@ import { CURVE_SEGMENTS, GLOBE_RADIUS } from "../helpers/constants";
 
 export default scene => {
   const sphere = new THREE.SphereGeometry(
-    GLOBE_RADIUS * 9,
+    GLOBE_RADIUS * 15,
     CURVE_SEGMENTS,
     CURVE_SEGMENTS
   );
