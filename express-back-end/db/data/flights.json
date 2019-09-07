@@ -3371,7 +3371,2408 @@
       }
     ],
     "referenceCode": "973-103180--"
+    },
+    {
+   "carrierFsCode": "AC",
+   "flightNumber": "63",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ICN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-12T10:50:00.000",
+   "arrivalTime": "2019-09-13T13:50:00.000",
+   "flightEquipmentIataCode": "789",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "SQ",
+     "flightNumber": "1003",
+     "serviceType": "J",
+     "serviceClasses": [
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Q"
+     ],
+     "referenceCode": 3034677
+    },
+    {
+     "carrierFsCode": "OZ",
+     "flightNumber": "6101",
+     "serviceType": "J",
+     "serviceClasses": [
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [],
+     "referenceCode": 11868045
     }
+   ],
+   "referenceCode": "973-4667594--"
+  },
+  {
+   "carrierFsCode": "SQ",
+   "flightNumber": "1003",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ICN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-12T10:50:00.000",
+   "arrivalTime": "2019-09-13T13:50:00.000",
+   "flightEquipmentIataCode": "789",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Q"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "63",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4667594--3034677"
+  },
+  {
+   "carrierFsCode": "OZ",
+   "flightNumber": "6101",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ICN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-12T10:50:00.000",
+   "arrivalTime": "2019-09-13T13:50:00.000",
+   "flightEquipmentIataCode": "789",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "63",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4667594--11868045"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8038",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ORD",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "2",
+   "departureTime": "2019-09-12T10:15:00.000",
+   "arrivalTime": "2019-09-12T16:19:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4667905--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8259",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YCD",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:05:00.000",
+   "arrivalTime": "2019-09-12T10:32:00.000",
+   "flightEquipmentIataCode": "DH4",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668559--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8248",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YCG",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:35:00.000",
+   "arrivalTime": "2019-09-12T11:49:00.000",
+   "flightEquipmentIataCode": "DH3",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668628--"
+  },
+  {
+   "carrierFsCode": "AM",
+   "flightNumber": "7354",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YEG",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:28:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "320",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4103261--11872666"
+  },
+  {
+   "carrierFsCode": "WS",
+   "flightNumber": "320",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YEG",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:28:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "CX",
+     "flightNumber": "7020",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 844142
+    },
+    {
+     "carrierFsCode": "AM",
+     "flightNumber": "7354",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 11872666
+    }
+   ],
+   "referenceCode": "973-4103261--"
+  },
+  {
+   "carrierFsCode": "CX",
+   "flightNumber": "7020",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YEG",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:28:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "320",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4103261--844142"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8410",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YLW",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:10:00.000",
+   "arrivalTime": "2019-09-12T11:06:00.000",
+   "flightEquipmentIataCode": "DH4",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-101750--"
+  },
+  {
+   "carrierFsCode": "8P",
+   "flightNumber": "203",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YPW",
+   "stops": 0,
+   "departureTerminal": "S",
+   "departureTime": "2019-09-12T10:40:00.000",
+   "arrivalTime": "2019-09-12T11:15:00.000",
+   "flightEquipmentIataCode": "BE1",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-4227890--"
+  },
+  {
+   "carrierFsCode": "TS",
+   "flightNumber": "772",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YUL",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:15:00.000",
+   "arrivalTime": "2019-09-12T18:15:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-3170487--"
+  },
+  {
+   "carrierFsCode": "WS",
+   "flightNumber": "688",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:39:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "CZ",
+     "flightNumber": "4461",
+     "serviceType": "J",
+     "serviceClasses": [
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 893169
+    },
+    {
+     "carrierFsCode": "DL",
+     "flightNumber": "7095",
+     "serviceType": "J",
+     "serviceClasses": [
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Y"
+     ],
+     "referenceCode": 1324569
+    },
+    {
+     "carrierFsCode": "KE",
+     "flightNumber": "6617",
+     "serviceType": "J",
+     "serviceClasses": [
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Q"
+     ],
+     "referenceCode": 2002223
+    },
+    {
+     "carrierFsCode": "KL",
+     "flightNumber": "9698",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 2018673
+    },
+    {
+     "carrierFsCode": "MF",
+     "flightNumber": "6029",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "O"
+     ],
+     "referenceCode": 2421605
+    },
+    {
+     "carrierFsCode": "QF",
+     "flightNumber": "3981",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "X"
+     ],
+     "referenceCode": 2725892
+    }
+   ],
+   "referenceCode": "973-4105320--"
+  },
+  {
+   "carrierFsCode": "CZ",
+   "flightNumber": "4461",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:39:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105320--893169"
+  },
+  {
+   "carrierFsCode": "DL",
+   "flightNumber": "7095",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:39:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Y"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105320--1324569"
+  },
+  {
+   "carrierFsCode": "KE",
+   "flightNumber": "6617",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:39:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Q"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105320--2002223"
+  },
+  {
+   "carrierFsCode": "KL",
+   "flightNumber": "9698",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:39:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105320--2018673"
+  },
+  {
+   "carrierFsCode": "MF",
+   "flightNumber": "6029",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:39:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "O"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105320--2421605"
+  },
+  {
+   "carrierFsCode": "QF",
+   "flightNumber": "3981",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:39:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "X"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105320--2725892"
+  },
+  {
+   "carrierFsCode": "4N",
+   "flightNumber": "506",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXY",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:45:00.000",
+   "arrivalTime": "2019-09-12T13:10:00.000",
+   "flightEquipmentIataCode": "735",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-4255441--"
+  },
+  {
+   "carrierFsCode": "WS",
+   "flightNumber": "118",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:22:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "DL",
+     "flightNumber": "7046",
+     "serviceType": "J",
+     "serviceClasses": [
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Y"
+     ],
+     "referenceCode": 11880964
+    },
+    {
+     "carrierFsCode": "CX",
+     "flightNumber": "7032",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 11880965
+    },
+    {
+     "carrierFsCode": "HU",
+     "flightNumber": "8888",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "O"
+     ],
+     "referenceCode": 11880966
+    },
+    {
+     "carrierFsCode": "KL",
+     "flightNumber": "9679",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 11880967
+    }
+   ],
+   "referenceCode": "973-4107508--"
+  },
+  {
+   "carrierFsCode": "DL",
+   "flightNumber": "7046",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:22:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Y"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "118",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4107508--11880964"
+  },
+  {
+   "carrierFsCode": "CX",
+   "flightNumber": "7032",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:22:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "118",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4107508--11880965"
+  },
+  {
+   "carrierFsCode": "HU",
+   "flightNumber": "8888",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:22:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "O"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "118",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4107508--11880966"
+  },
+  {
+   "carrierFsCode": "KL",
+   "flightNumber": "9679",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:22:00.000",
+   "flightEquipmentIataCode": "73W",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "118",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4107508--11880967"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "208",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T12:23:00.000",
+   "flightEquipmentIataCode": "319",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-102802--"
+  },
+  {
+   "carrierFsCode": "WS",
+   "flightNumber": "3355",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYJ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:25:00.000",
+   "arrivalTime": "2019-09-12T10:59:00.000",
+   "flightEquipmentIataCode": "DH4",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "WEN",
+   "referenceCode": "973-4107999--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8061",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYJ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:15:00.000",
+   "arrivalTime": "2019-09-12T10:44:00.000",
+   "flightEquipmentIataCode": "DH4",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-102979--"
+  },
+  {
+   "carrierFsCode": "TS",
+   "flightNumber": "946",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "3",
+   "departureTime": "2019-09-12T10:40:00.000",
+   "arrivalTime": "2019-09-12T18:15:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-3170583--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "110",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T17:30:00.000",
+   "flightEquipmentIataCode": "321",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "LO",
+     "flightNumber": "4134",
+     "serviceType": "J",
+     "serviceClasses": [
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 2297170
+    },
+    {
+     "carrierFsCode": "OS",
+     "flightNumber": "8298",
+     "serviceType": "J",
+     "serviceClasses": [
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 11887147
+    }
+   ],
+   "referenceCode": "973-103618--"
+  },
+  {
+   "carrierFsCode": "LO",
+   "flightNumber": "4134",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T17:30:00.000",
+   "flightEquipmentIataCode": "321",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "110",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-103618--2297170"
+  },
+  {
+   "carrierFsCode": "OS",
+   "flightNumber": "8298",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-12T10:00:00.000",
+   "arrivalTime": "2019-09-12T17:30:00.000",
+   "flightEquipmentIataCode": "321",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "110",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-103618--11887147"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8833",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YZF",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-12T10:55:00.000",
+   "arrivalTime": "2019-09-12T14:20:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-103724--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "63",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ICN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-29T10:50:00.000",
+   "arrivalTime": "2019-09-30T13:50:00.000",
+   "flightEquipmentIataCode": "789",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "SQ",
+     "flightNumber": "1003",
+     "serviceType": "J",
+     "serviceClasses": [
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Q"
+     ],
+     "referenceCode": 3034677
+    },
+    {
+     "carrierFsCode": "OZ",
+     "flightNumber": "6101",
+     "serviceType": "J",
+     "serviceClasses": [
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [],
+     "referenceCode": 11868045
+    }
+   ],
+   "referenceCode": "973-4667594--"
+  },
+  {
+   "carrierFsCode": "SQ",
+   "flightNumber": "1003",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ICN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-29T10:50:00.000",
+   "arrivalTime": "2019-09-30T13:50:00.000",
+   "flightEquipmentIataCode": "789",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Q"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "63",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4667594--3034677"
+  },
+  {
+   "carrierFsCode": "OZ",
+   "flightNumber": "6101",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ICN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-29T10:50:00.000",
+   "arrivalTime": "2019-09-30T13:50:00.000",
+   "flightEquipmentIataCode": "789",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "63",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4667594--11868045"
+  },
+  {
+   "carrierFsCode": "CZ",
+   "flightNumber": "377",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "MEX",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-29T10:50:00.000",
+   "arrivalTime": "2019-09-29T17:50:00.000",
+   "flightEquipmentIataCode": "788",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-892602--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8038",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "ORD",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "2",
+   "departureTime": "2019-09-29T10:15:00.000",
+   "arrivalTime": "2019-09-29T16:19:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4667905--"
+  },
+  {
+   "carrierFsCode": "WS",
+   "flightNumber": "1762",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "SAN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "2",
+   "departureTime": "2019-09-29T10:15:00.000",
+   "arrivalTime": "2019-09-29T13:10:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "DL",
+     "flightNumber": "7032",
+     "serviceType": "J",
+     "serviceClasses": [
+      "Y"
+     ],
+     "trafficRestrictions": [],
+     "referenceCode": 1323540
+    }
+   ],
+   "referenceCode": "973-4102718--"
+  },
+  {
+   "carrierFsCode": "DL",
+   "flightNumber": "7032",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "SAN",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "2",
+   "departureTime": "2019-09-29T10:15:00.000",
+   "arrivalTime": "2019-09-29T13:10:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "1762",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4102718--1323540"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8091",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "SEA",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:35:00.000",
+   "arrivalTime": "2019-09-29T11:39:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "LH",
+     "flightNumber": "6648",
+     "serviceType": "J",
+     "serviceClasses": [
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 2264606
+    },
+    {
+     "carrierFsCode": "NZ",
+     "flightNumber": "4597",
+     "serviceType": "J",
+     "serviceClasses": [
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Q"
+     ],
+     "referenceCode": 2646985
+    },
+    {
+     "carrierFsCode": "UA",
+     "flightNumber": "8617",
+     "serviceType": "J",
+     "serviceClasses": [
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [],
+     "referenceCode": 3582373
+    }
+   ],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668124--"
+  },
+  {
+   "carrierFsCode": "LH",
+   "flightNumber": "6648",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "SEA",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:35:00.000",
+   "arrivalTime": "2019-09-29T11:39:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": true,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "8091",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668124--2264606"
+  },
+  {
+   "carrierFsCode": "NZ",
+   "flightNumber": "4597",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "SEA",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:35:00.000",
+   "arrivalTime": "2019-09-29T11:39:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": true,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Q"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "8091",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668124--2646985"
+  },
+  {
+   "carrierFsCode": "UA",
+   "flightNumber": "8617",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "SEA",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:35:00.000",
+   "arrivalTime": "2019-09-29T11:39:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": true,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "8091",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668124--3582373"
+  },
+  {
+   "carrierFsCode": "8P",
+   "flightNumber": "753",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YBL",
+   "stops": 0,
+   "departureTerminal": "S",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T10:45:00.000",
+   "flightEquipmentIataCode": "BE1",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-4227850--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8259",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YCD",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:05:00.000",
+   "arrivalTime": "2019-09-29T10:32:00.000",
+   "flightEquipmentIataCode": "DH4",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668559--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8248",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YCG",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:35:00.000",
+   "arrivalTime": "2019-09-29T11:49:00.000",
+   "flightEquipmentIataCode": "DH3",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-4668628--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8410",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YLW",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:10:00.000",
+   "arrivalTime": "2019-09-29T11:06:00.000",
+   "flightEquipmentIataCode": "DH4",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-101750--"
+  },
+  {
+   "carrierFsCode": "8P",
+   "flightNumber": "203",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YPW",
+   "stops": 0,
+   "departureTerminal": "S",
+   "departureTime": "2019-09-29T10:40:00.000",
+   "arrivalTime": "2019-09-29T11:15:00.000",
+   "flightEquipmentIataCode": "BE1",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-4227890--"
+  },
+  {
+   "carrierFsCode": "8P",
+   "flightNumber": "743",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YQQ",
+   "stops": 0,
+   "departureTerminal": "S",
+   "departureTime": "2019-09-29T10:30:00.000",
+   "arrivalTime": "2019-09-29T11:05:00.000",
+   "flightEquipmentIataCode": "BE1",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-4227921--"
+  },
+  {
+   "carrierFsCode": "8P",
+   "flightNumber": "555",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YWL",
+   "stops": 0,
+   "departureTerminal": "S",
+   "departureTime": "2019-09-29T10:50:00.000",
+   "arrivalTime": "2019-09-29T12:00:00.000",
+   "flightEquipmentIataCode": "BE1",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-4227953--"
+  },
+  {
+   "carrierFsCode": "WS",
+   "flightNumber": "688",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:45:00.000",
+   "arrivalTime": "2019-09-29T13:39:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "CZ",
+     "flightNumber": "4461",
+     "serviceType": "J",
+     "serviceClasses": [
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 893172
+    },
+    {
+     "carrierFsCode": "DL",
+     "flightNumber": "7095",
+     "serviceType": "J",
+     "serviceClasses": [
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Y"
+     ],
+     "referenceCode": 1324572
+    },
+    {
+     "carrierFsCode": "KE",
+     "flightNumber": "6617",
+     "serviceType": "J",
+     "serviceClasses": [
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Q"
+     ],
+     "referenceCode": 2002226
+    },
+    {
+     "carrierFsCode": "KL",
+     "flightNumber": "9698",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 2018676
+    },
+    {
+     "carrierFsCode": "MF",
+     "flightNumber": "6029",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "O"
+     ],
+     "referenceCode": 2421608
+    },
+    {
+     "carrierFsCode": "QF",
+     "flightNumber": "3981",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "X"
+     ],
+     "referenceCode": 2725895
+    }
+   ],
+   "referenceCode": "973-4105323--"
+  },
+  {
+   "carrierFsCode": "CZ",
+   "flightNumber": "4461",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:45:00.000",
+   "arrivalTime": "2019-09-29T13:39:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105323--893172"
+  },
+  {
+   "carrierFsCode": "DL",
+   "flightNumber": "7095",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:45:00.000",
+   "arrivalTime": "2019-09-29T13:39:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Y"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105323--1324572"
+  },
+  {
+   "carrierFsCode": "KE",
+   "flightNumber": "6617",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:45:00.000",
+   "arrivalTime": "2019-09-29T13:39:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Q"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105323--2002226"
+  },
+  {
+   "carrierFsCode": "KL",
+   "flightNumber": "9698",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:45:00.000",
+   "arrivalTime": "2019-09-29T13:39:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105323--2018676"
+  },
+  {
+   "carrierFsCode": "MF",
+   "flightNumber": "6029",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:45:00.000",
+   "arrivalTime": "2019-09-29T13:39:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "O"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105323--2421608"
+  },
+  {
+   "carrierFsCode": "QF",
+   "flightNumber": "3981",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXE",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:45:00.000",
+   "arrivalTime": "2019-09-29T13:39:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "X"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "688",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4105323--2725895"
+  },
+  {
+   "carrierFsCode": "9M",
+   "flightNumber": "753",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YXS",
+   "stops": 0,
+   "departureTerminal": "S",
+   "departureTime": "2019-09-29T10:05:00.000",
+   "arrivalTime": "2019-09-29T11:30:00.000",
+   "flightEquipmentIataCode": "DH1",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-4353368--"
+  },
+  {
+   "carrierFsCode": "WS",
+   "flightNumber": "118",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T12:22:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "DL",
+     "flightNumber": "7046",
+     "serviceType": "J",
+     "serviceClasses": [
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "Y"
+     ],
+     "referenceCode": 1324678
+    },
+    {
+     "carrierFsCode": "KL",
+     "flightNumber": "9679",
+     "serviceType": "J",
+     "serviceClasses": [
+      "R",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 2018780
+    }
+   ],
+   "referenceCode": "973-4107519--"
+  },
+  {
+   "carrierFsCode": "DL",
+   "flightNumber": "7046",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T12:22:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "Y"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "118",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4107519--1324678"
+  },
+  {
+   "carrierFsCode": "KL",
+   "flightNumber": "9679",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T12:22:00.000",
+   "flightEquipmentIataCode": "736",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "WS",
+    "flightNumber": "118",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-4107519--2018780"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "208",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYC",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T12:23:00.000",
+   "flightEquipmentIataCode": "320",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-102806--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8061",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYJ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:15:00.000",
+   "arrivalTime": "2019-09-29T10:44:00.000",
+   "flightEquipmentIataCode": "DH4",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-102979--"
+  },
+  {
+   "carrierFsCode": "TS",
+   "flightNumber": "958",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "3",
+   "departureTime": "2019-09-29T10:10:00.000",
+   "arrivalTime": "2019-09-29T17:45:00.000",
+   "flightEquipmentIataCode": "73H",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "referenceCode": "973-3170563--"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "110",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T17:30:00.000",
+   "flightEquipmentIataCode": "321",
+   "isCodeshare": false,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [
+    {
+     "carrierFsCode": "LO",
+     "flightNumber": "4134",
+     "serviceType": "J",
+     "serviceClasses": [
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 2297171
+    },
+    {
+     "carrierFsCode": "OS",
+     "flightNumber": "8298",
+     "serviceType": "J",
+     "serviceClasses": [
+      "F",
+      "J",
+      "Y"
+     ],
+     "trafficRestrictions": [
+      "G"
+     ],
+     "referenceCode": 11887151
+    }
+   ],
+   "referenceCode": "973-103621--"
+  },
+  {
+   "carrierFsCode": "LO",
+   "flightNumber": "4134",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T17:30:00.000",
+   "flightEquipmentIataCode": "321",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "110",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-103621--2297171"
+  },
+  {
+   "carrierFsCode": "OS",
+   "flightNumber": "8298",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YYZ",
+   "stops": 0,
+   "departureTerminal": "M",
+   "arrivalTerminal": "1",
+   "departureTime": "2019-09-29T10:00:00.000",
+   "arrivalTime": "2019-09-29T17:30:00.000",
+   "flightEquipmentIataCode": "321",
+   "isCodeshare": true,
+   "isWetlease": false,
+   "serviceType": "J",
+   "serviceClasses": [
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [
+    "G"
+   ],
+   "operator": {
+    "carrierFsCode": "AC",
+    "flightNumber": "110",
+    "serviceType": "J",
+    "serviceClasses": [
+     "R",
+     "F",
+     "J",
+     "Y"
+    ],
+    "trafficRestrictions": []
+   },
+   "codeshares": [],
+   "referenceCode": "973-103621--11887151"
+  },
+  {
+   "carrierFsCode": "AC",
+   "flightNumber": "8833",
+   "brand": "Air Canada Express",
+   "departureAirportFsCode": "YVR",
+   "arrivalAirportFsCode": "YZF",
+   "stops": 0,
+   "departureTerminal": "M",
+   "departureTime": "2019-09-29T10:55:00.000",
+   "arrivalTime": "2019-09-29T14:20:00.000",
+   "flightEquipmentIataCode": "CR9",
+   "isCodeshare": false,
+   "isWetlease": true,
+   "serviceType": "J",
+   "serviceClasses": [
+    "R",
+    "F",
+    "J",
+    "Y"
+   ],
+   "trafficRestrictions": [],
+   "codeshares": [],
+   "wetleaseOperatorFsCode": "QK",
+   "referenceCode": "973-103724--"
+  }
   ],
   "appendix": {
     "airlines": [
