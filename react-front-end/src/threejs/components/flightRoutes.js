@@ -45,15 +45,17 @@ export default (scene, airport) => {
       for (const arrival of airport.arrival) {
         const departure_airport = airport.departure;
         const arrival_airport = arrival;
-        const curve_material = new THREE.LineBasicMaterial({
-          color: 0xffffff
+        const curve_material = new THREE.MeshBasicMaterial({
+          blending: THREE.AdditiveBlending,
+          opacity: 0.7,
+          transparent: true,
+          color: 0xe85d33
         });
         const line = makeLineInstance(
           departure_airport,
           arrival_airport,
           curve_material
         );
-
         if (line) {
           group.add(line);
         }
