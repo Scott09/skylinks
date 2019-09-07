@@ -4,7 +4,7 @@ const airlines = require("./db/data/airlines.json");
 const flights = require("./db/data/flights");
 const { Pool } = require("pg");
 require("dotenv").config();
-const vancouvertorontowaypoints = require("./db/data/vancouvertorontowaypoints");
+const vancouvertorontowaypoints = require("./db/data/vanTorontoWaypoints.json");
 
 
 const pool = new Pool({
@@ -100,4 +100,7 @@ for (const item of flights.scheduledFlights) {
   ]
   )
 }
+
+
+
 
