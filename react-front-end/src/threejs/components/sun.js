@@ -15,7 +15,7 @@ export default scene => {
 
   const material = new THREE.MeshBasicMaterial({
     color: 0xfdb813,
-    shininess: 50
+    shininess: 30
   });
 
   const sun = new THREE.Mesh(sphere, material);
