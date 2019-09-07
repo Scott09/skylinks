@@ -2,6 +2,7 @@ import * as THREE from "three";
 
 import { getSplineFromCoords } from "../helpers/curve";
 import { CURVE_SEGMENTS } from "../helpers/constants";
+import makePlaneInstance from "./plane";
 
 export default (scene, airport) => {
   if (airport) {
@@ -29,61 +30,14 @@ export default (scene, airport) => {
       const points = spline.getPoints(CURVE_SEGMENTS);
       const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
 
-      //testing plane here
-      let counter = 0;
-      let tangent = new THREE.Vector3();
-      let axis = new THREE.Vector3();
-      let up = new THREE.Vector3(0, 1, 0);
-
-      let geo = new THREE.PlaneBufferGeometry(0.2, 0.2, 0.1, 0.1);
-      let mat = new THREE.MeshBasicMaterial({
-        map: THREE.ImageUtils.loadTexture("images/plane.png"),
-        transparent: true,
-        side: THREE.DoubleSide
-      });
-      let plane = new THREE.Mesh(geo, mat);
-      plane.position.x += 45;
-
-      scene.add(plane);
-      setInterval(moveontrack, 100);
-      // var mtlLoader = new MTLLoader();
-      // mtlLoader.setPath("/api/plane/");
-      // mtlLoader.load("plane.mtl", function(materials) {
-      //   materials.preload();
-
-      //   var objLoader = new OBJLoader();
-      //   objLoader.setMaterials(materials);
-      //   objLoader.setPath("/api/plane/");
-      //   objLoader.load("plane.obj", function(object) {
-      //     console.log(`am i here?`);
-      //     scene.add(object);
-      //     setInterval(moveontrack(object), 100);
-      //   });
-      // });
-
-      function moveontrack() {
-        if (counter <= 1) {
-          plane.position.copy(spline.getPointAt(counter));
-
-          tangent = spline.getTangentAt(counter).normalize();
-
-          axis.crossVectors(up, tangent).normalize();
-
-          var radians = Math.acos(up.dot(tangent));
-
-          plane.quaternion.setFromAxisAngle(axis, radians);
-
-          counter += 0.005;
-        } else {
-          counter = 0;
-        }
-      }
-      //testing plane up there
+      const plane = makePlaneInstance(spline);
 
       const curvedLine = new THREE.Line(curve_geometry, curve_material);
-      curvedLine.name = `line_${departure_airport.iata}_${arrival_airport.iata}`;
-      curvedLine.departure_iata = departure_airport.iata;
-      curvedLine.arrival_iata = arrival_airport.iata;
+      curvedLine.name = `line_${departure_airport.fs}_${arrival_airport.fs}`;
+      curvedLine.departure_fs = departure_airport.fs;
+      curvedLine.arrival_fs = arrival_airport.fs;
+      curvedLine.add(plane);
+
       return curvedLine;
     }
 
@@ -91,8 +45,11 @@ export default (scene, airport) => {
       for (const arrival of airport.arrival) {
         const departure_airport = airport.departure;
         const arrival_airport = arrival;
-        const curve_material = new THREE.LineBasicMaterial({
-          color: 0xffffff
+        const curve_material = new THREE.MeshBasicMaterial({
+          blending: THREE.AdditiveBlending,
+          opacity: 0.7,
+          transparent: true,
+          color: 0xe85d33
         });
         const line = makeLineInstance(
           departure_airport,

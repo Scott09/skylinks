@@ -4,15 +4,15 @@ import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
 import flightData from "./frontcomponents/fakeData/fakeData.json";
 import FlightList from "./frontcomponents/FlightList";
-import SearchForm from './frontcomponents/SearchForm';
+import SearchForm from "./frontcomponents/SearchForm";
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
   const [departureAirport, setDepartureAirport] = useState("");
-  const [iata, setIata] = useState("");
+  const [fs, setFS] = useState("");
 
   const fetchData = () => {
-    axios.get(`/api/airports/${iata}`).then(response => {
+    axios.get(`/api/airports/${fs}`).then(response => {
       setDepartureAirport(response.data);
     });
   };
@@ -27,22 +27,20 @@ const App = props => {
     <>
       <div>
         <button onClick={fetchData}> Get DATA </button>
-        <button onClick={() => setIata("YVR")}> Vancouver Airport </button>
-        <button onClick={() => setIata("YYZ")}> Toronto Airport </button>
-        <button onClick={() => setIata("CAN")}> Guangzhou Airport </button>
-        <button onClick={() => setIata("GRU")}> São Paulo Airport </button>
+        <button onClick={() => setFS("YVR")}> Vancouver Airport </button>
+        <button onClick={() => setFS("YYZ")}> Toronto Airport </button>
+        <button onClick={() => setFS("CAN")}> Guangzhou Airport </button>
+        <button onClick={() => setFS("GRU")}> São Paulo Airport </button>
         <input
-          value={iata}
-          onChange={event => setIata(event.target.value)}
+          value={fs}
+          onChange={event => setFS(event.target.value)}
           type="text"
-          placeholder="Airport IATA"
+          placeholder="Airport fs"
         />
         <button onClick={_addEntity}> add entity </button>
         <button onClick={_removeEntity}> remove entity </button>
         {departureAirport && (
-          <span>
-            Current data from server: {departureAirport.departure.iata}
-          </span>
+          <span>Current data from server: {departureAirport.departure.fs}</span>
         )}
         <FlightList flights={flightData}></FlightList>
         <SearchForm />
