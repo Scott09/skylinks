@@ -11,12 +11,8 @@ const ThreeContainer = props => {
   }, []);
 
   if (state) {
-    if (props.clear) {
-      state.clear();
-    }
-    if (!props.clear) {
-      state.addEntity(props.newAirport);
-    }
+    state.clear();
+    state.addEntity(props.newAirport);
   }
   const style = {
     height: "100vh",

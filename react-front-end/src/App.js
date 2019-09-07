@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
@@ -12,40 +12,31 @@ const App = props => {
   const [departureAirport, setDepartureAirport] = useState("");
   const [fs, setFS] = useState("");
 
+  useEffect(() => {
+    console.log("call", fs);
+
+    fetchData();
+  }, [fs]);
+
   const fetchData = () => {
     axios.get(`/api/airports/${fs}`).then(response => {
-      setDepartureAirport(response.data);
+      if (response.data) {
+        setDepartureAirport(response.data);
+      }
     });
   };
-  const _addEntity = () => {
-    setClearToggle(false);
-  };
 
-  const _removeEntity = () => {
-    setClearToggle(true);
+  const arrivals = () => {};
+
+  const departures = departure => {
+    setFS(departure.toUpperCase());
   };
   return (
     <>
       <div>
-        <button onClick={fetchData}> Get DATA </button>
-        <button onClick={() => setFS("YVR")}> Vancouver Airport </button>
-        <button onClick={() => setFS("YYZ")}> Toronto Airport </button>
-        <button onClick={() => setFS("CAN")}> Guangzhou Airport </button>
-        <button onClick={() => setFS("GRU")}> São Paulo Airport </button>
-        <input
-          value={fs}
-          onChange={event => setFS(event.target.value)}
-          type="text"
-          placeholder="Airport fs"
-        />
-        <button onClick={_addEntity}> add entity </button>
-        <button onClick={_removeEntity}> remove entity </button>
-        {departureAirport && (
-          <span>Current data from server: {departureAirport.departure.fs}</span>
-        )}
         <RouteList routes={departureAirport}></RouteList>
-        <FlightList flights={flightData}></FlightList>
-        <SearchForm />
+        {/* <FlightList flights={flightData}></FlightList> */}
+        <SearchForm getArrival={arrivals} getDepartures={departures} />
       </div>
       <ThreeContainer clear={clearToggle} newAirport={departureAirport} />
     </>
