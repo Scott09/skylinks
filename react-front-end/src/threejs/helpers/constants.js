@@ -5,6 +5,10 @@ export const GLOBE_CENTER = new THREE.Vector3(0, 0, 0);
 export const GLOBE_SHININESS = 10;
 export const GLOBE_BUMPSCALE = 0.02;
 
+export const DirectionalLightX = -40;
+export const DirectionalLightY = 5;
+export const DirectionalLightZ = 40;
+
 export const PI_TWO = Math.PI * 2;
 export const PI_HALF = Math.PI / 2;
 

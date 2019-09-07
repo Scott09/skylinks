@@ -14,7 +14,7 @@ export default scene => {
   );
 
   const material = new THREE.MeshPhongMaterial({
-    map: THREE.ImageUtils.loadTexture("images/2_no_clouds_4k.jpg"),
+    map: THREE.ImageUtils.loadTexture("images/8k_earth_daymap.jpg"),
     bumpMap: THREE.ImageUtils.loadTexture("images/elev_bump_4k.jpg"),
     bumpScale: GLOBE_BUMPSCALE,
     specularMap: THREE.ImageUtils.loadTexture("images/water_4k.png"),

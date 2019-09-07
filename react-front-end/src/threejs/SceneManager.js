@@ -2,6 +2,7 @@ import * as THREE from "three";
 import Earth from "./components/earth";
 import StarsBackGround from "./components/stars";
 import Clouds from "./components/clouds";
+import Sun from "./components/sun";
 import FlightRoutes from "./components/flightRoutes";
 import GeneralLights from "./GeneralLights";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
@@ -48,7 +49,7 @@ export default canvas => {
     controls.maxAzimuthAngle = Infinity;
     controls.rotateSpeed = 0.3;
     controls.zoomSpeed = 0.5;
-    controls.maxDistance = 50;
+    controls.maxDistance = 40;
     controls.minDistance = 6;
     controls.enablePan = false;
     controls.enabled = false;
@@ -58,7 +59,7 @@ export default canvas => {
 
   function buildCamera({ width, height }) {
     const aspectRatio = width / height;
-    const fieldOfView = 75;
+    const fieldOfView = 65;
     const nearPlane = 0.2;
     const farPlane = 10000;
     const camera = new THREE.PerspectiveCamera(
@@ -75,6 +76,7 @@ export default canvas => {
     const sceneSubjects = [
       new Earth(scene),
       new Clouds(scene),
+      new Sun(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene)
     ];
