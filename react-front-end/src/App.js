@@ -4,6 +4,7 @@ import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
 import flightData from "./frontcomponents/fakeData/fakeData.json";
 import FlightList from "./frontcomponents/FlightList";
+import RouteList from "./frontcomponents/RouteList";
 import SearchForm from "./frontcomponents/SearchForm";
 
 const App = props => {
@@ -42,6 +43,7 @@ const App = props => {
         {departureAirport && (
           <span>Current data from server: {departureAirport.departure.fs}</span>
         )}
+        <RouteList routes={departureAirport}></RouteList>
         <FlightList flights={flightData}></FlightList>
         <SearchForm />
       </div>
