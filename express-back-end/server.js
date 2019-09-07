@@ -37,18 +37,18 @@ App.get("/api/airports/:id", (req, res) => {
   const airport = req.params.id;
   const findDepartureCoords = {
     text: `
-    SELECT iata, latitude, longitude FROM airports 
-    WHERE iata = $1;
+    SELECT fs, latitude, longitude FROM airports 
+    WHERE fs = $1;
     `,
     values: [airport]
   };
   const findArrivalCoords = {
     text: `
-    SELECT iata, latitude, longitude FROM airports 
-    WHERE iata IN
+    SELECT fs, latitude, longitude FROM airports 
+    WHERE fs IN
     (SELECT DISTINCT arrival_iata FROM airports 
-    JOIN routes ON routes.departure_iata = airports.iata 
-    WHERE routes.stops = 0 AND airports.iata = $1);
+    JOIN routes ON routes.departure_iata = airports.fs 
+    WHERE routes.stops = 0 AND airports.fs = $1);
     `,
     values: [airport]
   };
