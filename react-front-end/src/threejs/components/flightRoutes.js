@@ -81,9 +81,9 @@ export default (scene, airport) => {
       //testing plane up there
 
       const curvedLine = new THREE.Line(curve_geometry, curve_material);
-      curvedLine.name = `line_${departure_airport.iata}_${arrival_airport.iata}`;
-      curvedLine.departure_iata = departure_airport.iata;
-      curvedLine.arrival_iata = arrival_airport.iata;
+      curvedLine.name = `line_${departure_airport.fs}_${arrival_airport.fs}`;
+      curvedLine.departure_fs = departure_airport.fs;
+      curvedLine.arrival_fs = arrival_airport.fs;
       return curvedLine;
     }
 
