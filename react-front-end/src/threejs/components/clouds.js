@@ -3,13 +3,14 @@ import { CURVE_SEGMENTS, GLOBE_RADIUS } from "../helpers/constants";
 
 export default scene => {
   const sphere = new THREE.SphereGeometry(
-    GLOBE_RADIUS + 0.3,
+    GLOBE_RADIUS + 0.2,
     CURVE_SEGMENTS,
     CURVE_SEGMENTS
   );
 
   const material = new THREE.MeshPhongMaterial({
     map: THREE.ImageUtils.loadTexture("images/fair_clouds_4k.png"),
+    opacity: 0.7,
     transparent: true
   });
 
@@ -19,7 +20,7 @@ export default scene => {
   scene.add(clouds);
 
   function update(time) {
-    clouds.rotation.y += 0.0001;
+    clouds.rotation.y += 0.0002;
   }
 
   return {

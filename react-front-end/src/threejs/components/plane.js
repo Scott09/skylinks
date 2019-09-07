@@ -39,7 +39,7 @@ export default spline => {
     if (counter <= 1) {
       plane.position.copy(spline.getPointAt(counter));
 
-      tangent = spline.getTangentAt(counter).normalize();
+      tangent = spline.getTangentAt(0.5).normalize();
 
       axis.crossVectors(up, tangent).normalize();
 
@@ -47,7 +47,7 @@ export default spline => {
 
       plane.quaternion.setFromAxisAngle(axis, radians);
 
-      counter += 0.005;
+      counter += 0.003;
     } else {
       counter = 0;
     }
