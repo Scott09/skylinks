@@ -72,9 +72,7 @@ App.get("/api/airports/:id", (req, res) => {
 App.get("/api/plane/:id", (req, res) => {
   const file_name = req.params.id;
   console.log(file_name);
-  res.json({
-    message: "Seems to work!"
-  });
+  res.send(`/plane/${file_name}`);
 });
 
 App.listen(PORT, () => {
