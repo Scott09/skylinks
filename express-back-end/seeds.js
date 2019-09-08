@@ -4,7 +4,7 @@ const airlines = require("./db/data/airlines.json");
 const flights = require("./db/data/flights");
 const { Pool } = require("pg");
 require("dotenv").config();
-const vancouverToronto = require('./db/waypoints/vancouverToronto.json')
+const YVR_YYZ = require('./db/waypoints/YVR_YYZ.json')
 
 
 const pool = new Pool({
@@ -101,9 +101,14 @@ for (const item of flights.scheduledFlights) {
   )
 }
 
+for(const waypoint of YVR_YYZ){
+  const waypoints = `'{"Timestamp": "${waypoint.Timestamp}","Position": "${waypoint.Position}","Altitude": "${waypoint.Altitude}","Direction": "${waypoint.Direction}"}'`;
+  console.log(waypoints);
+pool.query(
+  `INSERT INTO test (info, departure_iata, arrival_iata ) VALUES ($1, $2, $3)`, [ `Timestamp": "${waypoint.Timestamp}"`,'YVR', 'YYZ' ]
+ )};
 
-vancouverTorontoString = JSON.stringify(vancouverToronto);
-pool.query(`INSERT INTO test (info) values ($1)`, [vancouverTorontoString]);
+  // `INSERT INTO test (info) values ( '{ "customer": "John Doe", "items": {"product": "Beer","qty": 6}}')`);
 
 
 
