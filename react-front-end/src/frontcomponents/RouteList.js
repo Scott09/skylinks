@@ -7,7 +7,6 @@ import ListItemText from "@material-ui/core/ListItemText";
 import PlaneLogo from "./flying-airliner.svg";
 import AirportTower from "./airport.png";
 import Arrow from "./right-arrow.svg";
-import "./RouteList.css";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -21,7 +20,8 @@ const useStyles = makeStyles(theme => ({
     position: "absolute",
     top: 60,
     right: 10,
-    opacity: 0.5
+    opacity: 0.5,
+    overflow: "auto"
   }
 }));
 
