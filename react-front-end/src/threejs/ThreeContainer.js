@@ -12,8 +12,12 @@ const ThreeContainer = props => {
 
   if (state) {
     state.clear();
-    state.addEntity(props.newAirport);
+    state.addEntity({
+      departure: props.newDeparture,
+      arrival: props.newArrival
+    });
   }
+
   const style = {
     height: "100vh",
     overflow: "hidden",
