@@ -6,7 +6,8 @@ position VARCHAR(21) NULL,
 altitude INT NULL,
 speed INT NULL,
 direction INT NULL,
-departureFS VARCHAR(255)
+departureFS, 
+ArrivalFS
 
 );
 

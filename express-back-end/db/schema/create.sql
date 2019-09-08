@@ -42,4 +42,9 @@ CREATE TABLE flights (
 );
 
 
-create table test (info json);
+create table test (
+  id SERIAL PRIMARY KEY NOT NULL,
+  info json,
+  departure_iata VARCHAR(255),
+  arrival_iata VARCHAR(255)
+  );
