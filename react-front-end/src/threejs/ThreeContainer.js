@@ -10,10 +10,19 @@ const ThreeContainer = props => {
     setState(manager);
   }, []);
 
-  if (state) {
+  if (state && !props.newSingleArrival) {
     state.clear();
     state.addEntity(props.newAirport);
   }
+
+  if (props.newSingleArrival) {
+    state.clear();
+    state.addEntity({
+      departure: props.newAirport.departure,
+      arrival: props.newSingleArrival
+    });
+  }
+
   const style = {
     height: "100vh",
     overflow: "hidden",
