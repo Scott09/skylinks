@@ -27,3 +27,8 @@ form {
   padding: 8px;
   color: white;
 }
+
+#text {
+  background-color: transparent;
+  color: white;
+}
