@@ -1,0 +1,6 @@
+.list_main {
+  -webkit-transition: all 500ms ease 1s;
+  -moz-transition: all 500ms ease 1s;
+  -o-transition: all 500ms ease 1s;
+  transition: all 500ms ease 1s;
+}
