@@ -4,6 +4,7 @@ import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
 import flightData from "./frontcomponents/fakeData/fakeData.json";
 import FlightList from "./frontcomponents/FlightList";
+import RouteList from "./frontcomponents/RouteList";
 import SearchForm from "./frontcomponents/SearchForm";
 
 const App = props => {
@@ -33,7 +34,8 @@ const App = props => {
   return (
     <>
       <div>
-        <FlightList flights={flightData}></FlightList>
+        <RouteList routes={departureAirport}></RouteList>
+        {/* <FlightList flights={flightData}></FlightList> */}
         <SearchForm getArrival={arrivals} getDepartures={departures} />
       </div>
       <ThreeContainer clear={clearToggle} newAirport={departureAirport} />
