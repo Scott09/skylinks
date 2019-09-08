@@ -4,8 +4,7 @@ const airlines = require("./db/data/airlines.json");
 const flights = require("./db/data/flights");
 const { Pool } = require("pg");
 require("dotenv").config();
-const YVR_YYZ = require('./db/waypoints/YVR_YYZ.json')
-
+const YVR_YYZ = require("./db/waypoints/YVR_YYZ.json");
 
 const pool = new Pool({
   host: process.env.DB_HOST,
@@ -71,47 +70,41 @@ const promise = new Promise((resolve, reject) => {
   });
 });
 
-
-
 for (const item of airlines.airlines) {
   if (item.iata) {
-    pool.query(
-      `INSERT INTO airlines (fs, name, iata, icao) VALUES ($1, $2, $3, $4)`,
-      [
-        item.fs,
-        item.name,
-        item.iata,
-        item.icao
-      ]
-    ).catch(err => console.log(err));
+    pool
+      .query(
+        `INSERT INTO airlines (fs, name, iata, icao) VALUES ($1, $2, $3, $4)`,
+        [item.fs, item.name, item.iata, item.icao]
+      )
+      .catch(err => console.log(err));
   }
 }
 
-
 for (const item of flights.scheduledFlights) {
-  pool.query(`INSERT into flights(airlineFsCode, stops, departureAirportFs, arrivalAirportFs, departureTime, arrivalTime) values ($1, $2, $3, $4, $5, $6)`, 
-  [
-    item.carrierFsCode,
-    item.stops,
-    item.departureAirportFsCode,
-    item.arrivalAirportFsCode,
-    item.departureTime,
-    item.arrivalTime
-  ]
-  )
+  pool.query(
+    `INSERT into flights(airlineFsCode, stops, departureAirportFs, arrivalAirportFs, departureTime, arrivalTime) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      item.carrierFsCode,
+      item.stops,
+      item.departureAirportFsCode,
+      item.arrivalAirportFsCode,
+      item.departureTime,
+      item.arrivalTime
+    ]
+  );
 }
 
-for(const waypoint of YVR_YYZ){
-  const waypoints = `'{"Timestamp": "${waypoint.Timestamp}","Position": "${waypoint.Position}","Altitude": "${waypoint.Altitude}","Direction": "${waypoint.Direction}"}'`;
-  console.log(waypoints);
-pool.query(
-  `INSERT INTO test (info, departure_iata, arrival_iata ) VALUES ($1, $2, $3)`, [ `Timestamp": "${waypoint.Timestamp}"`,'YVR', 'YYZ' ]
- )};
-
-  // `INSERT INTO test (info) values ( '{ "customer": "John Doe", "items": {"product": "Beer","qty": 6}}')`);
-
-
-
-
-
-
+for (const waypoint of YVR_YYZ) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "YYZ"
+    ]
+  );
+}
