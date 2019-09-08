@@ -45,7 +45,11 @@ export default function RouteList(props) {
             {props.routes.arrival.map(arrival => {
               return (
                 <>
-                  <ListItem className={classes.mainContainer} button>
+                  <ListItem
+                    className={classes.mainContainer}
+                    onClick={() => props.onSelect(arrival)}
+                    button
+                  >
                     <ListItemIcon>
                       <img src={PlaneLogo} height="33" width="33" />
                     </ListItemIcon>
