@@ -41,7 +41,7 @@ const queryWaypoints = (departure, arrival) => {
           }
         })
       }
-      console.log(waypoints);
+      return waypoints;
     }
   })
  
