@@ -5,6 +5,12 @@ const flights = require("./db/data/flights");
 const { Pool } = require("pg");
 require("dotenv").config();
 const YVR_YYZ = require("./db/waypoints/YVR_YYZ.json");
+const YVR_HNL = require("./db/waypoints/YVR_HNL.json");
+const YVR_SAN = require("./db/waypoints/YVR_SAN.json");
+const YVR_YXY = require("./db/waypoints/YVR_YXY.json");
+const YVR_ICN = require(".db/waypoints/YVR_ICN.json");
+
+
 
 const pool = new Pool({
   host: process.env.DB_HOST,
@@ -108,3 +114,63 @@ for (const waypoint of YVR_YYZ) {
     ]
   );
 }
+
+for (const waypoint of YVR_HNL) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "HNL"
+    ]
+  );
+}
+
+for (const waypoint of YVR_SAN) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "SAN"
+    ]
+  );
+}
+
+for (const waypoint of YVR_YXY) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "YXY"
+    ]
+  );
+}
+
+for (const waypoint of YVR_ICN) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "ICN"
+    ]
+  );
+}
+
+
+
+

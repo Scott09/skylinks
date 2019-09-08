@@ -1,0 +1,1883 @@
+[
+  {
+    "Timestamp": 1564341643,
+    "UTC": "2019-07-28T19:20:43Z",
+    "Callsign": "ANT516",
+    "Position": "49.185287,-123.160454",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1564341656,
+    "UTC": "2019-07-28T19:20:56Z",
+    "Callsign": "ANT516",
+    "Position": "49.185001,-123.160522",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 185
+  },
+  {
+    "Timestamp": 1564341667,
+    "UTC": "2019-07-28T19:21:07Z",
+    "Callsign": "ANT516",
+    "Position": "49.18478,-123.16066",
+    "Altitude": 0,
+    "Speed": 11,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1564341710,
+    "UTC": "2019-07-28T19:21:50Z",
+    "Callsign": "ANT516",
+    "Position": "49.184921,-123.162407",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1564341720,
+    "UTC": "2019-07-28T19:22:00Z",
+    "Callsign": "ANT516",
+    "Position": "49.185337,-123.166077",
+    "Altitude": 0,
+    "Speed": 78,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1564341733,
+    "UTC": "2019-07-28T19:22:13Z",
+    "Callsign": "ANT516",
+    "Position": "49.186398,-123.175316",
+    "Altitude": 0,
+    "Speed": 124,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1564341744,
+    "UTC": "2019-07-28T19:22:24Z",
+    "Callsign": "ANT516",
+    "Position": "49.187805,-123.187653",
+    "Altitude": 0,
+    "Speed": 161,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1564341751,
+    "UTC": "2019-07-28T19:22:31Z",
+    "Callsign": "ANT516",
+    "Position": "49.188679,-123.194687",
+    "Altitude": 125,
+    "Speed": 160,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1564341757,
+    "UTC": "2019-07-28T19:22:37Z",
+    "Callsign": "ANT516",
+    "Position": "49.189499,-123.201385",
+    "Altitude": 425,
+    "Speed": 159,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1564341766,
+    "UTC": "2019-07-28T19:22:46Z",
+    "Callsign": "ANT516",
+    "Position": "49.19133,-123.214836",
+    "Altitude": 900,
+    "Speed": 163,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1564341773,
+    "UTC": "2019-07-28T19:22:53Z",
+    "Callsign": "ANT516",
+    "Position": "49.192215,-123.221573",
+    "Altitude": 1025,
+    "Speed": 173,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1564341779,
+    "UTC": "2019-07-28T19:22:59Z",
+    "Callsign": "ANT516",
+    "Position": "49.193344,-123.229347",
+    "Altitude": 1075,
+    "Speed": 187,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1564341786,
+    "UTC": "2019-07-28T19:23:06Z",
+    "Callsign": "ANT516",
+    "Position": "49.19445,-123.237404",
+    "Altitude": 1125,
+    "Speed": 200,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1564341793,
+    "UTC": "2019-07-28T19:23:13Z",
+    "Callsign": "ANT516",
+    "Position": "49.195705,-123.246002",
+    "Altitude": 1200,
+    "Speed": 214,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1564341804,
+    "UTC": "2019-07-28T19:23:24Z",
+    "Callsign": "ANT516",
+    "Position": "49.198517,-123.26519",
+    "Altitude": 1600,
+    "Speed": 227,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1564341816,
+    "UTC": "2019-07-28T19:23:36Z",
+    "Callsign": "ANT516",
+    "Position": "49.201153,-123.283806",
+    "Altitude": 2350,
+    "Speed": 223,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1564341828,
+    "UTC": "2019-07-28T19:23:48Z",
+    "Callsign": "ANT516",
+    "Position": "49.203712,-123.302094",
+    "Altitude": 2925,
+    "Speed": 229,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1564341839,
+    "UTC": "2019-07-28T19:23:59Z",
+    "Callsign": "ANT516",
+    "Position": "49.20726,-123.320755",
+    "Altitude": 3500,
+    "Speed": 232,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1564341845,
+    "UTC": "2019-07-28T19:24:05Z",
+    "Callsign": "ANT516",
+    "Position": "49.210648,-123.329208",
+    "Altitude": 3775,
+    "Speed": 234,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1564341851,
+    "UTC": "2019-07-28T19:24:11Z",
+    "Callsign": "ANT516",
+    "Position": "49.214981,-123.336205",
+    "Altitude": 4025,
+    "Speed": 237,
+    "Direction": 317
+  },
+  {
+    "Timestamp": 1564341858,
+    "UTC": "2019-07-28T19:24:18Z",
+    "Callsign": "ANT516",
+    "Position": "49.220985,-123.342712",
+    "Altitude": 4250,
+    "Speed": 242,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1564341866,
+    "UTC": "2019-07-28T19:24:26Z",
+    "Callsign": "ANT516",
+    "Position": "49.230713,-123.348564",
+    "Altitude": 4525,
+    "Speed": 254,
+    "Direction": 345
+  },
+  {
+    "Timestamp": 1564341873,
+    "UTC": "2019-07-28T19:24:33Z",
+    "Callsign": "ANT516",
+    "Position": "49.23793,-123.350304",
+    "Altitude": 4700,
+    "Speed": 259,
+    "Direction": 353
+  },
+  {
+    "Timestamp": 1564341880,
+    "UTC": "2019-07-28T19:24:40Z",
+    "Callsign": "ANT516",
+    "Position": "49.245026,-123.350967",
+    "Altitude": 4975,
+    "Speed": 261,
+    "Direction": 356
+  },
+  {
+    "Timestamp": 1564341887,
+    "UTC": "2019-07-28T19:24:47Z",
+    "Callsign": "ANT516",
+    "Position": "49.256241,-123.351395",
+    "Altitude": 5475,
+    "Speed": 264,
+    "Direction": 358
+  },
+  {
+    "Timestamp": 1564341893,
+    "UTC": "2019-07-28T19:24:53Z",
+    "Callsign": "ANT516",
+    "Position": "49.263069,-123.351601",
+    "Altitude": 5750,
+    "Speed": 265,
+    "Direction": 358
+  },
+  {
+    "Timestamp": 1564341910,
+    "UTC": "2019-07-28T19:25:10Z",
+    "Callsign": "ANT516",
+    "Position": "49.28183,-123.35231",
+    "Altitude": 6475,
+    "Speed": 271,
+    "Direction": 358
+  },
+  {
+    "Timestamp": 1564341922,
+    "UTC": "2019-07-28T19:25:22Z",
+    "Callsign": "ANT516",
+    "Position": "49.297005,-123.352829",
+    "Altitude": 7000,
+    "Speed": 277,
+    "Direction": 358
+  },
+  {
+    "Timestamp": 1564341934,
+    "UTC": "2019-07-28T19:25:34Z",
+    "Callsign": "ANT516",
+    "Position": "49.31274,-123.35305",
+    "Altitude": 7525,
+    "Speed": 283,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1564341952,
+    "UTC": "2019-07-28T19:25:52Z",
+    "Callsign": "ANT516",
+    "Position": "49.336533,-123.353081",
+    "Altitude": 8425,
+    "Speed": 287,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1564341976,
+    "UTC": "2019-07-28T19:26:16Z",
+    "Callsign": "ANT516",
+    "Position": "49.368694,-123.352539",
+    "Altitude": 9725,
+    "Speed": 287,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1564341996,
+    "UTC": "2019-07-28T19:26:36Z",
+    "Callsign": "ANT516",
+    "Position": "49.397095,-123.351959",
+    "Altitude": 10500,
+    "Speed": 301,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1564342016,
+    "UTC": "2019-07-28T19:26:56Z",
+    "Callsign": "ANT516",
+    "Position": "49.427582,-123.351181",
+    "Altitude": 10900,
+    "Speed": 329,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1564342037,
+    "UTC": "2019-07-28T19:27:17Z",
+    "Callsign": "ANT516",
+    "Position": "49.45665,-123.350586",
+    "Altitude": 11300,
+    "Speed": 352,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1564342057,
+    "UTC": "2019-07-28T19:27:37Z",
+    "Callsign": "ANT516",
+    "Position": "49.492199,-123.349815",
+    "Altitude": 12275,
+    "Speed": 359,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1564342090,
+    "UTC": "2019-07-28T19:28:10Z",
+    "Callsign": "ANT516",
+    "Position": "49.548527,-123.347961",
+    "Altitude": 13825,
+    "Speed": 371,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1564342123,
+    "UTC": "2019-07-28T19:28:43Z",
+    "Callsign": "ANT516",
+    "Position": "49.606392,-123.34581",
+    "Altitude": 15425,
+    "Speed": 381,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1564342154,
+    "UTC": "2019-07-28T19:29:14Z",
+    "Callsign": "ANT516",
+    "Position": "49.660217,-123.343292",
+    "Altitude": 16900,
+    "Speed": 388,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1564342188,
+    "UTC": "2019-07-28T19:29:48Z",
+    "Callsign": "ANT516",
+    "Position": "49.720119,-123.339943",
+    "Altitude": 18375,
+    "Speed": 397,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1564342194,
+    "UTC": "2019-07-28T19:29:54Z",
+    "Callsign": "ANT516",
+    "Position": "49.736362,-123.342018",
+    "Altitude": 18700,
+    "Speed": 397,
+    "Direction": 350
+  },
+  {
+    "Timestamp": 1564342200,
+    "UTC": "2019-07-28T19:30:00Z",
+    "Callsign": "ANT516",
+    "Position": "49.746735,-123.345818",
+    "Altitude": 18950,
+    "Speed": 395,
+    "Direction": 345
+  },
+  {
+    "Timestamp": 1564342206,
+    "UTC": "2019-07-28T19:30:06Z",
+    "Callsign": "ANT516",
+    "Position": "49.757313,-123.351227",
+    "Altitude": 19200,
+    "Speed": 395,
+    "Direction": 339
+  },
+  {
+    "Timestamp": 1564342215,
+    "UTC": "2019-07-28T19:30:15Z",
+    "Callsign": "ANT516",
+    "Position": "49.767879,-123.358276",
+    "Altitude": 19450,
+    "Speed": 396,
+    "Direction": 335
+  },
+  {
+    "Timestamp": 1564342223,
+    "UTC": "2019-07-28T19:30:23Z",
+    "Callsign": "ANT516",
+    "Position": "49.782265,-123.368896",
+    "Altitude": 19800,
+    "Speed": 398,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342230,
+    "UTC": "2019-07-28T19:30:30Z",
+    "Callsign": "ANT516",
+    "Position": "49.792786,-123.376541",
+    "Altitude": 20050,
+    "Speed": 399,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342295,
+    "UTC": "2019-07-28T19:31:35Z",
+    "Callsign": "ANT516",
+    "Position": "49.905212,-123.456841",
+    "Altitude": 22550,
+    "Speed": 414,
+    "Direction": 335
+  },
+  {
+    "Timestamp": 1564342357,
+    "UTC": "2019-07-28T19:32:37Z",
+    "Callsign": "ANT516",
+    "Position": "50.015537,-123.537552",
+    "Altitude": 24675,
+    "Speed": 428,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342419,
+    "UTC": "2019-07-28T19:33:39Z",
+    "Callsign": "ANT516",
+    "Position": "50.126495,-123.618813",
+    "Altitude": 26750,
+    "Speed": 434,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342480,
+    "UTC": "2019-07-28T19:34:40Z",
+    "Callsign": "ANT516",
+    "Position": "50.241455,-123.703529",
+    "Altitude": 28875,
+    "Speed": 433,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342545,
+    "UTC": "2019-07-28T19:35:45Z",
+    "Callsign": "ANT516",
+    "Position": "50.354717,-123.787415",
+    "Altitude": 30975,
+    "Speed": 426,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342607,
+    "UTC": "2019-07-28T19:36:47Z",
+    "Callsign": "ANT516",
+    "Position": "50.467094,-123.870926",
+    "Altitude": 32600,
+    "Speed": 425,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342671,
+    "UTC": "2019-07-28T19:37:51Z",
+    "Callsign": "ANT516",
+    "Position": "50.577896,-123.953972",
+    "Altitude": 33975,
+    "Speed": 421,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342734,
+    "UTC": "2019-07-28T19:38:54Z",
+    "Callsign": "ANT516",
+    "Position": "50.689087,-124.037498",
+    "Altitude": 33975,
+    "Speed": 420,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342796,
+    "UTC": "2019-07-28T19:39:56Z",
+    "Callsign": "ANT516",
+    "Position": "50.800186,-124.121384",
+    "Altitude": 33975,
+    "Speed": 420,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342861,
+    "UTC": "2019-07-28T19:41:01Z",
+    "Callsign": "ANT516",
+    "Position": "50.907578,-124.202888",
+    "Altitude": 33975,
+    "Speed": 419,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342921,
+    "UTC": "2019-07-28T19:42:01Z",
+    "Callsign": "ANT516",
+    "Position": "51.016087,-124.28566",
+    "Altitude": 33975,
+    "Speed": 419,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564342985,
+    "UTC": "2019-07-28T19:43:05Z",
+    "Callsign": "ANT516",
+    "Position": "51.127625,-124.371246",
+    "Altitude": 33975,
+    "Speed": 419,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564343009,
+    "UTC": "2019-07-28T19:43:29Z",
+    "Callsign": "ANT516",
+    "Position": "51.168274,-124.402573",
+    "Altitude": 33975,
+    "Speed": 419,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564343097,
+    "UTC": "2019-07-28T19:44:57Z",
+    "Callsign": "ANT516",
+    "Position": "51.323471,-124.522781",
+    "Altitude": 33975,
+    "Speed": 420,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1564343160,
+    "UTC": "2019-07-28T19:46:00Z",
+    "Callsign": "ANT516",
+    "Position": "51.432724,-124.607826",
+    "Altitude": 33975,
+    "Speed": 420,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343222,
+    "UTC": "2019-07-28T19:47:02Z",
+    "Callsign": "ANT516",
+    "Position": "51.541428,-124.693069",
+    "Altitude": 33975,
+    "Speed": 421,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343284,
+    "UTC": "2019-07-28T19:48:04Z",
+    "Callsign": "ANT516",
+    "Position": "51.649197,-124.777908",
+    "Altitude": 33975,
+    "Speed": 421,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343346,
+    "UTC": "2019-07-28T19:49:06Z",
+    "Callsign": "ANT516",
+    "Position": "51.757336,-124.863663",
+    "Altitude": 33975,
+    "Speed": 422,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343407,
+    "UTC": "2019-07-28T19:50:07Z",
+    "Callsign": "ANT516",
+    "Position": "51.865219,-124.949295",
+    "Altitude": 33975,
+    "Speed": 423,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343469,
+    "UTC": "2019-07-28T19:51:09Z",
+    "Callsign": "ANT516",
+    "Position": "51.972977,-125.035477",
+    "Altitude": 33975,
+    "Speed": 423,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343531,
+    "UTC": "2019-07-28T19:52:11Z",
+    "Callsign": "ANT516",
+    "Position": "52.082596,-125.123764",
+    "Altitude": 33975,
+    "Speed": 424,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343593,
+    "UTC": "2019-07-28T19:53:13Z",
+    "Callsign": "ANT516",
+    "Position": "52.191605,-125.211792",
+    "Altitude": 33975,
+    "Speed": 425,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343654,
+    "UTC": "2019-07-28T19:54:14Z",
+    "Callsign": "ANT516",
+    "Position": "52.300461,-125.300484",
+    "Altitude": 33975,
+    "Speed": 427,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343717,
+    "UTC": "2019-07-28T19:55:17Z",
+    "Callsign": "ANT516",
+    "Position": "52.410187,-125.390022",
+    "Altitude": 33975,
+    "Speed": 427,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343780,
+    "UTC": "2019-07-28T19:56:20Z",
+    "Callsign": "ANT516",
+    "Position": "52.519775,-125.480652",
+    "Altitude": 33975,
+    "Speed": 427,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343841,
+    "UTC": "2019-07-28T19:57:21Z",
+    "Callsign": "ANT516",
+    "Position": "52.628376,-125.570122",
+    "Altitude": 33975,
+    "Speed": 424,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343902,
+    "UTC": "2019-07-28T19:58:22Z",
+    "Callsign": "ANT516",
+    "Position": "52.734467,-125.658249",
+    "Altitude": 33950,
+    "Speed": 418,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564343964,
+    "UTC": "2019-07-28T19:59:24Z",
+    "Callsign": "ANT516",
+    "Position": "52.841446,-125.747757",
+    "Altitude": 33975,
+    "Speed": 416,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344027,
+    "UTC": "2019-07-28T20:00:27Z",
+    "Callsign": "ANT516",
+    "Position": "52.947739,-125.837173",
+    "Altitude": 33975,
+    "Speed": 416,
+    "Direction": 333
+  },
+  {
+    "Timestamp": 1564344089,
+    "UTC": "2019-07-28T20:01:29Z",
+    "Callsign": "ANT516",
+    "Position": "53.054375,-125.927414",
+    "Altitude": 33975,
+    "Speed": 416,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344150,
+    "UTC": "2019-07-28T20:02:30Z",
+    "Callsign": "ANT516",
+    "Position": "53.159443,-126.016655",
+    "Altitude": 33975,
+    "Speed": 416,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344212,
+    "UTC": "2019-07-28T20:03:32Z",
+    "Callsign": "ANT516",
+    "Position": "53.265427,-126.10743",
+    "Altitude": 33975,
+    "Speed": 416,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344274,
+    "UTC": "2019-07-28T20:04:34Z",
+    "Callsign": "ANT516",
+    "Position": "53.37149,-126.198463",
+    "Altitude": 33975,
+    "Speed": 417,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344337,
+    "UTC": "2019-07-28T20:05:37Z",
+    "Callsign": "ANT516",
+    "Position": "53.47884,-126.291237",
+    "Altitude": 33975,
+    "Speed": 418,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344399,
+    "UTC": "2019-07-28T20:06:39Z",
+    "Callsign": "ANT516",
+    "Position": "53.585953,-126.384598",
+    "Altitude": 33975,
+    "Speed": 419,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344460,
+    "UTC": "2019-07-28T20:07:40Z",
+    "Callsign": "ANT516",
+    "Position": "53.692429,-126.477592",
+    "Altitude": 33975,
+    "Speed": 420,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344524,
+    "UTC": "2019-07-28T20:08:44Z",
+    "Callsign": "ANT516",
+    "Position": "53.799591,-126.571999",
+    "Altitude": 33975,
+    "Speed": 420,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344587,
+    "UTC": "2019-07-28T20:09:47Z",
+    "Callsign": "ANT516",
+    "Position": "53.90712,-126.667114",
+    "Altitude": 33975,
+    "Speed": 422,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344649,
+    "UTC": "2019-07-28T20:10:49Z",
+    "Callsign": "ANT516",
+    "Position": "54.01498,-126.763161",
+    "Altitude": 33975,
+    "Speed": 420,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344710,
+    "UTC": "2019-07-28T20:11:50Z",
+    "Callsign": "ANT516",
+    "Position": "54.12085,-126.858269",
+    "Altitude": 33975,
+    "Speed": 421,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344773,
+    "UTC": "2019-07-28T20:12:53Z",
+    "Callsign": "ANT516",
+    "Position": "54.227585,-126.954208",
+    "Altitude": 33975,
+    "Speed": 422,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344835,
+    "UTC": "2019-07-28T20:13:55Z",
+    "Callsign": "ANT516",
+    "Position": "54.336006,-127.052307",
+    "Altitude": 33975,
+    "Speed": 422,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564344897,
+    "UTC": "2019-07-28T20:14:57Z",
+    "Callsign": "ANT516",
+    "Position": "54.440369,-127.147202",
+    "Altitude": 33975,
+    "Speed": 422,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564344935,
+    "UTC": "2019-07-28T20:15:35Z",
+    "Callsign": "ANT516",
+    "Position": "54.505234,-127.206734",
+    "Altitude": 33975,
+    "Speed": 422,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345001,
+    "UTC": "2019-07-28T20:16:41Z",
+    "Callsign": "ANT516",
+    "Position": "54.618343,-127.310738",
+    "Altitude": 33975,
+    "Speed": 424,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345066,
+    "UTC": "2019-07-28T20:17:46Z",
+    "Callsign": "ANT516",
+    "Position": "54.723454,-127.404877",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 341
+  },
+  {
+    "Timestamp": 1564345125,
+    "UTC": "2019-07-28T20:18:45Z",
+    "Callsign": "ANT516",
+    "Position": "54.805859,-127.483696",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345157,
+    "UTC": "2019-07-28T20:19:17Z",
+    "Callsign": "ANT516",
+    "Position": "54.840382,-127.518295",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345184,
+    "UTC": "2019-07-28T20:19:44Z",
+    "Callsign": "ANT516",
+    "Position": "54.886909,-127.559036",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 336
+  },
+  {
+    "Timestamp": 1564345253,
+    "UTC": "2019-07-28T20:20:53Z",
+    "Callsign": "ANT516",
+    "Position": "55.007618,-127.678337",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 312
+  },
+  {
+    "Timestamp": 1564345278,
+    "UTC": "2019-07-28T20:21:18Z",
+    "Callsign": "ANT516",
+    "Position": "55.0914,-127.753548",
+    "Altitude": 33975,
+    "Speed": 416,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345284,
+    "UTC": "2019-07-28T20:21:24Z",
+    "Callsign": "ANT516",
+    "Position": "55.103577,-127.765099",
+    "Altitude": 33975,
+    "Speed": 417,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345319,
+    "UTC": "2019-07-28T20:21:59Z",
+    "Callsign": "ANT516",
+    "Position": "55.163425,-127.82193",
+    "Altitude": 33975,
+    "Speed": 417,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345417,
+    "UTC": "2019-07-28T20:23:37Z",
+    "Callsign": "ANT516",
+    "Position": "55.319294,-127.968109",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1564345430,
+    "UTC": "2019-07-28T20:23:50Z",
+    "Callsign": "ANT516",
+    "Position": "55.337208,-128.000443",
+    "Altitude": 34000,
+    "Speed": 410,
+    "Direction": 312
+  },
+  {
+    "Timestamp": 1564345603,
+    "UTC": "2019-07-28T20:26:43Z",
+    "Callsign": "ANT516",
+    "Position": "55.648087,-128.289856",
+    "Altitude": 33975,
+    "Speed": 425,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564345664,
+    "UTC": "2019-07-28T20:27:44Z",
+    "Callsign": "ANT516",
+    "Position": "55.752403,-128.39241",
+    "Altitude": 33975,
+    "Speed": 426,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564345729,
+    "UTC": "2019-07-28T20:28:49Z",
+    "Callsign": "ANT516",
+    "Position": "55.865479,-128.504257",
+    "Altitude": 33975,
+    "Speed": 427,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564345791,
+    "UTC": "2019-07-28T20:29:51Z",
+    "Callsign": "ANT516",
+    "Position": "55.971851,-128.609985",
+    "Altitude": 33975,
+    "Speed": 428,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564345819,
+    "UTC": "2019-07-28T20:30:19Z",
+    "Callsign": "ANT516",
+    "Position": "56.017937,-128.656082",
+    "Altitude": 33975,
+    "Speed": 428,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564345910,
+    "UTC": "2019-07-28T20:31:50Z",
+    "Callsign": "ANT516",
+    "Position": "56.176895,-128.816116",
+    "Altitude": 33975,
+    "Speed": 429,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564345944,
+    "UTC": "2019-07-28T20:32:24Z",
+    "Callsign": "ANT516",
+    "Position": "56.235809,-128.875702",
+    "Altitude": 33950,
+    "Speed": 430,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564346024,
+    "UTC": "2019-07-28T20:33:44Z",
+    "Callsign": "ANT516",
+    "Position": "56.355301,-129.002029",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564346080,
+    "UTC": "2019-07-28T20:34:40Z",
+    "Callsign": "ANT516",
+    "Position": "56.446873,-129.087143",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 335
+  },
+  {
+    "Timestamp": 1564346136,
+    "UTC": "2019-07-28T20:35:36Z",
+    "Callsign": "ANT516",
+    "Position": "56.546341,-129.192001",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1564346162,
+    "UTC": "2019-07-28T20:36:02Z",
+    "Callsign": "ANT516",
+    "Position": "56.581314,-129.236374",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 313
+  },
+  {
+    "Timestamp": 1564346222,
+    "UTC": "2019-07-28T20:37:02Z",
+    "Callsign": "ANT516",
+    "Position": "56.673473,-129.343933",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1564346275,
+    "UTC": "2019-07-28T20:37:55Z",
+    "Callsign": "ANT516",
+    "Position": "56.753056,-129.42569",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1564346335,
+    "UTC": "2019-07-28T20:38:55Z",
+    "Callsign": "ANT516",
+    "Position": "56.847389,-129.528397",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1564346366,
+    "UTC": "2019-07-28T20:39:26Z",
+    "Callsign": "ANT516",
+    "Position": "56.903667,-129.594299",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 326
+  },
+  {
+    "Timestamp": 1564346393,
+    "UTC": "2019-07-28T20:39:53Z",
+    "Callsign": "ANT516",
+    "Position": "56.950912,-129.647751",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564346463,
+    "UTC": "2019-07-28T20:41:03Z",
+    "Callsign": "ANT516",
+    "Position": "57.053104,-129.798523",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1564346529,
+    "UTC": "2019-07-28T20:42:09Z",
+    "Callsign": "ANT516",
+    "Position": "57.147552,-129.94635",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1564346627,
+    "UTC": "2019-07-28T20:43:47Z",
+    "Callsign": "ANT516",
+    "Position": "57.306667,-130.1483",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1564346684,
+    "UTC": "2019-07-28T20:44:44Z",
+    "Callsign": "ANT516",
+    "Position": "57.408306,-130.277344",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 325
+  },
+  {
+    "Timestamp": 1564346744,
+    "UTC": "2019-07-28T20:45:44Z",
+    "Callsign": "ANT516",
+    "Position": "57.513241,-130.405319",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1564346821,
+    "UTC": "2019-07-28T20:47:01Z",
+    "Callsign": "ANT516",
+    "Position": "57.619789,-130.550262",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1564346881,
+    "UTC": "2019-07-28T20:48:01Z",
+    "Callsign": "ANT516",
+    "Position": "57.707119,-130.669846",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 325
+  },
+  {
+    "Timestamp": 1564346938,
+    "UTC": "2019-07-28T20:48:58Z",
+    "Callsign": "ANT516",
+    "Position": "57.796257,-130.791077",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 325
+  },
+  {
+    "Timestamp": 1564346996,
+    "UTC": "2019-07-28T20:49:56Z",
+    "Callsign": "ANT516",
+    "Position": "57.88567,-130.922256",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1564347057,
+    "UTC": "2019-07-28T20:50:57Z",
+    "Callsign": "ANT516",
+    "Position": "57.981247,-131.058304",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 325
+  },
+  {
+    "Timestamp": 1564347114,
+    "UTC": "2019-07-28T20:51:54Z",
+    "Callsign": "ANT516",
+    "Position": "58.075073,-131.188583",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 325
+  },
+  {
+    "Timestamp": 1564347172,
+    "UTC": "2019-07-28T20:52:52Z",
+    "Callsign": "ANT516",
+    "Position": "58.175388,-131.325317",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 325
+  },
+  {
+    "Timestamp": 1564347230,
+    "UTC": "2019-07-28T20:53:50Z",
+    "Callsign": "ANT516",
+    "Position": "58.260681,-131.451569",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 322
+  },
+  {
+    "Timestamp": 1564347293,
+    "UTC": "2019-07-28T20:54:53Z",
+    "Callsign": "ANT516",
+    "Position": "58.362648,-131.594849",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 326
+  },
+  {
+    "Timestamp": 1564347379,
+    "UTC": "2019-07-28T20:56:19Z",
+    "Callsign": "ANT516",
+    "Position": "58.481342,-131.757645",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 326
+  },
+  {
+    "Timestamp": 1564347428,
+    "UTC": "2019-07-28T20:57:08Z",
+    "Callsign": "ANT516",
+    "Position": "58.554398,-131.865799",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 321
+  },
+  {
+    "Timestamp": 1564347484,
+    "UTC": "2019-07-28T20:58:04Z",
+    "Callsign": "ANT516",
+    "Position": "58.644146,-132",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1564347544,
+    "UTC": "2019-07-28T20:59:04Z",
+    "Callsign": "ANT516",
+    "Position": "58.743423,-132.141739",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 326
+  },
+  {
+    "Timestamp": 1564347602,
+    "UTC": "2019-07-28T21:00:02Z",
+    "Callsign": "ANT516",
+    "Position": "58.832211,-132.274948",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 321
+  },
+  {
+    "Timestamp": 1564347660,
+    "UTC": "2019-07-28T21:01:00Z",
+    "Callsign": "ANT516",
+    "Position": "58.92458,-132.414413",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1564347717,
+    "UTC": "2019-07-28T21:01:57Z",
+    "Callsign": "ANT516",
+    "Position": "59.015667,-132.556061",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 321
+  },
+  {
+    "Timestamp": 1564347776,
+    "UTC": "2019-07-28T21:02:56Z",
+    "Callsign": "ANT516",
+    "Position": "59.114346,-132.70816",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1564347836,
+    "UTC": "2019-07-28T21:03:56Z",
+    "Callsign": "ANT516",
+    "Position": "59.210648,-132.855469",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1564347894,
+    "UTC": "2019-07-28T21:04:54Z",
+    "Callsign": "ANT516",
+    "Position": "59.301777,-132.997818",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 321
+  },
+  {
+    "Timestamp": 1564347973,
+    "UTC": "2019-07-28T21:06:13Z",
+    "Callsign": "ANT516",
+    "Position": "59.414497,-133.171265",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1564348032,
+    "UTC": "2019-07-28T21:07:12Z",
+    "Callsign": "ANT516",
+    "Position": "59.500469,-133.301941",
+    "Altitude": 34000,
+    "Speed": 430,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1564348089,
+    "UTC": "2019-07-28T21:08:09Z",
+    "Callsign": "ANT516",
+    "Position": "59.586773,-133.443787",
+    "Altitude": 32800,
+    "Speed": 430,
+    "Direction": 318
+  },
+  {
+    "Timestamp": 1564348149,
+    "UTC": "2019-07-28T21:09:09Z",
+    "Callsign": "ANT516",
+    "Position": "59.681335,-133.586227",
+    "Altitude": 32000,
+    "Speed": 420,
+    "Direction": 327
+  },
+  {
+    "Timestamp": 1564348208,
+    "UTC": "2019-07-28T21:10:08Z",
+    "Callsign": "ANT516",
+    "Position": "59.767002,-133.725525",
+    "Altitude": 32000,
+    "Speed": 420,
+    "Direction": 318
+  },
+  {
+    "Timestamp": 1564348265,
+    "UTC": "2019-07-28T21:11:05Z",
+    "Callsign": "ANT516",
+    "Position": "59.85997,-133.871994",
+    "Altitude": 31100,
+    "Speed": 420,
+    "Direction": 324
+  },
+  {
+    "Timestamp": 1564348324,
+    "UTC": "2019-07-28T21:12:04Z",
+    "Callsign": "ANT516",
+    "Position": "59.952675,-134.026901",
+    "Altitude": 30200,
+    "Speed": 420,
+    "Direction": 318
+  },
+  {
+    "Timestamp": 1564348381,
+    "UTC": "2019-07-28T21:13:01Z",
+    "Callsign": "ANT516",
+    "Position": "60.037453,-134.167572",
+    "Altitude": 29000,
+    "Speed": 420,
+    "Direction": 322
+  },
+  {
+    "Timestamp": 1564348445,
+    "UTC": "2019-07-28T21:14:05Z",
+    "Callsign": "ANT516",
+    "Position": "60.131908,-134.317566",
+    "Altitude": 26600,
+    "Speed": 410,
+    "Direction": 324
+  },
+  {
+    "Timestamp": 1564348499,
+    "UTC": "2019-07-28T21:14:59Z",
+    "Callsign": "ANT516",
+    "Position": "60.206673,-134.448135",
+    "Altitude": 24300,
+    "Speed": 400,
+    "Direction": 316
+  },
+  {
+    "Timestamp": 1564348576,
+    "UTC": "2019-07-28T21:16:16Z",
+    "Callsign": "ANT516",
+    "Position": "60.300514,-134.606964",
+    "Altitude": 22100,
+    "Speed": 390,
+    "Direction": 322
+  },
+  {
+    "Timestamp": 1564348634,
+    "UTC": "2019-07-28T21:17:14Z",
+    "Callsign": "ANT516",
+    "Position": "60.37458,-134.729874",
+    "Altitude": 20100,
+    "Speed": 380,
+    "Direction": 322
+  },
+  {
+    "Timestamp": 1564348695,
+    "UTC": "2019-07-28T21:18:15Z",
+    "Callsign": "ANT516",
+    "Position": "60.446331,-134.843964",
+    "Altitude": 17700,
+    "Speed": 340,
+    "Direction": 324
+  },
+  {
+    "Timestamp": 1564348904,
+    "UTC": "2019-07-28T21:21:44Z",
+    "Callsign": "ANT516",
+    "Position": "60.786842,-134.961639",
+    "Altitude": 12000,
+    "Speed": 249,
+    "Direction": 349
+  },
+  {
+    "Timestamp": 1564348936,
+    "UTC": "2019-07-28T21:22:16Z",
+    "Callsign": "ANT516",
+    "Position": "60.822235,-134.975281",
+    "Altitude": 11975,
+    "Speed": 246,
+    "Direction": 349
+  },
+  {
+    "Timestamp": 1564348945,
+    "UTC": "2019-07-28T21:22:25Z",
+    "Callsign": "ANT516",
+    "Position": "60.833534,-134.979492",
+    "Altitude": 11650,
+    "Speed": 248,
+    "Direction": 349
+  },
+  {
+    "Timestamp": 1564348961,
+    "UTC": "2019-07-28T21:22:41Z",
+    "Callsign": "ANT516",
+    "Position": "60.851967,-134.986465",
+    "Altitude": 11175,
+    "Speed": 253,
+    "Direction": 349
+  },
+  {
+    "Timestamp": 1564348971,
+    "UTC": "2019-07-28T21:22:51Z",
+    "Callsign": "ANT516",
+    "Position": "60.863113,-134.990723",
+    "Altitude": 11000,
+    "Speed": 250,
+    "Direction": 349
+  },
+  {
+    "Timestamp": 1564348993,
+    "UTC": "2019-07-28T21:23:13Z",
+    "Callsign": "ANT516",
+    "Position": "60.88678,-134.999908",
+    "Altitude": 10525,
+    "Speed": 241,
+    "Direction": 348
+  },
+  {
+    "Timestamp": 1564349002,
+    "UTC": "2019-07-28T21:23:22Z",
+    "Callsign": "ANT516",
+    "Position": "60.896564,-135.007355",
+    "Altitude": 10275,
+    "Speed": 227,
+    "Direction": 330
+  },
+  {
+    "Timestamp": 1564349013,
+    "UTC": "2019-07-28T21:23:33Z",
+    "Callsign": "ANT516",
+    "Position": "60.904758,-135.021683",
+    "Altitude": 10025,
+    "Speed": 213,
+    "Direction": 311
+  },
+  {
+    "Timestamp": 1564349023,
+    "UTC": "2019-07-28T21:23:43Z",
+    "Callsign": "ANT516",
+    "Position": "60.90976,-135.039398",
+    "Altitude": 9750,
+    "Speed": 203,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1564349033,
+    "UTC": "2019-07-28T21:23:53Z",
+    "Callsign": "ANT516",
+    "Position": "60.911556,-135.058075",
+    "Altitude": 9450,
+    "Speed": 195,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1564349039,
+    "UTC": "2019-07-28T21:23:59Z",
+    "Callsign": "ANT516",
+    "Position": "60.911316,-135.067535",
+    "Altitude": 9350,
+    "Speed": 189,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1564349049,
+    "UTC": "2019-07-28T21:24:09Z",
+    "Callsign": "ANT516",
+    "Position": "60.90889,-135.085052",
+    "Altitude": 9225,
+    "Speed": 178,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1564349060,
+    "UTC": "2019-07-28T21:24:20Z",
+    "Callsign": "ANT516",
+    "Position": "60.906052,-135.100861",
+    "Altitude": 9000,
+    "Speed": 172,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1564349080,
+    "UTC": "2019-07-28T21:24:40Z",
+    "Callsign": "ANT516",
+    "Position": "60.900475,-135.131546",
+    "Altitude": 8550,
+    "Speed": 164,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1564349096,
+    "UTC": "2019-07-28T21:24:56Z",
+    "Callsign": "ANT516",
+    "Position": "60.896378,-135.15361",
+    "Altitude": 8150,
+    "Speed": 163,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1564349107,
+    "UTC": "2019-07-28T21:25:07Z",
+    "Callsign": "ANT516",
+    "Position": "60.893074,-135.169006",
+    "Altitude": 7825,
+    "Speed": 161,
+    "Direction": 242
+  },
+  {
+    "Timestamp": 1564349116,
+    "UTC": "2019-07-28T21:25:16Z",
+    "Callsign": "ANT516",
+    "Position": "60.888092,-135.180878",
+    "Altitude": 7500,
+    "Speed": 165,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1564349122,
+    "UTC": "2019-07-28T21:25:22Z",
+    "Callsign": "ANT516",
+    "Position": "60.884903,-135.185532",
+    "Altitude": 7325,
+    "Speed": 165,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1564349128,
+    "UTC": "2019-07-28T21:25:28Z",
+    "Callsign": "ANT516",
+    "Position": "60.881111,-135.189224",
+    "Altitude": 7100,
+    "Speed": 168,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1564349138,
+    "UTC": "2019-07-28T21:25:38Z",
+    "Callsign": "ANT516",
+    "Position": "60.873196,-135.191772",
+    "Altitude": 6725,
+    "Speed": 170,
+    "Direction": 178
+  },
+  {
+    "Timestamp": 1564349149,
+    "UTC": "2019-07-28T21:25:49Z",
+    "Callsign": "ANT516",
+    "Position": "60.865173,-135.188187",
+    "Altitude": 6300,
+    "Speed": 173,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1564349158,
+    "UTC": "2019-07-28T21:25:58Z",
+    "Callsign": "ANT516",
+    "Position": "60.857555,-135.181961",
+    "Altitude": 5950,
+    "Speed": 174,
+    "Direction": 158
+  },
+  {
+    "Timestamp": 1564349169,
+    "UTC": "2019-07-28T21:26:09Z",
+    "Callsign": "ANT516",
+    "Position": "60.849426,-135.1754",
+    "Altitude": 5625,
+    "Speed": 175,
+    "Direction": 158
+  },
+  {
+    "Timestamp": 1564349185,
+    "UTC": "2019-07-28T21:26:25Z",
+    "Callsign": "ANT516",
+    "Position": "60.837864,-135.166077",
+    "Altitude": 5175,
+    "Speed": 172,
+    "Direction": 158
+  },
+  {
+    "Timestamp": 1564349195,
+    "UTC": "2019-07-28T21:26:35Z",
+    "Callsign": "ANT516",
+    "Position": "60.830383,-135.160248",
+    "Altitude": 4850,
+    "Speed": 170,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349205,
+    "UTC": "2019-07-28T21:26:45Z",
+    "Callsign": "ANT516",
+    "Position": "60.822693,-135.154373",
+    "Altitude": 4600,
+    "Speed": 167,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349216,
+    "UTC": "2019-07-28T21:26:56Z",
+    "Callsign": "ANT516",
+    "Position": "60.815472,-135.149002",
+    "Altitude": 4375,
+    "Speed": 162,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1564349225,
+    "UTC": "2019-07-28T21:27:05Z",
+    "Callsign": "ANT516",
+    "Position": "60.808594,-135.143677",
+    "Altitude": 4150,
+    "Speed": 156,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349236,
+    "UTC": "2019-07-28T21:27:16Z",
+    "Callsign": "ANT516",
+    "Position": "60.801739,-135.138412",
+    "Altitude": 4000,
+    "Speed": 145,
+    "Direction": 158
+  },
+  {
+    "Timestamp": 1564349247,
+    "UTC": "2019-07-28T21:27:27Z",
+    "Callsign": "ANT516",
+    "Position": "60.79509,-135.133163",
+    "Altitude": 3900,
+    "Speed": 143,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349257,
+    "UTC": "2019-07-28T21:27:37Z",
+    "Callsign": "ANT516",
+    "Position": "60.788773,-135.128326",
+    "Altitude": 3775,
+    "Speed": 147,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349266,
+    "UTC": "2019-07-28T21:27:46Z",
+    "Callsign": "ANT516",
+    "Position": "60.782272,-135.123306",
+    "Altitude": 3650,
+    "Speed": 147,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349272,
+    "UTC": "2019-07-28T21:27:52Z",
+    "Callsign": "ANT516",
+    "Position": "60.779068,-135.12085",
+    "Altitude": 3600,
+    "Speed": 143,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349283,
+    "UTC": "2019-07-28T21:28:03Z",
+    "Callsign": "ANT516",
+    "Position": "60.772598,-135.115952",
+    "Altitude": 3450,
+    "Speed": 140,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1564349293,
+    "UTC": "2019-07-28T21:28:13Z",
+    "Callsign": "ANT516",
+    "Position": "60.766403,-135.111435",
+    "Altitude": 3350,
+    "Speed": 136,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1564349308,
+    "UTC": "2019-07-28T21:28:28Z",
+    "Callsign": "ANT516",
+    "Position": "60.757462,-135.104462",
+    "Altitude": 3150,
+    "Speed": 131,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349318,
+    "UTC": "2019-07-28T21:28:38Z",
+    "Callsign": "ANT516",
+    "Position": "60.75174,-135.100113",
+    "Altitude": 3075,
+    "Speed": 129,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1564349330,
+    "UTC": "2019-07-28T21:28:50Z",
+    "Callsign": "ANT516",
+    "Position": "60.745689,-135.095245",
+    "Altitude": 2900,
+    "Speed": 136,
+    "Direction": 158
+  },
+  {
+    "Timestamp": 1564349340,
+    "UTC": "2019-07-28T21:29:00Z",
+    "Callsign": "ANT516",
+    "Position": "60.739498,-135.090347",
+    "Altitude": 2750,
+    "Speed": 135,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349350,
+    "UTC": "2019-07-28T21:29:10Z",
+    "Callsign": "ANT516",
+    "Position": "60.733795,-135.08609",
+    "Altitude": 2625,
+    "Speed": 136,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349362,
+    "UTC": "2019-07-28T21:29:22Z",
+    "Callsign": "ANT516",
+    "Position": "60.726425,-135.080307",
+    "Altitude": 2450,
+    "Speed": 138,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349372,
+    "UTC": "2019-07-28T21:29:32Z",
+    "Callsign": "ANT516",
+    "Position": "60.720978,-135.076141",
+    "Altitude": 2350,
+    "Speed": 141,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349389,
+    "UTC": "2019-07-28T21:29:49Z",
+    "Callsign": "ANT516",
+    "Position": "60.711193,-135.068573",
+    "Altitude": 2275,
+    "Speed": 116,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1564349406,
+    "UTC": "2019-07-28T21:30:06Z",
+    "Callsign": "ANT516",
+    "Position": "60.706654,-135.065079",
+    "Altitude": 0,
+    "Speed": 39,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1564349422,
+    "UTC": "2019-07-28T21:30:22Z",
+    "Callsign": "ANT516",
+    "Position": "60.705269,-135.063705",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 151
+  },
+  {
+    "Timestamp": 1564349433,
+    "UTC": "2019-07-28T21:30:33Z",
+    "Callsign": "ANT516",
+    "Position": "60.705162,-135.064026",
+    "Altitude": 0,
+    "Speed": 13,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1564349444,
+    "UTC": "2019-07-28T21:30:44Z",
+    "Callsign": "ANT516",
+    "Position": "60.705444,-135.06427",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1564349455,
+    "UTC": "2019-07-28T21:30:55Z",
+    "Callsign": "ANT516",
+    "Position": "60.705921,-135.064545",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1564349465,
+    "UTC": "2019-07-28T21:31:05Z",
+    "Callsign": "ANT516",
+    "Position": "60.70668,-135.065109",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1564349472,
+    "UTC": "2019-07-28T21:31:12Z",
+    "Callsign": "ANT516",
+    "Position": "60.707424,-135.065704",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1564349479,
+    "UTC": "2019-07-28T21:31:19Z",
+    "Callsign": "ANT516",
+    "Position": "60.708027,-135.066162",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1564349492,
+    "UTC": "2019-07-28T21:31:32Z",
+    "Callsign": "ANT516",
+    "Position": "60.709488,-135.067261",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1564349502,
+    "UTC": "2019-07-28T21:31:42Z",
+    "Callsign": "ANT516",
+    "Position": "60.710762,-135.068222",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1564349514,
+    "UTC": "2019-07-28T21:31:54Z",
+    "Callsign": "ANT516",
+    "Position": "60.711937,-135.069138",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1564349523,
+    "UTC": "2019-07-28T21:32:03Z",
+    "Callsign": "ANT516",
+    "Position": "60.712486,-135.070084",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1564349530,
+    "UTC": "2019-07-28T21:32:10Z",
+    "Callsign": "ANT516",
+    "Position": "60.712463,-135.070969",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 253
+  }
+]
