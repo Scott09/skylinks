@@ -2,7 +2,8 @@ DROP TABLE IF EXISTS airports CASCADE;
 DROP TABLE IF EXISTS routes CASCADE;
 DROP TABLE IF EXISTS airlines CASCADE;
 DROP TABLE IF EXISTS flights CASCADE;
-DROP TABLE IF EXISTS test CASCADE;
+DROP TABLE IF EXISTS route_info CASCADE;
+
 
 CREATE TABLE airports (
   fs VARCHAR(255) PRIMARY KEY NOT NULL,
@@ -18,7 +19,7 @@ CREATE TABLE routes (
   id SERIAL PRIMARY KEY NOT NULL,
   stops INT DEFAULT 0,
   departure_iata VARCHAR(255) REFERENCES airports(fs),
-  arrival_iata VARCHAR(255)
+  arrival_iata VARCHAR(255) REFERENCES airports(fs) 
 );
 
 
@@ -37,14 +38,16 @@ CREATE TABLE flights (
   departureAirportFs VARCHAR(255),
   arrivalAirportFs VARCHAR(255),
   departureTime VARCHAR(255),
-  arrivalTime VARCHAR(255),
-  flightinfo json
+  arrivalTime VARCHAR(255)
 );
 
 
-create table test (
+create table route_info (
   id SERIAL PRIMARY KEY NOT NULL,
-  info json,
+  position_time INT,
+  position VARCHAR(255),
+  altitude INT,
+  direction INT,
   departure_iata VARCHAR(255),
   arrival_iata VARCHAR(255)
   );
