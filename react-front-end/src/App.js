@@ -8,6 +8,7 @@ import RouteList from "./frontcomponents/RouteList";
 import ScheduleList from "./frontcomponents/ScheduleList";
 import SearchForm from "./frontcomponents/SearchForm";
 import ResetButton from "./frontcomponents/ResetButton";
+import Logo from './frontcomponents/Logo';
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
@@ -68,6 +69,7 @@ const App = props => {
   return (
     <>
       <div>
+        <Logo />
         <ScheduleList
           newDeparture={departureAirport}
           newArrival={arrivalAirport}
