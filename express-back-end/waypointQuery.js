@@ -50,9 +50,3 @@ const queryWaypoints = (departure, arrival) => {
 queryWaypoints('YVR', 'YYZ');
 
 
-
-
-
-// queryWaypoints('YVR', 'YYZ');
-
-
