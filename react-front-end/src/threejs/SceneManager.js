@@ -157,10 +157,19 @@ export default canvas => {
     if (routes) {
       let intersects = raycaster.intersectObjects(routes.children);
       if (intersects.length > 0) {
-        let selected_route = intersects[0].object;
-        routes.children = [];
-        routes.children.push(selected_route);
-        // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+        let selectedElement = document.getElementById(
+          `${intersects[0].object.departure_fs}_${intersects[0].object.arrival_fs}`
+        );
+        selectedElement.focus();
+        // change color and corresponding list item on click
+        selectedElement.style.background = "PaleGreen";
+        intersects[0].object.material.color.setHex(0x98fb98);
+        intersects[0].object.material.opacity = 1;
+        setTimeout(() => {
+          selectedElement.style.background = "";
+          intersects[0].object.material.color.setHex(0xe85d33);
+          intersects[0].object.material.opacity = 0.7;
+        }, 1000);
       }
     }
   }

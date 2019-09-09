@@ -34,16 +34,12 @@ const App = props => {
     console.log(
       `/api/shcedules/from/${departureAirport.fs}/to/${arrivalAirport[0].fs}`
     );
-    console.log(schedule);
-    console.log(arrivalAirport);
-    console.log(arrivalAirport.length);
     if (arrivalAirport.length === 1)
       axios
         .get(
           `/api/shcedules/from/${departureAirport.fs}/to/${arrivalAirport[0].fs}`
         )
         .then(response => {
-          console.log(response.data.scheduledFlights);
           if (response.data) {
             setSchedule(response.data);
           }
@@ -77,7 +73,6 @@ const App = props => {
         ></RouteList>
         {/* <FlightList flights={flightData}></FlightList> */}
         <SearchForm getArrival={arrivals} getDepartures={departures} />
-        {/* <button onClick={() => fetchFlightSchedule()} value="Get Schedule" /> */}
       </div>
       <ThreeContainer
         clear={clearToggle}
