@@ -1,24 +1,12 @@
 .MuiButtonBase-root {
-  -webkit-transition: all 2s ease-out !important;
-  -moz-transition: all 2s ease-out !important;
-  -o-transition: all 2s ease-out !important;
-  transition: all 2s ease-out !important;
+  -webkit-transition: all 1s ease-out !important;
+  -moz-transition: all 1s ease-out !important;
+  -o-transition: all 1s ease-out !important;
+  transition: all 1s ease-out !important;
 }
 .MuiListItem-root {
-  -webkit-transition: all 2s ease-out !important;
-  -moz-transition: all 2s ease-out !important;
-  -o-transition: all 2s ease-out !important;
-  transition: all 2s ease-out !important;
-}
-.MuiListItem-gutters {
-  -webkit-transition: all 2s ease-out !important;
-  -moz-transition: all 2s ease-out !important;
-  -o-transition: all 2s ease-out !important;
-  transition: all 2s ease-out !important;
-}
-.MuiListItem-button {
-  -webkit-transition: all 2s ease-out !important;
-  -moz-transition: all 2s ease-out !important;
-  -o-transition: all 2s ease-out !important;
-  transition: all 2s ease-out !important;
+  -webkit-transition: all 1s ease-out !important;
+  -moz-transition: all 1s ease-out !important;
+  -o-transition: all 1s ease-out !important;
+  transition: all 1s ease-out !important;
 }
