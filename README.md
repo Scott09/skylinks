@@ -41,6 +41,7 @@ DB_NAME=databasename
 
 DB_PORT=5432
 
+6. run npm run reset to seed the database
 
 ## Next steps
 
