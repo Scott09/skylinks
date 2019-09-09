@@ -5,4 +5,17 @@
   background: transparent;
   border-radius: 0px;
   border: none;
+  margin-right: 8px;
+  outline: none;
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform 1s ease-in-out;
+          transition:         transform 1s ease-in-out;
 }
+
+#reset:hover {
+  cursor: pointer;
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
+
