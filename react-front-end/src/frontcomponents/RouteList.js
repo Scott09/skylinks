@@ -54,6 +54,7 @@ export default function RouteList(props) {
               return (
                 <>
                   <ListItem
+                    id={`${props.newDeparture.fs}_${arrival.fs}`}
                     className={classes.mainContainer}
                     onClick={() => props.onSelect(arrival)}
                     button
