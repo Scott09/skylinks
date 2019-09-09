@@ -34,6 +34,7 @@ const SearchForm = props => {
           <span>
             <Search
               allowClear
+              id = "text"
               className="textinput"
               placeholder="input search text"
               enterButton="Search"

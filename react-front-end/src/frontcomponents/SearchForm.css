@@ -1,32 +1,34 @@
 form {
-  width: '100%';
+  width: "100%";
   max-width: 320px;
   background-color: lightgray;
- 
+
   text-align: center;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   background-color: transparent;
   position: absolute;
-  margin-left: 80%;
+  right: 2px;
 }
 
 .searchbutton {
-   margin-top: 10px;
-   background-color: transparent;
-  
-
+  right: 160px;
+  position: absolute;
+  background-color: transparent;
 }
 
 .textinput {
   background-color: transparent;
-
 }
 .example-input {
   color: red;
 }
 
-
 #containerdiv {
   padding: 8px;
+  color: white;
+}
+
+#text {
+  background-color: transparent;
   color: white;
 }

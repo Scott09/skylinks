@@ -13,7 +13,7 @@ const containerElement = elm => {
     return canvas;
   }
   function bindEventListeners() {
-    window.onmousedown = moveGlobe;
+    window.onmousedown = selectRoute;
     window.onresize = resizeCanvas;
     canvas.onmouseenter = mouseEnter;
     canvas.onmouseleave = mouseLeave;
@@ -27,7 +27,7 @@ const containerElement = elm => {
     sceneManager.onMouseLeave(event);
   }
 
-  function moveGlobe(event) {
+  function selectRoute(event) {
     sceneManager.onMouseDown(event);
   }
 
