@@ -1,70 +1,54 @@
 import * as THREE from "three";
 
-import { getSplineFromCoords } from "../helpers/curve";
-import { CURVE_SEGMENTS } from "../helpers/constants";
-import makePlaneInstance from "./plane";
+import points from "./route_helper/YVR_YYZ.json";
+import { coordinateToPosition } from "../helpers/curve";
 
-export default (scene, airport) => {
-  if (airport) {
+export default scene => {
+  if (points) {
     const group = new THREE.Group();
-    /**
-     * returns a filtedred list if airports
-     * @param  {} name_of_airport, the of the airport
-     * @param  {} list_of_airports
-     */
+    var mat = new THREE.LineBasicMaterial({ color: 0xff0000 });
+    var geo = new THREE.Geometry();
 
-    function makeLineInstance(
-      departure_airport,
-      arrival_airport,
-      curve_material
-    ) {
-      const startCoor = [
-        parseFloat(departure_airport.latitude),
-        parseFloat(departure_airport.longitude)
-      ];
-      const endCoor = [
-        parseFloat(arrival_airport.latitude),
-        parseFloat(arrival_airport.longitude)
-      ];
-      const { spline } = getSplineFromCoords(startCoor, endCoor);
-      const points = spline.getPoints(CURVE_SEGMENTS);
-      const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
-
-      const plane = makePlaneInstance(spline);
-
-      const curvedLine = new THREE.Line(curve_geometry, curve_material);
-      curvedLine.name = `line_${departure_airport.fs}_${arrival_airport.fs}`;
-      curvedLine.departure_fs = departure_airport.fs;
-      curvedLine.arrival_fs = arrival_airport.fs;
-      curvedLine.add(plane);
-
-      return curvedLine;
-    }
-
-    function routesPerAirport(airport) {
-      for (const arrival of airport.arrival) {
-        const departure_airport = airport.departure;
-        const arrival_airport = arrival;
-        const curve_material = new THREE.MeshBasicMaterial({
-          blending: THREE.AdditiveBlending,
-          opacity: 0.7,
-          transparent: true,
-          color: 0xe85d33
-        });
-        const line = makeLineInstance(
-          departure_airport,
-          arrival_airport,
-          curve_material
-        );
-        if (line) {
-          group.add(line);
-        }
+    function setPoints(points) {
+      const listOfPoints = [];
+      for (const time of points) {
+        const [latitude, longitude] = time.Position.split(",");
+        const altitude = time.Altitude;
+        const currentTimestamp = {
+          timestamp: time.Timestamp,
+          position: {
+            latitude: latitude,
+            longitude: longitude,
+            altitude: altitude
+          }
+        };
+        listOfPoints.push(currentTimestamp);
       }
+      return listOfPoints;
     }
 
-    routesPerAirport(airport);
+    function createPath(positions) {
+      const points = [];
+      for (const pos of positions) {
+        const lat = parseFloat(pos.position.latitude);
+        const long = parseFloat(pos.position.longitude);
+        const alt = parseFloat(pos.position.altitude);
+        console.log(alt);
+        const something = coordinateToPosition(lat, long, 4.5 + alt / 35000);
+        points.push(something);
+      }
+      const curve_geometry = new THREE.BufferGeometry().setFromPoints(points);
+      var line = new THREE.Line(curve_geometry, mat);
+      line.name = "RealPath";
+      scene.add(line);
+      return line;
+    }
+
+    const positions = setPoints(points);
+    const route = createPath(positions);
+    console.log(scene);
+
     group.name = "realRoute";
-    scene.add(group);
 
     function update() {}
 
