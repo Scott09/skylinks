@@ -5,7 +5,7 @@ import { CURVE_SEGMENTS } from "../helpers/constants";
 import makePlaneInstance from "./plane";
 
 export default (scene, airport) => {
-  if (airport) {
+  if (airport.departure && airport.arrival[0]) {
     const group = new THREE.Group();
     /**
      * returns a filtedred list if airports
@@ -36,6 +36,12 @@ export default (scene, airport) => {
       curvedLine.name = `line_${departure_airport.fs}_${arrival_airport.fs}`;
       curvedLine.departure_fs = departure_airport.fs;
       curvedLine.arrival_fs = arrival_airport.fs;
+      curvedLine.arrivalObject = {
+        fs: arrival_airport.fs,
+        name: arrival_airport.name,
+        latitude: arrival_airport.latitude,
+        longitude: arrival_airport.longitude
+      };
       curvedLine.add(plane);
 
       return curvedLine;

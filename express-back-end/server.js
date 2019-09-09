@@ -4,6 +4,8 @@ const BodyParser = require("body-parser");
 const PORT = 8080;
 const { Pool } = require("pg");
 require("dotenv").config();
+const axios = require("axios");
+const spidertest = require("./testflightdata.json");
 
 const pool = new Pool({
   host: process.env.DB_HOST,
@@ -37,14 +39,14 @@ App.get("/api/airports/:id", (req, res) => {
   const airport = req.params.id;
   const findDepartureCoords = {
     text: `
-    SELECT fs, latitude, longitude FROM airports 
+    SELECT fs, name, latitude, longitude FROM airports 
     WHERE fs = $1;
     `,
     values: [airport]
   };
   const findArrivalCoords = {
     text: `
-    SELECT fs, latitude, longitude FROM airports 
+    SELECT fs, name, latitude, longitude FROM airports 
     WHERE fs IN
     (SELECT DISTINCT arrival_iata FROM airports 
     JOIN routes ON routes.departure_iata = airports.fs 
@@ -69,11 +71,33 @@ App.get("/api/airports/:id", (req, res) => {
     });
 });
 
+App.get("/api/shcedules/from/:from/to/:to", (req, res) => {
+  const from = req.params.from;
+  const to = req.params.to;
+  const now = new Date();
+  const y = now.getYear() + 1900;
+  const m = now.getMonth() + 1;
+  const d = now.getDate();
+  res.json(spidertest);
+  // axios
+  //   .get(
+  //     `https://api.flightstats.com/flex/schedules/rest/v1/json/from/${from}/to/${to}/departing/${y}/${m}/${d}?appId=${process.env.appId}&appKey=${process.env.appKey}`
+  //   )
+  //   .then(api => {
+  //     res.json(api.data);
+  //   })
+  //   .catch(err => {
+  //     console.log(err);
+  //   });
+});
+
 App.get("/api/plane/:id", (req, res) => {
   const file_name = req.params.id;
   console.log(file_name);
   res.send(`/plane/${file_name}`);
 });
+
+
 
 App.listen(PORT, () => {
   // eslint-disable-next-line no-console

@@ -22,6 +22,27 @@ In the browser, you can click on the button and see the data get loaded.
 
 If this doesn't work, please message me!
 
+# Database setup
+
+1. pen your terminal and run psql to access the database.
+2. run CREATE DATABASE databasename
+3. run \c databasename to connect to the database.
+4. run \password databasename and select a password - EX: 123456
+5. create a .env at the express-back-end root
+###### .env sample
+
+DB_HOST=localhost
+
+DB_USER=username
+
+DB_PASS=123456
+
+DB_NAME=databasename
+
+DB_PORT=5432
+
+6. run npm run reset to seed the database
+
 ## Next steps
 
 From here, you can start working on your project!

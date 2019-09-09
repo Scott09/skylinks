@@ -70,7 +70,10 @@ export default canvas => {
       nearPlane,
       farPlane
     );
+
     camera.position.z = 10;
+
+    console.log(camera);
     return camera;
   }
 
@@ -108,7 +111,6 @@ export default canvas => {
     selectedObject &&
       selectedObject.traverse(line => {
         if (line.type === "Line") {
-          console.log("removed");
           children_to_remove.push(line);
         }
       });
@@ -166,15 +168,11 @@ export default canvas => {
     let routes = scene.getObjectByName("routes");
     if (routes) {
       let intersects = raycaster.intersectObjects(routes.children);
-
       if (intersects.length > 0) {
-        // for (let i of intersects) {
-        //   i.object.material.color.setHex(Math.random() * 0xffffff);
-        //   console.log(
-        //     `From: ${i.object.departure_iata} to: ${i.object.arrival_iata}`
-        //   );
-        // }
-        intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
+        let selected_route = intersects[0].object;
+        routes.children = [];
+        routes.children.push(selected_route);
+        // intersects[0].object.material.color.setHex(Math.random() * 0xffffff);
       }
     }
   }
