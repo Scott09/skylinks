@@ -7,6 +7,7 @@ import FlightList from "./frontcomponents/FlightList";
 import RouteList from "./frontcomponents/RouteList";
 import ScheduleList from "./frontcomponents/ScheduleList";
 import SearchForm from "./frontcomponents/SearchForm";
+import ResetButton from "./frontcomponents/ResetButton";
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
@@ -57,6 +58,13 @@ const App = props => {
     setArrivalAirport([selected_arrival]);
     fetchFlightSchedule();
   };
+
+  const onClear = () => {
+    setDepartureAirport("");
+    setArrivalAirport("");
+    setSchedule("");
+    setFS("");
+  };
   return (
     <>
       <div>
@@ -72,6 +80,7 @@ const App = props => {
           onSelect={onSelect}
         ></RouteList>
         {/* <FlightList flights={flightData}></FlightList> */}
+        <ResetButton onClear={onClear}></ResetButton>
         <SearchForm getArrival={arrivals} getDepartures={departures} />
       </div>
       <ThreeContainer
