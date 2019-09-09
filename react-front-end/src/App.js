@@ -8,6 +8,7 @@ import RouteList from "./frontcomponents/RouteList";
 import ScheduleList from "./frontcomponents/ScheduleList";
 import SearchForm from "./frontcomponents/SearchForm";
 import ResetButton from "./frontcomponents/ResetButton";
+import ScheduleListTable from "./frontcomponents/ScheduleListTable";
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
@@ -68,18 +69,17 @@ const App = props => {
   return (
     <>
       <div>
-        <ScheduleList
+        <ScheduleListTable
           newDeparture={departureAirport}
           newArrival={arrivalAirport}
           newSchedule={schedule}
-        ></ScheduleList>
+        ></ScheduleListTable>
         <RouteList
           newDeparture={departureAirport}
           newArrival={arrivalAirport}
           getDepartures={departures}
           onSelect={onSelect}
         ></RouteList>
-        {/* <FlightList flights={flightData}></FlightList> */}
         <ResetButton onClear={onClear}></ResetButton>
         <SearchForm getArrival={arrivals} getDepartures={departures} />
       </div>
