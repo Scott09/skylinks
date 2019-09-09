@@ -1,0 +1,13 @@
+#logo {
+  position: absolute;
+  font-size: 40px;
+  color: lightblue;
+  text-shadow: 2px 2px 2px #19A4CE;
+  margin-left: 4px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.plane {
+  height: 80px;
+}
+
