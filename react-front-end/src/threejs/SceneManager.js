@@ -4,6 +4,7 @@ import StarsBackGround from "./components/stars";
 import Clouds from "./components/clouds";
 import Sun from "./components/sun";
 import FlightRoutes from "./components/flightRoutes";
+import FlightRealRoutes from "./components/realFlightRoutes";
 import GeneralLights from "./GeneralLights";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
@@ -21,6 +22,7 @@ export default canvas => {
   const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
   let sceneRoutes = [];
+  let sceneRealRoute = [];
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -86,9 +88,17 @@ export default canvas => {
   function createSceneRoute(scene, airport) {
     return [new FlightRoutes(scene, airport)];
   }
+  function createSceneRealRoute(scene, airport) {
+    return [new FlightRealRoutes(scene, airport)];
+  }
 
   function addEntity(airport) {
     sceneRoutes.push(createSceneRoute(scene, airport));
+  }
+
+  function addRealRoute() {
+    const waypoints = [];
+    sceneRealRoute.push(createSceneRealRoute(scene, waypoints));
   }
 
   function clear() {
@@ -175,6 +185,7 @@ export default canvas => {
     onMouseDown,
     clear,
     addEntity,
+    addRealRoute,
     onMouseEnter,
     onMouseLeave
   };

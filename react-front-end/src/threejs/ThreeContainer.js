@@ -13,6 +13,7 @@ const ThreeContainer = props => {
   if (state) {
     state.clear();
     state.addEntity(props.newAirport);
+    state.addRealRoute();
   }
   const style = {
     height: "100vh",
