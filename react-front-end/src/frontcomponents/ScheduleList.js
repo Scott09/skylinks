@@ -35,7 +35,6 @@ function beautyTime(time) {
   let ampm = "";
   let temp = time.split("T")[1];
   temp.split(":");
-  console.log(temp);
   let hour = parseInt(temp.split(":")[0]);
   let min = temp.split(":")[1];
   if (hour < 12) {
@@ -51,7 +50,6 @@ export default function ScheduleList(props) {
 
   return (
     <React.Fragment>
-      {console.log(props.newSchedule)}
       {props.newSchedule && (
         <div id="list_main" className={classes.root}>
           <List component="nav" aria-label="main mailbox folders">

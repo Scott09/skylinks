@@ -7,6 +7,7 @@ import FlightList from "./frontcomponents/FlightList";
 import RouteList from "./frontcomponents/RouteList";
 import ScheduleList from "./frontcomponents/ScheduleList";
 import SearchForm from "./frontcomponents/SearchForm";
+import ResetButton from "./frontcomponents/ResetButton";
 
 const App = props => {
   const [clearToggle, setClearToggle] = useState(false);
@@ -34,16 +35,12 @@ const App = props => {
     console.log(
       `/api/shcedules/from/${departureAirport.fs}/to/${arrivalAirport[0].fs}`
     );
-    console.log(schedule);
-    console.log(arrivalAirport);
-    console.log(arrivalAirport.length);
     if (arrivalAirport.length === 1)
       axios
         .get(
           `/api/shcedules/from/${departureAirport.fs}/to/${arrivalAirport[0].fs}`
         )
         .then(response => {
-          console.log(response.data.scheduledFlights);
           if (response.data) {
             setSchedule(response.data);
           }
@@ -61,6 +58,13 @@ const App = props => {
     setArrivalAirport([selected_arrival]);
     fetchFlightSchedule();
   };
+
+  const onClear = () => {
+    setDepartureAirport("");
+    setArrivalAirport("");
+    setSchedule("");
+    setFS("");
+  };
   return (
     <>
       <div>
@@ -76,8 +80,8 @@ const App = props => {
           onSelect={onSelect}
         ></RouteList>
         {/* <FlightList flights={flightData}></FlightList> */}
+        <ResetButton onClear={onClear}></ResetButton>
         <SearchForm getArrival={arrivals} getDepartures={departures} />
-        {/* <button onClick={() => fetchFlightSchedule()} value="Get Schedule" /> */}
       </div>
       <ThreeContainer
         clear={clearToggle}
