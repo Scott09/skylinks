@@ -214,12 +214,19 @@ export default canvas => {
     }
   }
 
-  function updatePosition(position) {
+  function updatePosition(position, waypoints) {
     const plane = scene.getObjectByName("realTimePlane");
+    console.log(plane);
     if (plane) {
       const index = plane.points.length - 1;
       const current = Math.floor((position / 100) * index);
-      plane.position.copy(plane.points[current]);
+      plane.position.lerp(plane.points[current], 1);
+      plane.rotation.z =
+        -(Math.PI / 180) * waypoints[current].position.direction;
+      // console.log(waypoints);
+      // waypoints[index].position.direction
+      // axis.crossVectors(up, plane.points[current]).normalize();
+      // plane.quaternion.setFromAxisAngle(axis, radians);
     }
   }
 
