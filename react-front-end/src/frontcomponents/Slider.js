@@ -77,6 +77,9 @@ export default function CustomizedSlider(props) {
         max={100}
         step={1}
       ></PrettoSlider>
+      <p id="slidertext">Altitude: 20435 Feet</p>
+      <span >Longitude: 13.45432 -<span></span> Latitude:  24.53435 </span>
+      
     </Paper>
   );
 }
