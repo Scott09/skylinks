@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import threeEntryPoint from "./threeEntryPoint";
-import { height } from "@material-ui/system";
+
 const ThreeContainer = props => {
   const [state, setState] = useState(null);
 
@@ -9,6 +9,12 @@ const ThreeContainer = props => {
     const manager = threeEntryPoint(threeRootElement);
     setState(manager);
   }, []);
+
+  useEffect(() => {
+    if (props.realFlightPosition) {
+      state.updatePosition(props.realFlightPosition);
+    }
+  }, [props.realFlightPosition]);
 
   if (state) {
     state.clear();
