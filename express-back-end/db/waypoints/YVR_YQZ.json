@@ -1,0 +1,893 @@
+[
+  {
+    "Timestamp": 1568042985,
+    "UTC": "2019-09-09T15:29:45Z",
+    "Callsign": "GLR560",
+    "Position": "49.166668,-123.166664",
+    "Altitude": 500,
+    "Speed": 70,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1568043028,
+    "UTC": "2019-09-09T15:30:28Z",
+    "Callsign": "GLR560",
+    "Position": "49.179829,-123.122047",
+    "Altitude": 2400,
+    "Speed": 144,
+    "Direction": 103
+  },
+  {
+    "Timestamp": 1568043036,
+    "UTC": "2019-09-09T15:30:36Z",
+    "Callsign": "GLR560",
+    "Position": "49.179398,-123.113647",
+    "Altitude": 2648,
+    "Speed": 138,
+    "Direction": 96
+  },
+  {
+    "Timestamp": 1568043045,
+    "UTC": "2019-09-09T15:30:45Z",
+    "Callsign": "GLR560",
+    "Position": "49.177544,-123.104874",
+    "Altitude": 2900,
+    "Speed": 146,
+    "Direction": 104
+  },
+  {
+    "Timestamp": 1568043051,
+    "UTC": "2019-09-09T15:30:51Z",
+    "Callsign": "GLR560",
+    "Position": "49.150002,-123.116669",
+    "Altitude": 2500,
+    "Speed": 140,
+    "Direction": 116
+  },
+  {
+    "Timestamp": 1568043056,
+    "UTC": "2019-09-09T15:30:56Z",
+    "Callsign": "GLR560",
+    "Position": "49.175049,-123.091866",
+    "Altitude": 3300,
+    "Speed": 151,
+    "Direction": 105
+  },
+  {
+    "Timestamp": 1568043064,
+    "UTC": "2019-09-09T15:31:04Z",
+    "Callsign": "GLR560",
+    "Position": "49.174252,-123.08741",
+    "Altitude": 3405,
+    "Speed": 154,
+    "Direction": 105
+  },
+  {
+    "Timestamp": 1568043077,
+    "UTC": "2019-09-09T15:31:17Z",
+    "Callsign": "GLR560",
+    "Position": "49.17252,-123.074356",
+    "Altitude": 3843,
+    "Speed": 156,
+    "Direction": 102
+  },
+  {
+    "Timestamp": 1568043085,
+    "UTC": "2019-09-09T15:31:25Z",
+    "Callsign": "GLR560",
+    "Position": "49.172729,-123.061539",
+    "Altitude": 4055,
+    "Speed": 156,
+    "Direction": 102
+  },
+  {
+    "Timestamp": 1568043092,
+    "UTC": "2019-09-09T15:31:32Z",
+    "Callsign": "GLR560",
+    "Position": "49.174763,-123.053833",
+    "Altitude": 4200,
+    "Speed": 153,
+    "Direction": 83
+  },
+  {
+    "Timestamp": 1568043101,
+    "UTC": "2019-09-09T15:31:41Z",
+    "Callsign": "GLR560",
+    "Position": "49.178185,-123.046516",
+    "Altitude": 4497,
+    "Speed": 155,
+    "Direction": 64
+  },
+  {
+    "Timestamp": 1568043107,
+    "UTC": "2019-09-09T15:31:47Z",
+    "Callsign": "GLR560",
+    "Position": "49.166668,-123.066666",
+    "Altitude": 4100,
+    "Speed": 160,
+    "Direction": 62
+  },
+  {
+    "Timestamp": 1568043109,
+    "UTC": "2019-09-09T15:31:49Z",
+    "Callsign": "GLR560",
+    "Position": "49.182384,-123.041344",
+    "Altitude": 4751,
+    "Speed": 153,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1568043116,
+    "UTC": "2019-09-09T15:31:56Z",
+    "Callsign": "GLR560",
+    "Position": "49.186905,-123.034729",
+    "Altitude": 5000,
+    "Speed": 155,
+    "Direction": 39
+  },
+  {
+    "Timestamp": 1568043125,
+    "UTC": "2019-09-09T15:32:05Z",
+    "Callsign": "GLR560",
+    "Position": "49.192848,-123.029922",
+    "Altitude": 5295,
+    "Speed": 157,
+    "Direction": 39
+  },
+  {
+    "Timestamp": 1568043133,
+    "UTC": "2019-09-09T15:32:13Z",
+    "Callsign": "GLR560",
+    "Position": "49.199329,-123.025978",
+    "Altitude": 5500,
+    "Speed": 166,
+    "Direction": 27
+  },
+  {
+    "Timestamp": 1568043140,
+    "UTC": "2019-09-09T15:32:20Z",
+    "Callsign": "GLR560",
+    "Position": "49.205864,-123.023285",
+    "Altitude": 5699,
+    "Speed": 175,
+    "Direction": 21
+  },
+  {
+    "Timestamp": 1568043149,
+    "UTC": "2019-09-09T15:32:29Z",
+    "Callsign": "GLR560",
+    "Position": "49.21283,-123.019501",
+    "Altitude": 5900,
+    "Speed": 185,
+    "Direction": 15
+  },
+  {
+    "Timestamp": 1568043157,
+    "UTC": "2019-09-09T15:32:37Z",
+    "Callsign": "GLR560",
+    "Position": "49.220547,-123.016701",
+    "Altitude": 6100,
+    "Speed": 191,
+    "Direction": 16
+  },
+  {
+    "Timestamp": 1568043169,
+    "UTC": "2019-09-09T15:32:49Z",
+    "Callsign": "GLR560",
+    "Position": "49.211834,-123.030121",
+    "Altitude": 6000,
+    "Speed": 170,
+    "Direction": 23
+  },
+  {
+    "Timestamp": 1568043169,
+    "UTC": "2019-09-09T15:32:49Z",
+    "Callsign": "GLR560",
+    "Position": "49.23064,-123.011894",
+    "Altitude": 6400,
+    "Speed": 193,
+    "Direction": 17
+  },
+  {
+    "Timestamp": 1568043180,
+    "UTC": "2019-09-09T15:33:00Z",
+    "Callsign": "GLR560",
+    "Position": "49.242477,-123.007545",
+    "Altitude": 6600,
+    "Speed": 203,
+    "Direction": 11
+  },
+  {
+    "Timestamp": 1568043192,
+    "UTC": "2019-09-09T15:33:12Z",
+    "Callsign": "GLR560",
+    "Position": "49.254414,-123.003853",
+    "Altitude": 6799,
+    "Speed": 213,
+    "Direction": 11
+  },
+  {
+    "Timestamp": 1568043204,
+    "UTC": "2019-09-09T15:33:24Z",
+    "Callsign": "GLR560",
+    "Position": "49.265553,-122.99987",
+    "Altitude": 6900,
+    "Speed": 211,
+    "Direction": 12
+  },
+  {
+    "Timestamp": 1568043220,
+    "UTC": "2019-09-09T15:33:40Z",
+    "Callsign": "GLR560",
+    "Position": "49.282047,-122.992813",
+    "Altitude": 7100,
+    "Speed": 216,
+    "Direction": 14
+  },
+  {
+    "Timestamp": 1568043236,
+    "UTC": "2019-09-09T15:33:56Z",
+    "Callsign": "GLR560",
+    "Position": "49.297539,-122.985245",
+    "Altitude": 7400,
+    "Speed": 217,
+    "Direction": 15
+  },
+  {
+    "Timestamp": 1568043240,
+    "UTC": "2019-09-09T15:34:00Z",
+    "Callsign": "GLR560",
+    "Position": "49.263054,-122.994797",
+    "Altitude": 7000,
+    "Speed": 190,
+    "Direction": 23
+  },
+  {
+    "Timestamp": 1568043252,
+    "UTC": "2019-09-09T15:34:12Z",
+    "Callsign": "GLR560",
+    "Position": "49.311523,-122.975525",
+    "Altitude": 7799,
+    "Speed": 213,
+    "Direction": 27
+  },
+  {
+    "Timestamp": 1568043265,
+    "UTC": "2019-09-09T15:34:25Z",
+    "Callsign": "GLR560",
+    "Position": "49.318726,-122.969215",
+    "Altitude": 8100,
+    "Speed": 175,
+    "Direction": 36
+  },
+  {
+    "Timestamp": 1568043276,
+    "UTC": "2019-09-09T15:34:36Z",
+    "Callsign": "GLR560",
+    "Position": "49.331169,-122.962616",
+    "Altitude": 8400,
+    "Speed": 215,
+    "Direction": 19
+  },
+  {
+    "Timestamp": 1568043284,
+    "UTC": "2019-09-09T15:34:44Z",
+    "Callsign": "GLR560",
+    "Position": "49.339951,-122.95826",
+    "Altitude": 8600,
+    "Speed": 221,
+    "Direction": 17
+  },
+  {
+    "Timestamp": 1568043291,
+    "UTC": "2019-09-09T15:34:51Z",
+    "Callsign": "GLR560",
+    "Position": "49.308205,-122.955711",
+    "Altitude": 8300,
+    "Speed": 210,
+    "Direction": 33
+  },
+  {
+    "Timestamp": 1568043304,
+    "UTC": "2019-09-09T15:35:04Z",
+    "Callsign": "GLR560",
+    "Position": "49.357239,-122.949837",
+    "Altitude": 9000,
+    "Speed": 237,
+    "Direction": 17
+  },
+  {
+    "Timestamp": 1568043316,
+    "UTC": "2019-09-09T15:35:16Z",
+    "Callsign": "GLR560",
+    "Position": "49.369156,-122.943802",
+    "Altitude": 9300,
+    "Speed": 230,
+    "Direction": 17
+  },
+  {
+    "Timestamp": 1568043328,
+    "UTC": "2019-09-09T15:35:28Z",
+    "Callsign": "GLR560",
+    "Position": "49.383541,-122.936745",
+    "Altitude": 9600,
+    "Speed": 222,
+    "Direction": 17
+  },
+  {
+    "Timestamp": 1568043340,
+    "UTC": "2019-09-09T15:35:40Z",
+    "Callsign": "GLR560",
+    "Position": "49.395458,-122.930435",
+    "Altitude": 9900,
+    "Speed": 213,
+    "Direction": 19
+  },
+  {
+    "Timestamp": 1568043352,
+    "UTC": "2019-09-09T15:35:52Z",
+    "Callsign": "GLR560",
+    "Position": "49.359978,-122.925331",
+    "Altitude": 9600,
+    "Speed": 210,
+    "Direction": 12
+  },
+  {
+    "Timestamp": 1568043356,
+    "UTC": "2019-09-09T15:35:56Z",
+    "Callsign": "GLR560",
+    "Position": "49.404263,-122.924461",
+    "Altitude": 10100,
+    "Speed": 204,
+    "Direction": 20
+  },
+  {
+    "Timestamp": 1568043368,
+    "UTC": "2019-09-09T15:36:08Z",
+    "Callsign": "GLR560",
+    "Position": "49.421646,-122.91864",
+    "Altitude": 10400,
+    "Speed": 242,
+    "Direction": 10
+  },
+  {
+    "Timestamp": 1568043377,
+    "UTC": "2019-09-09T15:36:17Z",
+    "Callsign": "GLR560",
+    "Position": "49.429916,-122.916298",
+    "Altitude": 10506,
+    "Speed": 229,
+    "Direction": 10
+  },
+  {
+    "Timestamp": 1568043385,
+    "UTC": "2019-09-09T15:36:25Z",
+    "Callsign": "GLR560",
+    "Position": "49.438923,-122.914925",
+    "Altitude": 10700,
+    "Speed": 229,
+    "Direction": 6
+  },
+  {
+    "Timestamp": 1568043393,
+    "UTC": "2019-09-09T15:36:33Z",
+    "Callsign": "GLR560",
+    "Position": "49.445934,-122.914558",
+    "Altitude": 10899,
+    "Speed": 221,
+    "Direction": 2
+  },
+  {
+    "Timestamp": 1568043408,
+    "UTC": "2019-09-09T15:36:48Z",
+    "Callsign": "GLR560",
+    "Position": "49.46175,-122.914032",
+    "Altitude": 11299,
+    "Speed": 216,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1568043413,
+    "UTC": "2019-09-09T15:36:53Z",
+    "Callsign": "GLR560",
+    "Position": "49.420097,-122.911331",
+    "Altitude": 10900,
+    "Speed": 210,
+    "Direction": 338
+  },
+  {
+    "Timestamp": 1568043420,
+    "UTC": "2019-09-09T15:37:00Z",
+    "Callsign": "GLR560",
+    "Position": "49.474216,-122.914337",
+    "Altitude": 11600,
+    "Speed": 221,
+    "Direction": 358
+  },
+  {
+    "Timestamp": 1568043441,
+    "UTC": "2019-09-09T15:37:21Z",
+    "Callsign": "GLR560",
+    "Position": "49.461273,-122.897751",
+    "Altitude": 12200,
+    "Speed": 220,
+    "Direction": 23
+  },
+  {
+    "Timestamp": 1568043444,
+    "UTC": "2019-09-09T15:37:24Z",
+    "Callsign": "GLR560",
+    "Position": "49.497101,-122.913338",
+    "Altitude": 11999,
+    "Speed": 242,
+    "Direction": 19
+  },
+  {
+    "Timestamp": 1568043450,
+    "UTC": "2019-09-09T15:37:30Z",
+    "Callsign": "GLR560",
+    "Position": "49.504673,-122.912537",
+    "Altitude": 12199,
+    "Speed": 237,
+    "Direction": 7
+  },
+  {
+    "Timestamp": 1568043484,
+    "UTC": "2019-09-09T15:38:04Z",
+    "Callsign": "GLR560",
+    "Position": "49.540741,-122.90863",
+    "Altitude": 12900,
+    "Speed": 236,
+    "Direction": 3
+  },
+  {
+    "Timestamp": 1568043502,
+    "UTC": "2019-09-09T15:38:22Z",
+    "Callsign": "GLR560",
+    "Position": "49.533398,-122.882034",
+    "Altitude": 13500,
+    "Speed": 220,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1568043529,
+    "UTC": "2019-09-09T15:38:49Z",
+    "Callsign": "GLR560",
+    "Position": "49.589153,-122.90361",
+    "Altitude": 13933,
+    "Speed": 224,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568043536,
+    "UTC": "2019-09-09T15:38:56Z",
+    "Callsign": "GLR560",
+    "Position": "49.596451,-122.902359",
+    "Altitude": 14100,
+    "Speed": 194,
+    "Direction": 7
+  },
+  {
+    "Timestamp": 1568043570,
+    "UTC": "2019-09-09T15:39:30Z",
+    "Callsign": "GLR560",
+    "Position": "49.626911,-122.896355",
+    "Altitude": 14800,
+    "Speed": 229,
+    "Direction": 6
+  },
+  {
+    "Timestamp": 1568043598,
+    "UTC": "2019-09-09T15:39:58Z",
+    "Callsign": "GLR560",
+    "Position": "49.649052,-122.891808",
+    "Altitude": 15300,
+    "Speed": 173,
+    "Direction": 26
+  },
+  {
+    "Timestamp": 1568043616,
+    "UTC": "2019-09-09T15:40:16Z",
+    "Callsign": "GLR560",
+    "Position": "49.669483,-122.889732",
+    "Altitude": 15646,
+    "Speed": 235,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568043622,
+    "UTC": "2019-09-09T15:40:22Z",
+    "Callsign": "GLR560",
+    "Position": "49.677895,-122.888916",
+    "Altitude": 15800,
+    "Speed": 237,
+    "Direction": 3
+  },
+  {
+    "Timestamp": 1568043629,
+    "UTC": "2019-09-09T15:40:29Z",
+    "Callsign": "GLR560",
+    "Position": "49.68309,-122.888458",
+    "Altitude": 15900,
+    "Speed": 237,
+    "Direction": 3
+  },
+  {
+    "Timestamp": 1568043664,
+    "UTC": "2019-09-09T15:41:04Z",
+    "Callsign": "GLR560",
+    "Position": "49.728687,-122.883522",
+    "Altitude": 16800,
+    "Speed": 235,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568043704,
+    "UTC": "2019-09-09T15:41:44Z",
+    "Callsign": "GLR560",
+    "Position": "49.771179,-122.875679",
+    "Altitude": 17600,
+    "Speed": 288,
+    "Direction": 5
+  },
+  {
+    "Timestamp": 1568043744,
+    "UTC": "2019-09-09T15:42:24Z",
+    "Callsign": "GLR560",
+    "Position": "49.807552,-122.869713",
+    "Altitude": 18099,
+    "Speed": 203,
+    "Direction": 7
+  },
+  {
+    "Timestamp": 1568043804,
+    "UTC": "2019-09-09T15:43:24Z",
+    "Callsign": "GLR560",
+    "Position": "49.883171,-122.858734",
+    "Altitude": 19300,
+    "Speed": 253,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568043869,
+    "UTC": "2019-09-09T15:44:29Z",
+    "Callsign": "GLR560",
+    "Position": "49.950317,-122.850777",
+    "Altitude": 20100,
+    "Speed": 263,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1568043930,
+    "UTC": "2019-09-09T15:45:30Z",
+    "Callsign": "GLR560",
+    "Position": "50.022984,-122.83992",
+    "Altitude": 21100,
+    "Speed": 263,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1568043998,
+    "UTC": "2019-09-09T15:46:38Z",
+    "Callsign": "GLR560",
+    "Position": "50.097412,-122.828804",
+    "Altitude": 21700,
+    "Speed": 202,
+    "Direction": 10
+  },
+  {
+    "Timestamp": 1568044062,
+    "UTC": "2019-09-09T15:47:42Z",
+    "Callsign": "GLR560",
+    "Position": "50.182438,-122.817947",
+    "Altitude": 22400,
+    "Speed": 275,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568044140,
+    "UTC": "2019-09-09T15:49:00Z",
+    "Callsign": "GLR560",
+    "Position": "50.258484,-122.806641",
+    "Altitude": 23000,
+    "Speed": 256,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568044200,
+    "UTC": "2019-09-09T15:50:00Z",
+    "Callsign": "GLR560",
+    "Position": "50.350304,-122.792847",
+    "Altitude": 23600,
+    "Speed": 263,
+    "Direction": 5
+  },
+  {
+    "Timestamp": 1568044268,
+    "UTC": "2019-09-09T15:51:08Z",
+    "Callsign": "GLR560",
+    "Position": "50.436337,-122.782204",
+    "Altitude": 24000,
+    "Speed": 285,
+    "Direction": 3
+  },
+  {
+    "Timestamp": 1568044332,
+    "UTC": "2019-09-09T15:52:12Z",
+    "Callsign": "GLR560",
+    "Position": "50.512135,-122.769798",
+    "Altitude": 24000,
+    "Speed": 274,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568044408,
+    "UTC": "2019-09-09T15:53:28Z",
+    "Callsign": "GLR560",
+    "Position": "50.599682,-122.75589",
+    "Altitude": 24000,
+    "Speed": 296,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568044473,
+    "UTC": "2019-09-09T15:54:33Z",
+    "Callsign": "GLR560",
+    "Position": "50.699085,-122.743553",
+    "Altitude": 23999,
+    "Speed": 296,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568044484,
+    "UTC": "2019-09-09T15:54:44Z",
+    "Callsign": "GLR560",
+    "Position": "50.704754,-122.742912",
+    "Altitude": 24000,
+    "Speed": 296,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568044545,
+    "UTC": "2019-09-09T15:55:45Z",
+    "Callsign": "GLR560",
+    "Position": "50.768471,-122.734062",
+    "Altitude": 24000,
+    "Speed": 296,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1568044658,
+    "UTC": "2019-09-09T15:57:38Z",
+    "Callsign": "GLR560",
+    "Position": "50.902882,-122.717377",
+    "Altitude": 24000,
+    "Speed": 280,
+    "Direction": 11
+  },
+  {
+    "Timestamp": 1568044719,
+    "UTC": "2019-09-09T15:58:39Z",
+    "Callsign": "GLR560",
+    "Position": "50.986286,-122.695221",
+    "Altitude": 24000,
+    "Speed": 290,
+    "Direction": 14
+  },
+  {
+    "Timestamp": 1568044780,
+    "UTC": "2019-09-09T15:59:40Z",
+    "Callsign": "GLR560",
+    "Position": "51.071075,-122.682999",
+    "Altitude": 24000,
+    "Speed": 280,
+    "Direction": 6
+  },
+  {
+    "Timestamp": 1568044887,
+    "UTC": "2019-09-09T16:01:27Z",
+    "Callsign": "GLR560",
+    "Position": "51.183392,-122.654854",
+    "Altitude": 24000,
+    "Speed": 290,
+    "Direction": 14
+  },
+  {
+    "Timestamp": 1568044924,
+    "UTC": "2019-09-09T16:02:04Z",
+    "Callsign": "GLR560",
+    "Position": "51.232059,-122.647453",
+    "Altitude": 24000,
+    "Speed": 290,
+    "Direction": 15
+  },
+  {
+    "Timestamp": 1568044964,
+    "UTC": "2019-09-09T16:02:44Z",
+    "Callsign": "GLR560",
+    "Position": "51.293682,-122.643089",
+    "Altitude": 24000,
+    "Speed": 290,
+    "Direction": 356
+  },
+  {
+    "Timestamp": 1568045026,
+    "UTC": "2019-09-09T16:03:46Z",
+    "Callsign": "GLR560",
+    "Position": "51.382526,-122.624771",
+    "Altitude": 24000,
+    "Speed": 290,
+    "Direction": 14
+  },
+  {
+    "Timestamp": 1568045088,
+    "UTC": "2019-09-09T16:04:48Z",
+    "Callsign": "GLR560",
+    "Position": "51.475002,-122.612946",
+    "Altitude": 24000,
+    "Speed": 290,
+    "Direction": 5
+  },
+  {
+    "Timestamp": 1568045146,
+    "UTC": "2019-09-09T16:05:46Z",
+    "Callsign": "GLR560",
+    "Position": "51.560955,-122.607841",
+    "Altitude": 24000,
+    "Speed": 290,
+    "Direction": 353
+  },
+  {
+    "Timestamp": 1568045267,
+    "UTC": "2019-09-09T16:07:47Z",
+    "Callsign": "GLR560",
+    "Position": "51.732555,-122.584396",
+    "Altitude": 24000,
+    "Speed": 300,
+    "Direction": 7
+  },
+  {
+    "Timestamp": 1568045326,
+    "UTC": "2019-09-09T16:08:46Z",
+    "Callsign": "GLR560",
+    "Position": "51.806282,-122.561928",
+    "Altitude": 23500,
+    "Speed": 300,
+    "Direction": 17
+  },
+  {
+    "Timestamp": 1568045450,
+    "UTC": "2019-09-09T16:10:50Z",
+    "Callsign": "GLR560",
+    "Position": "51.9818,-122.542908",
+    "Altitude": 22400,
+    "Speed": 310,
+    "Direction": 8
+  },
+  {
+    "Timestamp": 1568045514,
+    "UTC": "2019-09-09T16:11:54Z",
+    "Callsign": "GLR560",
+    "Position": "52.068497,-122.523575",
+    "Altitude": 21200,
+    "Speed": 310,
+    "Direction": 13
+  },
+  {
+    "Timestamp": 1568045573,
+    "UTC": "2019-09-09T16:12:53Z",
+    "Callsign": "GLR560",
+    "Position": "52.151352,-122.513092",
+    "Altitude": 19300,
+    "Speed": 310,
+    "Direction": 13
+  },
+  {
+    "Timestamp": 1568045636,
+    "UTC": "2019-09-09T16:13:56Z",
+    "Callsign": "GLR560",
+    "Position": "52.235733,-122.492386",
+    "Altitude": 17600,
+    "Speed": 300,
+    "Direction": 13
+  },
+  {
+    "Timestamp": 1568045662,
+    "UTC": "2019-09-09T16:14:22Z",
+    "Callsign": "GLR560",
+    "Position": "52.288616,-122.484932",
+    "Altitude": 16200,
+    "Speed": 300,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1568045724,
+    "UTC": "2019-09-09T16:15:24Z",
+    "Callsign": "GLR560",
+    "Position": "52.386795,-122.47554",
+    "Altitude": 15300,
+    "Speed": 300,
+    "Direction": 2
+  },
+  {
+    "Timestamp": 1568045784,
+    "UTC": "2019-09-09T16:16:24Z",
+    "Callsign": "GLR560",
+    "Position": "52.48074,-122.456619",
+    "Altitude": 14100,
+    "Speed": 300,
+    "Direction": 13
+  },
+  {
+    "Timestamp": 1568045845,
+    "UTC": "2019-09-09T16:17:25Z",
+    "Callsign": "GLR560",
+    "Position": "52.571609,-122.445328",
+    "Altitude": 12400,
+    "Speed": 300,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1568045970,
+    "UTC": "2019-09-09T16:19:30Z",
+    "Callsign": "GLR560",
+    "Position": "52.731354,-122.41703",
+    "Altitude": 7900,
+    "Speed": 280,
+    "Direction": 7
+  },
+  {
+    "Timestamp": 1568046029,
+    "UTC": "2019-09-09T16:20:29Z",
+    "Callsign": "GLR560",
+    "Position": "52.790504,-122.351021",
+    "Altitude": 6400,
+    "Speed": 270,
+    "Direction": 54
+  },
+  {
+    "Timestamp": 1568046089,
+    "UTC": "2019-09-09T16:21:29Z",
+    "Callsign": "GLR560",
+    "Position": "52.853199,-122.328117",
+    "Altitude": 6100,
+    "Speed": 200,
+    "Direction": 344
+  },
+  {
+    "Timestamp": 1568046148,
+    "UTC": "2019-09-09T16:22:28Z",
+    "Callsign": "GLR560",
+    "Position": "52.898674,-122.331772",
+    "Altitude": 5400,
+    "Speed": 160,
+    "Direction": 329
+  },
+  {
+    "Timestamp": 1568046211,
+    "UTC": "2019-09-09T16:23:31Z",
+    "Callsign": "GLR560",
+    "Position": "52.937538,-122.345833",
+    "Altitude": 4400,
+    "Speed": 150,
+    "Direction": 344
+  },
+  {
+    "Timestamp": 1568046274,
+    "UTC": "2019-09-09T16:24:34Z",
+    "Callsign": "GLR560",
+    "Position": "52.966747,-122.375229",
+    "Altitude": 3600,
+    "Speed": 140,
+    "Direction": 329
+  },
+  {
+    "Timestamp": 1568046332,
+    "UTC": "2019-09-09T16:25:32Z",
+    "Callsign": "GLR560",
+    "Position": "52.990715,-122.419113",
+    "Altitude": 2800,
+    "Speed": 140,
+    "Direction": 318
+  }
+]
