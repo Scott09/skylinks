@@ -12,6 +12,9 @@ const YVR_ICN = require("./db/waypoints/YVR_ICN.json");
 const YVR_ORD = require("./db/waypoints/YVR_ORD.json");
 const YVR_PDX = require("./db/waypoints/YVR_PDX.json");
 const YVR_AMS = require("./db/waypoints/YVR_AMS.json");
+const YVR_MEX = require("./db/waypoints/YVR_MEX.json");
+const YVR_SEA = require("./db/waypoints/YVR_SEA.json");
+const YVR_YOW = require("./db/waypoints/YVR_YOW.json");
 
 
 
@@ -213,6 +216,49 @@ for (const waypoint of YVR_AMS) {
       waypoint.Direction,
       "YVR",
       "AMS"
+    ]
+  );
+}
+
+for (const waypoint of YVR_MEX) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "MEX"
+    ]
+  );
+}
+
+for (const waypoint of YVR_SEA) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "SEA"
+    ]
+  );
+}
+
+
+for (const waypoint of YVR_YOW) {
+  pool.query(
+    `INSERT into route_info(position_time, position, altitude, direction, departure_iata, arrival_iata) values ($1, $2, $3, $4, $5, $6)`,
+    [
+      waypoint.Timestamp,
+      waypoint.Position,
+      waypoint.Altitude,
+      waypoint.Direction,
+      "YVR",
+      "YOW"
     ]
   );
 }
