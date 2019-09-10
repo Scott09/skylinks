@@ -72,8 +72,6 @@ export default canvas => {
     );
 
     camera.position.z = 10;
-
-    console.log(camera);
     return camera;
   }
 
@@ -96,20 +94,19 @@ export default canvas => {
   }
 
   function addEntity(airport) {
-    sceneRoutes.push(createSceneRoute(scene, airport));
+    console.log(airport);
+    if (airport.waypoints.length > 1) {
+      sceneRealRoute.push(createSceneRealRoute(scene, airport.waypoints));
+    } else {
+      sceneRoutes.push(createSceneRoute(scene, airport));
+    }
   }
 
-  function addRealRoute() {
-    const waypoints = [];
-    sceneRealRoute.push(createSceneRealRoute(scene, waypoints));
-  }
-
-  function clear() {
-    var selectedObject = scene.getObjectByName("routes");
+  function clearRoutes(obj) {
     var children_to_remove = [];
 
-    selectedObject &&
-      selectedObject.traverse(line => {
+    obj &&
+      obj.traverse(line => {
         if (line.type === "Line") {
           children_to_remove.push(line);
         }
@@ -122,7 +119,40 @@ export default canvas => {
     });
 
     sceneRoutes.length = 0;
-    scene.remove(selectedObject);
+    scene.remove(obj);
+  }
+
+  function clearWaypoints(obj) {
+    var children_to_remove = [];
+    console.log(obj);
+    obj &&
+      obj.traverse(line => {
+        if (line.name === "waypointsLine") {
+          children_to_remove.push(line);
+        }
+      });
+    //remove all children
+    children_to_remove.forEach(function(child) {
+      scene.remove(child);
+      child.geometry.dispose();
+      child.material.dispose();
+    });
+
+    sceneRealRoute.length = 0;
+    scene.remove(obj);
+  }
+
+  function clear() {
+    var selectedObject = "";
+    if (scene.getObjectByName("routes")) {
+      selectedObject = scene.getObjectByName("routes");
+      console.log("routes");
+      clearRoutes(selectedObject);
+    } else if (scene.getObjectByName("realRoute")) {
+      selectedObject = scene.getObjectByName("realRoute");
+      console.log("realRoute");
+      clearWaypoints(selectedObject);
+    }
   }
 
   function update() {
@@ -192,7 +222,6 @@ export default canvas => {
     onMouseDown,
     clear,
     addEntity,
-    addRealRoute,
     onMouseEnter,
     onMouseLeave
   };
