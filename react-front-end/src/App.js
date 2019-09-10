@@ -10,33 +10,37 @@ import Logo from "./frontcomponents/Logo";
 
 const App = props => {
   const [departureAirport, setDepartureAirport] = useState("");
-  const [arrivalAirport, setArrivalAirport] = useState("");
+  const [arrivalAirport, setArrivalAirport] = useState(""); //list
+  const [departureFs, setDepartureFs] = useState(""); //single
+  const [arrivalAirportFs, setArrivalAirportFs] = useState("");
   const [schedule, setSchedule] = useState("");
-  const [fs, setFS] = useState("");
+  const [waypoints, setWaypoints] = useState([]);
 
   useEffect(() => {
-    console.log("call", fs);
-
     fetchData();
-  }, [fs]);
+  }, [departureFs]);
+
+  useEffect(() => {
+    console.log("here");
+    fetchFlightSchedule();
+    fetchWaypoints();
+  }, [arrivalAirportFs]);
 
   const fetchData = () => {
-    axios.get(`/api/airports/${fs}`).then(response => {
-      if (response.data) {
-        setDepartureAirport(response.data.departure);
-        setArrivalAirport(response.data.arrival);
-      }
-    });
+    if (departureFs)
+      axios.get(`/api/airports/${departureFs}`).then(response => {
+        if (response.data) {
+          setDepartureAirport(response.data.departure);
+          setArrivalAirport(response.data.arrival);
+        }
+      });
   };
 
   const fetchFlightSchedule = () => {
-    console.log(
-      `/api/shcedules/from/${departureAirport.fs}/to/${arrivalAirport[0].fs}`
-    );
     if (arrivalAirport.length === 1)
       axios
         .get(
-          `/api/shcedules/from/${departureAirport.fs}/to/${arrivalAirport[0].fs}`
+          `/api/schedules/from/${departureAirport.fs}/to/${arrivalAirport[0].fs}`
         )
         .then(response => {
           if (response.data) {
@@ -45,23 +49,42 @@ const App = props => {
         });
   };
 
+  const fetchWaypoints = () => {
+    let departure = "";
+    let arrival = "";
+    if (departureFs && arrivalAirportFs) {
+      departure = departureFs;
+      arrival = arrivalAirportFs;
+    }
+    axios.get(`/api/real/from/${departure}/to/${arrival}`).then(response => {
+      if (response.data) {
+        setWaypoints(response.data);
+      }
+    });
+  };
+
   const arrivals = () => {};
 
   const departures = departure => {
-    if (departure === fs) fetchData();
-    setFS(departure.toUpperCase());
+    if (departure === departureFs) {
+      fetchData();
+      setDepartureFs("");
+      setWaypoints([]);
+    }
+    setDepartureFs(departure.toUpperCase());
   };
 
   const onSelect = selected_arrival => {
     setArrivalAirport([selected_arrival]);
-    fetchFlightSchedule();
+    setArrivalAirportFs([selected_arrival.fs][0]);
   };
 
   const onClear = () => {
     setDepartureAirport("");
     setArrivalAirport("");
     setSchedule("");
-    setFS("");
+    setDepartureFs("");
+    setWaypoints([]);
   };
   return (
     <>
@@ -82,6 +105,7 @@ const App = props => {
         <SearchForm getArrival={arrivals} getDepartures={departures} />
       </div>
       <ThreeContainer
+        waypoints={waypoints}
         newDeparture={departureAirport}
         newArrival={arrivalAirport}
       />
