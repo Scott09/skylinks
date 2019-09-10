@@ -89,7 +89,8 @@ App.get("/api/real/from/:from/to/:to", (req, res) => {
             position: {
               latitude: currentLatitude,
               longitude: currentLongitude,
-              altitude: item.altitude
+              altitude: item.altitude,
+              direction: item.direction
             }
           });
         }

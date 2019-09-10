@@ -11,8 +11,8 @@ const ThreeContainer = props => {
   }, []);
 
   useEffect(() => {
-    if (props.realFlightPosition) {
-      state.updatePosition(props.realFlightPosition);
+    if (props.realFlightPosition && props.waypoints.length > 0) {
+      state.updatePosition(props.realFlightPosition, props.waypoints);
     }
   }, [props.realFlightPosition]);
 
