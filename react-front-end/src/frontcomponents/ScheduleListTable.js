@@ -31,18 +31,25 @@ export default function ScheduleListTable(props) {
               <tr>
                 <th scope="col">Flight</th>
                 <th scope="col">Airline</th>
-                <th scope="col">Departure Time</th>
-                <th scope="col">Arrival Time</th>
+                <th scope="col">Departure</th>
+                <th scope="col">Arrival</th>
               </tr>
             </thead>
             <tbody>
               {props.newSchedule.scheduledFlights.map(schedule => {
                 return (
-                  <tr key="1">
+                  <tr>
                     <td>
                       {schedule.carrierFsCode} {schedule.flightNumber}
                     </td>
-                    <td>AirlinesURL</td>
+                    <td>
+                      <img
+                        id="airlinelogo"
+                        alt="airlinelogo"
+                        style={{ opacity: 1 }}
+                        src={`http://pics.avs.io/50/25/${schedule.carrierFsCode}.png`}
+                      ></img>
+                    </td>
                     <td>{beautyTime(schedule.departureTime)}</td>
                     <td>{beautyTime(schedule.arrivalTime)}</td>
                   </tr>

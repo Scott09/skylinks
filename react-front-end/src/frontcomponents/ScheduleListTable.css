@@ -14,6 +14,10 @@
   color: white;
 }
 
+#airlinelogo {
+  opacity: 1;
+}
+
 table {
   width: 100%;
   max-width: 260px;
@@ -32,6 +36,7 @@ th {
 #tableHead {
   background-color: #0000cd;
   color: white;
+  letter-spacing: -1px;
 }
 
 tbody tr {
@@ -64,5 +69,5 @@ tbody tr:nth-child(even) {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #1e90ff;
+  background: #0000cd;
 }
