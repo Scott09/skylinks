@@ -1,0 +1,5915 @@
+[
+  {
+    "Timestamp": 1567986223,
+    "UTC": "2019-09-08T23:43:43Z",
+    "Callsign": "ANA115",
+    "Position": "49.19146,-123.20829",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 182
+  },
+  {
+    "Timestamp": 1567986229,
+    "UTC": "2019-09-08T23:43:49Z",
+    "Callsign": "ANA115",
+    "Position": "49.191181,-123.208366",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567986235,
+    "UTC": "2019-09-08T23:43:55Z",
+    "Callsign": "ANA115",
+    "Position": "49.190895,-123.208427",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567986241,
+    "UTC": "2019-09-08T23:44:01Z",
+    "Callsign": "ANA115",
+    "Position": "49.19062,-123.208488",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 171
+  },
+  {
+    "Timestamp": 1567986250,
+    "UTC": "2019-09-08T23:44:10Z",
+    "Callsign": "ANA115",
+    "Position": "49.190262,-123.208275",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 137
+  },
+  {
+    "Timestamp": 1567986256,
+    "UTC": "2019-09-08T23:44:16Z",
+    "Callsign": "ANA115",
+    "Position": "49.19014,-123.207954",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1567986262,
+    "UTC": "2019-09-08T23:44:22Z",
+    "Callsign": "ANA115",
+    "Position": "49.190086,-123.207603",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567986269,
+    "UTC": "2019-09-08T23:44:29Z",
+    "Callsign": "ANA115",
+    "Position": "49.190025,-123.207024",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 84
+  },
+  {
+    "Timestamp": 1567986278,
+    "UTC": "2019-09-08T23:44:38Z",
+    "Callsign": "ANA115",
+    "Position": "49.189819,-123.205193",
+    "Altitude": 0,
+    "Speed": 44,
+    "Direction": 84
+  },
+  {
+    "Timestamp": 1567986288,
+    "UTC": "2019-09-08T23:44:48Z",
+    "Callsign": "ANA115",
+    "Position": "49.189156,-123.199379",
+    "Altitude": 0,
+    "Speed": 94,
+    "Direction": 84
+  },
+  {
+    "Timestamp": 1567986295,
+    "UTC": "2019-09-08T23:44:55Z",
+    "Callsign": "ANA115",
+    "Position": "49.188583,-123.194344",
+    "Altitude": 100,
+    "Speed": 116,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1567986301,
+    "UTC": "2019-09-08T23:45:01Z",
+    "Callsign": "ANA115",
+    "Position": "49.187988,-123.189064",
+    "Altitude": 100,
+    "Speed": 138,
+    "Direction": 100
+  },
+  {
+    "Timestamp": 1567986308,
+    "UTC": "2019-09-08T23:45:08Z",
+    "Callsign": "ANA115",
+    "Position": "49.187164,-123.182091",
+    "Altitude": 100,
+    "Speed": 157,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1567986319,
+    "UTC": "2019-09-08T23:45:19Z",
+    "Callsign": "ANA115",
+    "Position": "49.185516,-123.167587",
+    "Altitude": 250,
+    "Speed": 178,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1567986326,
+    "UTC": "2019-09-08T23:45:26Z",
+    "Callsign": "ANA115",
+    "Position": "49.184628,-123.159988",
+    "Altitude": 450,
+    "Speed": 180,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1567986338,
+    "UTC": "2019-09-08T23:45:38Z",
+    "Callsign": "ANA115",
+    "Position": "49.182903,-123.144379",
+    "Altitude": 900,
+    "Speed": 184,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1567986349,
+    "UTC": "2019-09-08T23:45:49Z",
+    "Callsign": "ANA115",
+    "Position": "49.181305,-123.129692",
+    "Altitude": 1400,
+    "Speed": 183,
+    "Direction": 100
+  },
+  {
+    "Timestamp": 1567986356,
+    "UTC": "2019-09-08T23:45:56Z",
+    "Callsign": "ANA115",
+    "Position": "49.179924,-123.121826",
+    "Altitude": 1650,
+    "Speed": 184,
+    "Direction": 107
+  },
+  {
+    "Timestamp": 1567986362,
+    "UTC": "2019-09-08T23:46:02Z",
+    "Callsign": "ANA115",
+    "Position": "49.178108,-123.114525",
+    "Altitude": 1900,
+    "Speed": 183,
+    "Direction": 112
+  },
+  {
+    "Timestamp": 1567986368,
+    "UTC": "2019-09-08T23:46:08Z",
+    "Callsign": "ANA115",
+    "Position": "49.175922,-123.106941",
+    "Altitude": 2125,
+    "Speed": 185,
+    "Direction": 113
+  },
+  {
+    "Timestamp": 1567986374,
+    "UTC": "2019-09-08T23:46:14Z",
+    "Callsign": "ANA115",
+    "Position": "49.174198,-123.100647",
+    "Altitude": 2300,
+    "Speed": 185,
+    "Direction": 113
+  },
+  {
+    "Timestamp": 1567986381,
+    "UTC": "2019-09-08T23:46:21Z",
+    "Callsign": "ANA115",
+    "Position": "49.171871,-123.092407",
+    "Altitude": 2525,
+    "Speed": 187,
+    "Direction": 113
+  },
+  {
+    "Timestamp": 1567986389,
+    "UTC": "2019-09-08T23:46:29Z",
+    "Callsign": "ANA115",
+    "Position": "49.1688,-123.081787",
+    "Altitude": 2825,
+    "Speed": 188,
+    "Direction": 113
+  },
+  {
+    "Timestamp": 1567986395,
+    "UTC": "2019-09-08T23:46:35Z",
+    "Callsign": "ANA115",
+    "Position": "49.166656,-123.074272",
+    "Altitude": 3025,
+    "Speed": 189,
+    "Direction": 113
+  },
+  {
+    "Timestamp": 1567986401,
+    "UTC": "2019-09-08T23:46:41Z",
+    "Callsign": "ANA115",
+    "Position": "49.164551,-123.066948",
+    "Altitude": 3200,
+    "Speed": 191,
+    "Direction": 113
+  },
+  {
+    "Timestamp": 1567986407,
+    "UTC": "2019-09-08T23:46:47Z",
+    "Callsign": "ANA115",
+    "Position": "49.162376,-123.059593",
+    "Altitude": 3375,
+    "Speed": 194,
+    "Direction": 113
+  },
+  {
+    "Timestamp": 1567986413,
+    "UTC": "2019-09-08T23:46:53Z",
+    "Callsign": "ANA115",
+    "Position": "49.160019,-123.051521",
+    "Altitude": 3475,
+    "Speed": 201,
+    "Direction": 114
+  },
+  {
+    "Timestamp": 1567986419,
+    "UTC": "2019-09-08T23:46:59Z",
+    "Callsign": "ANA115",
+    "Position": "49.15773,-123.043777",
+    "Altitude": 3550,
+    "Speed": 209,
+    "Direction": 114
+  },
+  {
+    "Timestamp": 1567986426,
+    "UTC": "2019-09-08T23:47:06Z",
+    "Callsign": "ANA115",
+    "Position": "49.154926,-123.03524",
+    "Altitude": 3625,
+    "Speed": 217,
+    "Direction": 118
+  },
+  {
+    "Timestamp": 1567986432,
+    "UTC": "2019-09-08T23:47:12Z",
+    "Callsign": "ANA115",
+    "Position": "49.15139,-123.027435",
+    "Altitude": 3675,
+    "Speed": 226,
+    "Direction": 128
+  },
+  {
+    "Timestamp": 1567986440,
+    "UTC": "2019-09-08T23:47:20Z",
+    "Callsign": "ANA115",
+    "Position": "49.143803,-123.017601",
+    "Altitude": 3775,
+    "Speed": 239,
+    "Direction": 145
+  },
+  {
+    "Timestamp": 1567986446,
+    "UTC": "2019-09-08T23:47:26Z",
+    "Callsign": "ANA115",
+    "Position": "49.137703,-123.013191",
+    "Altitude": 3875,
+    "Speed": 245,
+    "Direction": 158
+  },
+  {
+    "Timestamp": 1567986452,
+    "UTC": "2019-09-08T23:47:32Z",
+    "Callsign": "ANA115",
+    "Position": "49.131317,-123.010956",
+    "Altitude": 4025,
+    "Speed": 249,
+    "Direction": 170
+  },
+  {
+    "Timestamp": 1567986459,
+    "UTC": "2019-09-08T23:47:39Z",
+    "Callsign": "ANA115",
+    "Position": "49.124249,-123.010231",
+    "Altitude": 4225,
+    "Speed": 252,
+    "Direction": 178
+  },
+  {
+    "Timestamp": 1567986479,
+    "UTC": "2019-09-08T23:47:59Z",
+    "Callsign": "ANA115",
+    "Position": "49.09869,-123.012611",
+    "Altitude": 4875,
+    "Speed": 265,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1567986488,
+    "UTC": "2019-09-08T23:48:08Z",
+    "Callsign": "ANA115",
+    "Position": "49.087566,-123.013985",
+    "Altitude": 5225,
+    "Speed": 268,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1567986502,
+    "UTC": "2019-09-08T23:48:22Z",
+    "Callsign": "ANA115",
+    "Position": "49.072205,-123.016808",
+    "Altitude": 5550,
+    "Speed": 269,
+    "Direction": 190
+  },
+  {
+    "Timestamp": 1567986509,
+    "UTC": "2019-09-08T23:48:29Z",
+    "Callsign": "ANA115",
+    "Position": "49.06192,-123.022087",
+    "Altitude": 5725,
+    "Speed": 270,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567986515,
+    "UTC": "2019-09-08T23:48:35Z",
+    "Callsign": "ANA115",
+    "Position": "49.055584,-123.027863",
+    "Altitude": 5825,
+    "Speed": 271,
+    "Direction": 213
+  },
+  {
+    "Timestamp": 1567986522,
+    "UTC": "2019-09-08T23:48:42Z",
+    "Callsign": "ANA115",
+    "Position": "49.04958,-123.035309",
+    "Altitude": 5950,
+    "Speed": 270,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567986530,
+    "UTC": "2019-09-08T23:48:50Z",
+    "Callsign": "ANA115",
+    "Position": "49.041412,-123.047295",
+    "Altitude": 6100,
+    "Speed": 269,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567986537,
+    "UTC": "2019-09-08T23:48:57Z",
+    "Callsign": "ANA115",
+    "Position": "49.036011,-123.055748",
+    "Altitude": 6200,
+    "Speed": 270,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567986543,
+    "UTC": "2019-09-08T23:49:03Z",
+    "Callsign": "ANA115",
+    "Position": "49.030975,-123.063705",
+    "Altitude": 6300,
+    "Speed": 270,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567986558,
+    "UTC": "2019-09-08T23:49:18Z",
+    "Callsign": "ANA115",
+    "Position": "49.017883,-123.084412",
+    "Altitude": 6775,
+    "Speed": 274,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567986571,
+    "UTC": "2019-09-08T23:49:31Z",
+    "Callsign": "ANA115",
+    "Position": "49.006939,-123.101448",
+    "Altitude": 7275,
+    "Speed": 275,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567986582,
+    "UTC": "2019-09-08T23:49:42Z",
+    "Callsign": "ANA115",
+    "Position": "48.996735,-123.118568",
+    "Altitude": 7750,
+    "Speed": 277,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1567986589,
+    "UTC": "2019-09-08T23:49:49Z",
+    "Callsign": "ANA115",
+    "Position": "48.992798,-123.12822",
+    "Altitude": 8000,
+    "Speed": 278,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567986595,
+    "UTC": "2019-09-08T23:49:55Z",
+    "Callsign": "ANA115",
+    "Position": "48.989761,-123.13961",
+    "Altitude": 8250,
+    "Speed": 279,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1567986603,
+    "UTC": "2019-09-08T23:50:03Z",
+    "Callsign": "ANA115",
+    "Position": "48.9879,-123.156525",
+    "Altitude": 8550,
+    "Speed": 281,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1567986626,
+    "UTC": "2019-09-08T23:50:26Z",
+    "Callsign": "ANA115",
+    "Position": "48.990601,-123.203293",
+    "Altitude": 9475,
+    "Speed": 284,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567986633,
+    "UTC": "2019-09-08T23:50:33Z",
+    "Callsign": "ANA115",
+    "Position": "48.992321,-123.215721",
+    "Altitude": 9700,
+    "Speed": 285,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567986640,
+    "UTC": "2019-09-08T23:50:40Z",
+    "Callsign": "ANA115",
+    "Position": "48.994812,-123.22702",
+    "Altitude": 9925,
+    "Speed": 287,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567986649,
+    "UTC": "2019-09-08T23:50:49Z",
+    "Callsign": "ANA115",
+    "Position": "48.999535,-123.243187",
+    "Altitude": 10225,
+    "Speed": 289,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567986658,
+    "UTC": "2019-09-08T23:50:58Z",
+    "Callsign": "ANA115",
+    "Position": "49.005215,-123.260529",
+    "Altitude": 10450,
+    "Speed": 296,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567986665,
+    "UTC": "2019-09-08T23:51:05Z",
+    "Callsign": "ANA115",
+    "Position": "49.008987,-123.271881",
+    "Altitude": 10550,
+    "Speed": 301,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567986677,
+    "UTC": "2019-09-08T23:51:17Z",
+    "Callsign": "ANA115",
+    "Position": "49.018948,-123.300934",
+    "Altitude": 10775,
+    "Speed": 316,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567986690,
+    "UTC": "2019-09-08T23:51:30Z",
+    "Callsign": "ANA115",
+    "Position": "49.028183,-123.325127",
+    "Altitude": 11000,
+    "Speed": 328,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567986704,
+    "UTC": "2019-09-08T23:51:44Z",
+    "Callsign": "ANA115",
+    "Position": "49.038174,-123.348061",
+    "Altitude": 11200,
+    "Speed": 337,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986716,
+    "UTC": "2019-09-08T23:51:56Z",
+    "Callsign": "ANA115",
+    "Position": "49.049286,-123.372025",
+    "Altitude": 11400,
+    "Speed": 347,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567986727,
+    "UTC": "2019-09-08T23:52:07Z",
+    "Callsign": "ANA115",
+    "Position": "49.060776,-123.396957",
+    "Altitude": 11600,
+    "Speed": 357,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986738,
+    "UTC": "2019-09-08T23:52:18Z",
+    "Callsign": "ANA115",
+    "Position": "49.072266,-123.42231",
+    "Altitude": 11775,
+    "Speed": 369,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986750,
+    "UTC": "2019-09-08T23:52:30Z",
+    "Callsign": "ANA115",
+    "Position": "49.084122,-123.448296",
+    "Altitude": 11950,
+    "Speed": 379,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986762,
+    "UTC": "2019-09-08T23:52:42Z",
+    "Callsign": "ANA115",
+    "Position": "49.096024,-123.474564",
+    "Altitude": 12175,
+    "Speed": 386,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986793,
+    "UTC": "2019-09-08T23:53:13Z",
+    "Callsign": "ANA115",
+    "Position": "49.128433,-123.545624",
+    "Altitude": 13075,
+    "Speed": 398,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986827,
+    "UTC": "2019-09-08T23:53:47Z",
+    "Callsign": "ANA115",
+    "Position": "49.162235,-123.620407",
+    "Altitude": 14075,
+    "Speed": 404,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986885,
+    "UTC": "2019-09-08T23:54:45Z",
+    "Callsign": "ANA115",
+    "Position": "49.226898,-123.762749",
+    "Altitude": 15850,
+    "Speed": 418,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986919,
+    "UTC": "2019-09-08T23:55:19Z",
+    "Callsign": "ANA115",
+    "Position": "49.263062,-123.843315",
+    "Altitude": 16775,
+    "Speed": 424,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986952,
+    "UTC": "2019-09-08T23:55:52Z",
+    "Callsign": "ANA115",
+    "Position": "49.300591,-123.926941",
+    "Altitude": 17725,
+    "Speed": 431,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567986984,
+    "UTC": "2019-09-08T23:56:24Z",
+    "Callsign": "ANA115",
+    "Position": "49.339043,-124.009552",
+    "Altitude": 18625,
+    "Speed": 437,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567987048,
+    "UTC": "2019-09-08T23:57:28Z",
+    "Callsign": "ANA115",
+    "Position": "49.41687,-124.167694",
+    "Altitude": 20300,
+    "Speed": 446,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567987107,
+    "UTC": "2019-09-08T23:58:27Z",
+    "Callsign": "ANA115",
+    "Position": "49.491577,-124.323021",
+    "Altitude": 21675,
+    "Speed": 457,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567987173,
+    "UTC": "2019-09-08T23:59:33Z",
+    "Callsign": "ANA115",
+    "Position": "49.571686,-124.491508",
+    "Altitude": 23000,
+    "Speed": 468,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567987205,
+    "UTC": "2019-09-09T00:00:05Z",
+    "Callsign": "ANA115",
+    "Position": "49.613983,-124.580406",
+    "Altitude": 23750,
+    "Speed": 471,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567987362,
+    "UTC": "2019-09-09T00:02:42Z",
+    "Callsign": "ANA115",
+    "Position": "49.821789,-125.02211",
+    "Altitude": 26625,
+    "Speed": 493,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567987385,
+    "UTC": "2019-09-09T00:03:05Z",
+    "Callsign": "ANA115",
+    "Position": "49.852654,-125.088181",
+    "Altitude": 27000,
+    "Speed": 496,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567987475,
+    "UTC": "2019-09-09T00:04:35Z",
+    "Callsign": "ANA115",
+    "Position": "49.975597,-125.352966",
+    "Altitude": 28250,
+    "Speed": 510,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567987537,
+    "UTC": "2019-09-09T00:05:37Z",
+    "Callsign": "ANA115",
+    "Position": "50.060074,-125.536507",
+    "Altitude": 29100,
+    "Speed": 515,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567987603,
+    "UTC": "2019-09-09T00:06:43Z",
+    "Callsign": "ANA115",
+    "Position": "50.150116,-125.733681",
+    "Altitude": 30475,
+    "Speed": 510,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567987663,
+    "UTC": "2019-09-09T00:07:43Z",
+    "Callsign": "ANA115",
+    "Position": "50.231449,-125.912971",
+    "Altitude": 31625,
+    "Speed": 505,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567987724,
+    "UTC": "2019-09-09T00:08:44Z",
+    "Callsign": "ANA115",
+    "Position": "50.313053,-126.094391",
+    "Altitude": 32725,
+    "Speed": 502,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567987786,
+    "UTC": "2019-09-09T00:09:46Z",
+    "Callsign": "ANA115",
+    "Position": "50.395844,-126.279243",
+    "Altitude": 33625,
+    "Speed": 502,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567987847,
+    "UTC": "2019-09-09T00:10:47Z",
+    "Callsign": "ANA115",
+    "Position": "50.477463,-126.463043",
+    "Altitude": 33975,
+    "Speed": 502,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567987909,
+    "UTC": "2019-09-09T00:11:49Z",
+    "Callsign": "ANA115",
+    "Position": "50.558716,-126.647141",
+    "Altitude": 33975,
+    "Speed": 499,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567987970,
+    "UTC": "2019-09-09T00:12:50Z",
+    "Callsign": "ANA115",
+    "Position": "50.638454,-126.829216",
+    "Altitude": 33975,
+    "Speed": 498,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567988032,
+    "UTC": "2019-09-09T00:13:52Z",
+    "Callsign": "ANA115",
+    "Position": "50.717545,-127.011108",
+    "Altitude": 34000,
+    "Speed": 495,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567988093,
+    "UTC": "2019-09-09T00:14:53Z",
+    "Callsign": "ANA115",
+    "Position": "50.798409,-127.198334",
+    "Altitude": 33975,
+    "Speed": 493,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567988157,
+    "UTC": "2019-09-09T00:15:57Z",
+    "Callsign": "ANA115",
+    "Position": "50.87709,-127.381874",
+    "Altitude": 34000,
+    "Speed": 492,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988216,
+    "UTC": "2019-09-09T00:16:56Z",
+    "Callsign": "ANA115",
+    "Position": "50.954964,-127.564774",
+    "Altitude": 34000,
+    "Speed": 489,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988222,
+    "UTC": "2019-09-09T00:17:02Z",
+    "Callsign": "ANA115",
+    "Position": "50.959759,-127.576065",
+    "Altitude": 34000,
+    "Speed": 489,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988312,
+    "UTC": "2019-09-09T00:18:32Z",
+    "Callsign": "ANA115",
+    "Position": "51.073856,-127.846527",
+    "Altitude": 34000,
+    "Speed": 488,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988357,
+    "UTC": "2019-09-09T00:19:17Z",
+    "Callsign": "ANA115",
+    "Position": "51.129299,-127.978973",
+    "Altitude": 33975,
+    "Speed": 488,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988415,
+    "UTC": "2019-09-09T00:20:15Z",
+    "Callsign": "ANA115",
+    "Position": "51.176239,-128.119781",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567988472,
+    "UTC": "2019-09-09T00:21:12Z",
+    "Callsign": "ANA115",
+    "Position": "51.223984,-128.259964",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567988516,
+    "UTC": "2019-09-09T00:21:56Z",
+    "Callsign": "ANA115",
+    "Position": "51.326633,-128.455887",
+    "Altitude": 33975,
+    "Speed": 487,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988556,
+    "UTC": "2019-09-09T00:22:36Z",
+    "Callsign": "ANA115",
+    "Position": "51.376026,-128.57666",
+    "Altitude": 33975,
+    "Speed": 486,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988584,
+    "UTC": "2019-09-09T00:23:04Z",
+    "Callsign": "ANA115",
+    "Position": "51.408848,-128.65715",
+    "Altitude": 33975,
+    "Speed": 485,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567988611,
+    "UTC": "2019-09-09T00:23:31Z",
+    "Callsign": "ANA115",
+    "Position": "51.443203,-128.741913",
+    "Altitude": 34000,
+    "Speed": 485,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567988701,
+    "UTC": "2019-09-09T00:25:01Z",
+    "Callsign": "ANA115",
+    "Position": "51.552834,-129.013672",
+    "Altitude": 33975,
+    "Speed": 486,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567988763,
+    "UTC": "2019-09-09T00:26:03Z",
+    "Callsign": "ANA115",
+    "Position": "51.627361,-129.200058",
+    "Altitude": 33975,
+    "Speed": 486,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567988826,
+    "UTC": "2019-09-09T00:27:06Z",
+    "Callsign": "ANA115",
+    "Position": "51.703812,-129.392822",
+    "Altitude": 34000,
+    "Speed": 486,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567988888,
+    "UTC": "2019-09-09T00:28:08Z",
+    "Callsign": "ANA115",
+    "Position": "51.779541,-129.585114",
+    "Altitude": 33975,
+    "Speed": 487,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567988950,
+    "UTC": "2019-09-09T00:29:10Z",
+    "Callsign": "ANA115",
+    "Position": "51.852768,-129.772507",
+    "Altitude": 34000,
+    "Speed": 486,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567989011,
+    "UTC": "2019-09-09T00:30:11Z",
+    "Callsign": "ANA115",
+    "Position": "51.926056,-129.961395",
+    "Altitude": 33975,
+    "Speed": 489,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567989072,
+    "UTC": "2019-09-09T00:31:12Z",
+    "Callsign": "ANA115",
+    "Position": "51.99852,-130.149231",
+    "Altitude": 33975,
+    "Speed": 488,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567989134,
+    "UTC": "2019-09-09T00:32:14Z",
+    "Callsign": "ANA115",
+    "Position": "52.07338,-130.345169",
+    "Altitude": 34000,
+    "Speed": 487,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567989197,
+    "UTC": "2019-09-09T00:33:17Z",
+    "Callsign": "ANA115",
+    "Position": "52.146328,-130.537506",
+    "Altitude": 34000,
+    "Speed": 485,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567989261,
+    "UTC": "2019-09-09T00:34:21Z",
+    "Callsign": "ANA115",
+    "Position": "52.221882,-130.738174",
+    "Altitude": 34000,
+    "Speed": 486,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567989322,
+    "UTC": "2019-09-09T00:35:22Z",
+    "Callsign": "ANA115",
+    "Position": "52.294083,-130.931442",
+    "Altitude": 34000,
+    "Speed": 487,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567989384,
+    "UTC": "2019-09-09T00:36:24Z",
+    "Callsign": "ANA115",
+    "Position": "52.365402,-131.123703",
+    "Altitude": 34000,
+    "Speed": 487,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567989447,
+    "UTC": "2019-09-09T00:37:27Z",
+    "Callsign": "ANA115",
+    "Position": "52.438293,-131.321793",
+    "Altitude": 33975,
+    "Speed": 487,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567989510,
+    "UTC": "2019-09-09T00:38:30Z",
+    "Callsign": "ANA115",
+    "Position": "52.510597,-131.520233",
+    "Altitude": 34000,
+    "Speed": 485,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567989574,
+    "UTC": "2019-09-09T00:39:34Z",
+    "Callsign": "ANA115",
+    "Position": "52.583591,-131.721756",
+    "Altitude": 33975,
+    "Speed": 485,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567989637,
+    "UTC": "2019-09-09T00:40:37Z",
+    "Callsign": "ANA115",
+    "Position": "52.655746,-131.922653",
+    "Altitude": 34000,
+    "Speed": 485,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567989698,
+    "UTC": "2019-09-09T00:41:38Z",
+    "Callsign": "ANA115",
+    "Position": "52.72467,-132.115936",
+    "Altitude": 33975,
+    "Speed": 484,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567989761,
+    "UTC": "2019-09-09T00:42:41Z",
+    "Callsign": "ANA115",
+    "Position": "52.795498,-132.316269",
+    "Altitude": 33975,
+    "Speed": 483,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567989823,
+    "UTC": "2019-09-09T00:43:43Z",
+    "Callsign": "ANA115",
+    "Position": "52.865479,-132.515793",
+    "Altitude": 33975,
+    "Speed": 483,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567989884,
+    "UTC": "2019-09-09T00:44:44Z",
+    "Callsign": "ANA115",
+    "Position": "52.932266,-132.707977",
+    "Altitude": 34000,
+    "Speed": 484,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567989948,
+    "UTC": "2019-09-09T00:45:48Z",
+    "Callsign": "ANA115",
+    "Position": "53.002983,-132.912918",
+    "Altitude": 33975,
+    "Speed": 485,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567990012,
+    "UTC": "2019-09-09T00:46:52Z",
+    "Callsign": "ANA115",
+    "Position": "53.07486,-133.122757",
+    "Altitude": 34000,
+    "Speed": 487,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567990074,
+    "UTC": "2019-09-09T00:47:54Z",
+    "Callsign": "ANA115",
+    "Position": "53.143066,-133.323639",
+    "Altitude": 33975,
+    "Speed": 485,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567990133,
+    "UTC": "2019-09-09T00:48:53Z",
+    "Callsign": "ANA115",
+    "Position": "53.208881,-133.519028",
+    "Altitude": 33975,
+    "Speed": 487,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567990197,
+    "UTC": "2019-09-09T00:49:57Z",
+    "Callsign": "ANA115",
+    "Position": "53.277786,-133.725433",
+    "Altitude": 33975,
+    "Speed": 489,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567990260,
+    "UTC": "2019-09-09T00:51:00Z",
+    "Callsign": "ANA115",
+    "Position": "53.347961,-133.937073",
+    "Altitude": 33975,
+    "Speed": 489,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567990324,
+    "UTC": "2019-09-09T00:52:04Z",
+    "Callsign": "ANA115",
+    "Position": "53.416969,-134.147675",
+    "Altitude": 33975,
+    "Speed": 485,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567990358,
+    "UTC": "2019-09-09T00:52:38Z",
+    "Callsign": "ANA115",
+    "Position": "53.453606,-134.26004",
+    "Altitude": 33975,
+    "Speed": 487,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567990449,
+    "UTC": "2019-09-09T00:54:09Z",
+    "Callsign": "ANA115",
+    "Position": "53.551132,-134.561432",
+    "Altitude": 33975,
+    "Speed": 484,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567990512,
+    "UTC": "2019-09-09T00:55:12Z",
+    "Callsign": "ANA115",
+    "Position": "53.617004,-134.767105",
+    "Altitude": 33975,
+    "Speed": 489,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567990573,
+    "UTC": "2019-09-09T00:56:13Z",
+    "Callsign": "ANA115",
+    "Position": "53.6819,-134.971756",
+    "Altitude": 33975,
+    "Speed": 487,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567990601,
+    "UTC": "2019-09-09T00:56:41Z",
+    "Callsign": "ANA115",
+    "Position": "53.711693,-135.066238",
+    "Altitude": 34000,
+    "Speed": 485,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567990701,
+    "UTC": "2019-09-09T00:58:21Z",
+    "Callsign": "ANA115",
+    "Position": "53.811501,-135.384384",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567990762,
+    "UTC": "2019-09-09T00:59:22Z",
+    "Callsign": "ANA115",
+    "Position": "53.869461,-135.562927",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567990784,
+    "UTC": "2019-09-09T00:59:44Z",
+    "Callsign": "ANA115",
+    "Position": "53.889469,-135.667221",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567990847,
+    "UTC": "2019-09-09T01:00:47Z",
+    "Callsign": "ANA115",
+    "Position": "53.942417,-135.893814",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567990908,
+    "UTC": "2019-09-09T01:01:48Z",
+    "Callsign": "ANA115",
+    "Position": "53.998932,-136.098251",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1567990968,
+    "UTC": "2019-09-09T01:02:48Z",
+    "Callsign": "ANA115",
+    "Position": "54.060337,-136.30864",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567991029,
+    "UTC": "2019-09-09T01:03:49Z",
+    "Callsign": "ANA115",
+    "Position": "54.125599,-136.517136",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567991089,
+    "UTC": "2019-09-09T01:04:49Z",
+    "Callsign": "ANA115",
+    "Position": "54.184303,-136.712051",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567991152,
+    "UTC": "2019-09-09T01:05:52Z",
+    "Callsign": "ANA115",
+    "Position": "54.249756,-136.918045",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567991211,
+    "UTC": "2019-09-09T01:06:51Z",
+    "Callsign": "ANA115",
+    "Position": "54.311539,-137.104752",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567991270,
+    "UTC": "2019-09-09T01:07:50Z",
+    "Callsign": "ANA115",
+    "Position": "54.377331,-137.292831",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567991306,
+    "UTC": "2019-09-09T01:08:26Z",
+    "Callsign": "ANA115",
+    "Position": "54.422134,-137.39209",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 316
+  },
+  {
+    "Timestamp": 1567991455,
+    "UTC": "2019-09-09T01:10:55Z",
+    "Callsign": "ANA115",
+    "Position": "54.572945,-137.909805",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567991514,
+    "UTC": "2019-09-09T01:11:54Z",
+    "Callsign": "ANA115",
+    "Position": "54.626324,-138.124725",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567991598,
+    "UTC": "2019-09-09T01:13:18Z",
+    "Callsign": "ANA115",
+    "Position": "54.722057,-138.415771",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 311
+  },
+  {
+    "Timestamp": 1567991656,
+    "UTC": "2019-09-09T01:14:16Z",
+    "Callsign": "ANA115",
+    "Position": "54.790745,-138.624512",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567991697,
+    "UTC": "2019-09-09T01:14:57Z",
+    "Callsign": "ANA115",
+    "Position": "54.828194,-138.773972",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567991760,
+    "UTC": "2019-09-09T01:16:00Z",
+    "Callsign": "ANA115",
+    "Position": "54.880047,-138.98381",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567991819,
+    "UTC": "2019-09-09T01:16:59Z",
+    "Callsign": "ANA115",
+    "Position": "54.935371,-139.193085",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567991880,
+    "UTC": "2019-09-09T01:18:00Z",
+    "Callsign": "ANA115",
+    "Position": "54.990726,-139.409836",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567991941,
+    "UTC": "2019-09-09T01:19:01Z",
+    "Callsign": "ANA115",
+    "Position": "55.057953,-139.639313",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567991971,
+    "UTC": "2019-09-09T01:19:31Z",
+    "Callsign": "ANA115",
+    "Position": "55.093868,-139.732315",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1567992145,
+    "UTC": "2019-09-09T01:22:25Z",
+    "Callsign": "ANA115",
+    "Position": "55.277943,-140.341156",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567992205,
+    "UTC": "2019-09-09T01:23:25Z",
+    "Callsign": "ANA115",
+    "Position": "55.345539,-140.567886",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567992262,
+    "UTC": "2019-09-09T01:24:22Z",
+    "Callsign": "ANA115",
+    "Position": "55.405052,-140.79007",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567992318,
+    "UTC": "2019-09-09T01:25:18Z",
+    "Callsign": "ANA115",
+    "Position": "55.466148,-141.014038",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567992381,
+    "UTC": "2019-09-09T01:26:21Z",
+    "Callsign": "ANA115",
+    "Position": "55.525082,-141.247269",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567992437,
+    "UTC": "2019-09-09T01:27:17Z",
+    "Callsign": "ANA115",
+    "Position": "55.581963,-141.46489",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567992574,
+    "UTC": "2019-09-09T01:29:34Z",
+    "Callsign": "ANA115",
+    "Position": "55.707108,-141.957825",
+    "Altitude": 34000,
+    "Speed": 520,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567992631,
+    "UTC": "2019-09-09T01:30:31Z",
+    "Callsign": "ANA115",
+    "Position": "55.75703,-142.179871",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567992691,
+    "UTC": "2019-09-09T01:31:31Z",
+    "Callsign": "ANA115",
+    "Position": "55.813366,-142.403183",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567992750,
+    "UTC": "2019-09-09T01:32:30Z",
+    "Callsign": "ANA115",
+    "Position": "55.867725,-142.626892",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567992810,
+    "UTC": "2019-09-09T01:33:30Z",
+    "Callsign": "ANA115",
+    "Position": "55.92149,-142.861984",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567992867,
+    "UTC": "2019-09-09T01:34:27Z",
+    "Callsign": "ANA115",
+    "Position": "55.977905,-143.086624",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567992926,
+    "UTC": "2019-09-09T01:35:26Z",
+    "Callsign": "ANA115",
+    "Position": "56.03418,-143.325424",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567992982,
+    "UTC": "2019-09-09T01:36:22Z",
+    "Callsign": "ANA115",
+    "Position": "56.093044,-143.554443",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567993050,
+    "UTC": "2019-09-09T01:37:30Z",
+    "Callsign": "ANA115",
+    "Position": "56.155743,-143.823837",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567993100,
+    "UTC": "2019-09-09T01:38:20Z",
+    "Callsign": "ANA115",
+    "Position": "56.203327,-144.047913",
+    "Altitude": 34000,
+    "Speed": 520,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567993218,
+    "UTC": "2019-09-09T01:40:18Z",
+    "Callsign": "ANA115",
+    "Position": "56.315449,-144.527985",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567993297,
+    "UTC": "2019-09-09T01:41:37Z",
+    "Callsign": "ANA115",
+    "Position": "56.377975,-144.806213",
+    "Altitude": 34000,
+    "Speed": 510,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567993355,
+    "UTC": "2019-09-09T01:42:35Z",
+    "Callsign": "ANA115",
+    "Position": "56.423439,-145.0233",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567993411,
+    "UTC": "2019-09-09T01:43:31Z",
+    "Callsign": "ANA115",
+    "Position": "56.46904,-145.233475",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567993471,
+    "UTC": "2019-09-09T01:44:31Z",
+    "Callsign": "ANA115",
+    "Position": "56.510761,-145.454849",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567993530,
+    "UTC": "2019-09-09T01:45:30Z",
+    "Callsign": "ANA115",
+    "Position": "56.554668,-145.680939",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567993588,
+    "UTC": "2019-09-09T01:46:28Z",
+    "Callsign": "ANA115",
+    "Position": "56.609253,-145.930267",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567993647,
+    "UTC": "2019-09-09T01:47:27Z",
+    "Callsign": "ANA115",
+    "Position": "56.661465,-146.168808",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567993708,
+    "UTC": "2019-09-09T01:48:28Z",
+    "Callsign": "ANA115",
+    "Position": "56.706524,-146.411163",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567993762,
+    "UTC": "2019-09-09T01:49:22Z",
+    "Callsign": "ANA115",
+    "Position": "56.749947,-146.634979",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567993822,
+    "UTC": "2019-09-09T01:50:22Z",
+    "Callsign": "ANA115",
+    "Position": "56.799435,-146.880341",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567993881,
+    "UTC": "2019-09-09T01:51:21Z",
+    "Callsign": "ANA115",
+    "Position": "56.849251,-147.12056",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567993940,
+    "UTC": "2019-09-09T01:52:20Z",
+    "Callsign": "ANA115",
+    "Position": "56.889874,-147.340866",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567993997,
+    "UTC": "2019-09-09T01:53:17Z",
+    "Callsign": "ANA115",
+    "Position": "56.934765,-147.570404",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567994074,
+    "UTC": "2019-09-09T01:54:34Z",
+    "Callsign": "ANA115",
+    "Position": "56.988857,-147.836182",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567994133,
+    "UTC": "2019-09-09T01:55:33Z",
+    "Callsign": "ANA115",
+    "Position": "57.025612,-148.047943",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567994192,
+    "UTC": "2019-09-09T01:56:32Z",
+    "Callsign": "ANA115",
+    "Position": "57.068226,-148.279739",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567994307,
+    "UTC": "2019-09-09T01:58:27Z",
+    "Callsign": "ANA115",
+    "Position": "57.150475,-148.736389",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1567994324,
+    "UTC": "2019-09-09T01:58:44Z",
+    "Callsign": "ANA115",
+    "Position": "57.187515,-148.90506",
+    "Altitude": 34000,
+    "Speed": 487,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567994413,
+    "UTC": "2019-09-09T02:00:13Z",
+    "Callsign": "ANA115",
+    "Position": "57.250534,-149.262665",
+    "Altitude": 34000,
+    "Speed": 487,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567994474,
+    "UTC": "2019-09-09T02:01:14Z",
+    "Callsign": "ANA115",
+    "Position": "57.292305,-149.503632",
+    "Altitude": 34000,
+    "Speed": 489,
+    "Direction": 287
+  },
+  {
+    "Timestamp": 1567994536,
+    "UTC": "2019-09-09T02:02:16Z",
+    "Callsign": "ANA115",
+    "Position": "57.334625,-149.751038",
+    "Altitude": 33975,
+    "Speed": 488,
+    "Direction": 287
+  },
+  {
+    "Timestamp": 1567994599,
+    "UTC": "2019-09-09T02:03:19Z",
+    "Callsign": "ANA115",
+    "Position": "57.377014,-150.002869",
+    "Altitude": 34000,
+    "Speed": 488,
+    "Direction": 287
+  },
+  {
+    "Timestamp": 1567994662,
+    "UTC": "2019-09-09T02:04:22Z",
+    "Callsign": "ANA115",
+    "Position": "57.418488,-150.252548",
+    "Altitude": 33975,
+    "Speed": 491,
+    "Direction": 287
+  },
+  {
+    "Timestamp": 1567994723,
+    "UTC": "2019-09-09T02:05:23Z",
+    "Callsign": "ANA115",
+    "Position": "57.459137,-150.500076",
+    "Altitude": 33975,
+    "Speed": 494,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567994784,
+    "UTC": "2019-09-09T02:06:24Z",
+    "Callsign": "ANA115",
+    "Position": "57.497601,-150.750137",
+    "Altitude": 34000,
+    "Speed": 499,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567994847,
+    "UTC": "2019-09-09T02:07:27Z",
+    "Callsign": "ANA115",
+    "Position": "57.536453,-151.009232",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567994910,
+    "UTC": "2019-09-09T02:08:30Z",
+    "Callsign": "ANA115",
+    "Position": "57.574036,-151.263626",
+    "Altitude": 34000,
+    "Speed": 498,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567994971,
+    "UTC": "2019-09-09T02:09:31Z",
+    "Callsign": "ANA115",
+    "Position": "57.611328,-151.520248",
+    "Altitude": 33975,
+    "Speed": 498,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567995032,
+    "UTC": "2019-09-09T02:10:32Z",
+    "Callsign": "ANA115",
+    "Position": "57.64769,-151.773712",
+    "Altitude": 34000,
+    "Speed": 498,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567995094,
+    "UTC": "2019-09-09T02:11:34Z",
+    "Callsign": "ANA115",
+    "Position": "57.683994,-152.031464",
+    "Altitude": 34000,
+    "Speed": 499,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567995156,
+    "UTC": "2019-09-09T02:12:36Z",
+    "Callsign": "ANA115",
+    "Position": "57.719788,-152.289474",
+    "Altitude": 34000,
+    "Speed": 499,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567995219,
+    "UTC": "2019-09-09T02:13:39Z",
+    "Callsign": "ANA115",
+    "Position": "57.755592,-152.552582",
+    "Altitude": 34000,
+    "Speed": 501,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567995280,
+    "UTC": "2019-09-09T02:14:40Z",
+    "Callsign": "ANA115",
+    "Position": "57.790226,-152.810394",
+    "Altitude": 33975,
+    "Speed": 502,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567995342,
+    "UTC": "2019-09-09T02:15:42Z",
+    "Callsign": "ANA115",
+    "Position": "57.8237,-153.065872",
+    "Altitude": 33975,
+    "Speed": 502,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567995403,
+    "UTC": "2019-09-09T02:16:43Z",
+    "Callsign": "ANA115",
+    "Position": "57.857822,-153.329041",
+    "Altitude": 33975,
+    "Speed": 503,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567995453,
+    "UTC": "2019-09-09T02:17:33Z",
+    "Callsign": "ANA115",
+    "Position": "57.884171,-153.535614",
+    "Altitude": 34000,
+    "Speed": 504,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567995540,
+    "UTC": "2019-09-09T02:19:00Z",
+    "Callsign": "ANA115",
+    "Position": "57.930443,-153.906555",
+    "Altitude": 34000,
+    "Speed": 505,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567995602,
+    "UTC": "2019-09-09T02:20:02Z",
+    "Callsign": "ANA115",
+    "Position": "57.961864,-154.16391",
+    "Altitude": 34000,
+    "Speed": 504,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1567995666,
+    "UTC": "2019-09-09T02:21:06Z",
+    "Callsign": "ANA115",
+    "Position": "57.994499,-154.436554",
+    "Altitude": 34000,
+    "Speed": 504,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1567995730,
+    "UTC": "2019-09-09T02:22:10Z",
+    "Callsign": "ANA115",
+    "Position": "58.026482,-154.708832",
+    "Altitude": 33975,
+    "Speed": 504,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1567995791,
+    "UTC": "2019-09-09T02:23:11Z",
+    "Callsign": "ANA115",
+    "Position": "58.057755,-154.980499",
+    "Altitude": 34000,
+    "Speed": 506,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1567995851,
+    "UTC": "2019-09-09T02:24:11Z",
+    "Callsign": "ANA115",
+    "Position": "58.087189,-155.241165",
+    "Altitude": 33975,
+    "Speed": 507,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567995914,
+    "UTC": "2019-09-09T02:25:14Z",
+    "Callsign": "ANA115",
+    "Position": "58.116257,-155.504745",
+    "Altitude": 34000,
+    "Speed": 509,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567995942,
+    "UTC": "2019-09-09T02:25:42Z",
+    "Callsign": "ANA115",
+    "Position": "58.130058,-155.631317",
+    "Altitude": 34000,
+    "Speed": 509,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567996044,
+    "UTC": "2019-09-09T02:27:24Z",
+    "Callsign": "ANA115",
+    "Position": "58.177547,-156.112823",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567996103,
+    "UTC": "2019-09-09T02:28:23Z",
+    "Callsign": "ANA115",
+    "Position": "58.203087,-156.332825",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567996163,
+    "UTC": "2019-09-09T02:29:23Z",
+    "Callsign": "ANA115",
+    "Position": "58.22422,-156.580139",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567996221,
+    "UTC": "2019-09-09T02:30:21Z",
+    "Callsign": "ANA115",
+    "Position": "58.247246,-156.805832",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567996281,
+    "UTC": "2019-09-09T02:31:21Z",
+    "Callsign": "ANA115",
+    "Position": "58.270241,-157.061691",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567996357,
+    "UTC": "2019-09-09T02:32:37Z",
+    "Callsign": "ANA115",
+    "Position": "58.300655,-157.357498",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567996444,
+    "UTC": "2019-09-09T02:34:04Z",
+    "Callsign": "ANA115",
+    "Position": "58.347794,-157.828613",
+    "Altitude": 33975,
+    "Speed": 506,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567996506,
+    "UTC": "2019-09-09T02:35:06Z",
+    "Callsign": "ANA115",
+    "Position": "58.37199,-158.101685",
+    "Altitude": 33975,
+    "Speed": 501,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567996568,
+    "UTC": "2019-09-09T02:36:08Z",
+    "Callsign": "ANA115",
+    "Position": "58.395264,-158.371902",
+    "Altitude": 33975,
+    "Speed": 500,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567996631,
+    "UTC": "2019-09-09T02:37:11Z",
+    "Callsign": "ANA115",
+    "Position": "58.418243,-158.643555",
+    "Altitude": 34000,
+    "Speed": 502,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567996694,
+    "UTC": "2019-09-09T02:38:14Z",
+    "Callsign": "ANA115",
+    "Position": "58.441086,-158.920959",
+    "Altitude": 34000,
+    "Speed": 501,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567996757,
+    "UTC": "2019-09-09T02:39:17Z",
+    "Callsign": "ANA115",
+    "Position": "58.462906,-159.194824",
+    "Altitude": 34000,
+    "Speed": 497,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567996820,
+    "UTC": "2019-09-09T02:40:20Z",
+    "Callsign": "ANA115",
+    "Position": "58.483902,-159.465546",
+    "Altitude": 34000,
+    "Speed": 500,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567996884,
+    "UTC": "2019-09-09T02:41:24Z",
+    "Callsign": "ANA115",
+    "Position": "58.503983,-159.731735",
+    "Altitude": 33975,
+    "Speed": 497,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567996942,
+    "UTC": "2019-09-09T02:42:22Z",
+    "Callsign": "ANA115",
+    "Position": "58.523621,-160.000092",
+    "Altitude": 33975,
+    "Speed": 500,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997006,
+    "UTC": "2019-09-09T02:43:26Z",
+    "Callsign": "ANA115",
+    "Position": "58.542744,-160.269104",
+    "Altitude": 33975,
+    "Speed": 499,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997066,
+    "UTC": "2019-09-09T02:44:26Z",
+    "Callsign": "ANA115",
+    "Position": "58.561615,-160.541351",
+    "Altitude": 33975,
+    "Speed": 495,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997130,
+    "UTC": "2019-09-09T02:45:30Z",
+    "Callsign": "ANA115",
+    "Position": "58.579239,-160.80751",
+    "Altitude": 34000,
+    "Speed": 495,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997190,
+    "UTC": "2019-09-09T02:46:30Z",
+    "Callsign": "ANA115",
+    "Position": "58.59668,-161.077377",
+    "Altitude": 34000,
+    "Speed": 496,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567997252,
+    "UTC": "2019-09-09T02:47:32Z",
+    "Callsign": "ANA115",
+    "Position": "58.613434,-161.345657",
+    "Altitude": 34000,
+    "Speed": 495,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567997272,
+    "UTC": "2019-09-09T02:47:52Z",
+    "Callsign": "ANA115",
+    "Position": "58.618393,-161.426971",
+    "Altitude": 34000,
+    "Speed": 494,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567997370,
+    "UTC": "2019-09-09T02:49:30Z",
+    "Callsign": "ANA115",
+    "Position": "58.639187,-161.838776",
+    "Altitude": 34000,
+    "Speed": 490,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997430,
+    "UTC": "2019-09-09T02:50:30Z",
+    "Callsign": "ANA115",
+    "Position": "58.659302,-162.121078",
+    "Altitude": 34000,
+    "Speed": 496,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997491,
+    "UTC": "2019-09-09T02:51:31Z",
+    "Callsign": "ANA115",
+    "Position": "58.679653,-162.387085",
+    "Altitude": 34000,
+    "Speed": 496,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567997553,
+    "UTC": "2019-09-09T02:52:33Z",
+    "Callsign": "ANA115",
+    "Position": "58.699539,-162.651169",
+    "Altitude": 33975,
+    "Speed": 491,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997615,
+    "UTC": "2019-09-09T02:53:35Z",
+    "Callsign": "ANA115",
+    "Position": "58.718433,-162.915344",
+    "Altitude": 34225,
+    "Speed": 491,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997675,
+    "UTC": "2019-09-09T02:54:35Z",
+    "Callsign": "ANA115",
+    "Position": "58.736847,-163.180908",
+    "Altitude": 35075,
+    "Speed": 494,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997736,
+    "UTC": "2019-09-09T02:55:36Z",
+    "Callsign": "ANA115",
+    "Position": "58.755024,-163.450562",
+    "Altitude": 35800,
+    "Speed": 498,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997799,
+    "UTC": "2019-09-09T02:56:39Z",
+    "Callsign": "ANA115",
+    "Position": "58.772572,-163.71991",
+    "Altitude": 36000,
+    "Speed": 496,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567997859,
+    "UTC": "2019-09-09T02:57:39Z",
+    "Callsign": "ANA115",
+    "Position": "58.789379,-163.985504",
+    "Altitude": 36000,
+    "Speed": 494,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567997921,
+    "UTC": "2019-09-09T02:58:41Z",
+    "Callsign": "ANA115",
+    "Position": "58.805786,-164.25473",
+    "Altitude": 36000,
+    "Speed": 494,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567997986,
+    "UTC": "2019-09-09T02:59:46Z",
+    "Callsign": "ANA115",
+    "Position": "58.822384,-164.538208",
+    "Altitude": 36000,
+    "Speed": 495,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567998047,
+    "UTC": "2019-09-09T03:00:47Z",
+    "Callsign": "ANA115",
+    "Position": "58.837654,-164.806091",
+    "Altitude": 35975,
+    "Speed": 492,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567998111,
+    "UTC": "2019-09-09T03:01:51Z",
+    "Callsign": "ANA115",
+    "Position": "58.852341,-165.075897",
+    "Altitude": 35975,
+    "Speed": 494,
+    "Direction": 275
+  },
+  {
+    "Timestamp": 1567998171,
+    "UTC": "2019-09-09T03:02:51Z",
+    "Callsign": "ANA115",
+    "Position": "58.866348,-165.345337",
+    "Altitude": 36000,
+    "Speed": 493,
+    "Direction": 275
+  },
+  {
+    "Timestamp": 1567998231,
+    "UTC": "2019-09-09T03:03:51Z",
+    "Callsign": "ANA115",
+    "Position": "58.879734,-165.611694",
+    "Altitude": 35975,
+    "Speed": 494,
+    "Direction": 275
+  },
+  {
+    "Timestamp": 1567998293,
+    "UTC": "2019-09-09T03:04:53Z",
+    "Callsign": "ANA115",
+    "Position": "58.892818,-165.878403",
+    "Altitude": 36000,
+    "Speed": 492,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567998302,
+    "UTC": "2019-09-09T03:05:02Z",
+    "Callsign": "ANA115",
+    "Position": "58.895611,-165.918365",
+    "Altitude": 35975,
+    "Speed": 492,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567998393,
+    "UTC": "2019-09-09T03:06:33Z",
+    "Callsign": "ANA115",
+    "Position": "58.943619,-166.309662",
+    "Altitude": 36000,
+    "Speed": 494,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567998455,
+    "UTC": "2019-09-09T03:07:35Z",
+    "Callsign": "ANA115",
+    "Position": "58.977859,-166.572693",
+    "Altitude": 36000,
+    "Speed": 492,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567998515,
+    "UTC": "2019-09-09T03:08:35Z",
+    "Callsign": "ANA115",
+    "Position": "59.01123,-166.834167",
+    "Altitude": 35975,
+    "Speed": 491,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567998565,
+    "UTC": "2019-09-09T03:09:25Z",
+    "Callsign": "ANA115",
+    "Position": "59.03714,-167.039795",
+    "Altitude": 35975,
+    "Speed": 491,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567998638,
+    "UTC": "2019-09-09T03:10:38Z",
+    "Callsign": "ANA115",
+    "Position": "59.067444,-167.302963",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567998696,
+    "UTC": "2019-09-09T03:11:36Z",
+    "Callsign": "ANA115",
+    "Position": "59.095951,-167.547455",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567998794,
+    "UTC": "2019-09-09T03:13:14Z",
+    "Callsign": "ANA115",
+    "Position": "59.134686,-167.930847",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567998852,
+    "UTC": "2019-09-09T03:14:12Z",
+    "Callsign": "ANA115",
+    "Position": "59.162987,-168.177292",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567998910,
+    "UTC": "2019-09-09T03:15:10Z",
+    "Callsign": "ANA115",
+    "Position": "59.194302,-168.438492",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567998969,
+    "UTC": "2019-09-09T03:16:09Z",
+    "Callsign": "ANA115",
+    "Position": "59.226574,-168.700485",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567999027,
+    "UTC": "2019-09-09T03:17:07Z",
+    "Callsign": "ANA115",
+    "Position": "59.260429,-168.970947",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567999086,
+    "UTC": "2019-09-09T03:18:06Z",
+    "Callsign": "ANA115",
+    "Position": "59.28783,-169.248505",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567999176,
+    "UTC": "2019-09-09T03:19:36Z",
+    "Callsign": "ANA115",
+    "Position": "59.339298,-169.693405",
+    "Altitude": 36000,
+    "Speed": 495,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567999237,
+    "UTC": "2019-09-09T03:20:37Z",
+    "Callsign": "ANA115",
+    "Position": "59.366409,-169.960052",
+    "Altitude": 36000,
+    "Speed": 493,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567999322,
+    "UTC": "2019-09-09T03:22:02Z",
+    "Callsign": "ANA115",
+    "Position": "59.403687,-170.320755",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567999379,
+    "UTC": "2019-09-09T03:22:59Z",
+    "Callsign": "ANA115",
+    "Position": "59.422134,-170.561768",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567999399,
+    "UTC": "2019-09-09T03:23:19Z",
+    "Callsign": "ANA115",
+    "Position": "59.424828,-170.625549",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567999456,
+    "UTC": "2019-09-09T03:24:16Z",
+    "Callsign": "ANA115",
+    "Position": "59.445541,-170.847153",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1567999515,
+    "UTC": "2019-09-09T03:25:15Z",
+    "Callsign": "ANA115",
+    "Position": "59.46711,-171.100555",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567999573,
+    "UTC": "2019-09-09T03:26:13Z",
+    "Callsign": "ANA115",
+    "Position": "59.493465,-171.357086",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567999632,
+    "UTC": "2019-09-09T03:27:12Z",
+    "Callsign": "ANA115",
+    "Position": "59.516747,-171.627396",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567999691,
+    "UTC": "2019-09-09T03:28:11Z",
+    "Callsign": "ANA115",
+    "Position": "59.53706,-171.901642",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567999767,
+    "UTC": "2019-09-09T03:29:27Z",
+    "Callsign": "ANA115",
+    "Position": "59.549236,-172.210968",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567999867,
+    "UTC": "2019-09-09T03:31:07Z",
+    "Callsign": "ANA115",
+    "Position": "59.547535,-172.599319",
+    "Altitude": 36000,
+    "Speed": 430,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567999904,
+    "UTC": "2019-09-09T03:31:44Z",
+    "Callsign": "ANA115",
+    "Position": "59.539997,-172.774307",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567999989,
+    "UTC": "2019-09-09T03:33:09Z",
+    "Callsign": "ANA115",
+    "Position": "59.532173,-173.159332",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1568000040,
+    "UTC": "2019-09-09T03:34:00Z",
+    "Callsign": "ANA115",
+    "Position": "59.517498,-173.404602",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1568000100,
+    "UTC": "2019-09-09T03:35:00Z",
+    "Callsign": "ANA115",
+    "Position": "59.507088,-173.684891",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1568000179,
+    "UTC": "2019-09-09T03:36:19Z",
+    "Callsign": "ANA115",
+    "Position": "59.499466,-174.005493",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1568000296,
+    "UTC": "2019-09-09T03:38:16Z",
+    "Callsign": "ANA115",
+    "Position": "59.485115,-174.504562",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1568000959,
+    "UTC": "2019-09-09T03:49:19Z",
+    "Callsign": "ANA115",
+    "Position": "59.322445,-177.444382",
+    "Altitude": 36000,
+    "Speed": 488,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1568002108,
+    "UTC": "2019-09-09T04:08:28Z",
+    "Callsign": "ANA115",
+    "Position": "58.083332,178.183334",
+    "Altitude": 36000,
+    "Speed": 483,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1568004720,
+    "UTC": "2019-09-09T04:52:00Z",
+    "Callsign": "ANA115",
+    "Position": "55.442116,168.932037",
+    "Altitude": 36000,
+    "Speed": 400,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568004800,
+    "UTC": "2019-09-09T04:53:20Z",
+    "Callsign": "ANA115",
+    "Position": "55.377327,168.697327",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568005723,
+    "UTC": "2019-09-09T05:08:43Z",
+    "Callsign": "ANA115",
+    "Position": "54.463165,165.589569",
+    "Altitude": 37975,
+    "Speed": 457,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1568005761,
+    "UTC": "2019-09-09T05:09:21Z",
+    "Callsign": "ANA115",
+    "Position": "54.424778,165.468338",
+    "Altitude": 38000,
+    "Speed": 457,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1568005847,
+    "UTC": "2019-09-09T05:10:47Z",
+    "Callsign": "ANA115",
+    "Position": "54.338333,165.197342",
+    "Altitude": 38000,
+    "Speed": 457,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1568005910,
+    "UTC": "2019-09-09T05:11:50Z",
+    "Callsign": "ANA115",
+    "Position": "54.275066,165.001083",
+    "Altitude": 37975,
+    "Speed": 456,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1568005974,
+    "UTC": "2019-09-09T05:12:54Z",
+    "Callsign": "ANA115",
+    "Position": "54.209152,164.798294",
+    "Altitude": 38000,
+    "Speed": 455,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568006033,
+    "UTC": "2019-09-09T05:13:53Z",
+    "Callsign": "ANA115",
+    "Position": "54.148041,164.611771",
+    "Altitude": 38000,
+    "Speed": 456,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568006089,
+    "UTC": "2019-09-09T05:14:49Z",
+    "Callsign": "ANA115",
+    "Position": "54.089996,164.435745",
+    "Altitude": 37975,
+    "Speed": 457,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568006166,
+    "UTC": "2019-09-09T05:16:06Z",
+    "Callsign": "ANA115",
+    "Position": "54.008514,164.191147",
+    "Altitude": 37975,
+    "Speed": 459,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568006231,
+    "UTC": "2019-09-09T05:17:11Z",
+    "Callsign": "ANA115",
+    "Position": "53.942322,163.994171",
+    "Altitude": 38000,
+    "Speed": 458,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568006277,
+    "UTC": "2019-09-09T05:17:57Z",
+    "Callsign": "ANA115",
+    "Position": "53.893433,163.849548",
+    "Altitude": 37975,
+    "Speed": 456,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568006362,
+    "UTC": "2019-09-09T05:19:22Z",
+    "Callsign": "ANA115",
+    "Position": "53.804005,163.587311",
+    "Altitude": 38000,
+    "Speed": 459,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1568006388,
+    "UTC": "2019-09-09T05:19:48Z",
+    "Callsign": "ANA115",
+    "Position": "53.776073,163.505966",
+    "Altitude": 38000,
+    "Speed": 461,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1568006426,
+    "UTC": "2019-09-09T05:20:26Z",
+    "Callsign": "ANA115",
+    "Position": "53.735573,163.388428",
+    "Altitude": 38000,
+    "Speed": 461,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1568006514,
+    "UTC": "2019-09-09T05:21:54Z",
+    "Callsign": "ANA115",
+    "Position": "53.640564,163.115265",
+    "Altitude": 38000,
+    "Speed": 460,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1568006559,
+    "UTC": "2019-09-09T05:22:39Z",
+    "Callsign": "ANA115",
+    "Position": "53.592564,162.978943",
+    "Altitude": 37975,
+    "Speed": 457,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1568006738,
+    "UTC": "2019-09-09T05:25:38Z",
+    "Callsign": "ANA115",
+    "Position": "53.403351,162.445724",
+    "Altitude": 37975,
+    "Speed": 439,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1568006800,
+    "UTC": "2019-09-09T05:26:40Z",
+    "Callsign": "ANA115",
+    "Position": "53.338165,162.264923",
+    "Altitude": 37975,
+    "Speed": 438,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1568006862,
+    "UTC": "2019-09-09T05:27:42Z",
+    "Callsign": "ANA115",
+    "Position": "53.273483,162.086945",
+    "Altitude": 37975,
+    "Speed": 442,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1568006926,
+    "UTC": "2019-09-09T05:28:46Z",
+    "Callsign": "ANA115",
+    "Position": "53.203903,161.896729",
+    "Altitude": 37975,
+    "Speed": 444,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1568006990,
+    "UTC": "2019-09-09T05:29:50Z",
+    "Callsign": "ANA115",
+    "Position": "53.136681,161.714462",
+    "Altitude": 38000,
+    "Speed": 446,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1568007052,
+    "UTC": "2019-09-09T05:30:52Z",
+    "Callsign": "ANA115",
+    "Position": "53.070713,161.536697",
+    "Altitude": 38000,
+    "Speed": 442,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1568007114,
+    "UTC": "2019-09-09T05:31:54Z",
+    "Callsign": "ANA115",
+    "Position": "53.002468,161.354553",
+    "Altitude": 37975,
+    "Speed": 441,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1568007176,
+    "UTC": "2019-09-09T05:32:56Z",
+    "Callsign": "ANA115",
+    "Position": "52.936039,161.178146",
+    "Altitude": 38000,
+    "Speed": 438,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1568007240,
+    "UTC": "2019-09-09T05:34:00Z",
+    "Callsign": "ANA115",
+    "Position": "52.867081,160.996552",
+    "Altitude": 38000,
+    "Speed": 441,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1568007302,
+    "UTC": "2019-09-09T05:35:02Z",
+    "Callsign": "ANA115",
+    "Position": "52.799503,160.819595",
+    "Altitude": 37975,
+    "Speed": 441,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1568007364,
+    "UTC": "2019-09-09T05:36:04Z",
+    "Callsign": "ANA115",
+    "Position": "52.73135,160.64241",
+    "Altitude": 38000,
+    "Speed": 446,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1568007427,
+    "UTC": "2019-09-09T05:37:07Z",
+    "Callsign": "ANA115",
+    "Position": "52.6618,160.463165",
+    "Altitude": 38000,
+    "Speed": 449,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1568007489,
+    "UTC": "2019-09-09T05:38:09Z",
+    "Callsign": "ANA115",
+    "Position": "52.59211,160.284409",
+    "Altitude": 37975,
+    "Speed": 447,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1568007550,
+    "UTC": "2019-09-09T05:39:10Z",
+    "Callsign": "ANA115",
+    "Position": "52.52261,160.107834",
+    "Altitude": 38000,
+    "Speed": 450,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1568007582,
+    "UTC": "2019-09-09T05:39:42Z",
+    "Callsign": "ANA115",
+    "Position": "52.486206,160.015472",
+    "Altitude": 38000,
+    "Speed": 451,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1568007674,
+    "UTC": "2019-09-09T05:41:14Z",
+    "Callsign": "ANA115",
+    "Position": "52.381348,159.75235",
+    "Altitude": 38000,
+    "Speed": 454,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568007736,
+    "UTC": "2019-09-09T05:42:16Z",
+    "Callsign": "ANA115",
+    "Position": "52.30957,159.573364",
+    "Altitude": 38000,
+    "Speed": 451,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568007800,
+    "UTC": "2019-09-09T05:43:20Z",
+    "Callsign": "ANA115",
+    "Position": "52.23864,159.397812",
+    "Altitude": 38000,
+    "Speed": 451,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568007862,
+    "UTC": "2019-09-09T05:44:22Z",
+    "Callsign": "ANA115",
+    "Position": "52.167389,159.222946",
+    "Altitude": 38000,
+    "Speed": 442,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568007924,
+    "UTC": "2019-09-09T05:45:24Z",
+    "Callsign": "ANA115",
+    "Position": "52.097214,159.05159",
+    "Altitude": 38000,
+    "Speed": 445,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568007986,
+    "UTC": "2019-09-09T05:46:26Z",
+    "Callsign": "ANA115",
+    "Position": "52.026031,158.879166",
+    "Altitude": 37975,
+    "Speed": 443,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568008002,
+    "UTC": "2019-09-09T05:46:42Z",
+    "Callsign": "ANA115",
+    "Position": "52.008579,158.83696",
+    "Altitude": 37975,
+    "Speed": 444,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568008092,
+    "UTC": "2019-09-09T05:48:12Z",
+    "Callsign": "ANA115",
+    "Position": "51.904953,158.588425",
+    "Altitude": 37975,
+    "Speed": 434,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008154,
+    "UTC": "2019-09-09T05:49:14Z",
+    "Callsign": "ANA115",
+    "Position": "51.834568,158.420944",
+    "Altitude": 37975,
+    "Speed": 436,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008221,
+    "UTC": "2019-09-09T05:50:21Z",
+    "Callsign": "ANA115",
+    "Position": "51.760712,158.246323",
+    "Altitude": 37975,
+    "Speed": 436,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008282,
+    "UTC": "2019-09-09T05:51:22Z",
+    "Callsign": "ANA115",
+    "Position": "51.688438,158.076324",
+    "Altitude": 38000,
+    "Speed": 434,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008342,
+    "UTC": "2019-09-09T05:52:22Z",
+    "Callsign": "ANA115",
+    "Position": "51.622894,157.922287",
+    "Altitude": 38000,
+    "Speed": 433,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008411,
+    "UTC": "2019-09-09T05:53:31Z",
+    "Callsign": "ANA115",
+    "Position": "51.544235,157.738434",
+    "Altitude": 38000,
+    "Speed": 435,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008472,
+    "UTC": "2019-09-09T05:54:32Z",
+    "Callsign": "ANA115",
+    "Position": "51.472549,157.57312",
+    "Altitude": 38000,
+    "Speed": 440,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008535,
+    "UTC": "2019-09-09T05:55:35Z",
+    "Callsign": "ANA115",
+    "Position": "51.399994,157.405869",
+    "Altitude": 38000,
+    "Speed": 440,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008597,
+    "UTC": "2019-09-09T05:56:37Z",
+    "Callsign": "ANA115",
+    "Position": "51.329288,157.243958",
+    "Altitude": 38000,
+    "Speed": 426,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568008659,
+    "UTC": "2019-09-09T05:57:39Z",
+    "Callsign": "ANA115",
+    "Position": "51.260422,157.087646",
+    "Altitude": 37975,
+    "Speed": 414,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568008713,
+    "UTC": "2019-09-09T05:58:33Z",
+    "Callsign": "ANA115",
+    "Position": "51.200108,156.951294",
+    "Altitude": 38000,
+    "Speed": 413,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568008778,
+    "UTC": "2019-09-09T05:59:38Z",
+    "Callsign": "ANA115",
+    "Position": "51.130184,156.794205",
+    "Altitude": 38000,
+    "Speed": 403,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568008843,
+    "UTC": "2019-09-09T06:00:43Z",
+    "Callsign": "ANA115",
+    "Position": "51.059921,156.637344",
+    "Altitude": 38000,
+    "Speed": 400,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568008904,
+    "UTC": "2019-09-09T06:01:44Z",
+    "Callsign": "ANA115",
+    "Position": "50.992584,156.487915",
+    "Altitude": 37975,
+    "Speed": 410,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568008967,
+    "UTC": "2019-09-09T06:02:47Z",
+    "Callsign": "ANA115",
+    "Position": "50.924053,156.336594",
+    "Altitude": 38000,
+    "Speed": 415,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568009031,
+    "UTC": "2019-09-09T06:03:51Z",
+    "Callsign": "ANA115",
+    "Position": "50.850964,156.176147",
+    "Altitude": 37975,
+    "Speed": 419,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568009092,
+    "UTC": "2019-09-09T06:04:52Z",
+    "Callsign": "ANA115",
+    "Position": "50.780483,156.022034",
+    "Altitude": 38000,
+    "Speed": 420,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568009156,
+    "UTC": "2019-09-09T06:05:56Z",
+    "Callsign": "ANA115",
+    "Position": "50.708839,155.86731",
+    "Altitude": 37975,
+    "Speed": 418,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1568009225,
+    "UTC": "2019-09-09T06:07:05Z",
+    "Callsign": "ANA115",
+    "Position": "50.6311,155.699722",
+    "Altitude": 37975,
+    "Speed": 413,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568009288,
+    "UTC": "2019-09-09T06:08:08Z",
+    "Callsign": "ANA115",
+    "Position": "50.559265,155.54538",
+    "Altitude": 37975,
+    "Speed": 417,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1568009350,
+    "UTC": "2019-09-09T06:09:10Z",
+    "Callsign": "ANA115",
+    "Position": "50.488926,155.395966",
+    "Altitude": 37975,
+    "Speed": 418,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1568009413,
+    "UTC": "2019-09-09T06:10:13Z",
+    "Callsign": "ANA115",
+    "Position": "50.417953,155.24585",
+    "Altitude": 37975,
+    "Speed": 413,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1568009447,
+    "UTC": "2019-09-09T06:10:47Z",
+    "Callsign": "ANA115",
+    "Position": "50.377853,155.161255",
+    "Altitude": 37975,
+    "Speed": 413,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1568009536,
+    "UTC": "2019-09-09T06:12:16Z",
+    "Callsign": "ANA115",
+    "Position": "50.275269,154.946106",
+    "Altitude": 37975,
+    "Speed": 413,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1568009599,
+    "UTC": "2019-09-09T06:13:19Z",
+    "Callsign": "ANA115",
+    "Position": "50.205193,154.800339",
+    "Altitude": 38000,
+    "Speed": 412,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1568009660,
+    "UTC": "2019-09-09T06:14:20Z",
+    "Callsign": "ANA115",
+    "Position": "50.134617,154.654175",
+    "Altitude": 38000,
+    "Speed": 413,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568009720,
+    "UTC": "2019-09-09T06:15:20Z",
+    "Callsign": "ANA115",
+    "Position": "50.065521,154.512146",
+    "Altitude": 37975,
+    "Speed": 412,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568009783,
+    "UTC": "2019-09-09T06:16:23Z",
+    "Callsign": "ANA115",
+    "Position": "49.993565,154.364517",
+    "Altitude": 38000,
+    "Speed": 414,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568009842,
+    "UTC": "2019-09-09T06:17:22Z",
+    "Callsign": "ANA115",
+    "Position": "49.924389,154.223694",
+    "Altitude": 37975,
+    "Speed": 415,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568009931,
+    "UTC": "2019-09-09T06:18:51Z",
+    "Callsign": "ANA115",
+    "Position": "49.82095,154.014359",
+    "Altitude": 37975,
+    "Speed": 415,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568009940,
+    "UTC": "2019-09-09T06:19:00Z",
+    "Callsign": "ANA115",
+    "Position": "49.810547,153.993408",
+    "Altitude": 38000,
+    "Speed": 415,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568010025,
+    "UTC": "2019-09-09T06:20:25Z",
+    "Callsign": "ANA115",
+    "Position": "49.712173,153.797684",
+    "Altitude": 37975,
+    "Speed": 413,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568010111,
+    "UTC": "2019-09-09T06:21:51Z",
+    "Callsign": "ANA115",
+    "Position": "49.609818,153.59523",
+    "Altitude": 38000,
+    "Speed": 413,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568010175,
+    "UTC": "2019-09-09T06:22:55Z",
+    "Callsign": "ANA115",
+    "Position": "49.53405,153.446335",
+    "Altitude": 38000,
+    "Speed": 413,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1568010227,
+    "UTC": "2019-09-09T06:23:47Z",
+    "Callsign": "ANA115",
+    "Position": "49.473064,153.327271",
+    "Altitude": 38000,
+    "Speed": 414,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1568012869,
+    "UTC": "2019-09-09T07:07:49Z",
+    "Callsign": "ANA115",
+    "Position": "46.189865,147.578873",
+    "Altitude": 40000,
+    "Speed": 404,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568012957,
+    "UTC": "2019-09-09T07:09:17Z",
+    "Callsign": "ANA115",
+    "Position": "46.080414,147.406372",
+    "Altitude": 40000,
+    "Speed": 405,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568013016,
+    "UTC": "2019-09-09T07:10:16Z",
+    "Callsign": "ANA115",
+    "Position": "46.003712,147.286072",
+    "Altitude": 40000,
+    "Speed": 406,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568013079,
+    "UTC": "2019-09-09T07:11:19Z",
+    "Callsign": "ANA115",
+    "Position": "45.925369,147.163803",
+    "Altitude": 39975,
+    "Speed": 406,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568013137,
+    "UTC": "2019-09-09T07:12:17Z",
+    "Callsign": "ANA115",
+    "Position": "45.84967,147.046234",
+    "Altitude": 40000,
+    "Speed": 406,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568013203,
+    "UTC": "2019-09-09T07:13:23Z",
+    "Callsign": "ANA115",
+    "Position": "45.766109,146.916931",
+    "Altitude": 39975,
+    "Speed": 408,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568013269,
+    "UTC": "2019-09-09T07:14:29Z",
+    "Callsign": "ANA115",
+    "Position": "45.68335,146.789536",
+    "Altitude": 39975,
+    "Speed": 410,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568013328,
+    "UTC": "2019-09-09T07:15:28Z",
+    "Callsign": "ANA115",
+    "Position": "45.604248,146.668549",
+    "Altitude": 39975,
+    "Speed": 412,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013391,
+    "UTC": "2019-09-09T07:16:31Z",
+    "Callsign": "ANA115",
+    "Position": "45.524002,146.54715",
+    "Altitude": 39975,
+    "Speed": 413,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013453,
+    "UTC": "2019-09-09T07:17:33Z",
+    "Callsign": "ANA115",
+    "Position": "45.440598,146.421066",
+    "Altitude": 40000,
+    "Speed": 413,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013514,
+    "UTC": "2019-09-09T07:18:34Z",
+    "Callsign": "ANA115",
+    "Position": "45.361759,146.302582",
+    "Altitude": 40000,
+    "Speed": 414,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013575,
+    "UTC": "2019-09-09T07:19:35Z",
+    "Callsign": "ANA115",
+    "Position": "45.281158,146.181854",
+    "Altitude": 40000,
+    "Speed": 416,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013638,
+    "UTC": "2019-09-09T07:20:38Z",
+    "Callsign": "ANA115",
+    "Position": "45.200455,146.061691",
+    "Altitude": 39975,
+    "Speed": 415,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013698,
+    "UTC": "2019-09-09T07:21:38Z",
+    "Callsign": "ANA115",
+    "Position": "45.115681,145.93602",
+    "Altitude": 39975,
+    "Speed": 415,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013759,
+    "UTC": "2019-09-09T07:22:39Z",
+    "Callsign": "ANA115",
+    "Position": "45.034729,145.816513",
+    "Altitude": 39975,
+    "Speed": 415,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013822,
+    "UTC": "2019-09-09T07:23:42Z",
+    "Callsign": "ANA115",
+    "Position": "44.952896,145.696243",
+    "Altitude": 39975,
+    "Speed": 415,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568013883,
+    "UTC": "2019-09-09T07:24:43Z",
+    "Callsign": "ANA115",
+    "Position": "44.871689,145.577225",
+    "Altitude": 40000,
+    "Speed": 415,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1568013944,
+    "UTC": "2019-09-09T07:25:44Z",
+    "Callsign": "ANA115",
+    "Position": "44.79039,145.458923",
+    "Altitude": 39975,
+    "Speed": 414,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1568014005,
+    "UTC": "2019-09-09T07:26:45Z",
+    "Callsign": "ANA115",
+    "Position": "44.708862,145.340561",
+    "Altitude": 39975,
+    "Speed": 416,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1568014066,
+    "UTC": "2019-09-09T07:27:46Z",
+    "Callsign": "ANA115",
+    "Position": "44.626652,145.221573",
+    "Altitude": 40000,
+    "Speed": 418,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1568014126,
+    "UTC": "2019-09-09T07:28:46Z",
+    "Callsign": "ANA115",
+    "Position": "44.54425,145.102249",
+    "Altitude": 39975,
+    "Speed": 420,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568014189,
+    "UTC": "2019-09-09T07:29:49Z",
+    "Callsign": "ANA115",
+    "Position": "44.460598,144.983215",
+    "Altitude": 39975,
+    "Speed": 426,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568014206,
+    "UTC": "2019-09-09T07:30:06Z",
+    "Callsign": "ANA115",
+    "Position": "44.436111,144.956696",
+    "Altitude": 39975,
+    "Speed": 433,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568014213,
+    "UTC": "2019-09-09T07:30:13Z",
+    "Callsign": "ANA115",
+    "Position": "44.420883,144.943405",
+    "Altitude": 40000,
+    "Speed": 438,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568014219,
+    "UTC": "2019-09-09T07:30:19Z",
+    "Callsign": "ANA115",
+    "Position": "44.410172,144.935303",
+    "Altitude": 39975,
+    "Speed": 441,
+    "Direction": 207
+  },
+  {
+    "Timestamp": 1568014225,
+    "UTC": "2019-09-09T07:30:25Z",
+    "Callsign": "ANA115",
+    "Position": "44.399197,144.928024",
+    "Altitude": 39975,
+    "Speed": 445,
+    "Direction": 204
+  },
+  {
+    "Timestamp": 1568014231,
+    "UTC": "2019-09-09T07:30:31Z",
+    "Callsign": "ANA115",
+    "Position": "44.387146,144.921112",
+    "Altitude": 40000,
+    "Speed": 449,
+    "Direction": 201
+  },
+  {
+    "Timestamp": 1568014237,
+    "UTC": "2019-09-09T07:30:37Z",
+    "Callsign": "ANA115",
+    "Position": "44.375687,144.914963",
+    "Altitude": 40000,
+    "Speed": 450,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568014302,
+    "UTC": "2019-09-09T07:31:42Z",
+    "Callsign": "ANA115",
+    "Position": "44.25087,144.847092",
+    "Altitude": 39975,
+    "Speed": 450,
+    "Direction": 201
+  },
+  {
+    "Timestamp": 1568014364,
+    "UTC": "2019-09-09T07:32:44Z",
+    "Callsign": "ANA115",
+    "Position": "44.127777,144.780899",
+    "Altitude": 40000,
+    "Speed": 451,
+    "Direction": 201
+  },
+  {
+    "Timestamp": 1568014426,
+    "UTC": "2019-09-09T07:33:46Z",
+    "Callsign": "ANA115",
+    "Position": "44.008858,144.717148",
+    "Altitude": 39975,
+    "Speed": 451,
+    "Direction": 201
+  },
+  {
+    "Timestamp": 1568014487,
+    "UTC": "2019-09-09T07:34:47Z",
+    "Callsign": "ANA115",
+    "Position": "43.889961,144.653641",
+    "Altitude": 40000,
+    "Speed": 449,
+    "Direction": 201
+  },
+  {
+    "Timestamp": 1568014549,
+    "UTC": "2019-09-09T07:35:49Z",
+    "Callsign": "ANA115",
+    "Position": "43.772324,144.591064",
+    "Altitude": 40000,
+    "Speed": 450,
+    "Direction": 201
+  },
+  {
+    "Timestamp": 1568014608,
+    "UTC": "2019-09-09T07:36:48Z",
+    "Callsign": "ANA115",
+    "Position": "43.653717,144.528091",
+    "Altitude": 40000,
+    "Speed": 449,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568014673,
+    "UTC": "2019-09-09T07:37:53Z",
+    "Callsign": "ANA115",
+    "Position": "43.534927,144.465485",
+    "Altitude": 40000,
+    "Speed": 447,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568014734,
+    "UTC": "2019-09-09T07:38:54Z",
+    "Callsign": "ANA115",
+    "Position": "43.416641,144.403397",
+    "Altitude": 40000,
+    "Speed": 448,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568014794,
+    "UTC": "2019-09-09T07:39:54Z",
+    "Callsign": "ANA115",
+    "Position": "43.298309,144.341507",
+    "Altitude": 39975,
+    "Speed": 448,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568014855,
+    "UTC": "2019-09-09T07:40:55Z",
+    "Callsign": "ANA115",
+    "Position": "43.177666,144.27861",
+    "Altitude": 40000,
+    "Speed": 451,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568014915,
+    "UTC": "2019-09-09T07:41:55Z",
+    "Callsign": "ANA115",
+    "Position": "43.058167,144.217209",
+    "Altitude": 39975,
+    "Speed": 450,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568014979,
+    "UTC": "2019-09-09T07:42:59Z",
+    "Callsign": "ANA115",
+    "Position": "42.932053,144.176331",
+    "Altitude": 40000,
+    "Speed": 459,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015040,
+    "UTC": "2019-09-09T07:44:00Z",
+    "Callsign": "ANA115",
+    "Position": "42.801945,144.141006",
+    "Altitude": 40000,
+    "Speed": 458,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015102,
+    "UTC": "2019-09-09T07:45:02Z",
+    "Callsign": "ANA115",
+    "Position": "42.674744,144.105911",
+    "Altitude": 40000,
+    "Speed": 460,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015163,
+    "UTC": "2019-09-09T07:46:03Z",
+    "Callsign": "ANA115",
+    "Position": "42.547028,144.071091",
+    "Altitude": 39975,
+    "Speed": 456,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015225,
+    "UTC": "2019-09-09T07:47:05Z",
+    "Callsign": "ANA115",
+    "Position": "42.418304,144.036499",
+    "Altitude": 40000,
+    "Speed": 454,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015288,
+    "UTC": "2019-09-09T07:48:08Z",
+    "Callsign": "ANA115",
+    "Position": "42.290543,144.002548",
+    "Altitude": 40000,
+    "Speed": 452,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015351,
+    "UTC": "2019-09-09T07:49:11Z",
+    "Callsign": "ANA115",
+    "Position": "42.161152,143.968094",
+    "Altitude": 40000,
+    "Speed": 455,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015413,
+    "UTC": "2019-09-09T07:50:13Z",
+    "Callsign": "ANA115",
+    "Position": "42.031311,143.933701",
+    "Altitude": 40000,
+    "Speed": 456,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015477,
+    "UTC": "2019-09-09T07:51:17Z",
+    "Callsign": "ANA115",
+    "Position": "41.899155,143.898804",
+    "Altitude": 39975,
+    "Speed": 456,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015538,
+    "UTC": "2019-09-09T07:52:18Z",
+    "Callsign": "ANA115",
+    "Position": "41.771648,143.865387",
+    "Altitude": 40000,
+    "Speed": 456,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015602,
+    "UTC": "2019-09-09T07:53:22Z",
+    "Callsign": "ANA115",
+    "Position": "41.64212,143.831512",
+    "Altitude": 39975,
+    "Speed": 455,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015664,
+    "UTC": "2019-09-09T07:54:24Z",
+    "Callsign": "ANA115",
+    "Position": "41.512115,143.797745",
+    "Altitude": 39975,
+    "Speed": 457,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015728,
+    "UTC": "2019-09-09T07:55:28Z",
+    "Callsign": "ANA115",
+    "Position": "41.378983,143.762344",
+    "Altitude": 39975,
+    "Speed": 459,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015790,
+    "UTC": "2019-09-09T07:56:30Z",
+    "Callsign": "ANA115",
+    "Position": "41.250275,143.728394",
+    "Altitude": 40000,
+    "Speed": 462,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015853,
+    "UTC": "2019-09-09T07:57:33Z",
+    "Callsign": "ANA115",
+    "Position": "41.118008,143.693802",
+    "Altitude": 40000,
+    "Speed": 463,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015863,
+    "UTC": "2019-09-09T07:57:43Z",
+    "Callsign": "ANA115",
+    "Position": "41.095047,143.687805",
+    "Altitude": 40000,
+    "Speed": 463,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568015971,
+    "UTC": "2019-09-09T07:59:31Z",
+    "Callsign": "ANA115",
+    "Position": "40.866859,143.628265",
+    "Altitude": 39975,
+    "Speed": 464,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568016020,
+    "UTC": "2019-09-09T08:00:20Z",
+    "Callsign": "ANA115",
+    "Position": "40.767288,143.597778",
+    "Altitude": 39975,
+    "Speed": 452,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1568016030,
+    "UTC": "2019-09-09T08:00:30Z",
+    "Callsign": "ANA115",
+    "Position": "40.751129,143.585999",
+    "Altitude": 39975,
+    "Speed": 446,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568016038,
+    "UTC": "2019-09-09T08:00:38Z",
+    "Callsign": "ANA115",
+    "Position": "40.735428,143.570068",
+    "Altitude": 39975,
+    "Speed": 440,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1568016044,
+    "UTC": "2019-09-09T08:00:44Z",
+    "Callsign": "ANA115",
+    "Position": "40.727203,143.559418",
+    "Altitude": 39975,
+    "Speed": 437,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568016050,
+    "UTC": "2019-09-09T08:00:50Z",
+    "Callsign": "ANA115",
+    "Position": "40.719151,143.546799",
+    "Altitude": 39975,
+    "Speed": 435,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1568016056,
+    "UTC": "2019-09-09T08:00:56Z",
+    "Callsign": "ANA115",
+    "Position": "40.712399,143.534317",
+    "Altitude": 39975,
+    "Speed": 434,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016063,
+    "UTC": "2019-09-09T08:01:03Z",
+    "Callsign": "ANA115",
+    "Position": "40.705215,143.52063",
+    "Altitude": 39975,
+    "Speed": 435,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016069,
+    "UTC": "2019-09-09T08:01:09Z",
+    "Callsign": "ANA115",
+    "Position": "40.698246,143.507355",
+    "Altitude": 40000,
+    "Speed": 434,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016132,
+    "UTC": "2019-09-09T08:02:12Z",
+    "Callsign": "ANA115",
+    "Position": "40.627304,143.371338",
+    "Altitude": 40000,
+    "Speed": 437,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016195,
+    "UTC": "2019-09-09T08:03:15Z",
+    "Callsign": "ANA115",
+    "Position": "40.553097,143.229752",
+    "Altitude": 40000,
+    "Speed": 439,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016260,
+    "UTC": "2019-09-09T08:04:20Z",
+    "Callsign": "ANA115",
+    "Position": "40.480179,143.091675",
+    "Altitude": 40000,
+    "Speed": 436,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016321,
+    "UTC": "2019-09-09T08:05:21Z",
+    "Callsign": "ANA115",
+    "Position": "40.41037,142.960037",
+    "Altitude": 40000,
+    "Speed": 438,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016382,
+    "UTC": "2019-09-09T08:06:22Z",
+    "Callsign": "ANA115",
+    "Position": "40.336628,142.82164",
+    "Altitude": 40000,
+    "Speed": 438,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016444,
+    "UTC": "2019-09-09T08:07:24Z",
+    "Callsign": "ANA115",
+    "Position": "40.266541,142.690491",
+    "Altitude": 39975,
+    "Speed": 439,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016507,
+    "UTC": "2019-09-09T08:08:27Z",
+    "Callsign": "ANA115",
+    "Position": "40.19241,142.552414",
+    "Altitude": 40000,
+    "Speed": 440,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568016569,
+    "UTC": "2019-09-09T08:09:29Z",
+    "Callsign": "ANA115",
+    "Position": "40.118591,142.415527",
+    "Altitude": 40000,
+    "Speed": 441,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568016632,
+    "UTC": "2019-09-09T08:10:32Z",
+    "Callsign": "ANA115",
+    "Position": "40.046997,142.283325",
+    "Altitude": 39975,
+    "Speed": 441,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1568016672,
+    "UTC": "2019-09-09T08:11:12Z",
+    "Callsign": "ANA115",
+    "Position": "39.99321,142.195251",
+    "Altitude": 40000,
+    "Speed": 446,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1568016679,
+    "UTC": "2019-09-09T08:11:19Z",
+    "Callsign": "ANA115",
+    "Position": "39.983719,142.183685",
+    "Altitude": 40000,
+    "Speed": 446,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568016687,
+    "UTC": "2019-09-09T08:11:27Z",
+    "Callsign": "ANA115",
+    "Position": "39.970001,142.168457",
+    "Altitude": 39975,
+    "Speed": 448,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1568016694,
+    "UTC": "2019-09-09T08:11:34Z",
+    "Callsign": "ANA115",
+    "Position": "39.959473,142.157959",
+    "Altitude": 39975,
+    "Speed": 450,
+    "Direction": 216
+  },
+  {
+    "Timestamp": 1568016700,
+    "UTC": "2019-09-09T08:11:40Z",
+    "Callsign": "ANA115",
+    "Position": "39.949036,142.148544",
+    "Altitude": 40000,
+    "Speed": 451,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568016707,
+    "UTC": "2019-09-09T08:11:47Z",
+    "Callsign": "ANA115",
+    "Position": "39.933067,142.13562",
+    "Altitude": 39975,
+    "Speed": 452,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568016717,
+    "UTC": "2019-09-09T08:11:57Z",
+    "Callsign": "ANA115",
+    "Position": "39.922035,142.127686",
+    "Altitude": 40000,
+    "Speed": 454,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568016779,
+    "UTC": "2019-09-09T08:12:59Z",
+    "Callsign": "ANA115",
+    "Position": "39.805191,142.046936",
+    "Altitude": 39975,
+    "Speed": 451,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568016841,
+    "UTC": "2019-09-09T08:14:01Z",
+    "Callsign": "ANA115",
+    "Position": "39.688995,141.964661",
+    "Altitude": 40000,
+    "Speed": 453,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568016901,
+    "UTC": "2019-09-09T08:15:01Z",
+    "Callsign": "ANA115",
+    "Position": "39.577038,141.885681",
+    "Altitude": 40000,
+    "Speed": 454,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568016964,
+    "UTC": "2019-09-09T08:16:04Z",
+    "Callsign": "ANA115",
+    "Position": "39.460098,141.80365",
+    "Altitude": 40000,
+    "Speed": 453,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017028,
+    "UTC": "2019-09-09T08:17:08Z",
+    "Callsign": "ANA115",
+    "Position": "39.343689,141.722137",
+    "Altitude": 40000,
+    "Speed": 454,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017089,
+    "UTC": "2019-09-09T08:18:09Z",
+    "Callsign": "ANA115",
+    "Position": "39.232178,141.644394",
+    "Altitude": 40000,
+    "Speed": 455,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017152,
+    "UTC": "2019-09-09T08:19:12Z",
+    "Callsign": "ANA115",
+    "Position": "39.117332,141.564758",
+    "Altitude": 39975,
+    "Speed": 433,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017213,
+    "UTC": "2019-09-09T08:20:13Z",
+    "Callsign": "ANA115",
+    "Position": "39.011765,141.491547",
+    "Altitude": 40000,
+    "Speed": 428,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017276,
+    "UTC": "2019-09-09T08:21:16Z",
+    "Callsign": "ANA115",
+    "Position": "38.901581,141.415543",
+    "Altitude": 39975,
+    "Speed": 432,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017343,
+    "UTC": "2019-09-09T08:22:23Z",
+    "Callsign": "ANA115",
+    "Position": "38.782391,141.333618",
+    "Altitude": 40000,
+    "Speed": 433,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017404,
+    "UTC": "2019-09-09T08:23:24Z",
+    "Callsign": "ANA115",
+    "Position": "38.674622,141.259933",
+    "Altitude": 40000,
+    "Speed": 436,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017468,
+    "UTC": "2019-09-09T08:24:28Z",
+    "Callsign": "ANA115",
+    "Position": "38.561142,141.182495",
+    "Altitude": 40000,
+    "Speed": 437,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568017518,
+    "UTC": "2019-09-09T08:25:18Z",
+    "Callsign": "ANA115",
+    "Position": "38.472446,141.117065",
+    "Altitude": 40000,
+    "Speed": 433,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1568017524,
+    "UTC": "2019-09-09T08:25:24Z",
+    "Callsign": "ANA115",
+    "Position": "38.463413,141.106995",
+    "Altitude": 40000,
+    "Speed": 432,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1568017533,
+    "UTC": "2019-09-09T08:25:33Z",
+    "Callsign": "ANA115",
+    "Position": "38.450409,141.089584",
+    "Altitude": 39975,
+    "Speed": 429,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568017539,
+    "UTC": "2019-09-09T08:25:39Z",
+    "Callsign": "ANA115",
+    "Position": "38.444641,141.080582",
+    "Altitude": 39975,
+    "Speed": 428,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1568017546,
+    "UTC": "2019-09-09T08:25:46Z",
+    "Callsign": "ANA115",
+    "Position": "38.436722,141.066132",
+    "Altitude": 39975,
+    "Speed": 427,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568017553,
+    "UTC": "2019-09-09T08:25:53Z",
+    "Callsign": "ANA115",
+    "Position": "38.428665,141.049408",
+    "Altitude": 39975,
+    "Speed": 427,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1568017560,
+    "UTC": "2019-09-09T08:26:00Z",
+    "Callsign": "ANA115",
+    "Position": "38.421982,141.034592",
+    "Altitude": 39975,
+    "Speed": 427,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568017631,
+    "UTC": "2019-09-09T08:27:11Z",
+    "Callsign": "ANA115",
+    "Position": "38.354622,140.880905",
+    "Altitude": 40000,
+    "Speed": 425,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568017661,
+    "UTC": "2019-09-09T08:27:41Z",
+    "Callsign": "ANA115",
+    "Position": "38.323242,140.817032",
+    "Altitude": 40000,
+    "Speed": 428,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1568017667,
+    "UTC": "2019-09-09T08:27:47Z",
+    "Callsign": "ANA115",
+    "Position": "38.313446,140.804459",
+    "Altitude": 39975,
+    "Speed": 430,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1568017685,
+    "UTC": "2019-09-09T08:28:05Z",
+    "Callsign": "ANA115",
+    "Position": "38.283737,140.779449",
+    "Altitude": 39975,
+    "Speed": 438,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568017692,
+    "UTC": "2019-09-09T08:28:12Z",
+    "Callsign": "ANA115",
+    "Position": "38.271652,140.773315",
+    "Altitude": 40000,
+    "Speed": 440,
+    "Direction": 202
+  },
+  {
+    "Timestamp": 1568017701,
+    "UTC": "2019-09-09T08:28:21Z",
+    "Callsign": "ANA115",
+    "Position": "38.254395,140.767471",
+    "Altitude": 40000,
+    "Speed": 445,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568017708,
+    "UTC": "2019-09-09T08:28:28Z",
+    "Callsign": "ANA115",
+    "Position": "38.236359,140.762741",
+    "Altitude": 39975,
+    "Speed": 446,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568017716,
+    "UTC": "2019-09-09T08:28:36Z",
+    "Callsign": "ANA115",
+    "Position": "38.222626,140.759064",
+    "Altitude": 39975,
+    "Speed": 446,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568017782,
+    "UTC": "2019-09-09T08:29:42Z",
+    "Callsign": "ANA115",
+    "Position": "38.088669,140.724289",
+    "Altitude": 39450,
+    "Speed": 446,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568017846,
+    "UTC": "2019-09-09T08:30:46Z",
+    "Callsign": "ANA115",
+    "Position": "37.958176,140.690048",
+    "Altitude": 36750,
+    "Speed": 450,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568017908,
+    "UTC": "2019-09-09T08:31:48Z",
+    "Callsign": "ANA115",
+    "Position": "37.828445,140.656387",
+    "Altitude": 35525,
+    "Speed": 455,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568017972,
+    "UTC": "2019-09-09T08:32:52Z",
+    "Callsign": "ANA115",
+    "Position": "37.694458,140.620331",
+    "Altitude": 32425,
+    "Speed": 465,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568018033,
+    "UTC": "2019-09-09T08:33:53Z",
+    "Callsign": "ANA115",
+    "Position": "37.571239,140.584824",
+    "Altitude": 30700,
+    "Speed": 446,
+    "Direction": 193
+  },
+  {
+    "Timestamp": 1568018098,
+    "UTC": "2019-09-09T08:34:58Z",
+    "Callsign": "ANA115",
+    "Position": "37.44397,140.548157",
+    "Altitude": 28950,
+    "Speed": 432,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568018158,
+    "UTC": "2019-09-09T08:35:58Z",
+    "Callsign": "ANA115",
+    "Position": "37.3255,140.514145",
+    "Altitude": 26875,
+    "Speed": 429,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568018220,
+    "UTC": "2019-09-09T08:37:00Z",
+    "Callsign": "ANA115",
+    "Position": "37.206505,140.480453",
+    "Altitude": 25275,
+    "Speed": 414,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568018282,
+    "UTC": "2019-09-09T08:38:02Z",
+    "Callsign": "ANA115",
+    "Position": "37.094498,140.448624",
+    "Altitude": 23700,
+    "Speed": 403,
+    "Direction": 193
+  },
+  {
+    "Timestamp": 1568018346,
+    "UTC": "2019-09-09T08:39:06Z",
+    "Callsign": "ANA115",
+    "Position": "36.979237,140.416016",
+    "Altitude": 22975,
+    "Speed": 401,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568018406,
+    "UTC": "2019-09-09T08:40:06Z",
+    "Callsign": "ANA115",
+    "Position": "36.868652,140.384705",
+    "Altitude": 22125,
+    "Speed": 401,
+    "Direction": 192
+  },
+  {
+    "Timestamp": 1568018469,
+    "UTC": "2019-09-09T08:41:09Z",
+    "Callsign": "ANA115",
+    "Position": "36.75816,140.35408",
+    "Altitude": 18775,
+    "Speed": 389,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568018530,
+    "UTC": "2019-09-09T08:42:10Z",
+    "Callsign": "ANA115",
+    "Position": "36.650482,140.330826",
+    "Altitude": 16125,
+    "Speed": 380,
+    "Direction": 189
+  },
+  {
+    "Timestamp": 1568018566,
+    "UTC": "2019-09-09T08:42:46Z",
+    "Callsign": "ANA115",
+    "Position": "36.588009,140.318314",
+    "Altitude": 15300,
+    "Speed": 374,
+    "Direction": 189
+  },
+  {
+    "Timestamp": 1568018601,
+    "UTC": "2019-09-09T08:43:21Z",
+    "Callsign": "ANA115",
+    "Position": "36.528305,140.306396",
+    "Altitude": 14350,
+    "Speed": 371,
+    "Direction": 189
+  },
+  {
+    "Timestamp": 1568018634,
+    "UTC": "2019-09-09T08:43:54Z",
+    "Callsign": "ANA115",
+    "Position": "36.472687,140.295288",
+    "Altitude": 13625,
+    "Speed": 369,
+    "Direction": 189
+  },
+  {
+    "Timestamp": 1568018652,
+    "UTC": "2019-09-09T08:44:12Z",
+    "Callsign": "ANA115",
+    "Position": "36.443665,140.286774",
+    "Altitude": 13200,
+    "Speed": 361,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568018658,
+    "UTC": "2019-09-09T08:44:18Z",
+    "Callsign": "ANA115",
+    "Position": "36.434574,140.281204",
+    "Altitude": 13050,
+    "Speed": 358,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568018665,
+    "UTC": "2019-09-09T08:44:25Z",
+    "Callsign": "ANA115",
+    "Position": "36.425777,140.273956",
+    "Altitude": 12925,
+    "Speed": 354,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568018671,
+    "UTC": "2019-09-09T08:44:31Z",
+    "Callsign": "ANA115",
+    "Position": "36.417984,140.265717",
+    "Altitude": 12800,
+    "Speed": 351,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568018678,
+    "UTC": "2019-09-09T08:44:38Z",
+    "Callsign": "ANA115",
+    "Position": "36.411671,140.25737",
+    "Altitude": 12725,
+    "Speed": 349,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1568018684,
+    "UTC": "2019-09-09T08:44:44Z",
+    "Callsign": "ANA115",
+    "Position": "36.405712,140.247543",
+    "Altitude": 12625,
+    "Speed": 344,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568018690,
+    "UTC": "2019-09-09T08:44:50Z",
+    "Callsign": "ANA115",
+    "Position": "36.398712,140.231949",
+    "Altitude": 12475,
+    "Speed": 340,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1568018696,
+    "UTC": "2019-09-09T08:44:56Z",
+    "Callsign": "ANA115",
+    "Position": "36.395325,140.221085",
+    "Altitude": 12375,
+    "Speed": 337,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568018702,
+    "UTC": "2019-09-09T08:45:02Z",
+    "Callsign": "ANA115",
+    "Position": "36.394073,140.215698",
+    "Altitude": 12325,
+    "Speed": 337,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568018708,
+    "UTC": "2019-09-09T08:45:08Z",
+    "Callsign": "ANA115",
+    "Position": "36.391022,140.19986",
+    "Altitude": 12250,
+    "Speed": 332,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1568018714,
+    "UTC": "2019-09-09T08:45:14Z",
+    "Callsign": "ANA115",
+    "Position": "36.388687,140.187668",
+    "Altitude": 12200,
+    "Speed": 330,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568018721,
+    "UTC": "2019-09-09T08:45:21Z",
+    "Callsign": "ANA115",
+    "Position": "36.387543,140.181824",
+    "Altitude": 12150,
+    "Speed": 329,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568018753,
+    "UTC": "2019-09-09T08:45:53Z",
+    "Callsign": "ANA115",
+    "Position": "36.375824,140.122604",
+    "Altitude": 11850,
+    "Speed": 316,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568018764,
+    "UTC": "2019-09-09T08:46:04Z",
+    "Callsign": "ANA115",
+    "Position": "36.37175,140.101654",
+    "Altitude": 11750,
+    "Speed": 311,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568018776,
+    "UTC": "2019-09-09T08:46:16Z",
+    "Callsign": "ANA115",
+    "Position": "36.367767,140.081345",
+    "Altitude": 11650,
+    "Speed": 307,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568018788,
+    "UTC": "2019-09-09T08:46:28Z",
+    "Callsign": "ANA115",
+    "Position": "36.363419,140.061096",
+    "Altitude": 11550,
+    "Speed": 303,
+    "Direction": 252
+  },
+  {
+    "Timestamp": 1568018795,
+    "UTC": "2019-09-09T08:46:35Z",
+    "Callsign": "ANA115",
+    "Position": "36.36026,140.051483",
+    "Altitude": 11500,
+    "Speed": 302,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1568018802,
+    "UTC": "2019-09-09T08:46:42Z",
+    "Callsign": "ANA115",
+    "Position": "36.354172,140.038605",
+    "Altitude": 11425,
+    "Speed": 302,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568018809,
+    "UTC": "2019-09-09T08:46:49Z",
+    "Callsign": "ANA115",
+    "Position": "36.348499,140.029816",
+    "Altitude": 11375,
+    "Speed": 302,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1568018816,
+    "UTC": "2019-09-09T08:46:56Z",
+    "Callsign": "ANA115",
+    "Position": "36.342453,140.022354",
+    "Altitude": 11325,
+    "Speed": 302,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1568018824,
+    "UTC": "2019-09-09T08:47:04Z",
+    "Callsign": "ANA115",
+    "Position": "36.332577,140.012985",
+    "Altitude": 11250,
+    "Speed": 302,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568018830,
+    "UTC": "2019-09-09T08:47:10Z",
+    "Callsign": "ANA115",
+    "Position": "36.325195,140.007645",
+    "Altitude": 11200,
+    "Speed": 302,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568018837,
+    "UTC": "2019-09-09T08:47:17Z",
+    "Callsign": "ANA115",
+    "Position": "36.317734,140.003586",
+    "Altitude": 11175,
+    "Speed": 303,
+    "Direction": 202
+  },
+  {
+    "Timestamp": 1568018843,
+    "UTC": "2019-09-09T08:47:23Z",
+    "Callsign": "ANA115",
+    "Position": "36.309303,140.000305",
+    "Altitude": 11125,
+    "Speed": 303,
+    "Direction": 195
+  },
+  {
+    "Timestamp": 1568018851,
+    "UTC": "2019-09-09T08:47:31Z",
+    "Callsign": "ANA115",
+    "Position": "36.297012,139.997726",
+    "Altitude": 11025,
+    "Speed": 306,
+    "Direction": 186
+  },
+  {
+    "Timestamp": 1568018860,
+    "UTC": "2019-09-09T08:47:40Z",
+    "Callsign": "ANA115",
+    "Position": "36.283978,139.996902",
+    "Altitude": 10925,
+    "Speed": 307,
+    "Direction": 182
+  },
+  {
+    "Timestamp": 1568018867,
+    "UTC": "2019-09-09T08:47:47Z",
+    "Callsign": "ANA115",
+    "Position": "36.275848,139.99649",
+    "Altitude": 10875,
+    "Speed": 307,
+    "Direction": 182
+  },
+  {
+    "Timestamp": 1568018886,
+    "UTC": "2019-09-09T08:48:06Z",
+    "Callsign": "ANA115",
+    "Position": "36.249249,139.994751",
+    "Altitude": 10725,
+    "Speed": 307,
+    "Direction": 182
+  },
+  {
+    "Timestamp": 1568018897,
+    "UTC": "2019-09-09T08:48:17Z",
+    "Callsign": "ANA115",
+    "Position": "36.232315,139.993622",
+    "Altitude": 10650,
+    "Speed": 307,
+    "Direction": 182
+  },
+  {
+    "Timestamp": 1568018909,
+    "UTC": "2019-09-09T08:48:29Z",
+    "Callsign": "ANA115",
+    "Position": "36.215126,139.992523",
+    "Altitude": 10550,
+    "Speed": 306,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568018921,
+    "UTC": "2019-09-09T08:48:41Z",
+    "Callsign": "ANA115",
+    "Position": "36.19809,139.991302",
+    "Altitude": 10450,
+    "Speed": 306,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568018932,
+    "UTC": "2019-09-09T08:48:52Z",
+    "Callsign": "ANA115",
+    "Position": "36.181503,139.990143",
+    "Altitude": 10375,
+    "Speed": 306,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568018946,
+    "UTC": "2019-09-09T08:49:06Z",
+    "Callsign": "ANA115",
+    "Position": "36.164474,139.988937",
+    "Altitude": 10300,
+    "Speed": 306,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568018958,
+    "UTC": "2019-09-09T08:49:18Z",
+    "Callsign": "ANA115",
+    "Position": "36.147217,139.987732",
+    "Altitude": 10250,
+    "Speed": 305,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568018969,
+    "UTC": "2019-09-09T08:49:29Z",
+    "Callsign": "ANA115",
+    "Position": "36.130234,139.986649",
+    "Altitude": 10200,
+    "Speed": 305,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568018981,
+    "UTC": "2019-09-09T08:49:41Z",
+    "Callsign": "ANA115",
+    "Position": "36.113411,139.985565",
+    "Altitude": 10125,
+    "Speed": 305,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568018991,
+    "UTC": "2019-09-09T08:49:51Z",
+    "Callsign": "ANA115",
+    "Position": "36.096039,139.984467",
+    "Altitude": 10050,
+    "Speed": 304,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1568019004,
+    "UTC": "2019-09-09T08:50:04Z",
+    "Callsign": "ANA115",
+    "Position": "36.079243,139.983826",
+    "Altitude": 9975,
+    "Speed": 305,
+    "Direction": 178
+  },
+  {
+    "Timestamp": 1568019014,
+    "UTC": "2019-09-09T08:50:14Z",
+    "Callsign": "ANA115",
+    "Position": "36.066559,139.985336",
+    "Altitude": 9925,
+    "Speed": 301,
+    "Direction": 172
+  },
+  {
+    "Timestamp": 1568019023,
+    "UTC": "2019-09-09T08:50:23Z",
+    "Callsign": "ANA115",
+    "Position": "36.054565,139.988419",
+    "Altitude": 9850,
+    "Speed": 298,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1568019033,
+    "UTC": "2019-09-09T08:50:33Z",
+    "Callsign": "ANA115",
+    "Position": "36.042068,139.993408",
+    "Altitude": 9750,
+    "Speed": 294,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019039,
+    "UTC": "2019-09-09T08:50:39Z",
+    "Callsign": "ANA115",
+    "Position": "36.034599,139.996902",
+    "Altitude": 9675,
+    "Speed": 291,
+    "Direction": 158
+  },
+  {
+    "Timestamp": 1568019054,
+    "UTC": "2019-09-09T08:50:54Z",
+    "Callsign": "ANA115",
+    "Position": "36.012451,140.006897",
+    "Altitude": 9525,
+    "Speed": 279,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019068,
+    "UTC": "2019-09-09T08:51:08Z",
+    "Callsign": "ANA115",
+    "Position": "35.998169,140.013306",
+    "Altitude": 9300,
+    "Speed": 276,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019079,
+    "UTC": "2019-09-09T08:51:19Z",
+    "Callsign": "ANA115",
+    "Position": "35.983112,140.020111",
+    "Altitude": 9050,
+    "Speed": 275,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019091,
+    "UTC": "2019-09-09T08:51:31Z",
+    "Callsign": "ANA115",
+    "Position": "35.969284,140.026306",
+    "Altitude": 8800,
+    "Speed": 275,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019103,
+    "UTC": "2019-09-09T08:51:43Z",
+    "Callsign": "ANA115",
+    "Position": "35.955139,140.032776",
+    "Altitude": 8575,
+    "Speed": 275,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019115,
+    "UTC": "2019-09-09T08:51:55Z",
+    "Callsign": "ANA115",
+    "Position": "35.940002,140.039688",
+    "Altitude": 8300,
+    "Speed": 274,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019128,
+    "UTC": "2019-09-09T08:52:08Z",
+    "Callsign": "ANA115",
+    "Position": "35.926071,140.04599",
+    "Altitude": 8075,
+    "Speed": 272,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019139,
+    "UTC": "2019-09-09T08:52:19Z",
+    "Callsign": "ANA115",
+    "Position": "35.912109,140.052277",
+    "Altitude": 7850,
+    "Speed": 270,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019153,
+    "UTC": "2019-09-09T08:52:33Z",
+    "Callsign": "ANA115",
+    "Position": "35.897221,140.058914",
+    "Altitude": 7600,
+    "Speed": 268,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019164,
+    "UTC": "2019-09-09T08:52:44Z",
+    "Callsign": "ANA115",
+    "Position": "35.883537,140.065048",
+    "Altitude": 7375,
+    "Speed": 264,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019176,
+    "UTC": "2019-09-09T08:52:56Z",
+    "Callsign": "ANA115",
+    "Position": "35.869431,140.071304",
+    "Altitude": 7150,
+    "Speed": 258,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019187,
+    "UTC": "2019-09-09T08:53:07Z",
+    "Callsign": "ANA115",
+    "Position": "35.857094,140.076797",
+    "Altitude": 6975,
+    "Speed": 248,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019200,
+    "UTC": "2019-09-09T08:53:20Z",
+    "Callsign": "ANA115",
+    "Position": "35.843502,140.08287",
+    "Altitude": 6750,
+    "Speed": 240,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019212,
+    "UTC": "2019-09-09T08:53:32Z",
+    "Callsign": "ANA115",
+    "Position": "35.831024,140.088547",
+    "Altitude": 6525,
+    "Speed": 238,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019224,
+    "UTC": "2019-09-09T08:53:44Z",
+    "Callsign": "ANA115",
+    "Position": "35.818642,140.094147",
+    "Altitude": 6300,
+    "Speed": 236,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019237,
+    "UTC": "2019-09-09T08:53:57Z",
+    "Callsign": "ANA115",
+    "Position": "35.806816,140.099533",
+    "Altitude": 6075,
+    "Speed": 227,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019247,
+    "UTC": "2019-09-09T08:54:07Z",
+    "Callsign": "ANA115",
+    "Position": "35.796158,140.104294",
+    "Altitude": 5950,
+    "Speed": 217,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019260,
+    "UTC": "2019-09-09T08:54:20Z",
+    "Callsign": "ANA115",
+    "Position": "35.783821,140.109818",
+    "Altitude": 5750,
+    "Speed": 215,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019272,
+    "UTC": "2019-09-09T08:54:32Z",
+    "Callsign": "ANA115",
+    "Position": "35.772675,140.114883",
+    "Altitude": 5575,
+    "Speed": 214,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019284,
+    "UTC": "2019-09-09T08:54:44Z",
+    "Callsign": "ANA115",
+    "Position": "35.7621,140.119568",
+    "Altitude": 5350,
+    "Speed": 212,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1568019296,
+    "UTC": "2019-09-09T08:54:56Z",
+    "Callsign": "ANA115",
+    "Position": "35.750584,140.124771",
+    "Altitude": 5175,
+    "Speed": 205,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019323,
+    "UTC": "2019-09-09T08:55:23Z",
+    "Callsign": "ANA115",
+    "Position": "35.727219,140.135529",
+    "Altitude": 4850,
+    "Speed": 193,
+    "Direction": 156
+  },
+  {
+    "Timestamp": 1568019330,
+    "UTC": "2019-09-09T08:55:30Z",
+    "Callsign": "ANA115",
+    "Position": "35.722458,140.138519",
+    "Altitude": 4750,
+    "Speed": 192,
+    "Direction": 151
+  },
+  {
+    "Timestamp": 1568019336,
+    "UTC": "2019-09-09T08:55:36Z",
+    "Callsign": "ANA115",
+    "Position": "35.717949,140.141769",
+    "Altitude": 4650,
+    "Speed": 190,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1568019344,
+    "UTC": "2019-09-09T08:55:44Z",
+    "Callsign": "ANA115",
+    "Position": "35.711384,140.147385",
+    "Altitude": 4625,
+    "Speed": 185,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1568019350,
+    "UTC": "2019-09-09T08:55:50Z",
+    "Callsign": "ANA115",
+    "Position": "35.707443,140.151215",
+    "Altitude": 4625,
+    "Speed": 190,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1568019357,
+    "UTC": "2019-09-09T08:55:57Z",
+    "Callsign": "ANA115",
+    "Position": "35.703186,140.155792",
+    "Altitude": 4625,
+    "Speed": 191,
+    "Direction": 137
+  },
+  {
+    "Timestamp": 1568019365,
+    "UTC": "2019-09-09T08:56:05Z",
+    "Callsign": "ANA115",
+    "Position": "35.697605,140.162399",
+    "Altitude": 4600,
+    "Speed": 187,
+    "Direction": 135
+  },
+  {
+    "Timestamp": 1568019371,
+    "UTC": "2019-09-09T08:56:11Z",
+    "Callsign": "ANA115",
+    "Position": "35.694206,140.166443",
+    "Altitude": 4625,
+    "Speed": 187,
+    "Direction": 136
+  },
+  {
+    "Timestamp": 1568019378,
+    "UTC": "2019-09-09T08:56:18Z",
+    "Callsign": "ANA115",
+    "Position": "35.690002,140.171356",
+    "Altitude": 4625,
+    "Speed": 187,
+    "Direction": 136
+  },
+  {
+    "Timestamp": 1568019390,
+    "UTC": "2019-09-09T08:56:30Z",
+    "Callsign": "ANA115",
+    "Position": "35.682476,140.180115",
+    "Altitude": 4625,
+    "Speed": 187,
+    "Direction": 136
+  },
+  {
+    "Timestamp": 1568019402,
+    "UTC": "2019-09-09T08:56:42Z",
+    "Callsign": "ANA115",
+    "Position": "35.67498,140.188873",
+    "Altitude": 4625,
+    "Speed": 191,
+    "Direction": 136
+  },
+  {
+    "Timestamp": 1568019413,
+    "UTC": "2019-09-09T08:56:53Z",
+    "Callsign": "ANA115",
+    "Position": "35.667023,140.198227",
+    "Altitude": 4625,
+    "Speed": 191,
+    "Direction": 136
+  },
+  {
+    "Timestamp": 1568019420,
+    "UTC": "2019-09-09T08:57:00Z",
+    "Callsign": "ANA115",
+    "Position": "35.662857,140.202423",
+    "Altitude": 4625,
+    "Speed": 189,
+    "Direction": 141
+  },
+  {
+    "Timestamp": 1568019426,
+    "UTC": "2019-09-09T08:57:06Z",
+    "Callsign": "ANA115",
+    "Position": "35.658783,140.206055",
+    "Altitude": 4625,
+    "Speed": 189,
+    "Direction": 145
+  },
+  {
+    "Timestamp": 1568019432,
+    "UTC": "2019-09-09T08:57:12Z",
+    "Callsign": "ANA115",
+    "Position": "35.654297,140.209579",
+    "Altitude": 4625,
+    "Speed": 189,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1568019438,
+    "UTC": "2019-09-09T08:57:18Z",
+    "Callsign": "ANA115",
+    "Position": "35.649517,140.212891",
+    "Altitude": 4625,
+    "Speed": 188,
+    "Direction": 151
+  },
+  {
+    "Timestamp": 1568019444,
+    "UTC": "2019-09-09T08:57:24Z",
+    "Callsign": "ANA115",
+    "Position": "35.64473,140.215759",
+    "Altitude": 4625,
+    "Speed": 188,
+    "Direction": 154
+  },
+  {
+    "Timestamp": 1568019452,
+    "UTC": "2019-09-09T08:57:32Z",
+    "Callsign": "ANA115",
+    "Position": "35.637691,140.219208",
+    "Altitude": 4625,
+    "Speed": 187,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1568019459,
+    "UTC": "2019-09-09T08:57:39Z",
+    "Callsign": "ANA115",
+    "Position": "35.633194,140.221085",
+    "Altitude": 4625,
+    "Speed": 186,
+    "Direction": 161
+  },
+  {
+    "Timestamp": 1568019485,
+    "UTC": "2019-09-09T08:58:05Z",
+    "Callsign": "ANA115",
+    "Position": "35.610786,140.229263",
+    "Altitude": 4625,
+    "Speed": 184,
+    "Direction": 175
+  },
+  {
+    "Timestamp": 1568019506,
+    "UTC": "2019-09-09T08:58:26Z",
+    "Callsign": "ANA115",
+    "Position": "35.594421,140.224518",
+    "Altitude": 4575,
+    "Speed": 178,
+    "Direction": 204
+  },
+  {
+    "Timestamp": 1568019515,
+    "UTC": "2019-09-09T08:58:35Z",
+    "Callsign": "ANA115",
+    "Position": "35.588287,140.219193",
+    "Altitude": 4500,
+    "Speed": 170,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1568019522,
+    "UTC": "2019-09-09T08:58:42Z",
+    "Callsign": "ANA115",
+    "Position": "35.584995,140.21489",
+    "Altitude": 4450,
+    "Speed": 171,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1568019533,
+    "UTC": "2019-09-09T08:58:53Z",
+    "Callsign": "ANA115",
+    "Position": "35.580246,140.205826",
+    "Altitude": 4350,
+    "Speed": 173,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1568019543,
+    "UTC": "2019-09-09T08:59:03Z",
+    "Callsign": "ANA115",
+    "Position": "35.575825,140.196182",
+    "Altitude": 4225,
+    "Speed": 174,
+    "Direction": 242
+  },
+  {
+    "Timestamp": 1568019553,
+    "UTC": "2019-09-09T08:59:13Z",
+    "Callsign": "ANA115",
+    "Position": "35.573219,140.187073",
+    "Altitude": 4125,
+    "Speed": 172,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568019574,
+    "UTC": "2019-09-09T08:59:34Z",
+    "Callsign": "ANA115",
+    "Position": "35.571762,140.16684",
+    "Altitude": 4100,
+    "Speed": 170,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1568019584,
+    "UTC": "2019-09-09T08:59:44Z",
+    "Callsign": "ANA115",
+    "Position": "35.571671,140.157043",
+    "Altitude": 4125,
+    "Speed": 169,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019594,
+    "UTC": "2019-09-09T08:59:54Z",
+    "Callsign": "ANA115",
+    "Position": "35.57159,140.147919",
+    "Altitude": 4125,
+    "Speed": 169,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019605,
+    "UTC": "2019-09-09T09:00:05Z",
+    "Callsign": "ANA115",
+    "Position": "35.571541,140.137741",
+    "Altitude": 4125,
+    "Speed": 169,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019614,
+    "UTC": "2019-09-09T09:00:14Z",
+    "Callsign": "ANA115",
+    "Position": "35.571487,140.128845",
+    "Altitude": 4125,
+    "Speed": 167,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019624,
+    "UTC": "2019-09-09T09:00:24Z",
+    "Callsign": "ANA115",
+    "Position": "35.571442,140.119293",
+    "Altitude": 4150,
+    "Speed": 167,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019635,
+    "UTC": "2019-09-09T09:00:35Z",
+    "Callsign": "ANA115",
+    "Position": "35.571396,140.108704",
+    "Altitude": 4125,
+    "Speed": 175,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019645,
+    "UTC": "2019-09-09T09:00:45Z",
+    "Callsign": "ANA115",
+    "Position": "35.57135,140.098862",
+    "Altitude": 4125,
+    "Speed": 177,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019654,
+    "UTC": "2019-09-09T09:00:54Z",
+    "Callsign": "ANA115",
+    "Position": "35.571304,140.088562",
+    "Altitude": 4125,
+    "Speed": 179,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019664,
+    "UTC": "2019-09-09T09:01:04Z",
+    "Callsign": "ANA115",
+    "Position": "35.571259,140.078552",
+    "Altitude": 4100,
+    "Speed": 179,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019675,
+    "UTC": "2019-09-09T09:01:15Z",
+    "Callsign": "ANA115",
+    "Position": "35.571213,140.068237",
+    "Altitude": 4025,
+    "Speed": 177,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019683,
+    "UTC": "2019-09-09T09:01:23Z",
+    "Callsign": "ANA115",
+    "Position": "35.571167,140.06012",
+    "Altitude": 3900,
+    "Speed": 180,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019695,
+    "UTC": "2019-09-09T09:01:35Z",
+    "Callsign": "ANA115",
+    "Position": "35.571121,140.047638",
+    "Altitude": 3750,
+    "Speed": 179,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019705,
+    "UTC": "2019-09-09T09:01:45Z",
+    "Callsign": "ANA115",
+    "Position": "35.571075,140.037872",
+    "Altitude": 3625,
+    "Speed": 177,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1568019716,
+    "UTC": "2019-09-09T09:01:56Z",
+    "Callsign": "ANA115",
+    "Position": "35.57103,140.027527",
+    "Altitude": 3500,
+    "Speed": 180,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019725,
+    "UTC": "2019-09-09T09:02:05Z",
+    "Callsign": "ANA115",
+    "Position": "35.570938,140.016968",
+    "Altitude": 3325,
+    "Speed": 181,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019735,
+    "UTC": "2019-09-09T09:02:15Z",
+    "Callsign": "ANA115",
+    "Position": "35.570938,140.00679",
+    "Altitude": 3200,
+    "Speed": 181,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019746,
+    "UTC": "2019-09-09T09:02:26Z",
+    "Callsign": "ANA115",
+    "Position": "35.570843,139.996796",
+    "Altitude": 3050,
+    "Speed": 181,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019756,
+    "UTC": "2019-09-09T09:02:36Z",
+    "Callsign": "ANA115",
+    "Position": "35.570797,139.986328",
+    "Altitude": 2900,
+    "Speed": 180,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019765,
+    "UTC": "2019-09-09T09:02:45Z",
+    "Callsign": "ANA115",
+    "Position": "35.570755,139.97583",
+    "Altitude": 2725,
+    "Speed": 178,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019775,
+    "UTC": "2019-09-09T09:02:55Z",
+    "Callsign": "ANA115",
+    "Position": "35.570709,139.966049",
+    "Altitude": 2600,
+    "Speed": 175,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019791,
+    "UTC": "2019-09-09T09:03:11Z",
+    "Callsign": "ANA115",
+    "Position": "35.57061,139.950974",
+    "Altitude": 2375,
+    "Speed": 172,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019800,
+    "UTC": "2019-09-09T09:03:20Z",
+    "Callsign": "ANA115",
+    "Position": "35.570572,139.941391",
+    "Altitude": 2225,
+    "Speed": 171,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019810,
+    "UTC": "2019-09-09T09:03:30Z",
+    "Callsign": "ANA115",
+    "Position": "35.570518,139.931458",
+    "Altitude": 2075,
+    "Speed": 168,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019820,
+    "UTC": "2019-09-09T09:03:40Z",
+    "Callsign": "ANA115",
+    "Position": "35.57048,139.922562",
+    "Altitude": 1925,
+    "Speed": 165,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1568019829,
+    "UTC": "2019-09-09T09:03:49Z",
+    "Callsign": "ANA115",
+    "Position": "35.570427,139.914047",
+    "Altitude": 1775,
+    "Speed": 164,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019841,
+    "UTC": "2019-09-09T09:04:01Z",
+    "Callsign": "ANA115",
+    "Position": "35.570343,139.903564",
+    "Altitude": 1600,
+    "Speed": 162,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019852,
+    "UTC": "2019-09-09T09:04:12Z",
+    "Callsign": "ANA115",
+    "Position": "35.570297,139.894348",
+    "Altitude": 1450,
+    "Speed": 158,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019862,
+    "UTC": "2019-09-09T09:04:22Z",
+    "Callsign": "ANA115",
+    "Position": "35.570251,139.885544",
+    "Altitude": 1300,
+    "Speed": 153,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1568019898,
+    "UTC": "2019-09-09T09:04:58Z",
+    "Callsign": "ANA115",
+    "Position": "35.567215,139.855316",
+    "Altitude": 900,
+    "Speed": 145,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568019908,
+    "UTC": "2019-09-09T09:05:08Z",
+    "Callsign": "ANA115",
+    "Position": "35.56321,139.848007",
+    "Altitude": 800,
+    "Speed": 143,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1568019917,
+    "UTC": "2019-09-09T09:05:17Z",
+    "Callsign": "ANA115",
+    "Position": "35.55888,139.842743",
+    "Altitude": 700,
+    "Speed": 142,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1568019923,
+    "UTC": "2019-09-09T09:05:23Z",
+    "Callsign": "ANA115",
+    "Position": "35.556107,139.8396",
+    "Altitude": 625,
+    "Speed": 142,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568019937,
+    "UTC": "2019-09-09T09:05:37Z",
+    "Callsign": "ANA115",
+    "Position": "35.548782,139.83136",
+    "Altitude": 400,
+    "Speed": 141,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568019953,
+    "UTC": "2019-09-09T09:05:53Z",
+    "Callsign": "ANA115",
+    "Position": "35.541367,139.823059",
+    "Altitude": 225,
+    "Speed": 142,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568019964,
+    "UTC": "2019-09-09T09:06:04Z",
+    "Callsign": "ANA115",
+    "Position": "35.535873,139.816818",
+    "Altitude": 125,
+    "Speed": 142,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568019984,
+    "UTC": "2019-09-09T09:06:24Z",
+    "Callsign": "ANA115",
+    "Position": "35.5294,139.80954",
+    "Altitude": 0,
+    "Speed": 55,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1568019995,
+    "UTC": "2019-09-09T09:06:35Z",
+    "Callsign": "ANA115",
+    "Position": "35.528091,139.807999",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1568020004,
+    "UTC": "2019-09-09T09:06:44Z",
+    "Callsign": "ANA115",
+    "Position": "35.527607,139.807037",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568020010,
+    "UTC": "2019-09-09T09:06:50Z",
+    "Callsign": "ANA115",
+    "Position": "35.527225,139.805969",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568020019,
+    "UTC": "2019-09-09T09:06:59Z",
+    "Callsign": "ANA115",
+    "Position": "35.52697,139.805191",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568020035,
+    "UTC": "2019-09-09T09:07:15Z",
+    "Callsign": "ANA115",
+    "Position": "35.526878,139.804108",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1568020041,
+    "UTC": "2019-09-09T09:07:21Z",
+    "Callsign": "ANA115",
+    "Position": "35.527016,139.803818",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1568020050,
+    "UTC": "2019-09-09T09:07:30Z",
+    "Callsign": "ANA115",
+    "Position": "35.52729,139.803436",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 317
+  },
+  {
+    "Timestamp": 1568020059,
+    "UTC": "2019-09-09T09:07:39Z",
+    "Callsign": "ANA115",
+    "Position": "35.527702,139.803253",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 357
+  },
+  {
+    "Timestamp": 1568020069,
+    "UTC": "2019-09-09T09:07:49Z",
+    "Callsign": "ANA115",
+    "Position": "35.528046,139.803528",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 39
+  },
+  {
+    "Timestamp": 1568020078,
+    "UTC": "2019-09-09T09:07:58Z",
+    "Callsign": "ANA115",
+    "Position": "35.528309,139.803818",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 47
+  },
+  {
+    "Timestamp": 1568020086,
+    "UTC": "2019-09-09T09:08:06Z",
+    "Callsign": "ANA115",
+    "Position": "35.528599,139.804153",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1568020092,
+    "UTC": "2019-09-09T09:08:12Z",
+    "Callsign": "ANA115",
+    "Position": "35.528797,139.804367",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1568020101,
+    "UTC": "2019-09-09T09:08:21Z",
+    "Callsign": "ANA115",
+    "Position": "35.529263,139.804886",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 47
+  },
+  {
+    "Timestamp": 1568020114,
+    "UTC": "2019-09-09T09:08:34Z",
+    "Callsign": "ANA115",
+    "Position": "35.529774,139.805313",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 33
+  },
+  {
+    "Timestamp": 1568020121,
+    "UTC": "2019-09-09T09:08:41Z",
+    "Callsign": "ANA115",
+    "Position": "35.530025,139.805267",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 2
+  },
+  {
+    "Timestamp": 1568020128,
+    "UTC": "2019-09-09T09:08:48Z",
+    "Callsign": "ANA115",
+    "Position": "35.530415,139.804977",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020134,
+    "UTC": "2019-09-09T09:08:54Z",
+    "Callsign": "ANA115",
+    "Position": "35.53067,139.804779",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 334
+  },
+  {
+    "Timestamp": 1568020142,
+    "UTC": "2019-09-09T09:09:02Z",
+    "Callsign": "ANA115",
+    "Position": "35.530949,139.804596",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020149,
+    "UTC": "2019-09-09T09:09:09Z",
+    "Callsign": "ANA115",
+    "Position": "35.531391,139.804276",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020158,
+    "UTC": "2019-09-09T09:09:18Z",
+    "Callsign": "ANA115",
+    "Position": "35.531879,139.803909",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020165,
+    "UTC": "2019-09-09T09:09:25Z",
+    "Callsign": "ANA115",
+    "Position": "35.532265,139.803635",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020173,
+    "UTC": "2019-09-09T09:09:33Z",
+    "Callsign": "ANA115",
+    "Position": "35.532715,139.803329",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020182,
+    "UTC": "2019-09-09T09:09:42Z",
+    "Callsign": "ANA115",
+    "Position": "35.533573,139.802719",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020188,
+    "UTC": "2019-09-09T09:09:48Z",
+    "Callsign": "ANA115",
+    "Position": "35.533974,139.802444",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020196,
+    "UTC": "2019-09-09T09:09:56Z",
+    "Callsign": "ANA115",
+    "Position": "35.534534,139.802048",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020206,
+    "UTC": "2019-09-09T09:10:06Z",
+    "Callsign": "ANA115",
+    "Position": "35.53545,139.801376",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020212,
+    "UTC": "2019-09-09T09:10:12Z",
+    "Callsign": "ANA115",
+    "Position": "35.535885,139.801086",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020230,
+    "UTC": "2019-09-09T09:10:30Z",
+    "Callsign": "ANA115",
+    "Position": "35.53714,139.800186",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020239,
+    "UTC": "2019-09-09T09:10:39Z",
+    "Callsign": "ANA115",
+    "Position": "35.538177,139.799469",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020258,
+    "UTC": "2019-09-09T09:10:58Z",
+    "Callsign": "ANA115",
+    "Position": "35.539967,139.798187",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020269,
+    "UTC": "2019-09-09T09:11:09Z",
+    "Callsign": "ANA115",
+    "Position": "35.540966,139.797485",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020280,
+    "UTC": "2019-09-09T09:11:20Z",
+    "Callsign": "ANA115",
+    "Position": "35.542065,139.796692",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020292,
+    "UTC": "2019-09-09T09:11:32Z",
+    "Callsign": "ANA115",
+    "Position": "35.543243,139.795868",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020298,
+    "UTC": "2019-09-09T09:11:38Z",
+    "Callsign": "ANA115",
+    "Position": "35.543785,139.795486",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020311,
+    "UTC": "2019-09-09T09:11:51Z",
+    "Callsign": "ANA115",
+    "Position": "35.544739,139.7948",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020321,
+    "UTC": "2019-09-09T09:12:01Z",
+    "Callsign": "ANA115",
+    "Position": "35.545441,139.794296",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020330,
+    "UTC": "2019-09-09T09:12:10Z",
+    "Callsign": "ANA115",
+    "Position": "35.545731,139.794022",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1568020341,
+    "UTC": "2019-09-09T09:12:21Z",
+    "Callsign": "ANA115",
+    "Position": "35.54567,139.793564",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1568020347,
+    "UTC": "2019-09-09T09:12:27Z",
+    "Callsign": "ANA115",
+    "Position": "35.545555,139.793335",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568020357,
+    "UTC": "2019-09-09T09:12:37Z",
+    "Callsign": "ANA115",
+    "Position": "35.545391,139.792969",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568020363,
+    "UTC": "2019-09-09T09:12:43Z",
+    "Callsign": "ANA115",
+    "Position": "35.545288,139.79274",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568020369,
+    "UTC": "2019-09-09T09:12:49Z",
+    "Callsign": "ANA115",
+    "Position": "35.545135,139.792419",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568020387,
+    "UTC": "2019-09-09T09:13:07Z",
+    "Callsign": "ANA115",
+    "Position": "35.544495,139.791077",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568020393,
+    "UTC": "2019-09-09T09:13:13Z",
+    "Callsign": "ANA115",
+    "Position": "35.54425,139.790573",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568020425,
+    "UTC": "2019-09-09T09:13:45Z",
+    "Callsign": "ANA115",
+    "Position": "35.542877,139.787674",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1568020663,
+    "UTC": "2019-09-09T09:17:43Z",
+    "Callsign": "ANA115",
+    "Position": "35.543087,139.777237",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020670,
+    "UTC": "2019-09-09T09:17:50Z",
+    "Callsign": "ANA115",
+    "Position": "35.543495,139.776947",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020680,
+    "UTC": "2019-09-09T09:18:00Z",
+    "Callsign": "ANA115",
+    "Position": "35.544239,139.776428",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020689,
+    "UTC": "2019-09-09T09:18:09Z",
+    "Callsign": "ANA115",
+    "Position": "35.544937,139.775909",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020702,
+    "UTC": "2019-09-09T09:18:22Z",
+    "Callsign": "ANA115",
+    "Position": "35.545952,139.775208",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020745,
+    "UTC": "2019-09-09T09:19:05Z",
+    "Callsign": "ANA115",
+    "Position": "35.549641,139.772583",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1568020780,
+    "UTC": "2019-09-09T09:19:40Z",
+    "Callsign": "ANA115",
+    "Position": "35.551392,139.771118",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 306
+  }
+]
