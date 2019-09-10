@@ -1,0 +1,5528 @@
+[
+  {
+    "Timestamp": 1566928893,
+    "UTC": "2019-08-27T18:01:33Z",
+    "Callsign": "ACA017",
+    "Position": "49.197029,-123.178955",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 47
+  },
+  {
+    "Timestamp": 1566928934,
+    "UTC": "2019-08-27T18:02:14Z",
+    "Callsign": "ACA017",
+    "Position": "49.19688,-123.179161",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 42
+  },
+  {
+    "Timestamp": 1566928949,
+    "UTC": "2019-08-27T18:02:29Z",
+    "Callsign": "ACA017",
+    "Position": "49.196777,-123.179413",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 56
+  },
+  {
+    "Timestamp": 1566928964,
+    "UTC": "2019-08-27T18:02:44Z",
+    "Callsign": "ACA017",
+    "Position": "49.196732,-123.179649",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1566929765,
+    "UTC": "2019-08-27T18:16:05Z",
+    "Callsign": "ACA017",
+    "Position": "49.188862,-123.178368",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929777,
+    "UTC": "2019-08-27T18:16:17Z",
+    "Callsign": "ACA017",
+    "Position": "49.188686,-123.176788",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929785,
+    "UTC": "2019-08-27T18:16:25Z",
+    "Callsign": "ACA017",
+    "Position": "49.188583,-123.175858",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929795,
+    "UTC": "2019-08-27T18:16:35Z",
+    "Callsign": "ACA017",
+    "Position": "49.188389,-123.174202",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929802,
+    "UTC": "2019-08-27T18:16:42Z",
+    "Callsign": "ACA017",
+    "Position": "49.188309,-123.173485",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929808,
+    "UTC": "2019-08-27T18:16:48Z",
+    "Callsign": "ACA017",
+    "Position": "49.188187,-123.17244",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929818,
+    "UTC": "2019-08-27T18:16:58Z",
+    "Callsign": "ACA017",
+    "Position": "49.187988,-123.170609",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929825,
+    "UTC": "2019-08-27T18:17:05Z",
+    "Callsign": "ACA017",
+    "Position": "49.187862,-123.169586",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929837,
+    "UTC": "2019-08-27T18:17:17Z",
+    "Callsign": "ACA017",
+    "Position": "49.187664,-123.167778",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929843,
+    "UTC": "2019-08-27T18:17:23Z",
+    "Callsign": "ACA017",
+    "Position": "49.187561,-123.166931",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929855,
+    "UTC": "2019-08-27T18:17:35Z",
+    "Callsign": "ACA017",
+    "Position": "49.187317,-123.16478",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1566929868,
+    "UTC": "2019-08-27T18:17:48Z",
+    "Callsign": "ACA017",
+    "Position": "49.187153,-123.163445",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 84
+  },
+  {
+    "Timestamp": 1566929877,
+    "UTC": "2019-08-27T18:17:57Z",
+    "Callsign": "ACA017",
+    "Position": "49.186935,-123.162849",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 104
+  },
+  {
+    "Timestamp": 1566929884,
+    "UTC": "2019-08-27T18:18:04Z",
+    "Callsign": "ACA017",
+    "Position": "49.186512,-123.162178",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 115
+  },
+  {
+    "Timestamp": 1566929891,
+    "UTC": "2019-08-27T18:18:11Z",
+    "Callsign": "ACA017",
+    "Position": "49.186375,-123.161743",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1566929898,
+    "UTC": "2019-08-27T18:18:18Z",
+    "Callsign": "ACA017",
+    "Position": "49.186314,-123.16124",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 84
+  },
+  {
+    "Timestamp": 1566929908,
+    "UTC": "2019-08-27T18:18:28Z",
+    "Callsign": "ACA017",
+    "Position": "49.186047,-123.160461",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 112
+  },
+  {
+    "Timestamp": 1566929916,
+    "UTC": "2019-08-27T18:18:36Z",
+    "Callsign": "ACA017",
+    "Position": "49.185768,-123.160347",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 146
+  },
+  {
+    "Timestamp": 1566929924,
+    "UTC": "2019-08-27T18:18:44Z",
+    "Callsign": "ACA017",
+    "Position": "49.185303,-123.160446",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 171
+  },
+  {
+    "Timestamp": 1566929931,
+    "UTC": "2019-08-27T18:18:51Z",
+    "Callsign": "ACA017",
+    "Position": "49.184975,-123.160553",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1566929938,
+    "UTC": "2019-08-27T18:18:58Z",
+    "Callsign": "ACA017",
+    "Position": "49.184772,-123.160858",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1566929944,
+    "UTC": "2019-08-27T18:19:04Z",
+    "Callsign": "ACA017",
+    "Position": "49.184753,-123.161186",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566929950,
+    "UTC": "2019-08-27T18:19:10Z",
+    "Callsign": "ACA017",
+    "Position": "49.184849,-123.161873",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1566929956,
+    "UTC": "2019-08-27T18:19:16Z",
+    "Callsign": "ACA017",
+    "Position": "49.184898,-123.162354",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566929965,
+    "UTC": "2019-08-27T18:19:25Z",
+    "Callsign": "ACA017",
+    "Position": "49.185413,-123.166794",
+    "Altitude": 0,
+    "Speed": 78,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1566929978,
+    "UTC": "2019-08-27T18:19:38Z",
+    "Callsign": "ACA017",
+    "Position": "49.186581,-123.176903",
+    "Altitude": 0,
+    "Speed": 129,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566929986,
+    "UTC": "2019-08-27T18:19:46Z",
+    "Callsign": "ACA017",
+    "Position": "49.187302,-123.183357",
+    "Altitude": 0,
+    "Speed": 149,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566929994,
+    "UTC": "2019-08-27T18:19:54Z",
+    "Callsign": "ACA017",
+    "Position": "49.188446,-123.193291",
+    "Altitude": 0,
+    "Speed": 172,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930001,
+    "UTC": "2019-08-27T18:20:01Z",
+    "Callsign": "ACA017",
+    "Position": "49.189316,-123.20118",
+    "Altitude": 75,
+    "Speed": 177,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930011,
+    "UTC": "2019-08-27T18:20:11Z",
+    "Callsign": "ACA017",
+    "Position": "49.190865,-123.21579",
+    "Altitude": 500,
+    "Speed": 181,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930019,
+    "UTC": "2019-08-27T18:20:19Z",
+    "Callsign": "ACA017",
+    "Position": "49.191696,-123.223289",
+    "Altitude": 725,
+    "Speed": 183,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930025,
+    "UTC": "2019-08-27T18:20:25Z",
+    "Callsign": "ACA017",
+    "Position": "49.192589,-123.231766",
+    "Altitude": 925,
+    "Speed": 187,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930032,
+    "UTC": "2019-08-27T18:20:32Z",
+    "Callsign": "ACA017",
+    "Position": "49.193474,-123.239716",
+    "Altitude": 1100,
+    "Speed": 191,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930044,
+    "UTC": "2019-08-27T18:20:44Z",
+    "Callsign": "ACA017",
+    "Position": "49.195221,-123.255966",
+    "Altitude": 1400,
+    "Speed": 199,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930054,
+    "UTC": "2019-08-27T18:20:54Z",
+    "Callsign": "ACA017",
+    "Position": "49.197056,-123.273537",
+    "Altitude": 1625,
+    "Speed": 213,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930060,
+    "UTC": "2019-08-27T18:21:00Z",
+    "Callsign": "ACA017",
+    "Position": "49.198032,-123.282501",
+    "Altitude": 1675,
+    "Speed": 222,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930066,
+    "UTC": "2019-08-27T18:21:06Z",
+    "Callsign": "ACA017",
+    "Position": "49.199059,-123.292114",
+    "Altitude": 1725,
+    "Speed": 233,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930074,
+    "UTC": "2019-08-27T18:21:14Z",
+    "Callsign": "ACA017",
+    "Position": "49.200165,-123.30217",
+    "Altitude": 1875,
+    "Speed": 238,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930085,
+    "UTC": "2019-08-27T18:21:25Z",
+    "Callsign": "ACA017",
+    "Position": "49.202457,-123.322548",
+    "Altitude": 2325,
+    "Speed": 244,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930092,
+    "UTC": "2019-08-27T18:21:32Z",
+    "Callsign": "ACA017",
+    "Position": "49.203621,-123.332954",
+    "Altitude": 2450,
+    "Speed": 250,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930102,
+    "UTC": "2019-08-27T18:21:42Z",
+    "Callsign": "ACA017",
+    "Position": "49.206024,-123.35463",
+    "Altitude": 2800,
+    "Speed": 260,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930108,
+    "UTC": "2019-08-27T18:21:48Z",
+    "Callsign": "ACA017",
+    "Position": "49.207169,-123.365196",
+    "Altitude": 3050,
+    "Speed": 262,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930121,
+    "UTC": "2019-08-27T18:22:01Z",
+    "Callsign": "ACA017",
+    "Position": "49.209778,-123.388084",
+    "Altitude": 3550,
+    "Speed": 266,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930127,
+    "UTC": "2019-08-27T18:22:07Z",
+    "Callsign": "ACA017",
+    "Position": "49.211014,-123.398506",
+    "Altitude": 3800,
+    "Speed": 267,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930137,
+    "UTC": "2019-08-27T18:22:17Z",
+    "Callsign": "ACA017",
+    "Position": "49.213024,-123.415497",
+    "Altitude": 4150,
+    "Speed": 270,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930147,
+    "UTC": "2019-08-27T18:22:27Z",
+    "Callsign": "ACA017",
+    "Position": "49.215725,-123.438553",
+    "Altitude": 4675,
+    "Speed": 272,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930161,
+    "UTC": "2019-08-27T18:22:41Z",
+    "Callsign": "ACA017",
+    "Position": "49.218246,-123.460342",
+    "Altitude": 5200,
+    "Speed": 272,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930172,
+    "UTC": "2019-08-27T18:22:52Z",
+    "Callsign": "ACA017",
+    "Position": "49.221039,-123.484283",
+    "Altitude": 5700,
+    "Speed": 275,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930183,
+    "UTC": "2019-08-27T18:23:03Z",
+    "Callsign": "ACA017",
+    "Position": "49.223919,-123.507576",
+    "Altitude": 6150,
+    "Speed": 279,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930196,
+    "UTC": "2019-08-27T18:23:16Z",
+    "Callsign": "ACA017",
+    "Position": "49.226898,-123.530922",
+    "Altitude": 6600,
+    "Speed": 282,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1566930206,
+    "UTC": "2019-08-27T18:23:26Z",
+    "Callsign": "ACA017",
+    "Position": "49.229828,-123.554054",
+    "Altitude": 7075,
+    "Speed": 282,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930220,
+    "UTC": "2019-08-27T18:23:40Z",
+    "Callsign": "ACA017",
+    "Position": "49.232624,-123.577614",
+    "Altitude": 7625,
+    "Speed": 281,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930231,
+    "UTC": "2019-08-27T18:23:51Z",
+    "Callsign": "ACA017",
+    "Position": "49.235462,-123.60154",
+    "Altitude": 8125,
+    "Speed": 282,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930244,
+    "UTC": "2019-08-27T18:24:04Z",
+    "Callsign": "ACA017",
+    "Position": "49.238209,-123.625175",
+    "Altitude": 8600,
+    "Speed": 283,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930255,
+    "UTC": "2019-08-27T18:24:15Z",
+    "Callsign": "ACA017",
+    "Position": "49.241043,-123.649429",
+    "Altitude": 9100,
+    "Speed": 283,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930268,
+    "UTC": "2019-08-27T18:24:28Z",
+    "Callsign": "ACA017",
+    "Position": "49.243748,-123.672516",
+    "Altitude": 9600,
+    "Speed": 284,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930280,
+    "UTC": "2019-08-27T18:24:40Z",
+    "Callsign": "ACA017",
+    "Position": "49.24649,-123.696831",
+    "Altitude": 10125,
+    "Speed": 284,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930290,
+    "UTC": "2019-08-27T18:24:50Z",
+    "Callsign": "ACA017",
+    "Position": "49.249146,-123.720139",
+    "Altitude": 10375,
+    "Speed": 293,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930305,
+    "UTC": "2019-08-27T18:25:05Z",
+    "Callsign": "ACA017",
+    "Position": "49.252083,-123.746239",
+    "Altitude": 10575,
+    "Speed": 304,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930316,
+    "UTC": "2019-08-27T18:25:16Z",
+    "Callsign": "ACA017",
+    "Position": "49.255051,-123.772041",
+    "Altitude": 10750,
+    "Speed": 315,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566930328,
+    "UTC": "2019-08-27T18:25:28Z",
+    "Callsign": "ACA017",
+    "Position": "49.258072,-123.798454",
+    "Altitude": 10925,
+    "Speed": 327,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930338,
+    "UTC": "2019-08-27T18:25:38Z",
+    "Callsign": "ACA017",
+    "Position": "49.261368,-123.826767",
+    "Altitude": 11125,
+    "Speed": 337,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930351,
+    "UTC": "2019-08-27T18:25:51Z",
+    "Callsign": "ACA017",
+    "Position": "49.264664,-123.854866",
+    "Altitude": 11300,
+    "Speed": 346,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930365,
+    "UTC": "2019-08-27T18:26:05Z",
+    "Callsign": "ACA017",
+    "Position": "49.268047,-123.884003",
+    "Altitude": 11525,
+    "Speed": 355,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930378,
+    "UTC": "2019-08-27T18:26:18Z",
+    "Callsign": "ACA017",
+    "Position": "49.271713,-123.915291",
+    "Altitude": 11750,
+    "Speed": 363,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930388,
+    "UTC": "2019-08-27T18:26:28Z",
+    "Callsign": "ACA017",
+    "Position": "49.275421,-123.94606",
+    "Altitude": 11975,
+    "Speed": 371,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930400,
+    "UTC": "2019-08-27T18:26:40Z",
+    "Callsign": "ACA017",
+    "Position": "49.279129,-123.976448",
+    "Altitude": 12275,
+    "Speed": 376,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930433,
+    "UTC": "2019-08-27T18:27:13Z",
+    "Callsign": "ACA017",
+    "Position": "49.29007,-124.064728",
+    "Altitude": 13350,
+    "Speed": 381,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566930465,
+    "UTC": "2019-08-27T18:27:45Z",
+    "Callsign": "ACA017",
+    "Position": "49.301102,-124.149918",
+    "Altitude": 14375,
+    "Speed": 387,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1566930490,
+    "UTC": "2019-08-27T18:28:10Z",
+    "Callsign": "ACA017",
+    "Position": "49.313141,-124.215584",
+    "Altitude": 15100,
+    "Speed": 394,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1566930496,
+    "UTC": "2019-08-27T18:28:16Z",
+    "Callsign": "ACA017",
+    "Position": "49.317673,-124.230583",
+    "Altitude": 15275,
+    "Speed": 396,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1566930503,
+    "UTC": "2019-08-27T18:28:23Z",
+    "Callsign": "ACA017",
+    "Position": "49.323074,-124.246284",
+    "Altitude": 15475,
+    "Speed": 398,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1566930512,
+    "UTC": "2019-08-27T18:28:32Z",
+    "Callsign": "ACA017",
+    "Position": "49.331543,-124.269524",
+    "Altitude": 15725,
+    "Speed": 401,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566930546,
+    "UTC": "2019-08-27T18:29:06Z",
+    "Callsign": "ACA017",
+    "Position": "49.361847,-124.350586",
+    "Altitude": 16650,
+    "Speed": 407,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566930577,
+    "UTC": "2019-08-27T18:29:37Z",
+    "Callsign": "ACA017",
+    "Position": "49.393509,-124.434837",
+    "Altitude": 17650,
+    "Speed": 411,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1566930611,
+    "UTC": "2019-08-27T18:30:11Z",
+    "Callsign": "ACA017",
+    "Position": "49.427582,-124.515877",
+    "Altitude": 18625,
+    "Speed": 416,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566930673,
+    "UTC": "2019-08-27T18:31:13Z",
+    "Callsign": "ACA017",
+    "Position": "49.506908,-124.659561",
+    "Altitude": 20525,
+    "Speed": 421,
+    "Direction": 310
+  },
+  {
+    "Timestamp": 1566930737,
+    "UTC": "2019-08-27T18:32:17Z",
+    "Callsign": "ACA017",
+    "Position": "49.586651,-124.80246",
+    "Altitude": 22175,
+    "Speed": 429,
+    "Direction": 310
+  },
+  {
+    "Timestamp": 1566930800,
+    "UTC": "2019-08-27T18:33:20Z",
+    "Callsign": "ACA017",
+    "Position": "49.6707,-124.954231",
+    "Altitude": 23425,
+    "Speed": 444,
+    "Direction": 310
+  },
+  {
+    "Timestamp": 1566930861,
+    "UTC": "2019-08-27T18:34:21Z",
+    "Callsign": "ACA017",
+    "Position": "49.751122,-125.099762",
+    "Altitude": 24800,
+    "Speed": 451,
+    "Direction": 310
+  },
+  {
+    "Timestamp": 1566930921,
+    "UTC": "2019-08-27T18:35:21Z",
+    "Callsign": "ACA017",
+    "Position": "49.835449,-125.253395",
+    "Altitude": 26100,
+    "Speed": 457,
+    "Direction": 310
+  },
+  {
+    "Timestamp": 1566930986,
+    "UTC": "2019-08-27T18:36:26Z",
+    "Callsign": "ACA017",
+    "Position": "49.923203,-125.414429",
+    "Altitude": 27350,
+    "Speed": 463,
+    "Direction": 310
+  },
+  {
+    "Timestamp": 1566931048,
+    "UTC": "2019-08-27T18:37:28Z",
+    "Callsign": "ACA017",
+    "Position": "50.008648,-125.572174",
+    "Altitude": 28375,
+    "Speed": 471,
+    "Direction": 310
+  },
+  {
+    "Timestamp": 1566931112,
+    "UTC": "2019-08-27T18:38:32Z",
+    "Callsign": "ACA017",
+    "Position": "50.10022,-125.742142",
+    "Altitude": 29625,
+    "Speed": 474,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931174,
+    "UTC": "2019-08-27T18:39:34Z",
+    "Callsign": "ACA017",
+    "Position": "50.185364,-125.901299",
+    "Altitude": 31500,
+    "Speed": 460,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931235,
+    "UTC": "2019-08-27T18:40:35Z",
+    "Callsign": "ACA017",
+    "Position": "50.268456,-126.057503",
+    "Altitude": 32825,
+    "Speed": 456,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931298,
+    "UTC": "2019-08-27T18:41:38Z",
+    "Callsign": "ACA017",
+    "Position": "50.35112,-126.213829",
+    "Altitude": 34125,
+    "Speed": 451,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931361,
+    "UTC": "2019-08-27T18:42:41Z",
+    "Callsign": "ACA017",
+    "Position": "50.435253,-126.374023",
+    "Altitude": 35375,
+    "Speed": 446,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931424,
+    "UTC": "2019-08-27T18:43:44Z",
+    "Callsign": "ACA017",
+    "Position": "50.517326,-126.53125",
+    "Altitude": 35975,
+    "Speed": 444,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931490,
+    "UTC": "2019-08-27T18:44:50Z",
+    "Callsign": "ACA017",
+    "Position": "50.600513,-126.691589",
+    "Altitude": 36000,
+    "Speed": 441,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931554,
+    "UTC": "2019-08-27T18:45:54Z",
+    "Callsign": "ACA017",
+    "Position": "50.683228,-126.851707",
+    "Altitude": 36000,
+    "Speed": 440,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1566931614,
+    "UTC": "2019-08-27T18:46:54Z",
+    "Callsign": "ACA017",
+    "Position": "50.759907,-127.001419",
+    "Altitude": 36000,
+    "Speed": 440,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1566931677,
+    "UTC": "2019-08-27T18:47:57Z",
+    "Callsign": "ACA017",
+    "Position": "50.840286,-127.159103",
+    "Altitude": 36000,
+    "Speed": 437,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1566931741,
+    "UTC": "2019-08-27T18:49:01Z",
+    "Callsign": "ACA017",
+    "Position": "50.920422,-127.3172",
+    "Altitude": 35975,
+    "Speed": 436,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1566931800,
+    "UTC": "2019-08-27T18:50:00Z",
+    "Callsign": "ACA017",
+    "Position": "50.996155,-127.467613",
+    "Altitude": 36000,
+    "Speed": 436,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1566931889,
+    "UTC": "2019-08-27T18:51:29Z",
+    "Callsign": "ACA017",
+    "Position": "51.105698,-127.686745",
+    "Altitude": 36000,
+    "Speed": 434,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1566931908,
+    "UTC": "2019-08-27T18:51:48Z",
+    "Callsign": "ACA017",
+    "Position": "51.13023,-127.736053",
+    "Altitude": 36000,
+    "Speed": 435,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1566931961,
+    "UTC": "2019-08-27T18:52:41Z",
+    "Callsign": "ACA017",
+    "Position": "51.195419,-127.8675",
+    "Altitude": 35975,
+    "Speed": 433,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1566932076,
+    "UTC": "2019-08-27T18:54:36Z",
+    "Callsign": "ACA017",
+    "Position": "51.323944,-128.138702",
+    "Altitude": 36000,
+    "Speed": 430,
+    "Direction": 312
+  },
+  {
+    "Timestamp": 1566932155,
+    "UTC": "2019-08-27T18:55:55Z",
+    "Callsign": "ACA017",
+    "Position": "51.38575,-128.310776",
+    "Altitude": 36000,
+    "Speed": 430,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1566932260,
+    "UTC": "2019-08-27T18:57:40Z",
+    "Callsign": "ACA017",
+    "Position": "51.517845,-128.573486",
+    "Altitude": 36000,
+    "Speed": 430,
+    "Direction": 314
+  },
+  {
+    "Timestamp": 1566932317,
+    "UTC": "2019-08-27T18:58:37Z",
+    "Callsign": "ACA017",
+    "Position": "51.58173,-128.728409",
+    "Altitude": 36000,
+    "Speed": 430,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1566932481,
+    "UTC": "2019-08-27T19:01:21Z",
+    "Callsign": "ACA017",
+    "Position": "51.826492,-129.176804",
+    "Altitude": 36000,
+    "Speed": 433,
+    "Direction": 307
+  },
+  {
+    "Timestamp": 1566932542,
+    "UTC": "2019-08-27T19:02:22Z",
+    "Callsign": "ACA017",
+    "Position": "51.899693,-129.332779",
+    "Altitude": 36000,
+    "Speed": 432,
+    "Direction": 307
+  },
+  {
+    "Timestamp": 1566932603,
+    "UTC": "2019-08-27T19:03:23Z",
+    "Callsign": "ACA017",
+    "Position": "51.972828,-129.48996",
+    "Altitude": 35975,
+    "Speed": 431,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566932664,
+    "UTC": "2019-08-27T19:04:24Z",
+    "Callsign": "ACA017",
+    "Position": "52.045681,-129.647614",
+    "Altitude": 36000,
+    "Speed": 432,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566932726,
+    "UTC": "2019-08-27T19:05:26Z",
+    "Callsign": "ACA017",
+    "Position": "52.118351,-129.805511",
+    "Altitude": 36000,
+    "Speed": 431,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566932784,
+    "UTC": "2019-08-27T19:06:24Z",
+    "Callsign": "ACA017",
+    "Position": "52.187759,-129.957275",
+    "Altitude": 35975,
+    "Speed": 429,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566932847,
+    "UTC": "2019-08-27T19:07:27Z",
+    "Callsign": "ACA017",
+    "Position": "52.26215,-130.121048",
+    "Altitude": 35975,
+    "Speed": 431,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566932908,
+    "UTC": "2019-08-27T19:08:28Z",
+    "Callsign": "ACA017",
+    "Position": "52.333885,-130.279953",
+    "Altitude": 35975,
+    "Speed": 430,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566932971,
+    "UTC": "2019-08-27T19:09:31Z",
+    "Callsign": "ACA017",
+    "Position": "52.409069,-130.447662",
+    "Altitude": 36000,
+    "Speed": 431,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566933032,
+    "UTC": "2019-08-27T19:10:32Z",
+    "Callsign": "ACA017",
+    "Position": "52.480865,-130.608749",
+    "Altitude": 35975,
+    "Speed": 431,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1566933093,
+    "UTC": "2019-08-27T19:11:33Z",
+    "Callsign": "ACA017",
+    "Position": "52.55175,-130.768768",
+    "Altitude": 36000,
+    "Speed": 427,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933154,
+    "UTC": "2019-08-27T19:12:34Z",
+    "Callsign": "ACA017",
+    "Position": "52.621811,-130.927994",
+    "Altitude": 35975,
+    "Speed": 426,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933215,
+    "UTC": "2019-08-27T19:13:35Z",
+    "Callsign": "ACA017",
+    "Position": "52.691666,-131.087646",
+    "Altitude": 35975,
+    "Speed": 423,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933274,
+    "UTC": "2019-08-27T19:14:34Z",
+    "Callsign": "ACA017",
+    "Position": "52.758728,-131.241989",
+    "Altitude": 35975,
+    "Speed": 421,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933340,
+    "UTC": "2019-08-27T19:15:40Z",
+    "Callsign": "ACA017",
+    "Position": "52.832703,-131.413116",
+    "Altitude": 35975,
+    "Speed": 418,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933403,
+    "UTC": "2019-08-27T19:16:43Z",
+    "Callsign": "ACA017",
+    "Position": "52.903591,-131.578537",
+    "Altitude": 35975,
+    "Speed": 417,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933465,
+    "UTC": "2019-08-27T19:17:45Z",
+    "Callsign": "ACA017",
+    "Position": "52.971046,-131.736832",
+    "Altitude": 35975,
+    "Speed": 416,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933524,
+    "UTC": "2019-08-27T19:18:44Z",
+    "Callsign": "ACA017",
+    "Position": "53.038101,-131.894836",
+    "Altitude": 36000,
+    "Speed": 420,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1566933586,
+    "UTC": "2019-08-27T19:19:46Z",
+    "Callsign": "ACA017",
+    "Position": "53.105583,-132.055176",
+    "Altitude": 35975,
+    "Speed": 417,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566933649,
+    "UTC": "2019-08-27T19:20:49Z",
+    "Callsign": "ACA017",
+    "Position": "53.17569,-132.222717",
+    "Altitude": 36000,
+    "Speed": 418,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566933711,
+    "UTC": "2019-08-27T19:21:51Z",
+    "Callsign": "ACA017",
+    "Position": "53.24268,-132.384125",
+    "Altitude": 35975,
+    "Speed": 418,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566933771,
+    "UTC": "2019-08-27T19:22:51Z",
+    "Callsign": "ACA017",
+    "Position": "53.309052,-132.544952",
+    "Altitude": 36000,
+    "Speed": 420,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566933835,
+    "UTC": "2019-08-27T19:23:55Z",
+    "Callsign": "ACA017",
+    "Position": "53.379227,-132.715622",
+    "Altitude": 35975,
+    "Speed": 420,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566933895,
+    "UTC": "2019-08-27T19:24:55Z",
+    "Callsign": "ACA017",
+    "Position": "53.445969,-132.879562",
+    "Altitude": 36000,
+    "Speed": 421,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566933957,
+    "UTC": "2019-08-27T19:25:57Z",
+    "Callsign": "ACA017",
+    "Position": "53.512543,-133.044113",
+    "Altitude": 36000,
+    "Speed": 425,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566934019,
+    "UTC": "2019-08-27T19:26:59Z",
+    "Callsign": "ACA017",
+    "Position": "53.581394,-133.215042",
+    "Altitude": 36000,
+    "Speed": 425,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934081,
+    "UTC": "2019-08-27T19:28:01Z",
+    "Callsign": "ACA017",
+    "Position": "53.649353,-133.38533",
+    "Altitude": 36000,
+    "Speed": 429,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934143,
+    "UTC": "2019-08-27T19:29:03Z",
+    "Callsign": "ACA017",
+    "Position": "53.719345,-133.561813",
+    "Altitude": 36000,
+    "Speed": 430,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934208,
+    "UTC": "2019-08-27T19:30:08Z",
+    "Callsign": "ACA017",
+    "Position": "53.7892,-133.738846",
+    "Altitude": 35975,
+    "Speed": 425,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934261,
+    "UTC": "2019-08-27T19:31:01Z",
+    "Callsign": "ACA017",
+    "Position": "53.847019,-133.887146",
+    "Altitude": 35975,
+    "Speed": 425,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934321,
+    "UTC": "2019-08-27T19:32:01Z",
+    "Callsign": "ACA017",
+    "Position": "53.911972,-134.053848",
+    "Altitude": 36000,
+    "Speed": 426,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934448,
+    "UTC": "2019-08-27T19:34:08Z",
+    "Callsign": "ACA017",
+    "Position": "54.047653,-134.406662",
+    "Altitude": 36000,
+    "Speed": 429,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934513,
+    "UTC": "2019-08-27T19:35:13Z",
+    "Callsign": "ACA017",
+    "Position": "54.118744,-134.591537",
+    "Altitude": 35975,
+    "Speed": 430,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934578,
+    "UTC": "2019-08-27T19:36:18Z",
+    "Callsign": "ACA017",
+    "Position": "54.189644,-134.774857",
+    "Altitude": 35975,
+    "Speed": 431,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934638,
+    "UTC": "2019-08-27T19:37:18Z",
+    "Callsign": "ACA017",
+    "Position": "54.254929,-134.945145",
+    "Altitude": 35975,
+    "Speed": 430,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1566934699,
+    "UTC": "2019-08-27T19:38:19Z",
+    "Callsign": "ACA017",
+    "Position": "54.320709,-135.117859",
+    "Altitude": 36000,
+    "Speed": 429,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566934761,
+    "UTC": "2019-08-27T19:39:21Z",
+    "Callsign": "ACA017",
+    "Position": "54.387177,-135.293884",
+    "Altitude": 35975,
+    "Speed": 428,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566934824,
+    "UTC": "2019-08-27T19:40:24Z",
+    "Callsign": "ACA017",
+    "Position": "54.4552,-135.475159",
+    "Altitude": 36000,
+    "Speed": 428,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566934846,
+    "UTC": "2019-08-27T19:40:46Z",
+    "Callsign": "ACA017",
+    "Position": "54.47813,-135.536423",
+    "Altitude": 36000,
+    "Speed": 427,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566934933,
+    "UTC": "2019-08-27T19:42:13Z",
+    "Callsign": "ACA017",
+    "Position": "54.570419,-135.784882",
+    "Altitude": 36000,
+    "Speed": 420,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566934997,
+    "UTC": "2019-08-27T19:43:17Z",
+    "Callsign": "ACA017",
+    "Position": "54.636684,-135.965302",
+    "Altitude": 36000,
+    "Speed": 420,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566935061,
+    "UTC": "2019-08-27T19:44:21Z",
+    "Callsign": "ACA017",
+    "Position": "54.702324,-136.145081",
+    "Altitude": 36000,
+    "Speed": 420,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566935122,
+    "UTC": "2019-08-27T19:45:22Z",
+    "Callsign": "ACA017",
+    "Position": "54.765404,-136.318604",
+    "Altitude": 36000,
+    "Speed": 423,
+    "Direction": 302
+  },
+  {
+    "Timestamp": 1566935164,
+    "UTC": "2019-08-27T19:46:04Z",
+    "Callsign": "ACA017",
+    "Position": "54.808594,-136.438644",
+    "Altitude": 36000,
+    "Speed": 422,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1566935226,
+    "UTC": "2019-08-27T19:47:06Z",
+    "Callsign": "ACA017",
+    "Position": "54.87252,-136.616898",
+    "Altitude": 36000,
+    "Speed": 422,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1566935313,
+    "UTC": "2019-08-27T19:48:33Z",
+    "Callsign": "ACA017",
+    "Position": "54.961945,-136.868805",
+    "Altitude": 36000,
+    "Speed": 424,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1566935323,
+    "UTC": "2019-08-27T19:48:43Z",
+    "Callsign": "ACA017",
+    "Position": "54.973118,-136.900467",
+    "Altitude": 36000,
+    "Speed": 425,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1566935412,
+    "UTC": "2019-08-27T19:50:12Z",
+    "Callsign": "ACA017",
+    "Position": "55.064667,-137.161072",
+    "Altitude": 36000,
+    "Speed": 428,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1566935476,
+    "UTC": "2019-08-27T19:51:16Z",
+    "Callsign": "ACA017",
+    "Position": "55.129303,-137.346909",
+    "Altitude": 36000,
+    "Speed": 429,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1566935536,
+    "UTC": "2019-08-27T19:52:16Z",
+    "Callsign": "ACA017",
+    "Position": "55.191776,-137.527603",
+    "Altitude": 36000,
+    "Speed": 429,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1566935598,
+    "UTC": "2019-08-27T19:53:18Z",
+    "Callsign": "ACA017",
+    "Position": "55.25462,-137.711288",
+    "Altitude": 35975,
+    "Speed": 430,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1566935659,
+    "UTC": "2019-08-27T19:54:19Z",
+    "Callsign": "ACA017",
+    "Position": "55.316536,-137.893311",
+    "Altitude": 36000,
+    "Speed": 432,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1566935720,
+    "UTC": "2019-08-27T19:55:20Z",
+    "Callsign": "ACA017",
+    "Position": "55.378738,-138.077545",
+    "Altitude": 36000,
+    "Speed": 435,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1566935781,
+    "UTC": "2019-08-27T19:56:21Z",
+    "Callsign": "ACA017",
+    "Position": "55.440994,-138.26358",
+    "Altitude": 36000,
+    "Speed": 435,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1566935843,
+    "UTC": "2019-08-27T19:57:23Z",
+    "Callsign": "ACA017",
+    "Position": "55.503433,-138.451202",
+    "Altitude": 35975,
+    "Speed": 438,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1566935905,
+    "UTC": "2019-08-27T19:58:25Z",
+    "Callsign": "ACA017",
+    "Position": "55.565403,-138.63913",
+    "Altitude": 36000,
+    "Speed": 436,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1566935964,
+    "UTC": "2019-08-27T19:59:24Z",
+    "Callsign": "ACA017",
+    "Position": "55.627121,-138.827896",
+    "Altitude": 36000,
+    "Speed": 437,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566936025,
+    "UTC": "2019-08-27T20:00:25Z",
+    "Callsign": "ACA017",
+    "Position": "55.688919,-139.01825",
+    "Altitude": 36000,
+    "Speed": 438,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566936087,
+    "UTC": "2019-08-27T20:01:27Z",
+    "Callsign": "ACA017",
+    "Position": "55.750542,-139.209305",
+    "Altitude": 36000,
+    "Speed": 440,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566936149,
+    "UTC": "2019-08-27T20:02:29Z",
+    "Callsign": "ACA017",
+    "Position": "55.812176,-139.402176",
+    "Altitude": 36000,
+    "Speed": 444,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566936217,
+    "UTC": "2019-08-27T20:03:37Z",
+    "Callsign": "ACA017",
+    "Position": "55.881912,-139.622574",
+    "Altitude": 36000,
+    "Speed": 448,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566936279,
+    "UTC": "2019-08-27T20:04:39Z",
+    "Callsign": "ACA017",
+    "Position": "55.944946,-139.823334",
+    "Altitude": 35975,
+    "Speed": 448,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1566936340,
+    "UTC": "2019-08-27T20:05:40Z",
+    "Callsign": "ACA017",
+    "Position": "56.002945,-140.021912",
+    "Altitude": 35975,
+    "Speed": 444,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1566936410,
+    "UTC": "2019-08-27T20:06:50Z",
+    "Callsign": "ACA017",
+    "Position": "56.048244,-140.258591",
+    "Altitude": 36000,
+    "Speed": 448,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1566936421,
+    "UTC": "2019-08-27T20:07:01Z",
+    "Callsign": "ACA017",
+    "Position": "56.056156,-140.301422",
+    "Altitude": 36000,
+    "Speed": 448,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1566936450,
+    "UTC": "2019-08-27T20:07:30Z",
+    "Callsign": "ACA017",
+    "Position": "56.074451,-140.399948",
+    "Altitude": 35975,
+    "Speed": 449,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1566936515,
+    "UTC": "2019-08-27T20:08:35Z",
+    "Callsign": "ACA017",
+    "Position": "56.103462,-140.644623",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566936581,
+    "UTC": "2019-08-27T20:09:41Z",
+    "Callsign": "ACA017",
+    "Position": "56.145153,-140.844376",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1566936635,
+    "UTC": "2019-08-27T20:10:35Z",
+    "Callsign": "ACA017",
+    "Position": "56.18026,-141.033875",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566936716,
+    "UTC": "2019-08-27T20:11:56Z",
+    "Callsign": "ACA017",
+    "Position": "56.222206,-141.279968",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566936772,
+    "UTC": "2019-08-27T20:12:52Z",
+    "Callsign": "ACA017",
+    "Position": "56.252552,-141.468719",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566936830,
+    "UTC": "2019-08-27T20:13:50Z",
+    "Callsign": "ACA017",
+    "Position": "56.29134,-141.668259",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1566936901,
+    "UTC": "2019-08-27T20:15:01Z",
+    "Callsign": "ACA017",
+    "Position": "56.332836,-141.900681",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566936949,
+    "UTC": "2019-08-27T20:15:49Z",
+    "Callsign": "ACA017",
+    "Position": "56.364639,-142.091476",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937012,
+    "UTC": "2019-08-27T20:16:52Z",
+    "Callsign": "ACA017",
+    "Position": "56.401535,-142.321457",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937070,
+    "UTC": "2019-08-27T20:17:50Z",
+    "Callsign": "ACA017",
+    "Position": "56.441669,-142.532043",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1566937122,
+    "UTC": "2019-08-27T20:18:42Z",
+    "Callsign": "ACA017",
+    "Position": "56.47905,-142.751038",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937186,
+    "UTC": "2019-08-27T20:19:46Z",
+    "Callsign": "ACA017",
+    "Position": "56.518253,-142.99147",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937241,
+    "UTC": "2019-08-27T20:20:41Z",
+    "Callsign": "ACA017",
+    "Position": "56.551838,-143.206192",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937299,
+    "UTC": "2019-08-27T20:21:39Z",
+    "Callsign": "ACA017",
+    "Position": "56.587025,-143.443039",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937362,
+    "UTC": "2019-08-27T20:22:42Z",
+    "Callsign": "ACA017",
+    "Position": "56.62167,-143.677292",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937438,
+    "UTC": "2019-08-27T20:23:58Z",
+    "Callsign": "ACA017",
+    "Position": "56.658298,-143.932419",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937493,
+    "UTC": "2019-08-27T20:24:53Z",
+    "Callsign": "ACA017",
+    "Position": "56.686653,-144.127975",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937552,
+    "UTC": "2019-08-27T20:25:52Z",
+    "Callsign": "ACA017",
+    "Position": "56.71722,-144.341522",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937613,
+    "UTC": "2019-08-27T20:26:53Z",
+    "Callsign": "ACA017",
+    "Position": "56.749264,-144.559509",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937683,
+    "UTC": "2019-08-27T20:28:03Z",
+    "Callsign": "ACA017",
+    "Position": "56.784782,-144.804596",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937726,
+    "UTC": "2019-08-27T20:28:46Z",
+    "Callsign": "ACA017",
+    "Position": "56.811855,-144.993973",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937787,
+    "UTC": "2019-08-27T20:29:47Z",
+    "Callsign": "ACA017",
+    "Position": "56.84771,-145.237274",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1566937845,
+    "UTC": "2019-08-27T20:30:45Z",
+    "Callsign": "ACA017",
+    "Position": "56.881264,-145.467728",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937904,
+    "UTC": "2019-08-27T20:31:44Z",
+    "Callsign": "ACA017",
+    "Position": "56.915611,-145.705856",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566937963,
+    "UTC": "2019-08-27T20:32:43Z",
+    "Callsign": "ACA017",
+    "Position": "56.948719,-145.93692",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566938024,
+    "UTC": "2019-08-27T20:33:44Z",
+    "Callsign": "ACA017",
+    "Position": "56.976379,-146.169891",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566938083,
+    "UTC": "2019-08-27T20:34:43Z",
+    "Callsign": "ACA017",
+    "Position": "57.00391,-146.389984",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566938142,
+    "UTC": "2019-08-27T20:35:42Z",
+    "Callsign": "ACA017",
+    "Position": "57.034142,-146.627136",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1566938213,
+    "UTC": "2019-08-27T20:36:53Z",
+    "Callsign": "ACA017",
+    "Position": "57.06905,-146.88858",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566938308,
+    "UTC": "2019-08-27T20:38:28Z",
+    "Callsign": "ACA017",
+    "Position": "57.098431,-147.168823",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1566938371,
+    "UTC": "2019-08-27T20:39:31Z",
+    "Callsign": "ACA017",
+    "Position": "57.120842,-147.359726",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1566938467,
+    "UTC": "2019-08-27T20:41:07Z",
+    "Callsign": "ACA017",
+    "Position": "57.16325,-147.752716",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1566938567,
+    "UTC": "2019-08-27T20:42:47Z",
+    "Callsign": "ACA017",
+    "Position": "57.220242,-148.213547",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1566938598,
+    "UTC": "2019-08-27T20:43:18Z",
+    "Callsign": "ACA017",
+    "Position": "57.260136,-148.514328",
+    "Altitude": 35975,
+    "Speed": 480,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1566938691,
+    "UTC": "2019-08-27T20:44:51Z",
+    "Callsign": "ACA017",
+    "Position": "57.300339,-148.884399",
+    "Altitude": 36000,
+    "Speed": 481,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1566938753,
+    "UTC": "2019-08-27T20:45:53Z",
+    "Callsign": "ACA017",
+    "Position": "57.326981,-149.137177",
+    "Altitude": 35975,
+    "Speed": 474,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566938817,
+    "UTC": "2019-08-27T20:46:57Z",
+    "Callsign": "ACA017",
+    "Position": "57.352917,-149.388016",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566938879,
+    "UTC": "2019-08-27T20:47:59Z",
+    "Callsign": "ACA017",
+    "Position": "57.378159,-149.638596",
+    "Altitude": 36000,
+    "Speed": 477,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566938943,
+    "UTC": "2019-08-27T20:49:03Z",
+    "Callsign": "ACA017",
+    "Position": "57.403473,-149.894547",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566939005,
+    "UTC": "2019-08-27T20:50:05Z",
+    "Callsign": "ACA017",
+    "Position": "57.427597,-150.14328",
+    "Altitude": 36000,
+    "Speed": 481,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1566939068,
+    "UTC": "2019-08-27T20:51:08Z",
+    "Callsign": "ACA017",
+    "Position": "57.451996,-150.400604",
+    "Altitude": 35975,
+    "Speed": 481,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1566939130,
+    "UTC": "2019-08-27T20:52:10Z",
+    "Callsign": "ACA017",
+    "Position": "57.462593,-150.65889",
+    "Altitude": 36000,
+    "Speed": 484,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566939192,
+    "UTC": "2019-08-27T20:53:12Z",
+    "Callsign": "ACA017",
+    "Position": "57.45932,-150.918411",
+    "Altitude": 36000,
+    "Speed": 484,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566939254,
+    "UTC": "2019-08-27T20:54:14Z",
+    "Callsign": "ACA017",
+    "Position": "57.455425,-151.17569",
+    "Altitude": 35975,
+    "Speed": 484,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566939318,
+    "UTC": "2019-08-27T20:55:18Z",
+    "Callsign": "ACA017",
+    "Position": "57.450909,-151.435364",
+    "Altitude": 35975,
+    "Speed": 485,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566939382,
+    "UTC": "2019-08-27T20:56:22Z",
+    "Callsign": "ACA017",
+    "Position": "57.445835,-151.699753",
+    "Altitude": 36000,
+    "Speed": 485,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1566939444,
+    "UTC": "2019-08-27T20:57:24Z",
+    "Callsign": "ACA017",
+    "Position": "57.440434,-151.954468",
+    "Altitude": 36000,
+    "Speed": 485,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1566939508,
+    "UTC": "2019-08-27T20:58:28Z",
+    "Callsign": "ACA017",
+    "Position": "57.434196,-152.221161",
+    "Altitude": 36000,
+    "Speed": 483,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1566939570,
+    "UTC": "2019-08-27T20:59:30Z",
+    "Callsign": "ACA017",
+    "Position": "57.427494,-152.483063",
+    "Altitude": 35975,
+    "Speed": 483,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1566939635,
+    "UTC": "2019-08-27T21:00:35Z",
+    "Callsign": "ACA017",
+    "Position": "57.420364,-152.746872",
+    "Altitude": 36000,
+    "Speed": 486,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566939695,
+    "UTC": "2019-08-27T21:01:35Z",
+    "Callsign": "ACA017",
+    "Position": "57.412735,-153.001633",
+    "Altitude": 36000,
+    "Speed": 485,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566939759,
+    "UTC": "2019-08-27T21:02:39Z",
+    "Callsign": "ACA017",
+    "Position": "57.404434,-153.261856",
+    "Altitude": 36000,
+    "Speed": 488,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566939821,
+    "UTC": "2019-08-27T21:03:41Z",
+    "Callsign": "ACA017",
+    "Position": "57.395737,-153.521317",
+    "Altitude": 36000,
+    "Speed": 489,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566939884,
+    "UTC": "2019-08-27T21:04:44Z",
+    "Callsign": "ACA017",
+    "Position": "57.386108,-153.783524",
+    "Altitude": 35975,
+    "Speed": 489,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566939946,
+    "UTC": "2019-08-27T21:05:46Z",
+    "Callsign": "ACA017",
+    "Position": "57.376694,-154.039993",
+    "Altitude": 35975,
+    "Speed": 487,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566940006,
+    "UTC": "2019-08-27T21:06:46Z",
+    "Callsign": "ACA017",
+    "Position": "57.366394,-154.295166",
+    "Altitude": 36000,
+    "Speed": 488,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1566940013,
+    "UTC": "2019-08-27T21:06:53Z",
+    "Callsign": "ACA017",
+    "Position": "57.365345,-154.319717",
+    "Altitude": 35975,
+    "Speed": 488,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1566940087,
+    "UTC": "2019-08-27T21:08:07Z",
+    "Callsign": "ACA017",
+    "Position": "57.350269,-154.630356",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566940400,
+    "UTC": "2019-08-27T21:13:20Z",
+    "Callsign": "ACA017",
+    "Position": "57.285789,-155.915283",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940459,
+    "UTC": "2019-08-27T21:14:19Z",
+    "Callsign": "ACA017",
+    "Position": "57.270683,-156.150208",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940516,
+    "UTC": "2019-08-27T21:15:16Z",
+    "Callsign": "ACA017",
+    "Position": "57.255032,-156.386749",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940592,
+    "UTC": "2019-08-27T21:16:32Z",
+    "Callsign": "ACA017",
+    "Position": "57.235157,-156.681549",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940650,
+    "UTC": "2019-08-27T21:17:30Z",
+    "Callsign": "ACA017",
+    "Position": "57.219048,-156.915787",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940712,
+    "UTC": "2019-08-27T21:18:32Z",
+    "Callsign": "ACA017",
+    "Position": "57.202099,-157.161682",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940780,
+    "UTC": "2019-08-27T21:19:40Z",
+    "Callsign": "ACA017",
+    "Position": "57.183723,-157.428909",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940830,
+    "UTC": "2019-08-27T21:20:30Z",
+    "Callsign": "ACA017",
+    "Position": "57.16864,-157.648178",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940887,
+    "UTC": "2019-08-27T21:21:27Z",
+    "Callsign": "ACA017",
+    "Position": "57.151733,-157.896622",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566940945,
+    "UTC": "2019-08-27T21:22:25Z",
+    "Callsign": "ACA017",
+    "Position": "57.134087,-158.165329",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566941006,
+    "UTC": "2019-08-27T21:23:26Z",
+    "Callsign": "ACA017",
+    "Position": "57.116489,-158.43248",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566941063,
+    "UTC": "2019-08-27T21:24:23Z",
+    "Callsign": "ACA017",
+    "Position": "57.100086,-158.672897",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1566941149,
+    "UTC": "2019-08-27T21:25:49Z",
+    "Callsign": "ACA017",
+    "Position": "57.07695,-159.083572",
+    "Altitude": 35975,
+    "Speed": 490,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1566941211,
+    "UTC": "2019-08-27T21:26:51Z",
+    "Callsign": "ACA017",
+    "Position": "57.056534,-159.334885",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1566941273,
+    "UTC": "2019-08-27T21:27:53Z",
+    "Callsign": "ACA017",
+    "Position": "57.035614,-159.586624",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1566941335,
+    "UTC": "2019-08-27T21:28:55Z",
+    "Callsign": "ACA017",
+    "Position": "57.014156,-159.837601",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1566941416,
+    "UTC": "2019-08-27T21:30:16Z",
+    "Callsign": "ACA017",
+    "Position": "57.002289,-160.166595",
+    "Altitude": 35975,
+    "Speed": 485,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566941475,
+    "UTC": "2019-08-27T21:31:15Z",
+    "Callsign": "ACA017",
+    "Position": "57.005169,-160.41864",
+    "Altitude": 36000,
+    "Speed": 485,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566941539,
+    "UTC": "2019-08-27T21:32:19Z",
+    "Callsign": "ACA017",
+    "Position": "57.007507,-160.670837",
+    "Altitude": 36000,
+    "Speed": 484,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1566941598,
+    "UTC": "2019-08-27T21:33:18Z",
+    "Callsign": "ACA017",
+    "Position": "57.009361,-160.921097",
+    "Altitude": 36000,
+    "Speed": 485,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1566941659,
+    "UTC": "2019-08-27T21:34:19Z",
+    "Callsign": "ACA017",
+    "Position": "57.010757,-161.170853",
+    "Altitude": 35975,
+    "Speed": 483,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1566941689,
+    "UTC": "2019-08-27T21:34:49Z",
+    "Callsign": "ACA017",
+    "Position": "57.011261,-161.292084",
+    "Altitude": 35975,
+    "Speed": 483,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1566941782,
+    "UTC": "2019-08-27T21:36:22Z",
+    "Callsign": "ACA017",
+    "Position": "57.004574,-161.629745",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566941841,
+    "UTC": "2019-08-27T21:37:21Z",
+    "Callsign": "ACA017",
+    "Position": "57.000702,-161.868088",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566941921,
+    "UTC": "2019-08-27T21:38:41Z",
+    "Callsign": "ACA017",
+    "Position": "56.998547,-162.132416",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566941978,
+    "UTC": "2019-08-27T21:39:38Z",
+    "Callsign": "ACA017",
+    "Position": "56.997974,-162.35495",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566942009,
+    "UTC": "2019-08-27T21:40:09Z",
+    "Callsign": "ACA017",
+    "Position": "57.008987,-162.596771",
+    "Altitude": 36000,
+    "Speed": 477,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1566942045,
+    "UTC": "2019-08-27T21:40:45Z",
+    "Callsign": "ACA017",
+    "Position": "57.007915,-162.738617",
+    "Altitude": 35975,
+    "Speed": 476,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1566942111,
+    "UTC": "2019-08-27T21:41:51Z",
+    "Callsign": "ACA017",
+    "Position": "57.005497,-163.003967",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566942204,
+    "UTC": "2019-08-27T21:43:24Z",
+    "Callsign": "ACA017",
+    "Position": "57.001144,-163.379227",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566942214,
+    "UTC": "2019-08-27T21:43:34Z",
+    "Callsign": "ACA017",
+    "Position": "57.000641,-163.413818",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1566942272,
+    "UTC": "2019-08-27T21:44:32Z",
+    "Callsign": "ACA017",
+    "Position": "56.991249,-163.590744",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566942329,
+    "UTC": "2019-08-27T21:45:29Z",
+    "Callsign": "ACA017",
+    "Position": "56.983948,-163.79538",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566942388,
+    "UTC": "2019-08-27T21:46:28Z",
+    "Callsign": "ACA017",
+    "Position": "56.980301,-164.035034",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566942451,
+    "UTC": "2019-08-27T21:47:31Z",
+    "Callsign": "ACA017",
+    "Position": "56.978874,-164.277161",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566942506,
+    "UTC": "2019-08-27T21:48:26Z",
+    "Callsign": "ACA017",
+    "Position": "56.970898,-164.511734",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566942564,
+    "UTC": "2019-08-27T21:49:24Z",
+    "Callsign": "ACA017",
+    "Position": "56.965855,-164.762177",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566942643,
+    "UTC": "2019-08-27T21:50:43Z",
+    "Callsign": "ACA017",
+    "Position": "56.96278,-165.048859",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566942702,
+    "UTC": "2019-08-27T21:51:42Z",
+    "Callsign": "ACA017",
+    "Position": "56.95443,-165.272568",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1566942789,
+    "UTC": "2019-08-27T21:53:09Z",
+    "Callsign": "ACA017",
+    "Position": "56.948143,-165.726715",
+    "Altitude": 35975,
+    "Speed": 474,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566942850,
+    "UTC": "2019-08-27T21:54:10Z",
+    "Callsign": "ACA017",
+    "Position": "56.940033,-165.972687",
+    "Altitude": 36000,
+    "Speed": 474,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566942911,
+    "UTC": "2019-08-27T21:55:11Z",
+    "Callsign": "ACA017",
+    "Position": "56.931519,-166.216446",
+    "Altitude": 35975,
+    "Speed": 474,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566942972,
+    "UTC": "2019-08-27T21:56:12Z",
+    "Callsign": "ACA017",
+    "Position": "56.922546,-166.458572",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566943036,
+    "UTC": "2019-08-27T21:57:16Z",
+    "Callsign": "ACA017",
+    "Position": "56.912659,-166.713074",
+    "Altitude": 36000,
+    "Speed": 474,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1566943078,
+    "UTC": "2019-08-27T21:57:58Z",
+    "Callsign": "ACA017",
+    "Position": "56.905735,-166.883209",
+    "Altitude": 35975,
+    "Speed": 474,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1566943169,
+    "UTC": "2019-08-27T21:59:29Z",
+    "Callsign": "ACA017",
+    "Position": "56.887981,-167.175323",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566943227,
+    "UTC": "2019-08-27T22:00:27Z",
+    "Callsign": "ACA017",
+    "Position": "56.870884,-167.406769",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1566943303,
+    "UTC": "2019-08-27T22:01:43Z",
+    "Callsign": "ACA017",
+    "Position": "56.861347,-167.669724",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566943363,
+    "UTC": "2019-08-27T22:02:43Z",
+    "Callsign": "ACA017",
+    "Position": "56.850361,-167.892517",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566943420,
+    "UTC": "2019-08-27T22:03:40Z",
+    "Callsign": "ACA017",
+    "Position": "56.836594,-168.123825",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1566943491,
+    "UTC": "2019-08-27T22:04:51Z",
+    "Callsign": "ACA017",
+    "Position": "56.827633,-168.385986",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1566943543,
+    "UTC": "2019-08-27T22:05:43Z",
+    "Callsign": "ACA017",
+    "Position": "56.817665,-168.603302",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566943615,
+    "UTC": "2019-08-27T22:06:55Z",
+    "Callsign": "ACA017",
+    "Position": "56.802582,-168.893784",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566943689,
+    "UTC": "2019-08-27T22:08:09Z",
+    "Callsign": "ACA017",
+    "Position": "56.785789,-169.167435",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1566943737,
+    "UTC": "2019-08-27T22:08:57Z",
+    "Callsign": "ACA017",
+    "Position": "56.771896,-169.371826",
+    "Altitude": 36000,
+    "Speed": 470,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566947612,
+    "UTC": "2019-08-27T23:13:32Z",
+    "Callsign": "ACA017",
+    "Position": "53.891602,177.291794",
+    "Altitude": 35975,
+    "Speed": 425,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566947675,
+    "UTC": "2019-08-27T23:14:35Z",
+    "Callsign": "ACA017",
+    "Position": "53.83017,177.111221",
+    "Altitude": 35975,
+    "Speed": 423,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566947737,
+    "UTC": "2019-08-27T23:15:37Z",
+    "Callsign": "ACA017",
+    "Position": "53.769047,176.9328",
+    "Altitude": 35975,
+    "Speed": 424,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566947798,
+    "UTC": "2019-08-27T23:16:38Z",
+    "Callsign": "ACA017",
+    "Position": "53.70932,176.759659",
+    "Altitude": 35975,
+    "Speed": 421,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566947860,
+    "UTC": "2019-08-27T23:17:40Z",
+    "Callsign": "ACA017",
+    "Position": "53.647842,176.582932",
+    "Altitude": 36000,
+    "Speed": 420,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566947922,
+    "UTC": "2019-08-27T23:18:42Z",
+    "Callsign": "ACA017",
+    "Position": "53.586731,176.408173",
+    "Altitude": 36000,
+    "Speed": 416,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566947984,
+    "UTC": "2019-08-27T23:19:44Z",
+    "Callsign": "ACA017",
+    "Position": "53.527206,176.23912",
+    "Altitude": 35975,
+    "Speed": 415,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566948045,
+    "UTC": "2019-08-27T23:20:45Z",
+    "Callsign": "ACA017",
+    "Position": "53.466843,176.069168",
+    "Altitude": 36925,
+    "Speed": 416,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566948107,
+    "UTC": "2019-08-27T23:21:47Z",
+    "Callsign": "ACA017",
+    "Position": "53.406326,175.89975",
+    "Altitude": 37750,
+    "Speed": 417,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566948170,
+    "UTC": "2019-08-27T23:22:50Z",
+    "Callsign": "ACA017",
+    "Position": "53.342487,175.722122",
+    "Altitude": 38000,
+    "Speed": 428,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566948231,
+    "UTC": "2019-08-27T23:23:51Z",
+    "Callsign": "ACA017",
+    "Position": "53.280487,175.551086",
+    "Altitude": 38000,
+    "Speed": 425,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566948293,
+    "UTC": "2019-08-27T23:24:53Z",
+    "Callsign": "ACA017",
+    "Position": "53.216812,175.376724",
+    "Altitude": 37975,
+    "Speed": 421,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566948357,
+    "UTC": "2019-08-27T23:25:57Z",
+    "Callsign": "ACA017",
+    "Position": "53.153111,175.203339",
+    "Altitude": 37975,
+    "Speed": 420,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566948419,
+    "UTC": "2019-08-27T23:26:59Z",
+    "Callsign": "ACA017",
+    "Position": "53.089783,175.03212",
+    "Altitude": 38000,
+    "Speed": 419,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566948481,
+    "UTC": "2019-08-27T23:28:01Z",
+    "Callsign": "ACA017",
+    "Position": "53.025925,174.860687",
+    "Altitude": 38000,
+    "Speed": 424,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566948544,
+    "UTC": "2019-08-27T23:29:04Z",
+    "Callsign": "ACA017",
+    "Position": "52.960945,174.687332",
+    "Altitude": 38000,
+    "Speed": 424,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1566948607,
+    "UTC": "2019-08-27T23:30:07Z",
+    "Callsign": "ACA017",
+    "Position": "52.895416,174.513855",
+    "Altitude": 38000,
+    "Speed": 427,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1566948670,
+    "UTC": "2019-08-27T23:31:10Z",
+    "Callsign": "ACA017",
+    "Position": "52.829315,174.340057",
+    "Altitude": 38000,
+    "Speed": 425,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1566948732,
+    "UTC": "2019-08-27T23:32:12Z",
+    "Callsign": "ACA017",
+    "Position": "52.763798,174.168854",
+    "Altitude": 37975,
+    "Speed": 426,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1566948794,
+    "UTC": "2019-08-27T23:33:14Z",
+    "Callsign": "ACA017",
+    "Position": "52.697983,173.999481",
+    "Altitude": 37975,
+    "Speed": 424,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566948856,
+    "UTC": "2019-08-27T23:34:16Z",
+    "Callsign": "ACA017",
+    "Position": "52.630795,173.830399",
+    "Altitude": 38000,
+    "Speed": 427,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566948921,
+    "UTC": "2019-08-27T23:35:21Z",
+    "Callsign": "ACA017",
+    "Position": "52.562073,173.658905",
+    "Altitude": 37975,
+    "Speed": 425,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566948982,
+    "UTC": "2019-08-27T23:36:22Z",
+    "Callsign": "ACA017",
+    "Position": "52.494446,173.490829",
+    "Altitude": 37975,
+    "Speed": 425,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566949045,
+    "UTC": "2019-08-27T23:37:25Z",
+    "Callsign": "ACA017",
+    "Position": "52.426712,173.323685",
+    "Altitude": 38000,
+    "Speed": 427,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566949105,
+    "UTC": "2019-08-27T23:38:25Z",
+    "Callsign": "ACA017",
+    "Position": "52.359116,173.158112",
+    "Altitude": 38000,
+    "Speed": 427,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566949169,
+    "UTC": "2019-08-27T23:39:29Z",
+    "Callsign": "ACA017",
+    "Position": "52.291058,172.992447",
+    "Altitude": 38000,
+    "Speed": 426,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566949231,
+    "UTC": "2019-08-27T23:40:31Z",
+    "Callsign": "ACA017",
+    "Position": "52.222534,172.82663",
+    "Altitude": 38000,
+    "Speed": 427,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949293,
+    "UTC": "2019-08-27T23:41:33Z",
+    "Callsign": "ACA017",
+    "Position": "52.154057,172.662079",
+    "Altitude": 37975,
+    "Speed": 427,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949354,
+    "UTC": "2019-08-27T23:42:34Z",
+    "Callsign": "ACA017",
+    "Position": "52.085159,172.497665",
+    "Altitude": 37975,
+    "Speed": 427,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949417,
+    "UTC": "2019-08-27T23:43:37Z",
+    "Callsign": "ACA017",
+    "Position": "52.015182,172.331772",
+    "Altitude": 38000,
+    "Speed": 426,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949481,
+    "UTC": "2019-08-27T23:44:41Z",
+    "Callsign": "ACA017",
+    "Position": "51.945877,172.168274",
+    "Altitude": 38000,
+    "Speed": 423,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949543,
+    "UTC": "2019-08-27T23:45:43Z",
+    "Callsign": "ACA017",
+    "Position": "51.876835,172.006607",
+    "Altitude": 38000,
+    "Speed": 421,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949605,
+    "UTC": "2019-08-27T23:46:45Z",
+    "Callsign": "ACA017",
+    "Position": "51.807053,171.844177",
+    "Altitude": 37975,
+    "Speed": 422,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949668,
+    "UTC": "2019-08-27T23:47:48Z",
+    "Callsign": "ACA017",
+    "Position": "51.737366,171.683121",
+    "Altitude": 38000,
+    "Speed": 422,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566949731,
+    "UTC": "2019-08-27T23:48:51Z",
+    "Callsign": "ACA017",
+    "Position": "51.666458,171.520187",
+    "Altitude": 37975,
+    "Speed": 422,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566949792,
+    "UTC": "2019-08-27T23:49:52Z",
+    "Callsign": "ACA017",
+    "Position": "51.597382,171.362228",
+    "Altitude": 37975,
+    "Speed": 424,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566949856,
+    "UTC": "2019-08-27T23:50:56Z",
+    "Callsign": "ACA017",
+    "Position": "51.525414,171.19873",
+    "Altitude": 38000,
+    "Speed": 425,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566949916,
+    "UTC": "2019-08-27T23:51:56Z",
+    "Callsign": "ACA017",
+    "Position": "51.466244,171.03569",
+    "Altitude": 38000,
+    "Speed": 421,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566949978,
+    "UTC": "2019-08-27T23:52:58Z",
+    "Callsign": "ACA017",
+    "Position": "51.40947,170.865906",
+    "Altitude": 37975,
+    "Speed": 423,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566950055,
+    "UTC": "2019-08-27T23:54:15Z",
+    "Callsign": "ACA017",
+    "Position": "51.338226,170.654373",
+    "Altitude": 37975,
+    "Speed": 425,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566950068,
+    "UTC": "2019-08-27T23:54:28Z",
+    "Callsign": "ACA017",
+    "Position": "51.325058,170.615524",
+    "Altitude": 38000,
+    "Speed": 425,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566950164,
+    "UTC": "2019-08-27T23:56:04Z",
+    "Callsign": "ACA017",
+    "Position": "51.236092,170.354233",
+    "Altitude": 38000,
+    "Speed": 426,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566950195,
+    "UTC": "2019-08-27T23:56:35Z",
+    "Callsign": "ACA017",
+    "Position": "51.206902,170.268936",
+    "Altitude": 38000,
+    "Speed": 426,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566950251,
+    "UTC": "2019-08-27T23:57:31Z",
+    "Callsign": "ACA017",
+    "Position": "51.15564,170.120102",
+    "Altitude": 38000,
+    "Speed": 427,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566950306,
+    "UTC": "2019-08-27T23:58:26Z",
+    "Callsign": "ACA017",
+    "Position": "51.102951,169.968033",
+    "Altitude": 37975,
+    "Speed": 427,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566950354,
+    "UTC": "2019-08-27T23:59:14Z",
+    "Callsign": "ACA017",
+    "Position": "51.05603,169.83342",
+    "Altitude": 37975,
+    "Speed": 426,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566960771,
+    "UTC": "2019-08-28T02:52:51Z",
+    "Callsign": "ACA017",
+    "Position": "37.145473,145.490921",
+    "Altitude": 37975,
+    "Speed": 431,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566960871,
+    "UTC": "2019-08-28T02:54:31Z",
+    "Callsign": "ACA017",
+    "Position": "37.075424,145.255905",
+    "Altitude": 37975,
+    "Speed": 431,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566960883,
+    "UTC": "2019-08-28T02:54:43Z",
+    "Callsign": "ACA017",
+    "Position": "37.067406,145.22905",
+    "Altitude": 37975,
+    "Speed": 431,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566960986,
+    "UTC": "2019-08-28T02:56:26Z",
+    "Callsign": "ACA017",
+    "Position": "36.995819,144.991837",
+    "Altitude": 37975,
+    "Speed": 425,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566960998,
+    "UTC": "2019-08-28T02:56:38Z",
+    "Callsign": "ACA017",
+    "Position": "36.987076,144.962845",
+    "Altitude": 37975,
+    "Speed": 425,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566961105,
+    "UTC": "2019-08-28T02:58:25Z",
+    "Callsign": "ACA017",
+    "Position": "36.912552,144.717697",
+    "Altitude": 38000,
+    "Speed": 423,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566961160,
+    "UTC": "2019-08-28T02:59:20Z",
+    "Callsign": "ACA017",
+    "Position": "36.874512,144.593521",
+    "Altitude": 38000,
+    "Speed": 424,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566961248,
+    "UTC": "2019-08-28T03:00:48Z",
+    "Callsign": "ACA017",
+    "Position": "36.812115,144.390915",
+    "Altitude": 37975,
+    "Speed": 426,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566961266,
+    "UTC": "2019-08-28T03:01:06Z",
+    "Callsign": "ACA017",
+    "Position": "36.800034,144.351822",
+    "Altitude": 37975,
+    "Speed": 426,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961346,
+    "UTC": "2019-08-28T03:02:26Z",
+    "Callsign": "ACA017",
+    "Position": "36.742767,144.167511",
+    "Altitude": 38000,
+    "Speed": 426,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961390,
+    "UTC": "2019-08-28T03:03:10Z",
+    "Callsign": "ACA017",
+    "Position": "36.710537,144.064484",
+    "Altitude": 38000,
+    "Speed": 431,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961433,
+    "UTC": "2019-08-28T03:03:53Z",
+    "Callsign": "ACA017",
+    "Position": "36.679276,143.964722",
+    "Altitude": 38000,
+    "Speed": 432,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961520,
+    "UTC": "2019-08-28T03:05:20Z",
+    "Callsign": "ACA017",
+    "Position": "36.615555,143.76268",
+    "Altitude": 38000,
+    "Speed": 434,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961581,
+    "UTC": "2019-08-28T03:06:21Z",
+    "Callsign": "ACA017",
+    "Position": "36.571346,143.622986",
+    "Altitude": 38000,
+    "Speed": 433,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961598,
+    "UTC": "2019-08-28T03:06:38Z",
+    "Callsign": "ACA017",
+    "Position": "36.559753,143.58667",
+    "Altitude": 38000,
+    "Speed": 433,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961685,
+    "UTC": "2019-08-28T03:08:05Z",
+    "Callsign": "ACA017",
+    "Position": "36.495464,143.385376",
+    "Altitude": 38000,
+    "Speed": 433,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961773,
+    "UTC": "2019-08-28T03:09:33Z",
+    "Callsign": "ACA017",
+    "Position": "36.429035,143.17897",
+    "Altitude": 37975,
+    "Speed": 433,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961836,
+    "UTC": "2019-08-28T03:10:36Z",
+    "Callsign": "ACA017",
+    "Position": "36.382141,143.03392",
+    "Altitude": 37975,
+    "Speed": 433,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961900,
+    "UTC": "2019-08-28T03:11:40Z",
+    "Callsign": "ACA017",
+    "Position": "36.334301,142.887009",
+    "Altitude": 37975,
+    "Speed": 433,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566961945,
+    "UTC": "2019-08-28T03:12:25Z",
+    "Callsign": "ACA017",
+    "Position": "36.299927,142.781357",
+    "Altitude": 38000,
+    "Speed": 434,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566962032,
+    "UTC": "2019-08-28T03:13:52Z",
+    "Callsign": "ACA017",
+    "Position": "36.23465,142.582977",
+    "Altitude": 37975,
+    "Speed": 432,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1566962095,
+    "UTC": "2019-08-28T03:14:55Z",
+    "Callsign": "ACA017",
+    "Position": "36.18729,142.438919",
+    "Altitude": 37975,
+    "Speed": 428,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1566962158,
+    "UTC": "2019-08-28T03:15:58Z",
+    "Callsign": "ACA017",
+    "Position": "36.137375,142.298645",
+    "Altitude": 38000,
+    "Speed": 430,
+    "Direction": 246
+  },
+  {
+    "Timestamp": 1566962218,
+    "UTC": "2019-08-28T03:16:58Z",
+    "Callsign": "ACA017",
+    "Position": "36.087936,142.163605",
+    "Altitude": 38000,
+    "Speed": 429,
+    "Direction": 246
+  },
+  {
+    "Timestamp": 1566962284,
+    "UTC": "2019-08-28T03:18:04Z",
+    "Callsign": "ACA017",
+    "Position": "36.03548,142.017105",
+    "Altitude": 38000,
+    "Speed": 429,
+    "Direction": 246
+  },
+  {
+    "Timestamp": 1566962349,
+    "UTC": "2019-08-28T03:19:09Z",
+    "Callsign": "ACA017",
+    "Position": "35.983482,141.872879",
+    "Altitude": 37975,
+    "Speed": 431,
+    "Direction": 246
+  },
+  {
+    "Timestamp": 1566962416,
+    "UTC": "2019-08-28T03:20:16Z",
+    "Callsign": "ACA017",
+    "Position": "35.933395,141.714478",
+    "Altitude": 37975,
+    "Speed": 428,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1566962482,
+    "UTC": "2019-08-28T03:21:22Z",
+    "Callsign": "ACA017",
+    "Position": "35.899734,141.565674",
+    "Altitude": 38000,
+    "Speed": 431,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1566962548,
+    "UTC": "2019-08-28T03:22:28Z",
+    "Callsign": "ACA017",
+    "Position": "35.865379,141.409531",
+    "Altitude": 37975,
+    "Speed": 432,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1566962607,
+    "UTC": "2019-08-28T03:23:27Z",
+    "Callsign": "ACA017",
+    "Position": "35.832233,141.264893",
+    "Altitude": 37975,
+    "Speed": 435,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1566962670,
+    "UTC": "2019-08-28T03:24:30Z",
+    "Callsign": "ACA017",
+    "Position": "35.798904,141.115326",
+    "Altitude": 37975,
+    "Speed": 438,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566962734,
+    "UTC": "2019-08-28T03:25:34Z",
+    "Callsign": "ACA017",
+    "Position": "35.763943,140.962311",
+    "Altitude": 38000,
+    "Speed": 438,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1566962795,
+    "UTC": "2019-08-28T03:26:35Z",
+    "Callsign": "ACA017",
+    "Position": "35.728237,140.813339",
+    "Altitude": 38000,
+    "Speed": 446,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566962811,
+    "UTC": "2019-08-28T03:26:51Z",
+    "Callsign": "ACA017",
+    "Position": "35.715389,140.777344",
+    "Altitude": 38000,
+    "Speed": 451,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566962823,
+    "UTC": "2019-08-28T03:27:03Z",
+    "Callsign": "ACA017",
+    "Position": "35.70282,140.748184",
+    "Altitude": 38000,
+    "Speed": 455,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566962886,
+    "UTC": "2019-08-28T03:28:06Z",
+    "Callsign": "ACA017",
+    "Position": "35.636391,140.607529",
+    "Altitude": 38025,
+    "Speed": 453,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566962950,
+    "UTC": "2019-08-28T03:29:10Z",
+    "Callsign": "ACA017",
+    "Position": "35.569912,140.466461",
+    "Altitude": 38000,
+    "Speed": 454,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566963011,
+    "UTC": "2019-08-28T03:30:11Z",
+    "Callsign": "ACA017",
+    "Position": "35.506603,140.332748",
+    "Altitude": 38000,
+    "Speed": 455,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566963072,
+    "UTC": "2019-08-28T03:31:12Z",
+    "Callsign": "ACA017",
+    "Position": "35.440247,140.193954",
+    "Altitude": 37975,
+    "Speed": 453,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566963087,
+    "UTC": "2019-08-28T03:31:27Z",
+    "Callsign": "ACA017",
+    "Position": "35.420712,140.161942",
+    "Altitude": 37975,
+    "Speed": 458,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566963093,
+    "UTC": "2019-08-28T03:31:33Z",
+    "Callsign": "ACA017",
+    "Position": "35.416306,140.15596",
+    "Altitude": 37975,
+    "Speed": 459,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1566963100,
+    "UTC": "2019-08-28T03:31:40Z",
+    "Callsign": "ACA017",
+    "Position": "35.402847,140.139938",
+    "Altitude": 38000,
+    "Speed": 462,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1566963106,
+    "UTC": "2019-08-28T03:31:46Z",
+    "Callsign": "ACA017",
+    "Position": "35.392597,140.129089",
+    "Altitude": 37975,
+    "Speed": 464,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1566963112,
+    "UTC": "2019-08-28T03:31:52Z",
+    "Callsign": "ACA017",
+    "Position": "35.382259,140.118805",
+    "Altitude": 38000,
+    "Speed": 465,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1566963179,
+    "UTC": "2019-08-28T03:32:59Z",
+    "Callsign": "ACA017",
+    "Position": "35.266533,140.008484",
+    "Altitude": 37975,
+    "Speed": 467,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1566963243,
+    "UTC": "2019-08-28T03:34:03Z",
+    "Callsign": "ACA017",
+    "Position": "35.157742,139.905685",
+    "Altitude": 37975,
+    "Speed": 464,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1566963305,
+    "UTC": "2019-08-28T03:35:05Z",
+    "Callsign": "ACA017",
+    "Position": "35.052429,139.805573",
+    "Altitude": 37975,
+    "Speed": 467,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1566963367,
+    "UTC": "2019-08-28T03:36:07Z",
+    "Callsign": "ACA017",
+    "Position": "34.949066,139.703659",
+    "Altitude": 37975,
+    "Speed": 466,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1566963430,
+    "UTC": "2019-08-28T03:37:10Z",
+    "Callsign": "ACA017",
+    "Position": "34.842957,139.598892",
+    "Altitude": 37975,
+    "Speed": 466,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1566963496,
+    "UTC": "2019-08-28T03:38:16Z",
+    "Callsign": "ACA017",
+    "Position": "34.736984,139.49324",
+    "Altitude": 37975,
+    "Speed": 467,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1566963558,
+    "UTC": "2019-08-28T03:39:18Z",
+    "Callsign": "ACA017",
+    "Position": "34.631058,139.385849",
+    "Altitude": 38000,
+    "Speed": 466,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1566963623,
+    "UTC": "2019-08-28T03:40:23Z",
+    "Callsign": "ACA017",
+    "Position": "34.527878,139.273285",
+    "Altitude": 37975,
+    "Speed": 458,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566963632,
+    "UTC": "2019-08-28T03:40:32Z",
+    "Callsign": "ACA017",
+    "Position": "34.51667,139.253876",
+    "Altitude": 37975,
+    "Speed": 454,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1566963638,
+    "UTC": "2019-08-28T03:40:38Z",
+    "Callsign": "ACA017",
+    "Position": "34.509731,139.240601",
+    "Altitude": 37975,
+    "Speed": 453,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566963645,
+    "UTC": "2019-08-28T03:40:45Z",
+    "Callsign": "ACA017",
+    "Position": "34.50293,139.226929",
+    "Altitude": 37975,
+    "Speed": 452,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566963716,
+    "UTC": "2019-08-28T03:41:56Z",
+    "Callsign": "ACA017",
+    "Position": "34.439026,139.066055",
+    "Altitude": 38000,
+    "Speed": 448,
+    "Direction": 252
+  },
+  {
+    "Timestamp": 1566963782,
+    "UTC": "2019-08-28T03:43:02Z",
+    "Callsign": "ACA017",
+    "Position": "34.401901,138.910065",
+    "Altitude": 37975,
+    "Speed": 452,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566963842,
+    "UTC": "2019-08-28T03:44:02Z",
+    "Callsign": "ACA017",
+    "Position": "34.365875,138.758728",
+    "Altitude": 38000,
+    "Speed": 451,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566963911,
+    "UTC": "2019-08-28T03:45:11Z",
+    "Callsign": "ACA017",
+    "Position": "34.32605,138.592422",
+    "Altitude": 38000,
+    "Speed": 455,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566963976,
+    "UTC": "2019-08-28T03:46:16Z",
+    "Callsign": "ACA017",
+    "Position": "34.288147,138.434235",
+    "Altitude": 37975,
+    "Speed": 454,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964018,
+    "UTC": "2019-08-28T03:46:58Z",
+    "Callsign": "ACA017",
+    "Position": "34.263016,138.329971",
+    "Altitude": 38225,
+    "Speed": 454,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964108,
+    "UTC": "2019-08-28T03:48:28Z",
+    "Callsign": "ACA017",
+    "Position": "34.211052,138.115936",
+    "Altitude": 39975,
+    "Speed": 444,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964172,
+    "UTC": "2019-08-28T03:49:32Z",
+    "Callsign": "ACA017",
+    "Position": "34.174072,137.964127",
+    "Altitude": 40000,
+    "Speed": 443,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964240,
+    "UTC": "2019-08-28T03:50:40Z",
+    "Callsign": "ACA017",
+    "Position": "34.135437,137.806442",
+    "Altitude": 39975,
+    "Speed": 442,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964302,
+    "UTC": "2019-08-28T03:51:42Z",
+    "Callsign": "ACA017",
+    "Position": "34.09914,137.660004",
+    "Altitude": 40000,
+    "Speed": 442,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964362,
+    "UTC": "2019-08-28T03:52:42Z",
+    "Callsign": "ACA017",
+    "Position": "34.062653,137.51329",
+    "Altitude": 39975,
+    "Speed": 443,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964428,
+    "UTC": "2019-08-28T03:53:48Z",
+    "Callsign": "ACA017",
+    "Position": "34.02388,137.358368",
+    "Altitude": 40000,
+    "Speed": 445,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566964488,
+    "UTC": "2019-08-28T03:54:48Z",
+    "Callsign": "ACA017",
+    "Position": "33.9879,137.214981",
+    "Altitude": 40000,
+    "Speed": 447,
+    "Direction": 252
+  },
+  {
+    "Timestamp": 1566964555,
+    "UTC": "2019-08-28T03:55:55Z",
+    "Callsign": "ACA017",
+    "Position": "33.948452,137.058731",
+    "Altitude": 40000,
+    "Speed": 447,
+    "Direction": 252
+  },
+  {
+    "Timestamp": 1566964619,
+    "UTC": "2019-08-28T03:56:59Z",
+    "Callsign": "ACA017",
+    "Position": "33.912552,136.903107",
+    "Altitude": 40000,
+    "Speed": 444,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1566964628,
+    "UTC": "2019-08-28T03:57:08Z",
+    "Callsign": "ACA017",
+    "Position": "33.910885,136.881348",
+    "Altitude": 39975,
+    "Speed": 441,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1566964635,
+    "UTC": "2019-08-28T03:57:15Z",
+    "Callsign": "ACA017",
+    "Position": "33.91008,136.86644",
+    "Altitude": 40000,
+    "Speed": 441,
+    "Direction": 266
+  },
+  {
+    "Timestamp": 1566964698,
+    "UTC": "2019-08-28T03:58:18Z",
+    "Callsign": "ACA017",
+    "Position": "33.904507,136.709625",
+    "Altitude": 39975,
+    "Speed": 440,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1566964763,
+    "UTC": "2019-08-28T03:59:23Z",
+    "Callsign": "ACA017",
+    "Position": "33.899338,136.552399",
+    "Altitude": 39975,
+    "Speed": 440,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1566964826,
+    "UTC": "2019-08-28T04:00:26Z",
+    "Callsign": "ACA017",
+    "Position": "33.8936,136.396332",
+    "Altitude": 39975,
+    "Speed": 443,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1566964840,
+    "UTC": "2019-08-28T04:00:40Z",
+    "Callsign": "ACA017",
+    "Position": "33.888428,136.359833",
+    "Altitude": 39975,
+    "Speed": 445,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1566964846,
+    "UTC": "2019-08-28T04:00:46Z",
+    "Callsign": "ACA017",
+    "Position": "33.885361,136.345428",
+    "Altitude": 39975,
+    "Speed": 445,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1566964853,
+    "UTC": "2019-08-28T04:00:53Z",
+    "Callsign": "ACA017",
+    "Position": "33.881744,136.331253",
+    "Altitude": 40000,
+    "Speed": 446,
+    "Direction": 252
+  },
+  {
+    "Timestamp": 1566964859,
+    "UTC": "2019-08-28T04:00:59Z",
+    "Callsign": "ACA017",
+    "Position": "33.87746,136.316986",
+    "Altitude": 40000,
+    "Speed": 447,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1566964866,
+    "UTC": "2019-08-28T04:01:06Z",
+    "Callsign": "ACA017",
+    "Position": "33.872772,136.303452",
+    "Altitude": 39975,
+    "Speed": 448,
+    "Direction": 246
+  },
+  {
+    "Timestamp": 1566964875,
+    "UTC": "2019-08-28T04:01:15Z",
+    "Callsign": "ACA017",
+    "Position": "33.86467,136.282654",
+    "Altitude": 40000,
+    "Speed": 449,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566964938,
+    "UTC": "2019-08-28T04:02:18Z",
+    "Callsign": "ACA017",
+    "Position": "33.810005,136.138748",
+    "Altitude": 40000,
+    "Speed": 451,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1566965001,
+    "UTC": "2019-08-28T04:03:21Z",
+    "Callsign": "ACA017",
+    "Position": "33.755035,135.994598",
+    "Altitude": 39975,
+    "Speed": 453,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1566965064,
+    "UTC": "2019-08-28T04:04:24Z",
+    "Callsign": "ACA017",
+    "Position": "33.699875,135.851608",
+    "Altitude": 39975,
+    "Speed": 453,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1566965125,
+    "UTC": "2019-08-28T04:05:25Z",
+    "Callsign": "ACA017",
+    "Position": "33.646454,135.71283",
+    "Altitude": 39975,
+    "Speed": 454,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1566965187,
+    "UTC": "2019-08-28T04:06:27Z",
+    "Callsign": "ACA017",
+    "Position": "33.591022,135.569916",
+    "Altitude": 40000,
+    "Speed": 458,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1566965251,
+    "UTC": "2019-08-28T04:07:31Z",
+    "Callsign": "ACA017",
+    "Position": "33.533524,135.422089",
+    "Altitude": 40000,
+    "Speed": 459,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1566965314,
+    "UTC": "2019-08-28T04:08:34Z",
+    "Callsign": "ACA017",
+    "Position": "33.476852,135.277237",
+    "Altitude": 40000,
+    "Speed": 460,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566965374,
+    "UTC": "2019-08-28T04:09:34Z",
+    "Callsign": "ACA017",
+    "Position": "33.422195,135.137817",
+    "Altitude": 39975,
+    "Speed": 461,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1566965437,
+    "UTC": "2019-08-28T04:10:37Z",
+    "Callsign": "ACA017",
+    "Position": "33.364929,134.992523",
+    "Altitude": 39975,
+    "Speed": 458,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566965501,
+    "UTC": "2019-08-28T04:11:41Z",
+    "Callsign": "ACA017",
+    "Position": "33.307343,134.847076",
+    "Altitude": 40000,
+    "Speed": 461,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566965565,
+    "UTC": "2019-08-28T04:12:45Z",
+    "Callsign": "ACA017",
+    "Position": "33.249435,134.701385",
+    "Altitude": 39975,
+    "Speed": 463,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566965626,
+    "UTC": "2019-08-28T04:13:46Z",
+    "Callsign": "ACA017",
+    "Position": "33.19342,134.561157",
+    "Altitude": 40000,
+    "Speed": 466,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566965689,
+    "UTC": "2019-08-28T04:14:49Z",
+    "Callsign": "ACA017",
+    "Position": "33.134998,134.415421",
+    "Altitude": 40000,
+    "Speed": 465,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1566965758,
+    "UTC": "2019-08-28T04:15:58Z",
+    "Callsign": "ACA017",
+    "Position": "33.070618,134.253326",
+    "Altitude": 39975,
+    "Speed": 465,
+    "Direction": 247
+  },
+  {
+    "Timestamp": 1566965822,
+    "UTC": "2019-08-28T04:17:02Z",
+    "Callsign": "ACA017",
+    "Position": "33.029419,134.099289",
+    "Altitude": 39975,
+    "Speed": 466,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566965884,
+    "UTC": "2019-08-28T04:18:04Z",
+    "Callsign": "ACA017",
+    "Position": "32.991623,133.944214",
+    "Altitude": 39975,
+    "Speed": 467,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566965947,
+    "UTC": "2019-08-28T04:19:07Z",
+    "Callsign": "ACA017",
+    "Position": "32.953812,133.79007",
+    "Altitude": 39975,
+    "Speed": 464,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566966010,
+    "UTC": "2019-08-28T04:20:10Z",
+    "Callsign": "ACA017",
+    "Position": "32.91568,133.63533",
+    "Altitude": 40000,
+    "Speed": 464,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566966070,
+    "UTC": "2019-08-28T04:21:10Z",
+    "Callsign": "ACA017",
+    "Position": "32.879242,133.487976",
+    "Altitude": 40000,
+    "Speed": 463,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566966134,
+    "UTC": "2019-08-28T04:22:14Z",
+    "Callsign": "ACA017",
+    "Position": "32.840324,133.332153",
+    "Altitude": 39975,
+    "Speed": 464,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566966197,
+    "UTC": "2019-08-28T04:23:17Z",
+    "Callsign": "ACA017",
+    "Position": "32.801872,133.17868",
+    "Altitude": 40000,
+    "Speed": 463,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566966259,
+    "UTC": "2019-08-28T04:24:19Z",
+    "Callsign": "ACA017",
+    "Position": "32.763428,133.028061",
+    "Altitude": 40000,
+    "Speed": 462,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1566966322,
+    "UTC": "2019-08-28T04:25:22Z",
+    "Callsign": "ACA017",
+    "Position": "32.702667,132.882156",
+    "Altitude": 39975,
+    "Speed": 460,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566966384,
+    "UTC": "2019-08-28T04:26:24Z",
+    "Callsign": "ACA017",
+    "Position": "32.639923,132.747528",
+    "Altitude": 39975,
+    "Speed": 465,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566966448,
+    "UTC": "2019-08-28T04:27:28Z",
+    "Callsign": "ACA017",
+    "Position": "32.574463,132.607788",
+    "Altitude": 40000,
+    "Speed": 466,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566966512,
+    "UTC": "2019-08-28T04:28:32Z",
+    "Callsign": "ACA017",
+    "Position": "32.508133,132.466766",
+    "Altitude": 39975,
+    "Speed": 466,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566966576,
+    "UTC": "2019-08-28T04:29:36Z",
+    "Callsign": "ACA017",
+    "Position": "32.438873,132.319992",
+    "Altitude": 40000,
+    "Speed": 469,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566966639,
+    "UTC": "2019-08-28T04:30:39Z",
+    "Callsign": "ACA017",
+    "Position": "32.371307,132.177521",
+    "Altitude": 40000,
+    "Speed": 474,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566966699,
+    "UTC": "2019-08-28T04:31:39Z",
+    "Callsign": "ACA017",
+    "Position": "32.307159,132.042664",
+    "Altitude": 40000,
+    "Speed": 472,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566966743,
+    "UTC": "2019-08-28T04:32:23Z",
+    "Callsign": "ACA017",
+    "Position": "32.259861,131.94339",
+    "Altitude": 40000,
+    "Speed": 470,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566966833,
+    "UTC": "2019-08-28T04:33:53Z",
+    "Callsign": "ACA017",
+    "Position": "32.164536,131.744751",
+    "Altitude": 39975,
+    "Speed": 474,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566966894,
+    "UTC": "2019-08-28T04:34:54Z",
+    "Callsign": "ACA017",
+    "Position": "32.098282,131.606857",
+    "Altitude": 40000,
+    "Speed": 475,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566966956,
+    "UTC": "2019-08-28T04:35:56Z",
+    "Callsign": "ACA017",
+    "Position": "32.029861,131.465256",
+    "Altitude": 40000,
+    "Speed": 476,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566967026,
+    "UTC": "2019-08-28T04:37:06Z",
+    "Callsign": "ACA017",
+    "Position": "31.954899,131.311005",
+    "Altitude": 40000,
+    "Speed": 477,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566967084,
+    "UTC": "2019-08-28T04:38:04Z",
+    "Callsign": "ACA017",
+    "Position": "31.889923,131.177521",
+    "Altitude": 40000,
+    "Speed": 479,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566967148,
+    "UTC": "2019-08-28T04:39:08Z",
+    "Callsign": "ACA017",
+    "Position": "31.819059,131.032593",
+    "Altitude": 39975,
+    "Speed": 479,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566967211,
+    "UTC": "2019-08-28T04:40:11Z",
+    "Callsign": "ACA017",
+    "Position": "31.748627,130.889023",
+    "Altitude": 40000,
+    "Speed": 481,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566967273,
+    "UTC": "2019-08-28T04:41:13Z",
+    "Callsign": "ACA017",
+    "Position": "31.680588,130.750977",
+    "Altitude": 40000,
+    "Speed": 477,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1566967335,
+    "UTC": "2019-08-28T04:42:15Z",
+    "Callsign": "ACA017",
+    "Position": "31.611603,130.611389",
+    "Altitude": 40000,
+    "Speed": 480,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566967398,
+    "UTC": "2019-08-28T04:43:18Z",
+    "Callsign": "ACA017",
+    "Position": "31.541428,130.470078",
+    "Altitude": 39975,
+    "Speed": 479,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566967460,
+    "UTC": "2019-08-28T04:44:20Z",
+    "Callsign": "ACA017",
+    "Position": "31.472672,130.332214",
+    "Altitude": 39975,
+    "Speed": 484,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566967522,
+    "UTC": "2019-08-28T04:45:22Z",
+    "Callsign": "ACA017",
+    "Position": "31.401346,130.189255",
+    "Altitude": 39975,
+    "Speed": 486,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566967548,
+    "UTC": "2019-08-28T04:45:48Z",
+    "Callsign": "ACA017",
+    "Position": "31.37265,130.131973",
+    "Altitude": 39975,
+    "Speed": 485,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1566967642,
+    "UTC": "2019-08-28T04:47:22Z",
+    "Callsign": "ACA017",
+    "Position": "31.260544,129.922913",
+    "Altitude": 40000,
+    "Speed": 488,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566967710,
+    "UTC": "2019-08-28T04:48:30Z",
+    "Callsign": "ACA017",
+    "Position": "31.166016,129.781555",
+    "Altitude": 39975,
+    "Speed": 484,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566967768,
+    "UTC": "2019-08-28T04:49:28Z",
+    "Callsign": "ACA017",
+    "Position": "31.084978,129.660431",
+    "Altitude": 40000,
+    "Speed": 486,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566967777,
+    "UTC": "2019-08-28T04:49:37Z",
+    "Callsign": "ACA017",
+    "Position": "31.072735,129.642242",
+    "Altitude": 39975,
+    "Speed": 486,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566967866,
+    "UTC": "2019-08-28T04:51:06Z",
+    "Callsign": "ACA017",
+    "Position": "30.949417,129.459045",
+    "Altitude": 40000,
+    "Speed": 488,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566967935,
+    "UTC": "2019-08-28T04:52:15Z",
+    "Callsign": "ACA017",
+    "Position": "30.853474,129.317322",
+    "Altitude": 40000,
+    "Speed": 483,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566967958,
+    "UTC": "2019-08-28T04:52:38Z",
+    "Callsign": "ACA017",
+    "Position": "30.82247,129.271667",
+    "Altitude": 40000,
+    "Speed": 482,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566968051,
+    "UTC": "2019-08-28T04:54:11Z",
+    "Callsign": "ACA017",
+    "Position": "30.695568,129.081009",
+    "Altitude": 40000,
+    "Speed": 481,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566968080,
+    "UTC": "2019-08-28T04:54:40Z",
+    "Callsign": "ACA017",
+    "Position": "30.654922,129.018967",
+    "Altitude": 40000,
+    "Speed": 482,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566968196,
+    "UTC": "2019-08-28T04:56:36Z",
+    "Callsign": "ACA017",
+    "Position": "30.499741,128.783951",
+    "Altitude": 40000,
+    "Speed": 480,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566968257,
+    "UTC": "2019-08-28T04:57:37Z",
+    "Callsign": "ACA017",
+    "Position": "30.416061,128.657867",
+    "Altitude": 39975,
+    "Speed": 481,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566968281,
+    "UTC": "2019-08-28T04:58:01Z",
+    "Callsign": "ACA017",
+    "Position": "30.382551,128.607437",
+    "Altitude": 39975,
+    "Speed": 481,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566968335,
+    "UTC": "2019-08-28T04:58:55Z",
+    "Callsign": "ACA017",
+    "Position": "30.310318,128.499054",
+    "Altitude": 40000,
+    "Speed": 482,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566968422,
+    "UTC": "2019-08-28T05:00:22Z",
+    "Callsign": "ACA017",
+    "Position": "30.190063,128.319122",
+    "Altitude": 40000,
+    "Speed": 484,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566969266,
+    "UTC": "2019-08-28T05:14:26Z",
+    "Callsign": "ACA017",
+    "Position": "29.003769,126.627205",
+    "Altitude": 39975,
+    "Speed": 485,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566969287,
+    "UTC": "2019-08-28T05:14:47Z",
+    "Callsign": "ACA017",
+    "Position": "28.976257,126.588173",
+    "Altitude": 39975,
+    "Speed": 484,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566969378,
+    "UTC": "2019-08-28T05:16:18Z",
+    "Callsign": "ACA017",
+    "Position": "28.843506,126.408424",
+    "Altitude": 39975,
+    "Speed": 488,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566969438,
+    "UTC": "2019-08-28T05:17:18Z",
+    "Callsign": "ACA017",
+    "Position": "28.755644,126.290321",
+    "Altitude": 39975,
+    "Speed": 488,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566969502,
+    "UTC": "2019-08-28T05:18:22Z",
+    "Callsign": "ACA017",
+    "Position": "28.661469,126.164299",
+    "Altitude": 40000,
+    "Speed": 488,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566969562,
+    "UTC": "2019-08-28T05:19:22Z",
+    "Callsign": "ACA017",
+    "Position": "28.574928,126.043938",
+    "Altitude": 39975,
+    "Speed": 492,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566969626,
+    "UTC": "2019-08-28T05:20:26Z",
+    "Callsign": "ACA017",
+    "Position": "28.484476,125.916298",
+    "Altitude": 40000,
+    "Speed": 492,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566969686,
+    "UTC": "2019-08-28T05:21:26Z",
+    "Callsign": "ACA017",
+    "Position": "28.398102,125.79483",
+    "Altitude": 39975,
+    "Speed": 493,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566969750,
+    "UTC": "2019-08-28T05:22:30Z",
+    "Callsign": "ACA017",
+    "Position": "28.306274,125.666267",
+    "Altitude": 39975,
+    "Speed": 494,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1566969814,
+    "UTC": "2019-08-28T05:23:34Z",
+    "Callsign": "ACA017",
+    "Position": "28.2148,125.538834",
+    "Altitude": 40000,
+    "Speed": 499,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566969876,
+    "UTC": "2019-08-28T05:24:36Z",
+    "Callsign": "ACA017",
+    "Position": "28.123215,125.411156",
+    "Altitude": 40000,
+    "Speed": 500,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566969889,
+    "UTC": "2019-08-28T05:24:49Z",
+    "Callsign": "ACA017",
+    "Position": "28.103943,125.384377",
+    "Altitude": 39975,
+    "Speed": 499,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566969992,
+    "UTC": "2019-08-28T05:26:32Z",
+    "Callsign": "ACA017",
+    "Position": "27.95517,125.178383",
+    "Altitude": 40000,
+    "Speed": 498,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970052,
+    "UTC": "2019-08-28T05:27:32Z",
+    "Callsign": "ACA017",
+    "Position": "27.866682,125.056053",
+    "Altitude": 40000,
+    "Speed": 500,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970069,
+    "UTC": "2019-08-28T05:27:49Z",
+    "Callsign": "ACA017",
+    "Position": "27.841003,125.020737",
+    "Altitude": 40000,
+    "Speed": 499,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970158,
+    "UTC": "2019-08-28T05:29:18Z",
+    "Callsign": "ACA017",
+    "Position": "27.712175,124.843987",
+    "Altitude": 40000,
+    "Speed": 500,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970170,
+    "UTC": "2019-08-28T05:29:30Z",
+    "Callsign": "ACA017",
+    "Position": "27.694107,124.819145",
+    "Altitude": 40000,
+    "Speed": 501,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970300,
+    "UTC": "2019-08-28T05:31:40Z",
+    "Callsign": "ACA017",
+    "Position": "27.503586,124.558372",
+    "Altitude": 40000,
+    "Speed": 499,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970361,
+    "UTC": "2019-08-28T05:32:41Z",
+    "Callsign": "ACA017",
+    "Position": "27.41304,124.435036",
+    "Altitude": 40000,
+    "Speed": 499,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970425,
+    "UTC": "2019-08-28T05:33:45Z",
+    "Callsign": "ACA017",
+    "Position": "27.318054,124.306107",
+    "Altitude": 40000,
+    "Speed": 500,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970490,
+    "UTC": "2019-08-28T05:34:50Z",
+    "Callsign": "ACA017",
+    "Position": "27.221649,124.175407",
+    "Altitude": 40000,
+    "Speed": 502,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970551,
+    "UTC": "2019-08-28T05:35:51Z",
+    "Callsign": "ACA017",
+    "Position": "27.131516,124.05368",
+    "Altitude": 39975,
+    "Speed": 502,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970612,
+    "UTC": "2019-08-28T05:36:52Z",
+    "Callsign": "ACA017",
+    "Position": "27.041519,123.933243",
+    "Altitude": 40000,
+    "Speed": 501,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566970674,
+    "UTC": "2019-08-28T05:37:54Z",
+    "Callsign": "ACA017",
+    "Position": "26.947495,123.808556",
+    "Altitude": 39975,
+    "Speed": 504,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566970737,
+    "UTC": "2019-08-28T05:38:57Z",
+    "Callsign": "ACA017",
+    "Position": "26.853378,123.683975",
+    "Altitude": 39150,
+    "Speed": 496,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566970802,
+    "UTC": "2019-08-28T05:40:02Z",
+    "Callsign": "ACA017",
+    "Position": "26.756084,123.555679",
+    "Altitude": 36575,
+    "Speed": 500,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566970863,
+    "UTC": "2019-08-28T05:41:03Z",
+    "Callsign": "ACA017",
+    "Position": "26.66596,123.437309",
+    "Altitude": 34650,
+    "Speed": 491,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566970926,
+    "UTC": "2019-08-28T05:42:06Z",
+    "Callsign": "ACA017",
+    "Position": "26.574299,123.316513",
+    "Altitude": 32875,
+    "Speed": 474,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566970987,
+    "UTC": "2019-08-28T05:43:07Z",
+    "Callsign": "ACA017",
+    "Position": "26.48822,123.204102",
+    "Altitude": 30575,
+    "Speed": 473,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566971051,
+    "UTC": "2019-08-28T05:44:11Z",
+    "Callsign": "ACA017",
+    "Position": "26.398098,123.08654",
+    "Altitude": 30000,
+    "Speed": 465,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566971113,
+    "UTC": "2019-08-28T05:45:13Z",
+    "Callsign": "ACA017",
+    "Position": "26.312767,122.975143",
+    "Altitude": 29900,
+    "Speed": 470,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566971174,
+    "UTC": "2019-08-28T05:46:14Z",
+    "Callsign": "ACA017",
+    "Position": "26.224915,122.858711",
+    "Altitude": 28950,
+    "Speed": 464,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566971239,
+    "UTC": "2019-08-28T05:47:19Z",
+    "Callsign": "ACA017",
+    "Position": "26.137499,122.743164",
+    "Altitude": 27100,
+    "Speed": 457,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566971302,
+    "UTC": "2019-08-28T05:48:22Z",
+    "Callsign": "ACA017",
+    "Position": "26.05147,122.629501",
+    "Altitude": 24975,
+    "Speed": 450,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566971362,
+    "UTC": "2019-08-28T05:49:22Z",
+    "Callsign": "ACA017",
+    "Position": "25.973541,122.527557",
+    "Altitude": 22925,
+    "Speed": 411,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566971422,
+    "UTC": "2019-08-28T05:50:22Z",
+    "Callsign": "ACA017",
+    "Position": "25.899994,122.433716",
+    "Altitude": 20725,
+    "Speed": 401,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566971487,
+    "UTC": "2019-08-28T05:51:27Z",
+    "Callsign": "ACA017",
+    "Position": "25.822201,122.336029",
+    "Altitude": 18900,
+    "Speed": 391,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566971546,
+    "UTC": "2019-08-28T05:52:26Z",
+    "Callsign": "ACA017",
+    "Position": "25.751175,122.247162",
+    "Altitude": 17225,
+    "Speed": 382,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566971561,
+    "UTC": "2019-08-28T05:52:41Z",
+    "Callsign": "ACA017",
+    "Position": "25.732956,122.224426",
+    "Altitude": 16800,
+    "Speed": 379,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566971616,
+    "UTC": "2019-08-28T05:53:36Z",
+    "Callsign": "ACA017",
+    "Position": "25.669928,122.145737",
+    "Altitude": 15300,
+    "Speed": 371,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566971652,
+    "UTC": "2019-08-28T05:54:12Z",
+    "Callsign": "ACA017",
+    "Position": "25.629892,122.094536",
+    "Altitude": 14525,
+    "Speed": 361,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566971661,
+    "UTC": "2019-08-28T05:54:21Z",
+    "Callsign": "ACA017",
+    "Position": "25.623001,122.082977",
+    "Altitude": 14325,
+    "Speed": 360,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1566971668,
+    "UTC": "2019-08-28T05:54:28Z",
+    "Callsign": "ACA017",
+    "Position": "25.617233,122.071327",
+    "Altitude": 14175,
+    "Speed": 359,
+    "Direction": 242
+  },
+  {
+    "Timestamp": 1566971677,
+    "UTC": "2019-08-28T05:54:37Z",
+    "Callsign": "ACA017",
+    "Position": "25.610294,122.054062",
+    "Altitude": 13975,
+    "Speed": 357,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1566971687,
+    "UTC": "2019-08-28T05:54:47Z",
+    "Callsign": "ACA017",
+    "Position": "25.605606,122.038673",
+    "Altitude": 13800,
+    "Speed": 354,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1566971698,
+    "UTC": "2019-08-28T05:54:58Z",
+    "Callsign": "ACA017",
+    "Position": "25.600752,122.019028",
+    "Altitude": 13575,
+    "Speed": 351,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1566971704,
+    "UTC": "2019-08-28T05:55:04Z",
+    "Callsign": "ACA017",
+    "Position": "25.598648,122.010551",
+    "Altitude": 13475,
+    "Speed": 349,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1566971734,
+    "UTC": "2019-08-28T05:55:34Z",
+    "Callsign": "ACA017",
+    "Position": "25.581387,121.960884",
+    "Altitude": 12975,
+    "Speed": 336,
+    "Direction": 242
+  },
+  {
+    "Timestamp": 1566971743,
+    "UTC": "2019-08-28T05:55:43Z",
+    "Callsign": "ACA017",
+    "Position": "25.574217,121.947258",
+    "Altitude": 12800,
+    "Speed": 332,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1566971753,
+    "UTC": "2019-08-28T05:55:53Z",
+    "Callsign": "ACA017",
+    "Position": "25.564499,121.931816",
+    "Altitude": 12575,
+    "Speed": 329,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971789,
+    "UTC": "2019-08-28T05:56:29Z",
+    "Callsign": "ACA017",
+    "Position": "25.534042,121.883568",
+    "Altitude": 11775,
+    "Speed": 316,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566971800,
+    "UTC": "2019-08-28T05:56:40Z",
+    "Callsign": "ACA017",
+    "Position": "25.525431,121.869835",
+    "Altitude": 11550,
+    "Speed": 311,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566971814,
+    "UTC": "2019-08-28T05:56:54Z",
+    "Callsign": "ACA017",
+    "Position": "25.513092,121.850334",
+    "Altitude": 11250,
+    "Speed": 305,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566971829,
+    "UTC": "2019-08-28T05:57:09Z",
+    "Callsign": "ACA017",
+    "Position": "25.501455,121.831955",
+    "Altitude": 10950,
+    "Speed": 301,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566971840,
+    "UTC": "2019-08-28T05:57:20Z",
+    "Callsign": "ACA017",
+    "Position": "25.493042,121.818695",
+    "Altitude": 10750,
+    "Speed": 300,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566971853,
+    "UTC": "2019-08-28T05:57:33Z",
+    "Callsign": "ACA017",
+    "Position": "25.481903,121.801277",
+    "Altitude": 10475,
+    "Speed": 299,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971870,
+    "UTC": "2019-08-28T05:57:50Z",
+    "Callsign": "ACA017",
+    "Position": "25.468868,121.780807",
+    "Altitude": 10150,
+    "Speed": 297,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971884,
+    "UTC": "2019-08-28T05:58:04Z",
+    "Callsign": "ACA017",
+    "Position": "25.45752,121.7631",
+    "Altitude": 9850,
+    "Speed": 296,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971894,
+    "UTC": "2019-08-28T05:58:14Z",
+    "Callsign": "ACA017",
+    "Position": "25.449503,121.750595",
+    "Altitude": 9650,
+    "Speed": 294,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971911,
+    "UTC": "2019-08-28T05:58:31Z",
+    "Callsign": "ACA017",
+    "Position": "25.436934,121.730896",
+    "Altitude": 9350,
+    "Speed": 293,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971921,
+    "UTC": "2019-08-28T05:58:41Z",
+    "Callsign": "ACA017",
+    "Position": "25.428974,121.71846",
+    "Altitude": 9150,
+    "Speed": 292,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971935,
+    "UTC": "2019-08-28T05:58:55Z",
+    "Callsign": "ACA017",
+    "Position": "25.417149,121.699806",
+    "Altitude": 8850,
+    "Speed": 291,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566971945,
+    "UTC": "2019-08-28T05:59:05Z",
+    "Callsign": "ACA017",
+    "Position": "25.409683,121.687981",
+    "Altitude": 8650,
+    "Speed": 290,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566971961,
+    "UTC": "2019-08-28T05:59:21Z",
+    "Callsign": "ACA017",
+    "Position": "25.397551,121.668922",
+    "Altitude": 8350,
+    "Speed": 289,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971975,
+    "UTC": "2019-08-28T05:59:35Z",
+    "Callsign": "ACA017",
+    "Position": "25.386147,121.651093",
+    "Altitude": 8050,
+    "Speed": 287,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566971987,
+    "UTC": "2019-08-28T05:59:47Z",
+    "Callsign": "ACA017",
+    "Position": "25.378235,121.638741",
+    "Altitude": 7875,
+    "Speed": 285,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566972001,
+    "UTC": "2019-08-28T06:00:01Z",
+    "Callsign": "ACA017",
+    "Position": "25.36692,121.620987",
+    "Altitude": 7575,
+    "Speed": 284,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566972011,
+    "UTC": "2019-08-28T06:00:11Z",
+    "Callsign": "ACA017",
+    "Position": "25.359425,121.609116",
+    "Altitude": 7375,
+    "Speed": 283,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566972026,
+    "UTC": "2019-08-28T06:00:26Z",
+    "Callsign": "ACA017",
+    "Position": "25.347927,121.59108",
+    "Altitude": 7100,
+    "Speed": 282,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566972041,
+    "UTC": "2019-08-28T06:00:41Z",
+    "Callsign": "ACA017",
+    "Position": "25.336349,121.573029",
+    "Altitude": 6800,
+    "Speed": 283,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566972056,
+    "UTC": "2019-08-28T06:00:56Z",
+    "Callsign": "ACA017",
+    "Position": "25.325441,121.555847",
+    "Altitude": 6525,
+    "Speed": 280,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566972072,
+    "UTC": "2019-08-28T06:01:12Z",
+    "Callsign": "ACA017",
+    "Position": "25.314102,121.538292",
+    "Altitude": 6250,
+    "Speed": 271,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566972086,
+    "UTC": "2019-08-28T06:01:26Z",
+    "Callsign": "ACA017",
+    "Position": "25.303143,121.521385",
+    "Altitude": 6000,
+    "Speed": 262,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566972101,
+    "UTC": "2019-08-28T06:01:41Z",
+    "Callsign": "ACA017",
+    "Position": "25.292854,121.505005",
+    "Altitude": 5725,
+    "Speed": 251,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566972116,
+    "UTC": "2019-08-28T06:01:56Z",
+    "Callsign": "ACA017",
+    "Position": "25.283249,121.489662",
+    "Altitude": 5475,
+    "Speed": 239,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1566972128,
+    "UTC": "2019-08-28T06:02:08Z",
+    "Callsign": "ACA017",
+    "Position": "25.276657,121.479492",
+    "Altitude": 5300,
+    "Speed": 225,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1566972142,
+    "UTC": "2019-08-28T06:02:22Z",
+    "Callsign": "ACA017",
+    "Position": "25.268368,121.466866",
+    "Altitude": 5150,
+    "Speed": 207,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566972151,
+    "UTC": "2019-08-28T06:02:31Z",
+    "Callsign": "ACA017",
+    "Position": "25.262596,121.458313",
+    "Altitude": 5025,
+    "Speed": 202,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1566972167,
+    "UTC": "2019-08-28T06:02:47Z",
+    "Callsign": "ACA017",
+    "Position": "25.253494,121.446075",
+    "Altitude": 4775,
+    "Speed": 201,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1566972182,
+    "UTC": "2019-08-28T06:03:02Z",
+    "Callsign": "ACA017",
+    "Position": "25.244385,121.434326",
+    "Altitude": 4500,
+    "Speed": 197,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972193,
+    "UTC": "2019-08-28T06:03:13Z",
+    "Callsign": "ACA017",
+    "Position": "25.238249,121.426544",
+    "Altitude": 4300,
+    "Speed": 193,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566972202,
+    "UTC": "2019-08-28T06:03:22Z",
+    "Callsign": "ACA017",
+    "Position": "25.232477,121.419136",
+    "Altitude": 4100,
+    "Speed": 189,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972213,
+    "UTC": "2019-08-28T06:03:33Z",
+    "Callsign": "ACA017",
+    "Position": "25.226532,121.411644",
+    "Altitude": 3950,
+    "Speed": 189,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972223,
+    "UTC": "2019-08-28T06:03:43Z",
+    "Callsign": "ACA017",
+    "Position": "25.220699,121.40416",
+    "Altitude": 3800,
+    "Speed": 190,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972232,
+    "UTC": "2019-08-28T06:03:52Z",
+    "Callsign": "ACA017",
+    "Position": "25.215019,121.396851",
+    "Altitude": 3675,
+    "Speed": 193,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566972248,
+    "UTC": "2019-08-28T06:04:08Z",
+    "Callsign": "ACA017",
+    "Position": "25.205795,121.385139",
+    "Altitude": 3425,
+    "Speed": 197,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972258,
+    "UTC": "2019-08-28T06:04:18Z",
+    "Callsign": "ACA017",
+    "Position": "25.200029,121.377678",
+    "Altitude": 3225,
+    "Speed": 197,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972269,
+    "UTC": "2019-08-28T06:04:29Z",
+    "Callsign": "ACA017",
+    "Position": "25.193886,121.369957",
+    "Altitude": 3050,
+    "Speed": 195,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972278,
+    "UTC": "2019-08-28T06:04:38Z",
+    "Callsign": "ACA017",
+    "Position": "25.18788,121.362236",
+    "Altitude": 2900,
+    "Speed": 187,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972288,
+    "UTC": "2019-08-28T06:04:48Z",
+    "Callsign": "ACA017",
+    "Position": "25.182266,121.355232",
+    "Altitude": 2725,
+    "Speed": 182,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566972298,
+    "UTC": "2019-08-28T06:04:58Z",
+    "Callsign": "ACA017",
+    "Position": "25.176754,121.348137",
+    "Altitude": 2550,
+    "Speed": 178,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972308,
+    "UTC": "2019-08-28T06:05:08Z",
+    "Callsign": "ACA017",
+    "Position": "25.171555,121.341499",
+    "Altitude": 2425,
+    "Speed": 176,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972318,
+    "UTC": "2019-08-28T06:05:18Z",
+    "Callsign": "ACA017",
+    "Position": "25.166061,121.33448",
+    "Altitude": 2275,
+    "Speed": 173,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566972328,
+    "UTC": "2019-08-28T06:05:28Z",
+    "Callsign": "ACA017",
+    "Position": "25.16074,121.327721",
+    "Altitude": 2150,
+    "Speed": 173,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972339,
+    "UTC": "2019-08-28T06:05:39Z",
+    "Callsign": "ACA017",
+    "Position": "25.155304,121.320801",
+    "Altitude": 2000,
+    "Speed": 173,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566972348,
+    "UTC": "2019-08-28T06:05:48Z",
+    "Callsign": "ACA017",
+    "Position": "25.15008,121.314194",
+    "Altitude": 1850,
+    "Speed": 172,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972359,
+    "UTC": "2019-08-28T06:05:59Z",
+    "Callsign": "ACA017",
+    "Position": "25.144819,121.30751",
+    "Altitude": 1700,
+    "Speed": 168,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972369,
+    "UTC": "2019-08-28T06:06:09Z",
+    "Callsign": "ACA017",
+    "Position": "25.13974,121.300964",
+    "Altitude": 1575,
+    "Speed": 167,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972379,
+    "UTC": "2019-08-28T06:06:19Z",
+    "Callsign": "ACA017",
+    "Position": "25.134796,121.294655",
+    "Altitude": 1450,
+    "Speed": 165,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972389,
+    "UTC": "2019-08-28T06:06:29Z",
+    "Callsign": "ACA017",
+    "Position": "25.129532,121.288048",
+    "Altitude": 1300,
+    "Speed": 165,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972399,
+    "UTC": "2019-08-28T06:06:39Z",
+    "Callsign": "ACA017",
+    "Position": "25.124569,121.281807",
+    "Altitude": 1150,
+    "Speed": 162,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566972409,
+    "UTC": "2019-08-28T06:06:49Z",
+    "Callsign": "ACA017",
+    "Position": "25.119598,121.275429",
+    "Altitude": 1025,
+    "Speed": 158,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972419,
+    "UTC": "2019-08-28T06:06:59Z",
+    "Callsign": "ACA017",
+    "Position": "25.115204,121.269836",
+    "Altitude": 900,
+    "Speed": 157,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972430,
+    "UTC": "2019-08-28T06:07:10Z",
+    "Callsign": "ACA017",
+    "Position": "25.110323,121.263618",
+    "Altitude": 775,
+    "Speed": 155,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972440,
+    "UTC": "2019-08-28T06:07:20Z",
+    "Callsign": "ACA017",
+    "Position": "25.105528,121.2575",
+    "Altitude": 650,
+    "Speed": 155,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972450,
+    "UTC": "2019-08-28T06:07:30Z",
+    "Callsign": "ACA017",
+    "Position": "25.100594,121.251236",
+    "Altitude": 500,
+    "Speed": 152,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1566972458,
+    "UTC": "2019-08-28T06:07:38Z",
+    "Callsign": "ACA017",
+    "Position": "25.096573,121.246132",
+    "Altitude": 400,
+    "Speed": 152,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972470,
+    "UTC": "2019-08-28T06:07:50Z",
+    "Callsign": "ACA017",
+    "Position": "25.091583,121.239723",
+    "Altitude": 300,
+    "Speed": 151,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972480,
+    "UTC": "2019-08-28T06:08:00Z",
+    "Callsign": "ACA017",
+    "Position": "25.087141,121.234077",
+    "Altitude": 250,
+    "Speed": 127,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972486,
+    "UTC": "2019-08-28T06:08:06Z",
+    "Callsign": "ACA017",
+    "Position": "25.085279,121.231697",
+    "Altitude": 300,
+    "Speed": 105,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1566972568,
+    "UTC": "2019-08-28T06:09:28Z",
+    "Callsign": "ACA017",
+    "Position": "25.079716,121.22789",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972578,
+    "UTC": "2019-08-28T06:09:38Z",
+    "Callsign": "ACA017",
+    "Position": "25.080193,121.228485",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972590,
+    "UTC": "2019-08-28T06:09:50Z",
+    "Callsign": "ACA017",
+    "Position": "25.080746,121.229187",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972600,
+    "UTC": "2019-08-28T06:10:00Z",
+    "Callsign": "ACA017",
+    "Position": "25.081284,121.229874",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972611,
+    "UTC": "2019-08-28T06:10:11Z",
+    "Callsign": "ACA017",
+    "Position": "25.08181,121.230545",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972620,
+    "UTC": "2019-08-28T06:10:20Z",
+    "Callsign": "ACA017",
+    "Position": "25.082279,121.23114",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972630,
+    "UTC": "2019-08-28T06:10:30Z",
+    "Callsign": "ACA017",
+    "Position": "25.082863,121.23188",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972640,
+    "UTC": "2019-08-28T06:10:40Z",
+    "Callsign": "ACA017",
+    "Position": "25.083389,121.232552",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972650,
+    "UTC": "2019-08-28T06:10:50Z",
+    "Callsign": "ACA017",
+    "Position": "25.084034,121.233368",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972660,
+    "UTC": "2019-08-28T06:11:00Z",
+    "Callsign": "ACA017",
+    "Position": "25.084534,121.233994",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972676,
+    "UTC": "2019-08-28T06:11:16Z",
+    "Callsign": "ACA017",
+    "Position": "25.085209,121.234856",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972683,
+    "UTC": "2019-08-28T06:11:23Z",
+    "Callsign": "ACA017",
+    "Position": "25.085541,121.235291",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972696,
+    "UTC": "2019-08-28T06:11:36Z",
+    "Callsign": "ACA017",
+    "Position": "25.086151,121.236076",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972711,
+    "UTC": "2019-08-28T06:11:51Z",
+    "Callsign": "ACA017",
+    "Position": "25.086861,121.236969",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972719,
+    "UTC": "2019-08-28T06:11:59Z",
+    "Callsign": "ACA017",
+    "Position": "25.087152,121.237328",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1566972730,
+    "UTC": "2019-08-28T06:12:10Z",
+    "Callsign": "ACA017",
+    "Position": "25.087395,121.237663",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 56
+  },
+  {
+    "Timestamp": 1566972742,
+    "UTC": "2019-08-28T06:12:22Z",
+    "Callsign": "ACA017",
+    "Position": "25.087362,121.238068",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 104
+  },
+  {
+    "Timestamp": 1566972762,
+    "UTC": "2019-08-28T06:12:42Z",
+    "Callsign": "ACA017",
+    "Position": "25.086857,121.238609",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1566972790,
+    "UTC": "2019-08-28T06:13:10Z",
+    "Callsign": "ACA017",
+    "Position": "25.086,121.239433",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1566972802,
+    "UTC": "2019-08-28T06:13:22Z",
+    "Callsign": "ACA017",
+    "Position": "25.08564,121.239769",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1566972815,
+    "UTC": "2019-08-28T06:13:35Z",
+    "Callsign": "ACA017",
+    "Position": "25.085117,121.240257",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1566972824,
+    "UTC": "2019-08-28T06:13:44Z",
+    "Callsign": "ACA017",
+    "Position": "25.08474,121.240616",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1566972837,
+    "UTC": "2019-08-28T06:13:57Z",
+    "Callsign": "ACA017",
+    "Position": "25.084114,121.241219",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1566972844,
+    "UTC": "2019-08-28T06:14:04Z",
+    "Callsign": "ACA017",
+    "Position": "25.083765,121.241539",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1566972892,
+    "UTC": "2019-08-28T06:14:52Z",
+    "Callsign": "ACA017",
+    "Position": "25.081501,121.243271",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 194
+  },
+  {
+    "Timestamp": 1566972934,
+    "UTC": "2019-08-28T06:15:34Z",
+    "Callsign": "ACA017",
+    "Position": "25.080036,121.241478",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566972942,
+    "UTC": "2019-08-28T06:15:42Z",
+    "Callsign": "ACA017",
+    "Position": "25.07967,121.24102",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566972951,
+    "UTC": "2019-08-28T06:15:51Z",
+    "Callsign": "ACA017",
+    "Position": "25.079315,121.240578",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566972961,
+    "UTC": "2019-08-28T06:16:01Z",
+    "Callsign": "ACA017",
+    "Position": "25.078865,121.239998",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566972975,
+    "UTC": "2019-08-28T06:16:15Z",
+    "Callsign": "ACA017",
+    "Position": "25.078377,121.239372",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566972989,
+    "UTC": "2019-08-28T06:16:29Z",
+    "Callsign": "ACA017",
+    "Position": "25.077667,121.238487",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566973000,
+    "UTC": "2019-08-28T06:16:40Z",
+    "Callsign": "ACA017",
+    "Position": "25.077272,121.237976",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566973012,
+    "UTC": "2019-08-28T06:16:52Z",
+    "Callsign": "ACA017",
+    "Position": "25.076843,121.237434",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1566973026,
+    "UTC": "2019-08-28T06:17:06Z",
+    "Callsign": "ACA017",
+    "Position": "25.076504,121.236954",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1566973050,
+    "UTC": "2019-08-28T06:17:30Z",
+    "Callsign": "ACA017",
+    "Position": "25.076889,121.236404",
+    "Altitude": 0,
+    "Speed": 14,
+    "Direction": 320
+  }
+]

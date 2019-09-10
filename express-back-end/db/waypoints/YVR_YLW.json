@@ -1,0 +1,1154 @@
+[
+  {
+    "Timestamp": 1567301746,
+    "UTC": "2019-09-01T01:35:46Z",
+    "Callsign": "WEN3326",
+    "Position": "49.185207,-123.16494",
+    "Altitude": 0,
+    "Speed": 40,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567301755,
+    "UTC": "2019-09-01T01:35:55Z",
+    "Callsign": "WEN3326",
+    "Position": "49.185688,-123.169136",
+    "Altitude": 0,
+    "Speed": 90,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567301763,
+    "UTC": "2019-09-01T01:36:03Z",
+    "Callsign": "WEN3326",
+    "Position": "49.186386,-123.175186",
+    "Altitude": 75,
+    "Speed": 122,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301769,
+    "UTC": "2019-09-01T01:36:09Z",
+    "Callsign": "WEN3326",
+    "Position": "49.187027,-123.180756",
+    "Altitude": 0,
+    "Speed": 145,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301775,
+    "UTC": "2019-09-01T01:36:15Z",
+    "Callsign": "WEN3326",
+    "Position": "49.187748,-123.187164",
+    "Altitude": 125,
+    "Speed": 154,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301781,
+    "UTC": "2019-09-01T01:36:21Z",
+    "Callsign": "WEN3326",
+    "Position": "49.188446,-123.193817",
+    "Altitude": 300,
+    "Speed": 157,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301788,
+    "UTC": "2019-09-01T01:36:28Z",
+    "Callsign": "WEN3326",
+    "Position": "49.189236,-123.200974",
+    "Altitude": 550,
+    "Speed": 161,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301799,
+    "UTC": "2019-09-01T01:36:39Z",
+    "Callsign": "WEN3326",
+    "Position": "49.190781,-123.214417",
+    "Altitude": 1025,
+    "Speed": 165,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301805,
+    "UTC": "2019-09-01T01:36:45Z",
+    "Callsign": "WEN3326",
+    "Position": "49.191563,-123.221497",
+    "Altitude": 1250,
+    "Speed": 168,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301811,
+    "UTC": "2019-09-01T01:36:51Z",
+    "Callsign": "WEN3326",
+    "Position": "49.192402,-123.229088",
+    "Altitude": 1450,
+    "Speed": 173,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301819,
+    "UTC": "2019-09-01T01:36:59Z",
+    "Callsign": "WEN3326",
+    "Position": "49.193298,-123.236603",
+    "Altitude": 1650,
+    "Speed": 177,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1567301830,
+    "UTC": "2019-09-01T01:37:10Z",
+    "Callsign": "WEN3326",
+    "Position": "49.195103,-123.251495",
+    "Altitude": 2100,
+    "Speed": 183,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1567301836,
+    "UTC": "2019-09-01T01:37:16Z",
+    "Callsign": "WEN3326",
+    "Position": "49.196033,-123.259445",
+    "Altitude": 2325,
+    "Speed": 186,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1567301842,
+    "UTC": "2019-09-01T01:37:22Z",
+    "Callsign": "WEN3326",
+    "Position": "49.196918,-123.266891",
+    "Altitude": 2550,
+    "Speed": 187,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1567301849,
+    "UTC": "2019-09-01T01:37:29Z",
+    "Callsign": "WEN3326",
+    "Position": "49.197849,-123.275131",
+    "Altitude": 2775,
+    "Speed": 189,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567301859,
+    "UTC": "2019-09-01T01:37:39Z",
+    "Callsign": "WEN3326",
+    "Position": "49.19957,-123.290619",
+    "Altitude": 3275,
+    "Speed": 189,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567301866,
+    "UTC": "2019-09-01T01:37:46Z",
+    "Callsign": "WEN3326",
+    "Position": "49.201447,-123.298859",
+    "Altitude": 3550,
+    "Speed": 189,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567301873,
+    "UTC": "2019-09-01T01:37:53Z",
+    "Callsign": "WEN3326",
+    "Position": "49.204365,-123.305489",
+    "Altitude": 3800,
+    "Speed": 189,
+    "Direction": 311
+  },
+  {
+    "Timestamp": 1567301879,
+    "UTC": "2019-09-01T01:37:59Z",
+    "Callsign": "WEN3326",
+    "Position": "49.208508,-123.31076",
+    "Altitude": 4075,
+    "Speed": 189,
+    "Direction": 326
+  },
+  {
+    "Timestamp": 1567301885,
+    "UTC": "2019-09-01T01:38:05Z",
+    "Callsign": "WEN3326",
+    "Position": "49.213165,-123.314232",
+    "Altitude": 4350,
+    "Speed": 189,
+    "Direction": 338
+  },
+  {
+    "Timestamp": 1567301894,
+    "UTC": "2019-09-01T01:38:14Z",
+    "Callsign": "WEN3326",
+    "Position": "49.220673,-123.315903",
+    "Altitude": 4700,
+    "Speed": 190,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1567301914,
+    "UTC": "2019-09-01T01:38:34Z",
+    "Callsign": "WEN3326",
+    "Position": "49.237793,-123.304634",
+    "Altitude": 5525,
+    "Speed": 195,
+    "Direction": 37
+  },
+  {
+    "Timestamp": 1567301921,
+    "UTC": "2019-09-01T01:38:41Z",
+    "Callsign": "WEN3326",
+    "Position": "49.241978,-123.299202",
+    "Altitude": 5725,
+    "Speed": 197,
+    "Direction": 41
+  },
+  {
+    "Timestamp": 1567301935,
+    "UTC": "2019-09-01T01:38:55Z",
+    "Callsign": "WEN3326",
+    "Position": "49.251801,-123.283783",
+    "Altitude": 6250,
+    "Speed": 205,
+    "Direction": 48
+  },
+  {
+    "Timestamp": 1567301941,
+    "UTC": "2019-09-01T01:39:01Z",
+    "Callsign": "WEN3326",
+    "Position": "49.255371,-123.277306",
+    "Altitude": 6450,
+    "Speed": 207,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567301948,
+    "UTC": "2019-09-01T01:39:08Z",
+    "Callsign": "WEN3326",
+    "Position": "49.259079,-123.270332",
+    "Altitude": 6675,
+    "Speed": 210,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567301962,
+    "UTC": "2019-09-01T01:39:22Z",
+    "Callsign": "WEN3326",
+    "Position": "49.268326,-123.252235",
+    "Altitude": 7225,
+    "Speed": 216,
+    "Direction": 52
+  },
+  {
+    "Timestamp": 1567301975,
+    "UTC": "2019-09-01T01:39:35Z",
+    "Callsign": "WEN3326",
+    "Position": "49.27573,-123.237549",
+    "Altitude": 7675,
+    "Speed": 219,
+    "Direction": 52
+  },
+  {
+    "Timestamp": 1567301987,
+    "UTC": "2019-09-01T01:39:47Z",
+    "Callsign": "WEN3326",
+    "Position": "49.283249,-123.222794",
+    "Altitude": 8150,
+    "Speed": 222,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567301998,
+    "UTC": "2019-09-01T01:39:58Z",
+    "Callsign": "WEN3326",
+    "Position": "49.290894,-123.208008",
+    "Altitude": 8625,
+    "Speed": 223,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567302011,
+    "UTC": "2019-09-01T01:40:11Z",
+    "Callsign": "WEN3326",
+    "Position": "49.298813,-123.193077",
+    "Altitude": 9075,
+    "Speed": 225,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302023,
+    "UTC": "2019-09-01T01:40:23Z",
+    "Callsign": "WEN3326",
+    "Position": "49.306915,-123.177933",
+    "Altitude": 9550,
+    "Speed": 226,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302034,
+    "UTC": "2019-09-01T01:40:34Z",
+    "Callsign": "WEN3326",
+    "Position": "49.31488,-123.16317",
+    "Altitude": 10025,
+    "Speed": 226,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302046,
+    "UTC": "2019-09-01T01:40:46Z",
+    "Callsign": "WEN3326",
+    "Position": "49.322617,-123.148849",
+    "Altitude": 10400,
+    "Speed": 232,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302059,
+    "UTC": "2019-09-01T01:40:59Z",
+    "Callsign": "WEN3326",
+    "Position": "49.331734,-123.131874",
+    "Altitude": 10550,
+    "Speed": 249,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567302071,
+    "UTC": "2019-09-01T01:41:11Z",
+    "Callsign": "WEN3326",
+    "Position": "49.340698,-123.114906",
+    "Altitude": 10750,
+    "Speed": 261,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302084,
+    "UTC": "2019-09-01T01:41:24Z",
+    "Callsign": "WEN3326",
+    "Position": "49.35022,-123.096947",
+    "Altitude": 10975,
+    "Speed": 270,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302094,
+    "UTC": "2019-09-01T01:41:34Z",
+    "Callsign": "WEN3326",
+    "Position": "49.359421,-123.079765",
+    "Altitude": 11225,
+    "Speed": 278,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302107,
+    "UTC": "2019-09-01T01:41:47Z",
+    "Callsign": "WEN3326",
+    "Position": "49.369625,-123.060539",
+    "Altitude": 11525,
+    "Speed": 284,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302120,
+    "UTC": "2019-09-01T01:42:00Z",
+    "Callsign": "WEN3326",
+    "Position": "49.380066,-123.040962",
+    "Altitude": 11825,
+    "Speed": 288,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302131,
+    "UTC": "2019-09-01T01:42:11Z",
+    "Callsign": "WEN3326",
+    "Position": "49.390182,-123.022293",
+    "Altitude": 12100,
+    "Speed": 291,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302161,
+    "UTC": "2019-09-01T01:42:41Z",
+    "Callsign": "WEN3326",
+    "Position": "49.416687,-122.97448",
+    "Altitude": 12875,
+    "Speed": 295,
+    "Direction": 49
+  },
+  {
+    "Timestamp": 1567302194,
+    "UTC": "2019-09-01T01:43:14Z",
+    "Callsign": "WEN3326",
+    "Position": "49.44603,-122.920822",
+    "Altitude": 13750,
+    "Speed": 298,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302227,
+    "UTC": "2019-09-01T01:43:47Z",
+    "Callsign": "WEN3326",
+    "Position": "49.475067,-122.866638",
+    "Altitude": 14575,
+    "Speed": 300,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302260,
+    "UTC": "2019-09-01T01:44:20Z",
+    "Callsign": "WEN3326",
+    "Position": "49.503433,-122.813629",
+    "Altitude": 15350,
+    "Speed": 302,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302295,
+    "UTC": "2019-09-01T01:44:55Z",
+    "Callsign": "WEN3326",
+    "Position": "49.534241,-122.755951",
+    "Altitude": 16150,
+    "Speed": 304,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302327,
+    "UTC": "2019-09-01T01:45:27Z",
+    "Callsign": "WEN3326",
+    "Position": "49.562679,-122.702812",
+    "Altitude": 16850,
+    "Speed": 305,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302359,
+    "UTC": "2019-09-01T01:45:59Z",
+    "Callsign": "WEN3326",
+    "Position": "49.591728,-122.648323",
+    "Altitude": 17525,
+    "Speed": 308,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302382,
+    "UTC": "2019-09-01T01:46:22Z",
+    "Callsign": "WEN3326",
+    "Position": "49.61348,-122.607635",
+    "Altitude": 17975,
+    "Speed": 309,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302440,
+    "UTC": "2019-09-01T01:47:20Z",
+    "Callsign": "WEN3326",
+    "Position": "49.665932,-122.509285",
+    "Altitude": 19150,
+    "Speed": 312,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302504,
+    "UTC": "2019-09-01T01:48:24Z",
+    "Callsign": "WEN3326",
+    "Position": "49.724213,-122.399643",
+    "Altitude": 20450,
+    "Speed": 312,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302567,
+    "UTC": "2019-09-01T01:49:27Z",
+    "Callsign": "WEN3326",
+    "Position": "49.783264,-122.28759",
+    "Altitude": 21000,
+    "Speed": 336,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302631,
+    "UTC": "2019-09-01T01:50:31Z",
+    "Callsign": "WEN3326",
+    "Position": "49.847996,-122.164406",
+    "Altitude": 21000,
+    "Speed": 359,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567302693,
+    "UTC": "2019-09-01T01:51:33Z",
+    "Callsign": "WEN3326",
+    "Position": "49.913029,-122.040215",
+    "Altitude": 20975,
+    "Speed": 344,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567302756,
+    "UTC": "2019-09-01T01:52:36Z",
+    "Callsign": "WEN3326",
+    "Position": "49.973038,-121.925232",
+    "Altitude": 20975,
+    "Speed": 336,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567302816,
+    "UTC": "2019-09-01T01:53:36Z",
+    "Callsign": "WEN3326",
+    "Position": "50.033413,-121.80809",
+    "Altitude": 21000,
+    "Speed": 332,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567302869,
+    "UTC": "2019-09-01T01:54:29Z",
+    "Callsign": "WEN3326",
+    "Position": "50.081223,-121.710876",
+    "Altitude": 20975,
+    "Speed": 324,
+    "Direction": 64
+  },
+  {
+    "Timestamp": 1567302878,
+    "UTC": "2019-09-01T01:54:38Z",
+    "Callsign": "WEN3326",
+    "Position": "50.085785,-121.690506",
+    "Altitude": 21000,
+    "Speed": 321,
+    "Direction": 74
+  },
+  {
+    "Timestamp": 1567302885,
+    "UTC": "2019-09-01T01:54:45Z",
+    "Callsign": "WEN3326",
+    "Position": "50.087402,-121.678932",
+    "Altitude": 21000,
+    "Speed": 319,
+    "Direction": 79
+  },
+  {
+    "Timestamp": 1567302893,
+    "UTC": "2019-09-01T01:54:53Z",
+    "Callsign": "WEN3326",
+    "Position": "50.089188,-121.657318",
+    "Altitude": 21000,
+    "Speed": 318,
+    "Direction": 84
+  },
+  {
+    "Timestamp": 1567302899,
+    "UTC": "2019-09-01T01:54:59Z",
+    "Callsign": "WEN3326",
+    "Position": "50.089737,-121.642502",
+    "Altitude": 21000,
+    "Speed": 318,
+    "Direction": 87
+  },
+  {
+    "Timestamp": 1567302907,
+    "UTC": "2019-09-01T01:55:07Z",
+    "Callsign": "WEN3326",
+    "Position": "50.090012,-121.629494",
+    "Altitude": 21000,
+    "Speed": 318,
+    "Direction": 88
+  },
+  {
+    "Timestamp": 1567302914,
+    "UTC": "2019-09-01T01:55:14Z",
+    "Callsign": "WEN3326",
+    "Position": "50.090012,-121.608894",
+    "Altitude": 21000,
+    "Speed": 318,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567302977,
+    "UTC": "2019-09-01T01:56:17Z",
+    "Callsign": "WEN3326",
+    "Position": "50.087788,-121.465065",
+    "Altitude": 21000,
+    "Speed": 313,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567303047,
+    "UTC": "2019-09-01T01:57:27Z",
+    "Callsign": "WEN3326",
+    "Position": "50.087414,-121.30777",
+    "Altitude": 20975,
+    "Speed": 313,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567303112,
+    "UTC": "2019-09-01T01:58:32Z",
+    "Callsign": "WEN3326",
+    "Position": "50.087402,-121.16626",
+    "Altitude": 21000,
+    "Speed": 313,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567303176,
+    "UTC": "2019-09-01T01:59:36Z",
+    "Callsign": "WEN3326",
+    "Position": "50.086853,-121.023438",
+    "Altitude": 20975,
+    "Speed": 311,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567303234,
+    "UTC": "2019-09-01T02:00:34Z",
+    "Callsign": "WEN3326",
+    "Position": "50.086304,-120.889503",
+    "Altitude": 20975,
+    "Speed": 311,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567303299,
+    "UTC": "2019-09-01T02:01:39Z",
+    "Callsign": "WEN3326",
+    "Position": "50.085114,-120.746902",
+    "Altitude": 20800,
+    "Speed": 315,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567303360,
+    "UTC": "2019-09-01T02:02:40Z",
+    "Callsign": "WEN3326",
+    "Position": "50.083645,-120.602493",
+    "Altitude": 19250,
+    "Speed": 347,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567303405,
+    "UTC": "2019-09-01T02:03:25Z",
+    "Callsign": "WEN3326",
+    "Position": "50.086304,-120.485687",
+    "Altitude": 17975,
+    "Speed": 354,
+    "Direction": 78
+  },
+  {
+    "Timestamp": 1567303472,
+    "UTC": "2019-09-01T02:04:32Z",
+    "Callsign": "WEN3326",
+    "Position": "50.121185,-120.324577",
+    "Altitude": 16200,
+    "Speed": 344,
+    "Direction": 69
+  },
+  {
+    "Timestamp": 1567303504,
+    "UTC": "2019-09-01T02:05:04Z",
+    "Callsign": "WEN3326",
+    "Position": "50.138397,-120.251648",
+    "Altitude": 15425,
+    "Speed": 337,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1567303535,
+    "UTC": "2019-09-01T02:05:35Z",
+    "Callsign": "WEN3326",
+    "Position": "50.151672,-120.18248",
+    "Altitude": 14850,
+    "Speed": 328,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1567303570,
+    "UTC": "2019-09-01T02:06:10Z",
+    "Callsign": "WEN3326",
+    "Position": "50.162704,-120.100296",
+    "Altitude": 14200,
+    "Speed": 315,
+    "Direction": 78
+  },
+  {
+    "Timestamp": 1567303606,
+    "UTC": "2019-09-01T02:06:46Z",
+    "Callsign": "WEN3326",
+    "Position": "50.169754,-120.023323",
+    "Altitude": 13500,
+    "Speed": 294,
+    "Direction": 88
+  },
+  {
+    "Timestamp": 1567303612,
+    "UTC": "2019-09-01T02:06:52Z",
+    "Callsign": "WEN3326",
+    "Position": "50.169765,-120.011459",
+    "Altitude": 13375,
+    "Speed": 292,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567303653,
+    "UTC": "2019-09-01T02:07:33Z",
+    "Callsign": "WEN3326",
+    "Position": "50.167282,-119.927483",
+    "Altitude": 12275,
+    "Speed": 283,
+    "Direction": 93
+  },
+  {
+    "Timestamp": 1567303684,
+    "UTC": "2019-09-01T02:08:04Z",
+    "Callsign": "WEN3326",
+    "Position": "50.165863,-119.865173",
+    "Altitude": 11425,
+    "Speed": 279,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567303699,
+    "UTC": "2019-09-01T02:08:19Z",
+    "Callsign": "WEN3326",
+    "Position": "50.165344,-119.834412",
+    "Altitude": 11000,
+    "Speed": 275,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567303715,
+    "UTC": "2019-09-01T02:08:35Z",
+    "Callsign": "WEN3326",
+    "Position": "50.164719,-119.802872",
+    "Altitude": 10575,
+    "Speed": 271,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567303730,
+    "UTC": "2019-09-01T02:08:50Z",
+    "Callsign": "WEN3326",
+    "Position": "50.164032,-119.774033",
+    "Altitude": 10175,
+    "Speed": 268,
+    "Direction": 92
+  },
+  {
+    "Timestamp": 1567303746,
+    "UTC": "2019-09-01T02:09:06Z",
+    "Callsign": "WEN3326",
+    "Position": "50.163254,-119.74353",
+    "Altitude": 9775,
+    "Speed": 263,
+    "Direction": 92
+  },
+  {
+    "Timestamp": 1567303762,
+    "UTC": "2019-09-01T02:09:22Z",
+    "Callsign": "WEN3326",
+    "Position": "50.162476,-119.714188",
+    "Altitude": 9375,
+    "Speed": 259,
+    "Direction": 92
+  },
+  {
+    "Timestamp": 1567303776,
+    "UTC": "2019-09-01T02:09:36Z",
+    "Callsign": "WEN3326",
+    "Position": "50.161789,-119.68737",
+    "Altitude": 9025,
+    "Speed": 255,
+    "Direction": 92
+  },
+  {
+    "Timestamp": 1567303791,
+    "UTC": "2019-09-01T02:09:51Z",
+    "Callsign": "WEN3326",
+    "Position": "50.161945,-119.658783",
+    "Altitude": 8600,
+    "Speed": 251,
+    "Direction": 86
+  },
+  {
+    "Timestamp": 1567303807,
+    "UTC": "2019-09-01T02:10:07Z",
+    "Callsign": "WEN3326",
+    "Position": "50.164085,-119.631317",
+    "Altitude": 8300,
+    "Speed": 243,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1567303827,
+    "UTC": "2019-09-01T02:10:27Z",
+    "Callsign": "WEN3326",
+    "Position": "50.168152,-119.597237",
+    "Altitude": 7875,
+    "Speed": 240,
+    "Direction": 78
+  },
+  {
+    "Timestamp": 1567303842,
+    "UTC": "2019-09-01T02:10:42Z",
+    "Callsign": "WEN3326",
+    "Position": "50.17149,-119.572525",
+    "Altitude": 7575,
+    "Speed": 239,
+    "Direction": 78
+  },
+  {
+    "Timestamp": 1567303853,
+    "UTC": "2019-09-01T02:10:53Z",
+    "Callsign": "WEN3326",
+    "Position": "50.174095,-119.553596",
+    "Altitude": 7325,
+    "Speed": 240,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1567303870,
+    "UTC": "2019-09-01T02:11:10Z",
+    "Callsign": "WEN3326",
+    "Position": "50.177773,-119.525383",
+    "Altitude": 6975,
+    "Speed": 242,
+    "Direction": 79
+  },
+  {
+    "Timestamp": 1567303885,
+    "UTC": "2019-09-01T02:11:25Z",
+    "Callsign": "WEN3326",
+    "Position": "50.180611,-119.499252",
+    "Altitude": 6625,
+    "Speed": 236,
+    "Direction": 82
+  },
+  {
+    "Timestamp": 1567303895,
+    "UTC": "2019-09-01T02:11:35Z",
+    "Callsign": "WEN3326",
+    "Position": "50.181107,-119.482536",
+    "Altitude": 6425,
+    "Speed": 231,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567303905,
+    "UTC": "2019-09-01T02:11:45Z",
+    "Callsign": "WEN3326",
+    "Position": "50.179962,-119.465622",
+    "Altitude": 6250,
+    "Speed": 225,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1567303916,
+    "UTC": "2019-09-01T02:11:56Z",
+    "Callsign": "WEN3326",
+    "Position": "50.177216,-119.449867",
+    "Altitude": 6025,
+    "Speed": 221,
+    "Direction": 108
+  },
+  {
+    "Timestamp": 1567303925,
+    "UTC": "2019-09-01T02:12:05Z",
+    "Callsign": "WEN3326",
+    "Position": "50.17337,-119.436348",
+    "Altitude": 5850,
+    "Speed": 218,
+    "Direction": 116
+  },
+  {
+    "Timestamp": 1567303931,
+    "UTC": "2019-09-01T02:12:11Z",
+    "Callsign": "WEN3326",
+    "Position": "50.170185,-119.428139",
+    "Altitude": 5725,
+    "Speed": 216,
+    "Direction": 123
+  },
+  {
+    "Timestamp": 1567303937,
+    "UTC": "2019-09-01T02:12:17Z",
+    "Callsign": "WEN3326",
+    "Position": "50.166973,-119.421387",
+    "Altitude": 5625,
+    "Speed": 213,
+    "Direction": 128
+  },
+  {
+    "Timestamp": 1567303946,
+    "UTC": "2019-09-01T02:12:26Z",
+    "Callsign": "WEN3326",
+    "Position": "50.160408,-119.410545",
+    "Altitude": 5425,
+    "Speed": 210,
+    "Direction": 135
+  },
+  {
+    "Timestamp": 1567303956,
+    "UTC": "2019-09-01T02:12:36Z",
+    "Callsign": "WEN3326",
+    "Position": "50.153332,-119.401939",
+    "Altitude": 5250,
+    "Speed": 208,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1567303962,
+    "UTC": "2019-09-01T02:12:42Z",
+    "Callsign": "WEN3326",
+    "Position": "50.147884,-119.396744",
+    "Altitude": 5150,
+    "Speed": 206,
+    "Direction": 150
+  },
+  {
+    "Timestamp": 1567303971,
+    "UTC": "2019-09-01T02:12:51Z",
+    "Callsign": "WEN3326",
+    "Position": "50.139725,-119.391029",
+    "Altitude": 4975,
+    "Speed": 206,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1567303977,
+    "UTC": "2019-09-01T02:12:57Z",
+    "Callsign": "WEN3326",
+    "Position": "50.134384,-119.388428",
+    "Altitude": 4850,
+    "Speed": 203,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1567303989,
+    "UTC": "2019-09-01T02:13:09Z",
+    "Callsign": "WEN3326",
+    "Position": "50.124798,-119.386055",
+    "Altitude": 4675,
+    "Speed": 197,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567304014,
+    "UTC": "2019-09-01T02:13:34Z",
+    "Callsign": "WEN3326",
+    "Position": "50.102451,-119.389389",
+    "Altitude": 4225,
+    "Speed": 185,
+    "Direction": 194
+  },
+  {
+    "Timestamp": 1567304028,
+    "UTC": "2019-09-01T02:13:48Z",
+    "Callsign": "WEN3326",
+    "Position": "50.090698,-119.396164",
+    "Altitude": 4000,
+    "Speed": 179,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567304034,
+    "UTC": "2019-09-01T02:13:54Z",
+    "Callsign": "WEN3326",
+    "Position": "50.086529,-119.398674",
+    "Altitude": 3900,
+    "Speed": 177,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1567304044,
+    "UTC": "2019-09-01T02:14:04Z",
+    "Callsign": "WEN3326",
+    "Position": "50.078384,-119.401344",
+    "Altitude": 3750,
+    "Speed": 172,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1567304050,
+    "UTC": "2019-09-01T02:14:10Z",
+    "Callsign": "WEN3326",
+    "Position": "50.074192,-119.401566",
+    "Altitude": 3675,
+    "Speed": 171,
+    "Direction": 181
+  },
+  {
+    "Timestamp": 1567304059,
+    "UTC": "2019-09-01T02:14:19Z",
+    "Callsign": "WEN3326",
+    "Position": "50.066711,-119.401001",
+    "Altitude": 3550,
+    "Speed": 166,
+    "Direction": 175
+  },
+  {
+    "Timestamp": 1567304065,
+    "UTC": "2019-09-01T02:14:25Z",
+    "Callsign": "WEN3326",
+    "Position": "50.062271,-119.400139",
+    "Altitude": 3450,
+    "Speed": 167,
+    "Direction": 173
+  },
+  {
+    "Timestamp": 1567304075,
+    "UTC": "2019-09-01T02:14:35Z",
+    "Callsign": "WEN3326",
+    "Position": "50.054874,-119.398376",
+    "Altitude": 3300,
+    "Speed": 163,
+    "Direction": 171
+  },
+  {
+    "Timestamp": 1567304081,
+    "UTC": "2019-09-01T02:14:41Z",
+    "Callsign": "WEN3326",
+    "Position": "50.050545,-119.397408",
+    "Altitude": 3225,
+    "Speed": 159,
+    "Direction": 171
+  },
+  {
+    "Timestamp": 1567304090,
+    "UTC": "2019-09-01T02:14:50Z",
+    "Callsign": "WEN3326",
+    "Position": "50.044464,-119.396019",
+    "Altitude": 3125,
+    "Speed": 153,
+    "Direction": 171
+  },
+  {
+    "Timestamp": 1567304101,
+    "UTC": "2019-09-01T02:15:01Z",
+    "Callsign": "WEN3326",
+    "Position": "50.036579,-119.394295",
+    "Altitude": 2950,
+    "Speed": 149,
+    "Direction": 172
+  },
+  {
+    "Timestamp": 1567304110,
+    "UTC": "2019-09-01T02:15:10Z",
+    "Callsign": "WEN3326",
+    "Position": "50.029999,-119.392982",
+    "Altitude": 2800,
+    "Speed": 144,
+    "Direction": 172
+  },
+  {
+    "Timestamp": 1567304126,
+    "UTC": "2019-09-01T02:15:26Z",
+    "Callsign": "WEN3326",
+    "Position": "50.019791,-119.390305",
+    "Altitude": 2625,
+    "Speed": 143,
+    "Direction": 168
+  },
+  {
+    "Timestamp": 1567304136,
+    "UTC": "2019-09-01T02:15:36Z",
+    "Callsign": "WEN3326",
+    "Position": "50.013954,-119.387756",
+    "Altitude": 2450,
+    "Speed": 141,
+    "Direction": 163
+  },
+  {
+    "Timestamp": 1567304146,
+    "UTC": "2019-09-01T02:15:46Z",
+    "Callsign": "WEN3326",
+    "Position": "50.007477,-119.385391",
+    "Altitude": 2275,
+    "Speed": 137,
+    "Direction": 168
+  },
+  {
+    "Timestamp": 1567304155,
+    "UTC": "2019-09-01T02:15:55Z",
+    "Callsign": "WEN3326",
+    "Position": "50.002037,-119.38427",
+    "Altitude": 2175,
+    "Speed": 127,
+    "Direction": 173
+  },
+  {
+    "Timestamp": 1567304165,
+    "UTC": "2019-09-01T02:16:05Z",
+    "Callsign": "WEN3326",
+    "Position": "49.996262,-119.383514",
+    "Altitude": 2075,
+    "Speed": 123,
+    "Direction": 175
+  },
+  {
+    "Timestamp": 1567304172,
+    "UTC": "2019-09-01T02:16:12Z",
+    "Callsign": "WEN3326",
+    "Position": "49.992233,-119.382935",
+    "Altitude": 1975,
+    "Speed": 122,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567304184,
+    "UTC": "2019-09-01T02:16:24Z",
+    "Callsign": "WEN3326",
+    "Position": "49.986118,-119.382042",
+    "Altitude": 1850,
+    "Speed": 122,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567304192,
+    "UTC": "2019-09-01T02:16:32Z",
+    "Callsign": "WEN3326",
+    "Position": "49.980625,-119.381302",
+    "Altitude": 1750,
+    "Speed": 123,
+    "Direction": 175
+  },
+  {
+    "Timestamp": 1567304203,
+    "UTC": "2019-09-01T02:16:43Z",
+    "Callsign": "WEN3326",
+    "Position": "49.974804,-119.380409",
+    "Altitude": 1650,
+    "Speed": 124,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567304213,
+    "UTC": "2019-09-01T02:16:53Z",
+    "Callsign": "WEN3326",
+    "Position": "49.968567,-119.379517",
+    "Altitude": 1525,
+    "Speed": 124,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567304220,
+    "UTC": "2019-09-01T02:17:00Z",
+    "Callsign": "WEN3326",
+    "Position": "49.964996,-119.379028",
+    "Altitude": 1425,
+    "Speed": 126,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567304283,
+    "UTC": "2019-09-01T02:18:03Z",
+    "Callsign": "WEN3326",
+    "Position": "49.921558,-119.369736",
+    "Altitude": 1400,
+    "Speed": 120,
+    "Direction": 180
+  }
+]

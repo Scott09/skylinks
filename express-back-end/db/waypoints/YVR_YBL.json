@@ -1,0 +1,749 @@
+[
+  {
+    "Timestamp": 1567608736,
+    "UTC": "2019-09-04T14:52:16Z",
+    "Callsign": "PCO751",
+    "Position": "49.185371,-123.16378",
+    "Altitude": 1091,
+    "Speed": 130,
+    "Direction": 96
+  },
+  {
+    "Timestamp": 1567608744,
+    "UTC": "2019-09-04T14:52:24Z",
+    "Callsign": "PCO751",
+    "Position": "49.182613,-123.155487",
+    "Altitude": 1400,
+    "Speed": 146,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567608754,
+    "UTC": "2019-09-04T14:52:34Z",
+    "Callsign": "PCO751",
+    "Position": "49.179489,-123.148621",
+    "Altitude": 1699,
+    "Speed": 151,
+    "Direction": 120
+  },
+  {
+    "Timestamp": 1567608761,
+    "UTC": "2019-09-04T14:52:41Z",
+    "Callsign": "PCO751",
+    "Position": "49.175758,-123.142555",
+    "Altitude": 1900,
+    "Speed": 150,
+    "Direction": 129
+  },
+  {
+    "Timestamp": 1567608770,
+    "UTC": "2019-09-04T14:52:50Z",
+    "Callsign": "PCO751",
+    "Position": "49.170979,-123.13662",
+    "Altitude": 2240,
+    "Speed": 150,
+    "Direction": 137
+  },
+  {
+    "Timestamp": 1567608777,
+    "UTC": "2019-09-04T14:52:57Z",
+    "Callsign": "PCO751",
+    "Position": "49.166031,-123.132851",
+    "Altitude": 2500,
+    "Speed": 154,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1567608784,
+    "UTC": "2019-09-04T14:53:04Z",
+    "Callsign": "PCO751",
+    "Position": "49.159855,-123.128456",
+    "Altitude": 2800,
+    "Speed": 156,
+    "Direction": 153
+  },
+  {
+    "Timestamp": 1567608792,
+    "UTC": "2019-09-04T14:53:12Z",
+    "Callsign": "PCO751",
+    "Position": "49.154221,-123.125565",
+    "Altitude": 3114,
+    "Speed": 161,
+    "Direction": 159
+  },
+  {
+    "Timestamp": 1567608801,
+    "UTC": "2019-09-04T14:53:21Z",
+    "Callsign": "PCO751",
+    "Position": "49.148197,-123.123749",
+    "Altitude": 3400,
+    "Speed": 160,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1567608808,
+    "UTC": "2019-09-04T14:53:28Z",
+    "Callsign": "PCO751",
+    "Position": "49.142189,-123.123154",
+    "Altitude": 3783,
+    "Speed": 164,
+    "Direction": 173
+  },
+  {
+    "Timestamp": 1567608828,
+    "UTC": "2019-09-04T14:53:48Z",
+    "Callsign": "PCO751",
+    "Position": "49.126759,-123.124268",
+    "Altitude": 4400,
+    "Speed": 167,
+    "Direction": 183
+  },
+  {
+    "Timestamp": 1567608836,
+    "UTC": "2019-09-04T14:53:56Z",
+    "Callsign": "PCO751",
+    "Position": "49.120552,-123.12513",
+    "Altitude": 4700,
+    "Speed": 168,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1567608844,
+    "UTC": "2019-09-04T14:54:04Z",
+    "Callsign": "PCO751",
+    "Position": "49.11375,-123.126076",
+    "Altitude": 4975,
+    "Speed": 168,
+    "Direction": 185
+  },
+  {
+    "Timestamp": 1567608865,
+    "UTC": "2019-09-04T14:54:25Z",
+    "Callsign": "PCO751",
+    "Position": "49.097408,-123.129349",
+    "Altitude": 5660,
+    "Speed": 177,
+    "Direction": 187
+  },
+  {
+    "Timestamp": 1567608877,
+    "UTC": "2019-09-04T14:54:37Z",
+    "Callsign": "PCO751",
+    "Position": "49.087837,-123.13166",
+    "Altitude": 6104,
+    "Speed": 178,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1567608888,
+    "UTC": "2019-09-04T14:54:48Z",
+    "Callsign": "PCO751",
+    "Position": "49.077938,-123.133904",
+    "Altitude": 6533,
+    "Speed": 178,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1567608901,
+    "UTC": "2019-09-04T14:55:01Z",
+    "Callsign": "PCO751",
+    "Position": "49.067913,-123.137314",
+    "Altitude": 6873,
+    "Speed": 178,
+    "Direction": 190
+  },
+  {
+    "Timestamp": 1567608912,
+    "UTC": "2019-09-04T14:55:12Z",
+    "Callsign": "PCO751",
+    "Position": "49.059666,-123.143997",
+    "Altitude": 7200,
+    "Speed": 174,
+    "Direction": 206
+  },
+  {
+    "Timestamp": 1567608920,
+    "UTC": "2019-09-04T14:55:20Z",
+    "Callsign": "PCO751",
+    "Position": "49.055004,-123.150803",
+    "Altitude": 7400,
+    "Speed": 172,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1567608929,
+    "UTC": "2019-09-04T14:55:29Z",
+    "Callsign": "PCO751",
+    "Position": "49.052002,-123.158958",
+    "Altitude": 7700,
+    "Speed": 171,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567608936,
+    "UTC": "2019-09-04T14:55:36Z",
+    "Callsign": "PCO751",
+    "Position": "49.05043,-123.168045",
+    "Altitude": 7913,
+    "Speed": 170,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1567608949,
+    "UTC": "2019-09-04T14:55:49Z",
+    "Callsign": "PCO751",
+    "Position": "49.049545,-123.183777",
+    "Altitude": 8351,
+    "Speed": 174,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1567608972,
+    "UTC": "2019-09-04T14:56:12Z",
+    "Callsign": "PCO751",
+    "Position": "49.053215,-123.217293",
+    "Altitude": 9100,
+    "Speed": 190,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1567608988,
+    "UTC": "2019-09-04T14:56:28Z",
+    "Callsign": "PCO751",
+    "Position": "49.057209,-123.240433",
+    "Altitude": 9500,
+    "Speed": 202,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567609000,
+    "UTC": "2019-09-04T14:56:40Z",
+    "Callsign": "PCO751",
+    "Position": "49.059372,-123.252037",
+    "Altitude": 9700,
+    "Speed": 205,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567609012,
+    "UTC": "2019-09-04T14:56:52Z",
+    "Callsign": "PCO751",
+    "Position": "49.062859,-123.273056",
+    "Altitude": 9814,
+    "Speed": 207,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567609024,
+    "UTC": "2019-09-04T14:57:04Z",
+    "Callsign": "PCO751",
+    "Position": "49.066547,-123.290581",
+    "Altitude": 9899,
+    "Speed": 208,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567609036,
+    "UTC": "2019-09-04T14:57:16Z",
+    "Callsign": "PCO751",
+    "Position": "49.070454,-123.306915",
+    "Altitude": 9900,
+    "Speed": 207,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567609048,
+    "UTC": "2019-09-04T14:57:28Z",
+    "Callsign": "PCO751",
+    "Position": "49.077244,-123.32486",
+    "Altitude": 9899,
+    "Speed": 216,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567609057,
+    "UTC": "2019-09-04T14:57:37Z",
+    "Callsign": "PCO751",
+    "Position": "49.08168,-123.334969",
+    "Altitude": 9900,
+    "Speed": 225,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567609064,
+    "UTC": "2019-09-04T14:57:44Z",
+    "Callsign": "PCO751",
+    "Position": "49.086861,-123.346558",
+    "Altitude": 9900,
+    "Speed": 231,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567609080,
+    "UTC": "2019-09-04T14:58:00Z",
+    "Callsign": "PCO751",
+    "Position": "49.098282,-123.367912",
+    "Altitude": 9900,
+    "Speed": 236,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567609092,
+    "UTC": "2019-09-04T14:58:12Z",
+    "Callsign": "PCO751",
+    "Position": "49.107765,-123.382904",
+    "Altitude": 9800,
+    "Speed": 238,
+    "Direction": 314
+  },
+  {
+    "Timestamp": 1567609100,
+    "UTC": "2019-09-04T14:58:20Z",
+    "Callsign": "PCO751",
+    "Position": "49.114399,-123.391937",
+    "Altitude": 9800,
+    "Speed": 238,
+    "Direction": 317
+  },
+  {
+    "Timestamp": 1567609116,
+    "UTC": "2019-09-04T14:58:36Z",
+    "Callsign": "PCO751",
+    "Position": "49.128147,-123.41008",
+    "Altitude": 9800,
+    "Speed": 245,
+    "Direction": 319
+  },
+  {
+    "Timestamp": 1567609128,
+    "UTC": "2019-09-04T14:58:48Z",
+    "Callsign": "PCO751",
+    "Position": "49.138138,-123.422867",
+    "Altitude": 9800,
+    "Speed": 243,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1567609140,
+    "UTC": "2019-09-04T14:59:00Z",
+    "Callsign": "PCO751",
+    "Position": "49.148106,-123.438072",
+    "Altitude": 9900,
+    "Speed": 244,
+    "Direction": 315
+  },
+  {
+    "Timestamp": 1567609157,
+    "UTC": "2019-09-04T14:59:17Z",
+    "Callsign": "PCO751",
+    "Position": "49.159912,-123.457939",
+    "Altitude": 9900,
+    "Speed": 241,
+    "Direction": 312
+  },
+  {
+    "Timestamp": 1567609168,
+    "UTC": "2019-09-04T14:59:28Z",
+    "Callsign": "PCO751",
+    "Position": "49.1675,-123.472458",
+    "Altitude": 9899,
+    "Speed": 240,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567609180,
+    "UTC": "2019-09-04T14:59:40Z",
+    "Callsign": "PCO751",
+    "Position": "49.175747,-123.490196",
+    "Altitude": 9900,
+    "Speed": 237,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567609192,
+    "UTC": "2019-09-04T14:59:52Z",
+    "Callsign": "PCO751",
+    "Position": "49.183086,-123.506683",
+    "Altitude": 9800,
+    "Speed": 234,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567609204,
+    "UTC": "2019-09-04T15:00:04Z",
+    "Callsign": "PCO751",
+    "Position": "49.189754,-123.521912",
+    "Altitude": 9799,
+    "Speed": 232,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567609217,
+    "UTC": "2019-09-04T15:00:17Z",
+    "Callsign": "PCO751",
+    "Position": "49.196568,-123.536919",
+    "Altitude": 9799,
+    "Speed": 223,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567609230,
+    "UTC": "2019-09-04T15:00:30Z",
+    "Callsign": "PCO751",
+    "Position": "49.203777,-123.552269",
+    "Altitude": 9800,
+    "Speed": 220,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567609245,
+    "UTC": "2019-09-04T15:00:45Z",
+    "Callsign": "PCO751",
+    "Position": "49.211014,-123.566978",
+    "Altitude": 9800,
+    "Speed": 220,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567609258,
+    "UTC": "2019-09-04T15:00:58Z",
+    "Callsign": "PCO751",
+    "Position": "49.220993,-123.586334",
+    "Altitude": 9800,
+    "Speed": 220,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567609273,
+    "UTC": "2019-09-04T15:01:13Z",
+    "Callsign": "PCO751",
+    "Position": "49.228199,-123.599945",
+    "Altitude": 9900,
+    "Speed": 220,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567609286,
+    "UTC": "2019-09-04T15:01:26Z",
+    "Callsign": "PCO751",
+    "Position": "49.238823,-123.620163",
+    "Altitude": 9900,
+    "Speed": 220,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567609297,
+    "UTC": "2019-09-04T15:01:37Z",
+    "Callsign": "PCO751",
+    "Position": "49.241261,-123.624855",
+    "Altitude": 9900,
+    "Speed": 220,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567609310,
+    "UTC": "2019-09-04T15:01:50Z",
+    "Callsign": "PCO751",
+    "Position": "49.248493,-123.638985",
+    "Altitude": 9800,
+    "Speed": 220,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567609324,
+    "UTC": "2019-09-04T15:02:04Z",
+    "Callsign": "PCO751",
+    "Position": "49.260826,-123.664215",
+    "Altitude": 9800,
+    "Speed": 224,
+    "Direction": 307
+  },
+  {
+    "Timestamp": 1567609344,
+    "UTC": "2019-09-04T15:02:24Z",
+    "Callsign": "PCO751",
+    "Position": "49.275902,-123.696213",
+    "Altitude": 9800,
+    "Speed": 222,
+    "Direction": 307
+  },
+  {
+    "Timestamp": 1567609356,
+    "UTC": "2019-09-04T15:02:36Z",
+    "Callsign": "PCO751",
+    "Position": "49.282207,-123.711777",
+    "Altitude": 9800,
+    "Speed": 229,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567609368,
+    "UTC": "2019-09-04T15:02:48Z",
+    "Callsign": "PCO751",
+    "Position": "49.289959,-123.729401",
+    "Altitude": 9800,
+    "Speed": 225,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567609382,
+    "UTC": "2019-09-04T15:03:02Z",
+    "Callsign": "PCO751",
+    "Position": "49.291611,-123.733078",
+    "Altitude": 9800,
+    "Speed": 225,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567609389,
+    "UTC": "2019-09-04T15:03:09Z",
+    "Callsign": "PCO751",
+    "Position": "49.299576,-123.750031",
+    "Altitude": 9800,
+    "Speed": 225,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567609440,
+    "UTC": "2019-09-04T15:04:00Z",
+    "Callsign": "PCO751",
+    "Position": "49.323654,-123.800789",
+    "Altitude": 9900,
+    "Speed": 227,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567609489,
+    "UTC": "2019-09-04T15:04:49Z",
+    "Callsign": "PCO751",
+    "Position": "49.336128,-123.825882",
+    "Altitude": 9900,
+    "Speed": 227,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567609504,
+    "UTC": "2019-09-04T15:05:04Z",
+    "Callsign": "PCO751",
+    "Position": "49.370071,-123.900826",
+    "Altitude": 9900,
+    "Speed": 227,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567609517,
+    "UTC": "2019-09-04T15:05:17Z",
+    "Callsign": "PCO751",
+    "Position": "49.377419,-123.918045",
+    "Altitude": 9900,
+    "Speed": 227,
+    "Direction": 305
+  },
+  {
+    "Timestamp": 1567609533,
+    "UTC": "2019-09-04T15:05:33Z",
+    "Callsign": "PCO751",
+    "Position": "49.388813,-123.948936",
+    "Altitude": 9900,
+    "Speed": 252,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567609548,
+    "UTC": "2019-09-04T15:05:48Z",
+    "Callsign": "PCO751",
+    "Position": "49.396313,-123.970451",
+    "Altitude": 9900,
+    "Speed": 212,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567609560,
+    "UTC": "2019-09-04T15:06:00Z",
+    "Callsign": "PCO751",
+    "Position": "49.402466,-123.986488",
+    "Altitude": 9899,
+    "Speed": 184,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567609574,
+    "UTC": "2019-09-04T15:06:14Z",
+    "Callsign": "PCO751",
+    "Position": "49.407192,-123.999123",
+    "Altitude": 9800,
+    "Speed": 210,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567609586,
+    "UTC": "2019-09-04T15:06:26Z",
+    "Callsign": "PCO751",
+    "Position": "49.412014,-124.011238",
+    "Altitude": 9800,
+    "Speed": 218,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567609597,
+    "UTC": "2019-09-04T15:06:37Z",
+    "Callsign": "PCO751",
+    "Position": "49.419083,-124.028954",
+    "Altitude": 9800,
+    "Speed": 218,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567609610,
+    "UTC": "2019-09-04T15:06:50Z",
+    "Callsign": "PCO751",
+    "Position": "49.425121,-124.044594",
+    "Altitude": 9900,
+    "Speed": 218,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567609621,
+    "UTC": "2019-09-04T15:07:01Z",
+    "Callsign": "PCO751",
+    "Position": "49.430798,-124.059265",
+    "Altitude": 9900,
+    "Speed": 218,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567609638,
+    "UTC": "2019-09-04T15:07:18Z",
+    "Callsign": "PCO751",
+    "Position": "49.434681,-124.069046",
+    "Altitude": 9900,
+    "Speed": 218,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567609656,
+    "UTC": "2019-09-04T15:07:36Z",
+    "Callsign": "PCO751",
+    "Position": "49.448158,-124.105911",
+    "Altitude": 9900,
+    "Speed": 218,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567609713,
+    "UTC": "2019-09-04T15:08:33Z",
+    "Callsign": "PCO751",
+    "Position": "49.458389,-124.123917",
+    "Altitude": 9900,
+    "Speed": 170,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567609724,
+    "UTC": "2019-09-04T15:08:44Z",
+    "Callsign": "PCO751",
+    "Position": "49.46587,-124.146553",
+    "Altitude": 9900,
+    "Speed": 278,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567609732,
+    "UTC": "2019-09-04T15:08:52Z",
+    "Callsign": "PCO751",
+    "Position": "49.474056,-124.170036",
+    "Altitude": 9900,
+    "Speed": 278,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567609776,
+    "UTC": "2019-09-04T15:09:36Z",
+    "Callsign": "PCO751",
+    "Position": "49.480522,-124.188423",
+    "Altitude": 9800,
+    "Speed": 306,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567609790,
+    "UTC": "2019-09-04T15:09:50Z",
+    "Callsign": "PCO751",
+    "Position": "49.50502,-124.251373",
+    "Altitude": 9900,
+    "Speed": 306,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567609808,
+    "UTC": "2019-09-04T15:10:08Z",
+    "Callsign": "PCO751",
+    "Position": "49.513153,-124.271088",
+    "Altitude": 9900,
+    "Speed": 306,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567609892,
+    "UTC": "2019-09-04T15:11:32Z",
+    "Callsign": "PCO751",
+    "Position": "49.573387,-124.433372",
+    "Altitude": 9900,
+    "Speed": 475,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567610030,
+    "UTC": "2019-09-04T15:13:50Z",
+    "Callsign": "PCO751",
+    "Position": "49.642353,-124.567421",
+    "Altitude": 8600,
+    "Speed": 240,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1567610096,
+    "UTC": "2019-09-04T15:14:56Z",
+    "Callsign": "PCO751",
+    "Position": "49.69986,-124.64325",
+    "Altitude": 7100,
+    "Speed": 260,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1567610153,
+    "UTC": "2019-09-04T15:15:53Z",
+    "Callsign": "PCO751",
+    "Position": "49.750458,-124.708199",
+    "Altitude": 5900,
+    "Speed": 230,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1567610209,
+    "UTC": "2019-09-04T15:16:49Z",
+    "Callsign": "PCO751",
+    "Position": "49.801495,-124.758087",
+    "Altitude": 5200,
+    "Speed": 200,
+    "Direction": 337
+  },
+  {
+    "Timestamp": 1567610271,
+    "UTC": "2019-09-04T15:17:51Z",
+    "Callsign": "PCO751",
+    "Position": "49.856121,-124.807869",
+    "Altitude": 4300,
+    "Speed": 200,
+    "Direction": 328
+  },
+  {
+    "Timestamp": 1567610334,
+    "UTC": "2019-09-04T15:18:54Z",
+    "Callsign": "PCO751",
+    "Position": "49.900002,-124.833336",
+    "Altitude": 0,
+    "Speed": 200,
+    "Direction": 316
+  }
+]

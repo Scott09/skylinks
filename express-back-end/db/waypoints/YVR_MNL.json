@@ -1,0 +1,6041 @@
+[
+  {
+    "Timestamp": 1567408652,
+    "UTC": "2019-09-02T07:17:32Z",
+    "Callsign": "PAL117",
+    "Position": "49.198009,-123.175529",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1567408721,
+    "UTC": "2019-09-02T07:18:41Z",
+    "Callsign": "PAL117",
+    "Position": "49.198254,-123.175682",
+    "Altitude": 0,
+    "Speed": 11,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1567408740,
+    "UTC": "2019-09-02T07:19:00Z",
+    "Callsign": "PAL117",
+    "Position": "49.198463,-123.175896",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567408758,
+    "UTC": "2019-09-02T07:19:18Z",
+    "Callsign": "PAL117",
+    "Position": "49.198677,-123.176033",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1567408773,
+    "UTC": "2019-09-02T07:19:33Z",
+    "Callsign": "PAL117",
+    "Position": "49.198883,-123.175949",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1567408791,
+    "UTC": "2019-09-02T07:19:51Z",
+    "Callsign": "PAL117",
+    "Position": "49.199059,-123.175713",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 258
+  },
+  {
+    "Timestamp": 1567408803,
+    "UTC": "2019-09-02T07:20:03Z",
+    "Callsign": "PAL117",
+    "Position": "49.199123,-123.175507",
+    "Altitude": 0,
+    "Speed": 9,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409069,
+    "UTC": "2019-09-02T07:24:29Z",
+    "Callsign": "PAL117",
+    "Position": "49.199173,-123.175858",
+    "Altitude": 0,
+    "Speed": 14,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409076,
+    "UTC": "2019-09-02T07:24:36Z",
+    "Callsign": "PAL117",
+    "Position": "49.199203,-123.176125",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409082,
+    "UTC": "2019-09-02T07:24:42Z",
+    "Callsign": "PAL117",
+    "Position": "49.199238,-123.176422",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409093,
+    "UTC": "2019-09-02T07:24:53Z",
+    "Callsign": "PAL117",
+    "Position": "49.199326,-123.177177",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409099,
+    "UTC": "2019-09-02T07:24:59Z",
+    "Callsign": "PAL117",
+    "Position": "49.199375,-123.177582",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409106,
+    "UTC": "2019-09-02T07:25:06Z",
+    "Callsign": "PAL117",
+    "Position": "49.199444,-123.177971",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567409113,
+    "UTC": "2019-09-02T07:25:13Z",
+    "Callsign": "PAL117",
+    "Position": "49.199547,-123.178238",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567409121,
+    "UTC": "2019-09-02T07:25:21Z",
+    "Callsign": "PAL117",
+    "Position": "49.199718,-123.178551",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 306
+  },
+  {
+    "Timestamp": 1567409127,
+    "UTC": "2019-09-02T07:25:27Z",
+    "Callsign": "PAL117",
+    "Position": "49.199799,-123.178802",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567409137,
+    "UTC": "2019-09-02T07:25:37Z",
+    "Callsign": "PAL117",
+    "Position": "49.199848,-123.179253",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409145,
+    "UTC": "2019-09-02T07:25:45Z",
+    "Callsign": "PAL117",
+    "Position": "49.199902,-123.179749",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409153,
+    "UTC": "2019-09-02T07:25:53Z",
+    "Callsign": "PAL117",
+    "Position": "49.199966,-123.180244",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409161,
+    "UTC": "2019-09-02T07:26:01Z",
+    "Callsign": "PAL117",
+    "Position": "49.200016,-123.180733",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409170,
+    "UTC": "2019-09-02T07:26:10Z",
+    "Callsign": "PAL117",
+    "Position": "49.200092,-123.181351",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409204,
+    "UTC": "2019-09-02T07:26:44Z",
+    "Callsign": "PAL117",
+    "Position": "49.200405,-123.184166",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409212,
+    "UTC": "2019-09-02T07:26:52Z",
+    "Callsign": "PAL117",
+    "Position": "49.200455,-123.184616",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409219,
+    "UTC": "2019-09-02T07:26:59Z",
+    "Callsign": "PAL117",
+    "Position": "49.200417,-123.184929",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1567409228,
+    "UTC": "2019-09-02T07:27:08Z",
+    "Callsign": "PAL117",
+    "Position": "49.200211,-123.185173",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567409236,
+    "UTC": "2019-09-02T07:27:16Z",
+    "Callsign": "PAL117",
+    "Position": "49.199955,-123.185249",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1567409247,
+    "UTC": "2019-09-02T07:27:27Z",
+    "Callsign": "PAL117",
+    "Position": "49.199604,-123.185341",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1567409263,
+    "UTC": "2019-09-02T07:27:43Z",
+    "Callsign": "PAL117",
+    "Position": "49.19902,-123.185486",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1567409288,
+    "UTC": "2019-09-02T07:28:08Z",
+    "Callsign": "PAL117",
+    "Position": "49.197872,-123.185776",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1567409297,
+    "UTC": "2019-09-02T07:28:17Z",
+    "Callsign": "PAL117",
+    "Position": "49.19743,-123.186157",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 213
+  },
+  {
+    "Timestamp": 1567409305,
+    "UTC": "2019-09-02T07:28:25Z",
+    "Callsign": "PAL117",
+    "Position": "49.197098,-123.186546",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 216
+  },
+  {
+    "Timestamp": 1567409313,
+    "UTC": "2019-09-02T07:28:33Z",
+    "Callsign": "PAL117",
+    "Position": "49.1968,-123.186775",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1567409335,
+    "UTC": "2019-09-02T07:28:55Z",
+    "Callsign": "PAL117",
+    "Position": "49.195766,-123.187042",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1567409361,
+    "UTC": "2019-09-02T07:29:21Z",
+    "Callsign": "PAL117",
+    "Position": "49.194473,-123.187347",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 185
+  },
+  {
+    "Timestamp": 1567409369,
+    "UTC": "2019-09-02T07:29:29Z",
+    "Callsign": "PAL117",
+    "Position": "49.194168,-123.187164",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1567409380,
+    "UTC": "2019-09-02T07:29:40Z",
+    "Callsign": "PAL117",
+    "Position": "49.193855,-123.186913",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1567409389,
+    "UTC": "2019-09-02T07:29:49Z",
+    "Callsign": "PAL117",
+    "Position": "49.193508,-123.186951",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 180
+  },
+  {
+    "Timestamp": 1567409397,
+    "UTC": "2019-09-02T07:29:57Z",
+    "Callsign": "PAL117",
+    "Position": "49.193123,-123.187042",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1567409408,
+    "UTC": "2019-09-02T07:30:08Z",
+    "Callsign": "PAL117",
+    "Position": "49.192692,-123.187164",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1567409414,
+    "UTC": "2019-09-02T07:30:14Z",
+    "Callsign": "PAL117",
+    "Position": "49.192371,-123.187233",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1567409421,
+    "UTC": "2019-09-02T07:30:21Z",
+    "Callsign": "PAL117",
+    "Position": "49.191948,-123.187218",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1567409430,
+    "UTC": "2019-09-02T07:30:30Z",
+    "Callsign": "PAL117",
+    "Position": "49.191559,-123.186859",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1567409439,
+    "UTC": "2019-09-02T07:30:39Z",
+    "Callsign": "PAL117",
+    "Position": "49.191284,-123.186531",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1567409445,
+    "UTC": "2019-09-02T07:30:45Z",
+    "Callsign": "PAL117",
+    "Position": "49.190971,-123.186134",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1567409452,
+    "UTC": "2019-09-02T07:30:52Z",
+    "Callsign": "PAL117",
+    "Position": "49.190655,-123.185753",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1567409461,
+    "UTC": "2019-09-02T07:31:01Z",
+    "Callsign": "PAL117",
+    "Position": "49.190231,-123.185226",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1567409475,
+    "UTC": "2019-09-02T07:31:15Z",
+    "Callsign": "PAL117",
+    "Position": "49.189678,-123.184532",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 137
+  },
+  {
+    "Timestamp": 1567409484,
+    "UTC": "2019-09-02T07:31:24Z",
+    "Callsign": "PAL117",
+    "Position": "49.18948,-123.183823",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1567409492,
+    "UTC": "2019-09-02T07:31:32Z",
+    "Callsign": "PAL117",
+    "Position": "49.189384,-123.182991",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409498,
+    "UTC": "2019-09-02T07:31:38Z",
+    "Callsign": "PAL117",
+    "Position": "49.189327,-123.182449",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409504,
+    "UTC": "2019-09-02T07:31:44Z",
+    "Callsign": "PAL117",
+    "Position": "49.189259,-123.181839",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409510,
+    "UTC": "2019-09-02T07:31:50Z",
+    "Callsign": "PAL117",
+    "Position": "49.18919,-123.181244",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409517,
+    "UTC": "2019-09-02T07:31:57Z",
+    "Callsign": "PAL117",
+    "Position": "49.189121,-123.18058",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409527,
+    "UTC": "2019-09-02T07:32:07Z",
+    "Callsign": "PAL117",
+    "Position": "49.188984,-123.179382",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409535,
+    "UTC": "2019-09-02T07:32:15Z",
+    "Callsign": "PAL117",
+    "Position": "49.188904,-123.178658",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409541,
+    "UTC": "2019-09-02T07:32:21Z",
+    "Callsign": "PAL117",
+    "Position": "49.188812,-123.177971",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409547,
+    "UTC": "2019-09-02T07:32:27Z",
+    "Callsign": "PAL117",
+    "Position": "49.188736,-123.177246",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409562,
+    "UTC": "2019-09-02T07:32:42Z",
+    "Callsign": "PAL117",
+    "Position": "49.188515,-123.175331",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409568,
+    "UTC": "2019-09-02T07:32:48Z",
+    "Callsign": "PAL117",
+    "Position": "49.188435,-123.174683",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409583,
+    "UTC": "2019-09-02T07:33:03Z",
+    "Callsign": "PAL117",
+    "Position": "49.188213,-123.172569",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409589,
+    "UTC": "2019-09-02T07:33:09Z",
+    "Callsign": "PAL117",
+    "Position": "49.188114,-123.171669",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409595,
+    "UTC": "2019-09-02T07:33:15Z",
+    "Callsign": "PAL117",
+    "Position": "49.188015,-123.170868",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409601,
+    "UTC": "2019-09-02T07:33:21Z",
+    "Callsign": "PAL117",
+    "Position": "49.187931,-123.170204",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409607,
+    "UTC": "2019-09-02T07:33:27Z",
+    "Callsign": "PAL117",
+    "Position": "49.187862,-123.16964",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409614,
+    "UTC": "2019-09-02T07:33:34Z",
+    "Callsign": "PAL117",
+    "Position": "49.187782,-123.168884",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409620,
+    "UTC": "2019-09-02T07:33:40Z",
+    "Callsign": "PAL117",
+    "Position": "49.187725,-123.16832",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409626,
+    "UTC": "2019-09-02T07:33:46Z",
+    "Callsign": "PAL117",
+    "Position": "49.187622,-123.167427",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409632,
+    "UTC": "2019-09-02T07:33:52Z",
+    "Callsign": "PAL117",
+    "Position": "49.187565,-123.166946",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409638,
+    "UTC": "2019-09-02T07:33:58Z",
+    "Callsign": "PAL117",
+    "Position": "49.187454,-123.165993",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409644,
+    "UTC": "2019-09-02T07:34:04Z",
+    "Callsign": "PAL117",
+    "Position": "49.187374,-123.165321",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1567409652,
+    "UTC": "2019-09-02T07:34:12Z",
+    "Callsign": "PAL117",
+    "Position": "49.187294,-123.164619",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409664,
+    "UTC": "2019-09-02T07:34:24Z",
+    "Callsign": "PAL117",
+    "Position": "49.187176,-123.163567",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409670,
+    "UTC": "2019-09-02T07:34:30Z",
+    "Callsign": "PAL117",
+    "Position": "49.187004,-123.16304",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 115
+  },
+  {
+    "Timestamp": 1567409676,
+    "UTC": "2019-09-02T07:34:36Z",
+    "Callsign": "PAL117",
+    "Position": "49.186798,-123.162651",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 126
+  },
+  {
+    "Timestamp": 1567409683,
+    "UTC": "2019-09-02T07:34:43Z",
+    "Callsign": "PAL117",
+    "Position": "49.186466,-123.162102",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 129
+  },
+  {
+    "Timestamp": 1567409690,
+    "UTC": "2019-09-02T07:34:50Z",
+    "Callsign": "PAL117",
+    "Position": "49.186375,-123.161613",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1567409698,
+    "UTC": "2019-09-02T07:34:58Z",
+    "Callsign": "PAL117",
+    "Position": "49.186314,-123.161095",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409707,
+    "UTC": "2019-09-02T07:35:07Z",
+    "Callsign": "PAL117",
+    "Position": "49.186279,-123.160873",
+    "Altitude": 0,
+    "Speed": 11,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1567409865,
+    "UTC": "2019-09-02T07:37:45Z",
+    "Callsign": "PAL117",
+    "Position": "49.186214,-123.160614",
+    "Altitude": 0,
+    "Speed": 13,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1567409877,
+    "UTC": "2019-09-02T07:37:57Z",
+    "Callsign": "PAL117",
+    "Position": "49.185837,-123.16037",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1567409887,
+    "UTC": "2019-09-02T07:38:07Z",
+    "Callsign": "PAL117",
+    "Position": "49.185326,-123.160461",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1567409895,
+    "UTC": "2019-09-02T07:38:15Z",
+    "Callsign": "PAL117",
+    "Position": "49.184917,-123.160606",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 194
+  },
+  {
+    "Timestamp": 1567409905,
+    "UTC": "2019-09-02T07:38:25Z",
+    "Callsign": "PAL117",
+    "Position": "49.184769,-123.161041",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567409913,
+    "UTC": "2019-09-02T07:38:33Z",
+    "Callsign": "PAL117",
+    "Position": "49.184792,-123.161453",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1567409920,
+    "UTC": "2019-09-02T07:38:40Z",
+    "Callsign": "PAL117",
+    "Position": "49.184841,-123.161736",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409927,
+    "UTC": "2019-09-02T07:38:47Z",
+    "Callsign": "PAL117",
+    "Position": "49.184872,-123.162048",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409933,
+    "UTC": "2019-09-02T07:38:53Z",
+    "Callsign": "PAL117",
+    "Position": "49.184921,-123.162422",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409940,
+    "UTC": "2019-09-02T07:39:00Z",
+    "Callsign": "PAL117",
+    "Position": "49.185047,-123.163605",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409949,
+    "UTC": "2019-09-02T07:39:09Z",
+    "Callsign": "PAL117",
+    "Position": "49.185455,-123.16713",
+    "Altitude": 0,
+    "Speed": 70,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1567409960,
+    "UTC": "2019-09-02T07:39:20Z",
+    "Callsign": "PAL117",
+    "Position": "49.186386,-123.1754",
+    "Altitude": 0,
+    "Speed": 116,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567409967,
+    "UTC": "2019-09-02T07:39:27Z",
+    "Callsign": "PAL117",
+    "Position": "49.187141,-123.181892",
+    "Altitude": 0,
+    "Speed": 142,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567409978,
+    "UTC": "2019-09-02T07:39:38Z",
+    "Callsign": "PAL117",
+    "Position": "49.188725,-123.19606",
+    "Altitude": 0,
+    "Speed": 182,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567409985,
+    "UTC": "2019-09-02T07:39:45Z",
+    "Callsign": "PAL117",
+    "Position": "49.189682,-123.204483",
+    "Altitude": 25,
+    "Speed": 194,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567409991,
+    "UTC": "2019-09-02T07:39:51Z",
+    "Callsign": "PAL117",
+    "Position": "49.190495,-123.212753",
+    "Altitude": 325,
+    "Speed": 191,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567409997,
+    "UTC": "2019-09-02T07:39:57Z",
+    "Callsign": "PAL117",
+    "Position": "49.191193,-123.220894",
+    "Altitude": 650,
+    "Speed": 188,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567410003,
+    "UTC": "2019-09-02T07:40:03Z",
+    "Callsign": "PAL117",
+    "Position": "49.191879,-123.229134",
+    "Altitude": 900,
+    "Speed": 191,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567410009,
+    "UTC": "2019-09-02T07:40:09Z",
+    "Callsign": "PAL117",
+    "Position": "49.192566,-123.237442",
+    "Altitude": 1175,
+    "Speed": 191,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567410015,
+    "UTC": "2019-09-02T07:40:15Z",
+    "Callsign": "PAL117",
+    "Position": "49.193241,-123.245499",
+    "Altitude": 1400,
+    "Speed": 194,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567410028,
+    "UTC": "2019-09-02T07:40:28Z",
+    "Callsign": "PAL117",
+    "Position": "49.194763,-123.263222",
+    "Altitude": 1675,
+    "Speed": 207,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567410040,
+    "UTC": "2019-09-02T07:40:40Z",
+    "Callsign": "PAL117",
+    "Position": "49.196453,-123.281998",
+    "Altitude": 1850,
+    "Speed": 221,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567410047,
+    "UTC": "2019-09-02T07:40:47Z",
+    "Callsign": "PAL117",
+    "Position": "49.197289,-123.291534",
+    "Altitude": 1925,
+    "Speed": 228,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567410053,
+    "UTC": "2019-09-02T07:40:53Z",
+    "Callsign": "PAL117",
+    "Position": "49.198269,-123.301514",
+    "Altitude": 2025,
+    "Speed": 234,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567410065,
+    "UTC": "2019-09-02T07:41:05Z",
+    "Callsign": "PAL117",
+    "Position": "49.200176,-123.321823",
+    "Altitude": 2325,
+    "Speed": 242,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567410077,
+    "UTC": "2019-09-02T07:41:17Z",
+    "Callsign": "PAL117",
+    "Position": "49.202271,-123.342941",
+    "Altitude": 2700,
+    "Speed": 249,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567410089,
+    "UTC": "2019-09-02T07:41:29Z",
+    "Callsign": "PAL117",
+    "Position": "49.204559,-123.364914",
+    "Altitude": 3000,
+    "Speed": 258,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567410095,
+    "UTC": "2019-09-02T07:41:35Z",
+    "Callsign": "PAL117",
+    "Position": "49.206024,-123.375336",
+    "Altitude": 3200,
+    "Speed": 261,
+    "Direction": 282
+  },
+  {
+    "Timestamp": 1567410101,
+    "UTC": "2019-09-02T07:41:41Z",
+    "Callsign": "PAL117",
+    "Position": "49.207993,-123.386253",
+    "Altitude": 3425,
+    "Speed": 262,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567410109,
+    "UTC": "2019-09-02T07:41:49Z",
+    "Callsign": "PAL117",
+    "Position": "49.2117,-123.401321",
+    "Altitude": 3725,
+    "Speed": 264,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567410118,
+    "UTC": "2019-09-02T07:41:58Z",
+    "Callsign": "PAL117",
+    "Position": "49.215317,-123.413437",
+    "Altitude": 4000,
+    "Speed": 266,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567410125,
+    "UTC": "2019-09-02T07:42:05Z",
+    "Callsign": "PAL117",
+    "Position": "49.219959,-123.42836",
+    "Altitude": 4350,
+    "Speed": 267,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410137,
+    "UTC": "2019-09-02T07:42:17Z",
+    "Callsign": "PAL117",
+    "Position": "49.226246,-123.449898",
+    "Altitude": 4825,
+    "Speed": 269,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410143,
+    "UTC": "2019-09-02T07:42:23Z",
+    "Callsign": "PAL117",
+    "Position": "49.229279,-123.460342",
+    "Altitude": 5050,
+    "Speed": 271,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410156,
+    "UTC": "2019-09-02T07:42:36Z",
+    "Callsign": "PAL117",
+    "Position": "49.235695,-123.48214",
+    "Altitude": 5525,
+    "Speed": 273,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410168,
+    "UTC": "2019-09-02T07:42:48Z",
+    "Callsign": "PAL117",
+    "Position": "49.241959,-123.503227",
+    "Altitude": 5975,
+    "Speed": 275,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410181,
+    "UTC": "2019-09-02T07:43:01Z",
+    "Callsign": "PAL117",
+    "Position": "49.248367,-123.524498",
+    "Altitude": 6400,
+    "Speed": 277,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410194,
+    "UTC": "2019-09-02T07:43:14Z",
+    "Callsign": "PAL117",
+    "Position": "49.254822,-123.546402",
+    "Altitude": 6850,
+    "Speed": 279,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410204,
+    "UTC": "2019-09-02T07:43:24Z",
+    "Callsign": "PAL117",
+    "Position": "49.261414,-123.568657",
+    "Altitude": 7300,
+    "Speed": 281,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410217,
+    "UTC": "2019-09-02T07:43:37Z",
+    "Callsign": "PAL117",
+    "Position": "49.268005,-123.590767",
+    "Altitude": 7725,
+    "Speed": 283,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410229,
+    "UTC": "2019-09-02T07:43:49Z",
+    "Callsign": "PAL117",
+    "Position": "49.274521,-123.612671",
+    "Altitude": 8150,
+    "Speed": 285,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410240,
+    "UTC": "2019-09-02T07:44:00Z",
+    "Callsign": "PAL117",
+    "Position": "49.281143,-123.634857",
+    "Altitude": 8550,
+    "Speed": 287,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410253,
+    "UTC": "2019-09-02T07:44:13Z",
+    "Callsign": "PAL117",
+    "Position": "49.28801,-123.657951",
+    "Altitude": 8950,
+    "Speed": 290,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410265,
+    "UTC": "2019-09-02T07:44:25Z",
+    "Callsign": "PAL117",
+    "Position": "49.294922,-123.681404",
+    "Altitude": 9325,
+    "Speed": 294,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410278,
+    "UTC": "2019-09-02T07:44:38Z",
+    "Callsign": "PAL117",
+    "Position": "49.301987,-123.705185",
+    "Altitude": 9725,
+    "Speed": 297,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410291,
+    "UTC": "2019-09-02T07:44:51Z",
+    "Callsign": "PAL117",
+    "Position": "49.308792,-123.728165",
+    "Altitude": 10150,
+    "Speed": 299,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410302,
+    "UTC": "2019-09-02T07:45:02Z",
+    "Callsign": "PAL117",
+    "Position": "49.31609,-123.752892",
+    "Altitude": 10325,
+    "Speed": 310,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410315,
+    "UTC": "2019-09-02T07:45:15Z",
+    "Callsign": "PAL117",
+    "Position": "49.323532,-123.778099",
+    "Altitude": 10475,
+    "Speed": 322,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410325,
+    "UTC": "2019-09-02T07:45:25Z",
+    "Callsign": "PAL117",
+    "Position": "49.331173,-123.803993",
+    "Altitude": 10650,
+    "Speed": 334,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410339,
+    "UTC": "2019-09-02T07:45:39Z",
+    "Callsign": "PAL117",
+    "Position": "49.339417,-123.831833",
+    "Altitude": 10875,
+    "Speed": 344,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410350,
+    "UTC": "2019-09-02T07:45:50Z",
+    "Callsign": "PAL117",
+    "Position": "49.347374,-123.858849",
+    "Altitude": 11125,
+    "Speed": 354,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410363,
+    "UTC": "2019-09-02T07:46:03Z",
+    "Callsign": "PAL117",
+    "Position": "49.355484,-123.886696",
+    "Altitude": 11375,
+    "Speed": 363,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410376,
+    "UTC": "2019-09-02T07:46:16Z",
+    "Callsign": "PAL117",
+    "Position": "49.364136,-123.916344",
+    "Altitude": 11625,
+    "Speed": 373,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410388,
+    "UTC": "2019-09-02T07:46:28Z",
+    "Callsign": "PAL117",
+    "Position": "49.373024,-123.946594",
+    "Altitude": 11900,
+    "Speed": 382,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410401,
+    "UTC": "2019-09-02T07:46:41Z",
+    "Callsign": "PAL117",
+    "Position": "49.381897,-123.976913",
+    "Altitude": 12300,
+    "Speed": 387,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410430,
+    "UTC": "2019-09-02T07:47:10Z",
+    "Callsign": "PAL117",
+    "Position": "49.404694,-124.05529",
+    "Altitude": 13450,
+    "Speed": 396,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410463,
+    "UTC": "2019-09-02T07:47:43Z",
+    "Callsign": "PAL117",
+    "Position": "49.428097,-124.135338",
+    "Altitude": 14525,
+    "Speed": 405,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567410495,
+    "UTC": "2019-09-02T07:48:15Z",
+    "Callsign": "PAL117",
+    "Position": "49.453766,-124.22393",
+    "Altitude": 15800,
+    "Speed": 411,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410526,
+    "UTC": "2019-09-02T07:48:46Z",
+    "Callsign": "PAL117",
+    "Position": "49.47707,-124.304588",
+    "Altitude": 16900,
+    "Speed": 416,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410559,
+    "UTC": "2019-09-02T07:49:19Z",
+    "Callsign": "PAL117",
+    "Position": "49.503651,-124.396858",
+    "Altitude": 18100,
+    "Speed": 420,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410620,
+    "UTC": "2019-09-02T07:50:20Z",
+    "Callsign": "PAL117",
+    "Position": "49.552856,-124.568481",
+    "Altitude": 19925,
+    "Speed": 435,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410682,
+    "UTC": "2019-09-02T07:51:22Z",
+    "Callsign": "PAL117",
+    "Position": "49.602852,-124.74456",
+    "Altitude": 21725,
+    "Speed": 446,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410744,
+    "UTC": "2019-09-02T07:52:24Z",
+    "Callsign": "PAL117",
+    "Position": "49.653763,-124.924889",
+    "Altitude": 23425,
+    "Speed": 455,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410805,
+    "UTC": "2019-09-02T07:53:25Z",
+    "Callsign": "PAL117",
+    "Position": "49.706104,-125.111191",
+    "Altitude": 24775,
+    "Speed": 469,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410867,
+    "UTC": "2019-09-02T07:54:27Z",
+    "Callsign": "PAL117",
+    "Position": "49.758572,-125.300781",
+    "Altitude": 25925,
+    "Speed": 484,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567410927,
+    "UTC": "2019-09-02T07:55:27Z",
+    "Callsign": "PAL117",
+    "Position": "49.81279,-125.497551",
+    "Altitude": 27250,
+    "Speed": 493,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567410988,
+    "UTC": "2019-09-02T07:56:28Z",
+    "Callsign": "PAL117",
+    "Position": "49.868992,-125.702446",
+    "Altitude": 28425,
+    "Speed": 503,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567411053,
+    "UTC": "2019-09-02T07:57:33Z",
+    "Callsign": "PAL117",
+    "Position": "49.925694,-125.912376",
+    "Altitude": 29575,
+    "Speed": 510,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567411113,
+    "UTC": "2019-09-02T07:58:33Z",
+    "Callsign": "PAL117",
+    "Position": "49.979828,-126.114517",
+    "Altitude": 31250,
+    "Speed": 500,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567411175,
+    "UTC": "2019-09-02T07:59:35Z",
+    "Callsign": "PAL117",
+    "Position": "50.034988,-126.321449",
+    "Altitude": 32025,
+    "Speed": 496,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567411235,
+    "UTC": "2019-09-02T08:00:35Z",
+    "Callsign": "PAL117",
+    "Position": "50.087833,-126.521896",
+    "Altitude": 32000,
+    "Speed": 494,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567411297,
+    "UTC": "2019-09-02T08:01:37Z",
+    "Callsign": "PAL117",
+    "Position": "50.139908,-126.721153",
+    "Altitude": 32000,
+    "Speed": 493,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567411314,
+    "UTC": "2019-09-02T08:01:54Z",
+    "Callsign": "PAL117",
+    "Position": "50.153961,-126.775291",
+    "Altitude": 32000,
+    "Speed": 492,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567411404,
+    "UTC": "2019-09-02T08:03:24Z",
+    "Callsign": "PAL117",
+    "Position": "50.230042,-127.070473",
+    "Altitude": 32000,
+    "Speed": 484,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567411466,
+    "UTC": "2019-09-02T08:04:26Z",
+    "Callsign": "PAL117",
+    "Position": "50.281219,-127.271049",
+    "Altitude": 32000,
+    "Speed": 481,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567411527,
+    "UTC": "2019-09-02T08:05:27Z",
+    "Callsign": "PAL117",
+    "Position": "50.33226,-127.472992",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567411589,
+    "UTC": "2019-09-02T08:06:29Z",
+    "Callsign": "PAL117",
+    "Position": "50.380783,-127.666695",
+    "Altitude": 32000,
+    "Speed": 479,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567411650,
+    "UTC": "2019-09-02T08:07:30Z",
+    "Callsign": "PAL117",
+    "Position": "50.431183,-127.869583",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567411714,
+    "UTC": "2019-09-02T08:08:34Z",
+    "Callsign": "PAL117",
+    "Position": "50.480759,-128.07103",
+    "Altitude": 32000,
+    "Speed": 479,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567411776,
+    "UTC": "2019-09-02T08:09:36Z",
+    "Callsign": "PAL117",
+    "Position": "50.5298,-128.272141",
+    "Altitude": 32000,
+    "Speed": 478,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567411838,
+    "UTC": "2019-09-02T08:10:38Z",
+    "Callsign": "PAL117",
+    "Position": "50.578491,-128.473755",
+    "Altitude": 32000,
+    "Speed": 476,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567411901,
+    "UTC": "2019-09-02T08:11:41Z",
+    "Callsign": "PAL117",
+    "Position": "50.626209,-128.673279",
+    "Altitude": 32000,
+    "Speed": 476,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567411958,
+    "UTC": "2019-09-02T08:12:38Z",
+    "Callsign": "PAL117",
+    "Position": "50.669785,-128.856934",
+    "Altitude": 32000,
+    "Speed": 475,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567412027,
+    "UTC": "2019-09-02T08:13:47Z",
+    "Callsign": "PAL117",
+    "Position": "50.722786,-129.098236",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567412087,
+    "UTC": "2019-09-02T08:14:47Z",
+    "Callsign": "PAL117",
+    "Position": "50.748085,-129.266113",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 284
+  },
+  {
+    "Timestamp": 1567412148,
+    "UTC": "2019-09-02T08:15:48Z",
+    "Callsign": "PAL117",
+    "Position": "50.775875,-129.448471",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567412210,
+    "UTC": "2019-09-02T08:16:50Z",
+    "Callsign": "PAL117",
+    "Position": "50.823051,-129.629959",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 300
+  },
+  {
+    "Timestamp": 1567412301,
+    "UTC": "2019-09-02T08:18:21Z",
+    "Callsign": "PAL117",
+    "Position": "50.928131,-129.979172",
+    "Altitude": 32000,
+    "Speed": 473,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1567412312,
+    "UTC": "2019-09-02T08:18:32Z",
+    "Callsign": "PAL117",
+    "Position": "50.936005,-130.014359",
+    "Altitude": 32000,
+    "Speed": 473,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1567412366,
+    "UTC": "2019-09-02T08:19:26Z",
+    "Callsign": "PAL117",
+    "Position": "50.975212,-130.190506",
+    "Altitude": 32000,
+    "Speed": 474,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1567412453,
+    "UTC": "2019-09-02T08:20:53Z",
+    "Callsign": "PAL117",
+    "Position": "51.022156,-130.447739",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567412514,
+    "UTC": "2019-09-02T08:21:54Z",
+    "Callsign": "PAL117",
+    "Position": "51.054428,-130.616241",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 294
+  },
+  {
+    "Timestamp": 1567412575,
+    "UTC": "2019-09-02T08:22:55Z",
+    "Callsign": "PAL117",
+    "Position": "51.086624,-130.799194",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567412664,
+    "UTC": "2019-09-02T08:24:24Z",
+    "Callsign": "PAL117",
+    "Position": "51.188469,-131.175003",
+    "Altitude": 32000,
+    "Speed": 479,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567412730,
+    "UTC": "2019-09-02T08:25:30Z",
+    "Callsign": "PAL117",
+    "Position": "51.23465,-131.394577",
+    "Altitude": 32000,
+    "Speed": 477,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567412790,
+    "UTC": "2019-09-02T08:26:30Z",
+    "Callsign": "PAL117",
+    "Position": "51.276535,-131.596024",
+    "Altitude": 32000,
+    "Speed": 478,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567412831,
+    "UTC": "2019-09-02T08:27:11Z",
+    "Callsign": "PAL117",
+    "Position": "51.304615,-131.731949",
+    "Altitude": 32000,
+    "Speed": 476,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567412901,
+    "UTC": "2019-09-02T08:28:21Z",
+    "Callsign": "PAL117",
+    "Position": "51.352612,-131.966934",
+    "Altitude": 32000,
+    "Speed": 475,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567412971,
+    "UTC": "2019-09-02T08:29:31Z",
+    "Callsign": "PAL117",
+    "Position": "51.390896,-132.188385",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567413048,
+    "UTC": "2019-09-02T08:30:48Z",
+    "Callsign": "PAL117",
+    "Position": "51.434738,-132.403351",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567413092,
+    "UTC": "2019-09-02T08:31:32Z",
+    "Callsign": "PAL117",
+    "Position": "51.464283,-132.586899",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567413152,
+    "UTC": "2019-09-02T08:32:32Z",
+    "Callsign": "PAL117",
+    "Position": "51.499512,-132.794357",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 287
+  },
+  {
+    "Timestamp": 1567413213,
+    "UTC": "2019-09-02T08:33:33Z",
+    "Callsign": "PAL117",
+    "Position": "51.533928,-133.001175",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567413274,
+    "UTC": "2019-09-02T08:34:34Z",
+    "Callsign": "PAL117",
+    "Position": "51.567768,-133.206955",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567413335,
+    "UTC": "2019-09-02T08:35:35Z",
+    "Callsign": "PAL117",
+    "Position": "51.610588,-133.420334",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567413396,
+    "UTC": "2019-09-02T08:36:36Z",
+    "Callsign": "PAL117",
+    "Position": "51.649536,-133.63295",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567413456,
+    "UTC": "2019-09-02T08:37:36Z",
+    "Callsign": "PAL117",
+    "Position": "51.684319,-133.830872",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567413516,
+    "UTC": "2019-09-02T08:38:36Z",
+    "Callsign": "PAL117",
+    "Position": "51.733589,-134.022415",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 301
+  },
+  {
+    "Timestamp": 1567413595,
+    "UTC": "2019-09-02T08:39:55Z",
+    "Callsign": "PAL117",
+    "Position": "51.785187,-134.259598",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567413639,
+    "UTC": "2019-09-02T08:40:39Z",
+    "Callsign": "PAL117",
+    "Position": "51.808968,-134.434631",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567413701,
+    "UTC": "2019-09-02T08:41:41Z",
+    "Callsign": "PAL117",
+    "Position": "51.84145,-134.65361",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567413761,
+    "UTC": "2019-09-02T08:42:41Z",
+    "Callsign": "PAL117",
+    "Position": "51.880516,-134.863968",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567413823,
+    "UTC": "2019-09-02T08:43:43Z",
+    "Callsign": "PAL117",
+    "Position": "51.917633,-135.079483",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567413869,
+    "UTC": "2019-09-02T08:44:29Z",
+    "Callsign": "PAL117",
+    "Position": "51.965103,-135.250702",
+    "Altitude": 32000,
+    "Speed": 476,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567414004,
+    "UTC": "2019-09-02T08:46:44Z",
+    "Callsign": "PAL117",
+    "Position": "52.02998,-135.69455",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1567414065,
+    "UTC": "2019-09-02T08:47:45Z",
+    "Callsign": "PAL117",
+    "Position": "52.074612,-135.900925",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567414125,
+    "UTC": "2019-09-02T08:48:45Z",
+    "Callsign": "PAL117",
+    "Position": "52.122585,-136.103989",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567414186,
+    "UTC": "2019-09-02T08:49:46Z",
+    "Callsign": "PAL117",
+    "Position": "52.164539,-136.305222",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567414247,
+    "UTC": "2019-09-02T08:50:47Z",
+    "Callsign": "PAL117",
+    "Position": "52.210114,-136.495789",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567414298,
+    "UTC": "2019-09-02T08:51:38Z",
+    "Callsign": "PAL117",
+    "Position": "52.261616,-136.656494",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1567414355,
+    "UTC": "2019-09-02T08:52:35Z",
+    "Callsign": "PAL117",
+    "Position": "52.319111,-136.857483",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567414430,
+    "UTC": "2019-09-02T08:53:50Z",
+    "Callsign": "PAL117",
+    "Position": "52.365215,-137.099472",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 277
+  },
+  {
+    "Timestamp": 1567414490,
+    "UTC": "2019-09-02T08:54:50Z",
+    "Callsign": "PAL117",
+    "Position": "52.405388,-137.305496",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567414548,
+    "UTC": "2019-09-02T08:55:48Z",
+    "Callsign": "PAL117",
+    "Position": "52.457211,-137.486862",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 307
+  },
+  {
+    "Timestamp": 1567414668,
+    "UTC": "2019-09-02T08:57:48Z",
+    "Callsign": "PAL117",
+    "Position": "52.550621,-137.883606",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 289
+  },
+  {
+    "Timestamp": 1567414745,
+    "UTC": "2019-09-02T08:59:05Z",
+    "Callsign": "PAL117",
+    "Position": "52.616467,-138.147736",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 299
+  },
+  {
+    "Timestamp": 1567414804,
+    "UTC": "2019-09-02T09:00:04Z",
+    "Callsign": "PAL117",
+    "Position": "52.659424,-138.34935",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567415052,
+    "UTC": "2019-09-02T09:04:12Z",
+    "Callsign": "PAL117",
+    "Position": "52.84758,-139.238434",
+    "Altitude": 32000,
+    "Speed": 466,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567415901,
+    "UTC": "2019-09-02T09:18:21Z",
+    "Callsign": "PAL117",
+    "Position": "53.481609,-141.989868",
+    "Altitude": 32000,
+    "Speed": 466,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567416485,
+    "UTC": "2019-09-02T09:28:05Z",
+    "Callsign": "PAL117",
+    "Position": "53.918537,-143.953766",
+    "Altitude": 32000,
+    "Speed": 472,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567417051,
+    "UTC": "2019-09-02T09:37:31Z",
+    "Callsign": "PAL117",
+    "Position": "54.32053,-145.96228",
+    "Altitude": 32000,
+    "Speed": 472,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567417617,
+    "UTC": "2019-09-02T09:46:57Z",
+    "Callsign": "PAL117",
+    "Position": "54.689335,-148.020096",
+    "Altitude": 32000,
+    "Speed": 461,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567418203,
+    "UTC": "2019-09-02T09:56:43Z",
+    "Callsign": "PAL117",
+    "Position": "55.010288,-150.015915",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 287
+  },
+  {
+    "Timestamp": 1567419003,
+    "UTC": "2019-09-02T10:10:03Z",
+    "Callsign": "PAL117",
+    "Position": "55.543671,-152.172668",
+    "Altitude": 32000,
+    "Speed": 479,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567419424,
+    "UTC": "2019-09-02T10:17:04Z",
+    "Callsign": "PAL117",
+    "Position": "56.067963,-154.316193",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 298
+  },
+  {
+    "Timestamp": 1567419602,
+    "UTC": "2019-09-02T10:20:02Z",
+    "Callsign": "PAL117",
+    "Position": "56.271278,-155.194717",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567419679,
+    "UTC": "2019-09-02T10:21:19Z",
+    "Callsign": "PAL117",
+    "Position": "56.344868,-155.526398",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567419739,
+    "UTC": "2019-09-02T10:22:19Z",
+    "Callsign": "PAL117",
+    "Position": "56.397919,-155.771698",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567419797,
+    "UTC": "2019-09-02T10:23:17Z",
+    "Callsign": "PAL117",
+    "Position": "56.44561,-155.996185",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567419855,
+    "UTC": "2019-09-02T10:24:15Z",
+    "Callsign": "PAL117",
+    "Position": "56.487083,-156.227859",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567419914,
+    "UTC": "2019-09-02T10:25:14Z",
+    "Callsign": "PAL117",
+    "Position": "56.530064,-156.460297",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567419972,
+    "UTC": "2019-09-02T10:26:12Z",
+    "Callsign": "PAL117",
+    "Position": "56.572491,-156.672791",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 293
+  },
+  {
+    "Timestamp": 1567420031,
+    "UTC": "2019-09-02T10:27:11Z",
+    "Callsign": "PAL117",
+    "Position": "56.618862,-156.897995",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567420089,
+    "UTC": "2019-09-02T10:28:09Z",
+    "Callsign": "PAL117",
+    "Position": "56.664867,-157.116486",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567420149,
+    "UTC": "2019-09-02T10:29:09Z",
+    "Callsign": "PAL117",
+    "Position": "56.706207,-157.346008",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567420225,
+    "UTC": "2019-09-02T10:30:25Z",
+    "Callsign": "PAL117",
+    "Position": "56.758595,-157.618759",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1567420283,
+    "UTC": "2019-09-02T10:31:23Z",
+    "Callsign": "PAL117",
+    "Position": "56.792683,-157.818756",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567420320,
+    "UTC": "2019-09-02T10:32:00Z",
+    "Callsign": "PAL117",
+    "Position": "56.825741,-157.979553",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567420399,
+    "UTC": "2019-09-02T10:33:19Z",
+    "Callsign": "PAL117",
+    "Position": "56.874798,-158.254288",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 285
+  },
+  {
+    "Timestamp": 1567420460,
+    "UTC": "2019-09-02T10:34:20Z",
+    "Callsign": "PAL117",
+    "Position": "56.916119,-158.477432",
+    "Altitude": 32000,
+    "Speed": 470,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1567420549,
+    "UTC": "2019-09-02T10:35:49Z",
+    "Callsign": "PAL117",
+    "Position": "56.969559,-158.887619",
+    "Altitude": 32000,
+    "Speed": 463,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567420569,
+    "UTC": "2019-09-02T10:36:09Z",
+    "Callsign": "PAL117",
+    "Position": "56.974213,-158.963745",
+    "Altitude": 32000,
+    "Speed": 464,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567420634,
+    "UTC": "2019-09-02T10:37:14Z",
+    "Callsign": "PAL117",
+    "Position": "57.000641,-159.207855",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567420695,
+    "UTC": "2019-09-02T10:38:15Z",
+    "Callsign": "PAL117",
+    "Position": "57.008953,-159.427963",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567420753,
+    "UTC": "2019-09-02T10:39:13Z",
+    "Callsign": "PAL117",
+    "Position": "57.010777,-159.651611",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567420830,
+    "UTC": "2019-09-02T10:40:30Z",
+    "Callsign": "PAL117",
+    "Position": "57.020359,-159.910309",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567420888,
+    "UTC": "2019-09-02T10:41:28Z",
+    "Callsign": "PAL117",
+    "Position": "57.031738,-160.131393",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567420948,
+    "UTC": "2019-09-02T10:42:28Z",
+    "Callsign": "PAL117",
+    "Position": "57.045513,-160.354446",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567421034,
+    "UTC": "2019-09-02T10:43:54Z",
+    "Callsign": "PAL117",
+    "Position": "57.072418,-160.777878",
+    "Altitude": 32000,
+    "Speed": 457,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1567421096,
+    "UTC": "2019-09-02T10:44:56Z",
+    "Callsign": "PAL117",
+    "Position": "57.083332,-161.014923",
+    "Altitude": 32000,
+    "Speed": 455,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1567421158,
+    "UTC": "2019-09-02T10:45:58Z",
+    "Callsign": "PAL117",
+    "Position": "57.093796,-161.252518",
+    "Altitude": 32000,
+    "Speed": 457,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1567421219,
+    "UTC": "2019-09-02T10:46:59Z",
+    "Callsign": "PAL117",
+    "Position": "57.103729,-161.489838",
+    "Altitude": 32000,
+    "Speed": 457,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1567421281,
+    "UTC": "2019-09-02T10:48:01Z",
+    "Callsign": "PAL117",
+    "Position": "57.113312,-161.730438",
+    "Altitude": 32000,
+    "Speed": 457,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1567421343,
+    "UTC": "2019-09-02T10:49:03Z",
+    "Callsign": "PAL117",
+    "Position": "57.122498,-161.969727",
+    "Altitude": 32000,
+    "Speed": 456,
+    "Direction": 273
+  },
+  {
+    "Timestamp": 1567421405,
+    "UTC": "2019-09-02T10:50:05Z",
+    "Callsign": "PAL117",
+    "Position": "57.131233,-162.209412",
+    "Altitude": 32000,
+    "Speed": 454,
+    "Direction": 273
+  },
+  {
+    "Timestamp": 1567421466,
+    "UTC": "2019-09-02T10:51:06Z",
+    "Callsign": "PAL117",
+    "Position": "57.13924,-162.443588",
+    "Altitude": 32000,
+    "Speed": 455,
+    "Direction": 273
+  },
+  {
+    "Timestamp": 1567421526,
+    "UTC": "2019-09-02T10:52:06Z",
+    "Callsign": "PAL117",
+    "Position": "57.146736,-162.675446",
+    "Altitude": 32000,
+    "Speed": 458,
+    "Direction": 273
+  },
+  {
+    "Timestamp": 1567421611,
+    "UTC": "2019-09-02T10:53:31Z",
+    "Callsign": "PAL117",
+    "Position": "57.152084,-162.919647",
+    "Altitude": 32000,
+    "Speed": 450,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567421669,
+    "UTC": "2019-09-02T10:54:29Z",
+    "Callsign": "PAL117",
+    "Position": "57.152718,-163.124802",
+    "Altitude": 32000,
+    "Speed": 450,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567421726,
+    "UTC": "2019-09-02T10:55:26Z",
+    "Callsign": "PAL117",
+    "Position": "57.161583,-163.351089",
+    "Altitude": 32000,
+    "Speed": 450,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1567421786,
+    "UTC": "2019-09-02T10:56:26Z",
+    "Callsign": "PAL117",
+    "Position": "57.167156,-163.613876",
+    "Altitude": 32000,
+    "Speed": 450,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567421876,
+    "UTC": "2019-09-02T10:57:56Z",
+    "Callsign": "PAL117",
+    "Position": "57.182327,-164.04245",
+    "Altitude": 32000,
+    "Speed": 459,
+    "Direction": 272
+  },
+  {
+    "Timestamp": 1567421938,
+    "UTC": "2019-09-02T10:58:58Z",
+    "Callsign": "PAL117",
+    "Position": "57.187134,-164.28363",
+    "Altitude": 32000,
+    "Speed": 459,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422001,
+    "UTC": "2019-09-02T11:00:01Z",
+    "Callsign": "PAL117",
+    "Position": "57.191391,-164.529022",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422063,
+    "UTC": "2019-09-02T11:01:03Z",
+    "Callsign": "PAL117",
+    "Position": "57.19529,-164.773209",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422125,
+    "UTC": "2019-09-02T11:02:05Z",
+    "Callsign": "PAL117",
+    "Position": "57.198593,-165.013504",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422186,
+    "UTC": "2019-09-02T11:03:06Z",
+    "Callsign": "PAL117",
+    "Position": "57.201462,-165.255569",
+    "Altitude": 32000,
+    "Speed": 461,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422249,
+    "UTC": "2019-09-02T11:04:09Z",
+    "Callsign": "PAL117",
+    "Position": "57.203842,-165.498566",
+    "Altitude": 32000,
+    "Speed": 461,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1567422311,
+    "UTC": "2019-09-02T11:05:11Z",
+    "Callsign": "PAL117",
+    "Position": "57.205765,-165.74086",
+    "Altitude": 32000,
+    "Speed": 461,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1567422373,
+    "UTC": "2019-09-02T11:06:13Z",
+    "Callsign": "PAL117",
+    "Position": "57.207348,-165.982239",
+    "Altitude": 32875,
+    "Speed": 462,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1567422433,
+    "UTC": "2019-09-02T11:07:13Z",
+    "Callsign": "PAL117",
+    "Position": "57.208282,-166.223145",
+    "Altitude": 33950,
+    "Speed": 464,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1567422480,
+    "UTC": "2019-09-02T11:08:00Z",
+    "Callsign": "PAL117",
+    "Position": "57.208698,-166.405121",
+    "Altitude": 34000,
+    "Speed": 457,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1567422587,
+    "UTC": "2019-09-02T11:09:47Z",
+    "Callsign": "PAL117",
+    "Position": "57.203114,-166.752625",
+    "Altitude": 34000,
+    "Speed": 450,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422647,
+    "UTC": "2019-09-02T11:10:47Z",
+    "Callsign": "PAL117",
+    "Position": "57.208145,-167.05278",
+    "Altitude": 34000,
+    "Speed": 460,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1567422709,
+    "UTC": "2019-09-02T11:11:49Z",
+    "Callsign": "PAL117",
+    "Position": "57.207092,-167.293198",
+    "Altitude": 34000,
+    "Speed": 461,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1567422738,
+    "UTC": "2019-09-02T11:12:18Z",
+    "Callsign": "PAL117",
+    "Position": "57.206322,-167.41127",
+    "Altitude": 34000,
+    "Speed": 461,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1567422838,
+    "UTC": "2019-09-02T11:13:58Z",
+    "Callsign": "PAL117",
+    "Position": "57.20153,-167.752823",
+    "Altitude": 34000,
+    "Speed": 460,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422898,
+    "UTC": "2019-09-02T11:14:58Z",
+    "Callsign": "PAL117",
+    "Position": "57.199524,-167.969345",
+    "Altitude": 34000,
+    "Speed": 450,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567422957,
+    "UTC": "2019-09-02T11:15:57Z",
+    "Callsign": "PAL117",
+    "Position": "57.189754,-168.197205",
+    "Altitude": 34000,
+    "Speed": 450,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1567423037,
+    "UTC": "2019-09-02T11:17:17Z",
+    "Callsign": "PAL117",
+    "Position": "57.183491,-168.483856",
+    "Altitude": 34000,
+    "Speed": 460,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567427283,
+    "UTC": "2019-09-02T12:28:03Z",
+    "Callsign": "PAL117",
+    "Position": "55.203018,175.794022",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1567427406,
+    "UTC": "2019-09-02T12:30:06Z",
+    "Callsign": "PAL117",
+    "Position": "55.129326,180.497849",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1567427582,
+    "UTC": "2019-09-02T12:33:02Z",
+    "Callsign": "PAL117",
+    "Position": "54.971348,175.490112",
+    "Altitude": 34000,
+    "Speed": 420,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1567427643,
+    "UTC": "2019-09-02T12:34:03Z",
+    "Callsign": "PAL117",
+    "Position": "54.922005,175.299103",
+    "Altitude": 34000,
+    "Speed": 421,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1567427707,
+    "UTC": "2019-09-02T12:35:07Z",
+    "Callsign": "PAL117",
+    "Position": "54.871262,175.104095",
+    "Altitude": 34000,
+    "Speed": 421,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1567427769,
+    "UTC": "2019-09-02T12:36:09Z",
+    "Callsign": "PAL117",
+    "Position": "54.820988,174.912491",
+    "Altitude": 34000,
+    "Speed": 421,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1567427832,
+    "UTC": "2019-09-02T12:37:12Z",
+    "Callsign": "PAL117",
+    "Position": "54.770233,174.720993",
+    "Altitude": 34000,
+    "Speed": 421,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1567427893,
+    "UTC": "2019-09-02T12:38:13Z",
+    "Callsign": "PAL117",
+    "Position": "54.719971,174.532928",
+    "Altitude": 34000,
+    "Speed": 422,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1567427956,
+    "UTC": "2019-09-02T12:39:16Z",
+    "Callsign": "PAL117",
+    "Position": "54.668434,174.341797",
+    "Altitude": 34000,
+    "Speed": 422,
+    "Direction": 245
+  },
+  {
+    "Timestamp": 1567428019,
+    "UTC": "2019-09-02T12:40:19Z",
+    "Callsign": "PAL117",
+    "Position": "54.616837,174.151642",
+    "Altitude": 34000,
+    "Speed": 421,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1567428081,
+    "UTC": "2019-09-02T12:41:21Z",
+    "Callsign": "PAL117",
+    "Position": "54.564762,173.961685",
+    "Altitude": 34000,
+    "Speed": 421,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1567428143,
+    "UTC": "2019-09-02T12:42:23Z",
+    "Callsign": "PAL117",
+    "Position": "54.512718,173.773331",
+    "Altitude": 34000,
+    "Speed": 422,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1567428207,
+    "UTC": "2019-09-02T12:43:27Z",
+    "Callsign": "PAL117",
+    "Position": "54.460098,173.584305",
+    "Altitude": 34000,
+    "Speed": 422,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1567428268,
+    "UTC": "2019-09-02T12:44:28Z",
+    "Callsign": "PAL117",
+    "Position": "54.407867,173.39827",
+    "Altitude": 34000,
+    "Speed": 422,
+    "Direction": 244
+  },
+  {
+    "Timestamp": 1567428330,
+    "UTC": "2019-09-02T12:45:30Z",
+    "Callsign": "PAL117",
+    "Position": "54.354671,173.210281",
+    "Altitude": 34000,
+    "Speed": 423,
+    "Direction": 243
+  },
+  {
+    "Timestamp": 1567428393,
+    "UTC": "2019-09-02T12:46:33Z",
+    "Callsign": "PAL117",
+    "Position": "54.30109,173.022598",
+    "Altitude": 34000,
+    "Speed": 425,
+    "Direction": 243
+  },
+  {
+    "Timestamp": 1567428457,
+    "UTC": "2019-09-02T12:47:37Z",
+    "Callsign": "PAL117",
+    "Position": "54.246811,172.833923",
+    "Altitude": 34000,
+    "Speed": 426,
+    "Direction": 243
+  },
+  {
+    "Timestamp": 1567428519,
+    "UTC": "2019-09-02T12:48:39Z",
+    "Callsign": "PAL117",
+    "Position": "54.187504,172.64473",
+    "Altitude": 34000,
+    "Speed": 429,
+    "Direction": 237
+  },
+  {
+    "Timestamp": 1567428583,
+    "UTC": "2019-09-02T12:49:43Z",
+    "Callsign": "PAL117",
+    "Position": "54.115906,172.469269",
+    "Altitude": 34000,
+    "Speed": 431,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567428643,
+    "UTC": "2019-09-02T12:50:43Z",
+    "Callsign": "PAL117",
+    "Position": "54.046589,172.301163",
+    "Altitude": 34000,
+    "Speed": 432,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567428705,
+    "UTC": "2019-09-02T12:51:45Z",
+    "Callsign": "PAL117",
+    "Position": "53.976437,172.131927",
+    "Altitude": 34000,
+    "Speed": 433,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567428764,
+    "UTC": "2019-09-02T12:52:44Z",
+    "Callsign": "PAL117",
+    "Position": "53.90657,171.964752",
+    "Altitude": 34000,
+    "Speed": 435,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567428827,
+    "UTC": "2019-09-02T12:53:47Z",
+    "Callsign": "PAL117",
+    "Position": "53.835102,171.79483",
+    "Altitude": 34000,
+    "Speed": 437,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567428888,
+    "UTC": "2019-09-02T12:54:48Z",
+    "Callsign": "PAL117",
+    "Position": "53.761368,171.620407",
+    "Altitude": 34000,
+    "Speed": 439,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567428951,
+    "UTC": "2019-09-02T12:55:51Z",
+    "Callsign": "PAL117",
+    "Position": "53.687252,171.446899",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567429013,
+    "UTC": "2019-09-02T12:56:53Z",
+    "Callsign": "PAL117",
+    "Position": "53.613007,171.273956",
+    "Altitude": 34000,
+    "Speed": 441,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567429078,
+    "UTC": "2019-09-02T12:57:58Z",
+    "Callsign": "PAL117",
+    "Position": "53.537018,171.098099",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567429139,
+    "UTC": "2019-09-02T12:58:59Z",
+    "Callsign": "PAL117",
+    "Position": "53.462311,170.926498",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567429201,
+    "UTC": "2019-09-02T13:00:01Z",
+    "Callsign": "PAL117",
+    "Position": "53.38699,170.754761",
+    "Altitude": 34000,
+    "Speed": 442,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567429264,
+    "UTC": "2019-09-02T13:01:04Z",
+    "Callsign": "PAL117",
+    "Position": "53.310646,170.581802",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567429327,
+    "UTC": "2019-09-02T13:02:07Z",
+    "Callsign": "PAL117",
+    "Position": "53.234627,170.410873",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567429388,
+    "UTC": "2019-09-02T13:03:08Z",
+    "Callsign": "PAL117",
+    "Position": "53.158188,170.239853",
+    "Altitude": 34000,
+    "Speed": 443,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567429451,
+    "UTC": "2019-09-02T13:04:11Z",
+    "Callsign": "PAL117",
+    "Position": "53.081795,170.070236",
+    "Altitude": 34000,
+    "Speed": 441,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567429511,
+    "UTC": "2019-09-02T13:05:11Z",
+    "Callsign": "PAL117",
+    "Position": "53.009312,169.908035",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567429600,
+    "UTC": "2019-09-02T13:06:40Z",
+    "Callsign": "PAL117",
+    "Position": "52.918808,169.645157",
+    "Altitude": 34000,
+    "Speed": 439,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1567429663,
+    "UTC": "2019-09-02T13:07:43Z",
+    "Callsign": "PAL117",
+    "Position": "52.858295,169.465363",
+    "Altitude": 34000,
+    "Speed": 439,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567429672,
+    "UTC": "2019-09-02T13:07:52Z",
+    "Callsign": "PAL117",
+    "Position": "52.849457,169.43924",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567429760,
+    "UTC": "2019-09-02T13:09:20Z",
+    "Callsign": "PAL117",
+    "Position": "52.761108,169.17923",
+    "Altitude": 34000,
+    "Speed": 442,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567429822,
+    "UTC": "2019-09-02T13:10:22Z",
+    "Callsign": "PAL117",
+    "Position": "52.698902,168.997665",
+    "Altitude": 34000,
+    "Speed": 442,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567429882,
+    "UTC": "2019-09-02T13:11:22Z",
+    "Callsign": "PAL117",
+    "Position": "52.638016,168.821182",
+    "Altitude": 34000,
+    "Speed": 442,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567429946,
+    "UTC": "2019-09-02T13:12:26Z",
+    "Callsign": "PAL117",
+    "Position": "52.572651,168.633148",
+    "Altitude": 34000,
+    "Speed": 441,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567429984,
+    "UTC": "2019-09-02T13:13:04Z",
+    "Callsign": "PAL117",
+    "Position": "52.535431,168.526993",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567430021,
+    "UTC": "2019-09-02T13:13:41Z",
+    "Callsign": "PAL117",
+    "Position": "52.497936,168.420181",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567430090,
+    "UTC": "2019-09-02T13:14:50Z",
+    "Callsign": "PAL117",
+    "Position": "52.427223,168.219986",
+    "Altitude": 34000,
+    "Speed": 440,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567430155,
+    "UTC": "2019-09-02T13:15:55Z",
+    "Callsign": "PAL117",
+    "Position": "52.360062,168.031387",
+    "Altitude": 34000,
+    "Speed": 442,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567430851,
+    "UTC": "2019-09-02T13:27:31Z",
+    "Callsign": "PAL117",
+    "Position": "51.63274,166.063766",
+    "Altitude": 34000,
+    "Speed": 451,
+    "Direction": 242
+  },
+  {
+    "Timestamp": 1567431456,
+    "UTC": "2019-09-02T13:37:36Z",
+    "Callsign": "PAL117",
+    "Position": "50.955555,164.378922",
+    "Altitude": 34000,
+    "Speed": 455,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1567431690,
+    "UTC": "2019-09-02T13:41:30Z",
+    "Callsign": "PAL117",
+    "Position": "50.663639,163.678619",
+    "Altitude": 34000,
+    "Speed": 454,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1567431753,
+    "UTC": "2019-09-02T13:42:33Z",
+    "Callsign": "PAL117",
+    "Position": "50.589249,163.503448",
+    "Altitude": 34000,
+    "Speed": 451,
+    "Direction": 236
+  },
+  {
+    "Timestamp": 1567431842,
+    "UTC": "2019-09-02T13:44:02Z",
+    "Callsign": "PAL117",
+    "Position": "50.487392,163.265747",
+    "Altitude": 34000,
+    "Speed": 447,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567431888,
+    "UTC": "2019-09-02T13:44:48Z",
+    "Callsign": "PAL117",
+    "Position": "50.43457,163.143219",
+    "Altitude": 34000,
+    "Speed": 447,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567432022,
+    "UTC": "2019-09-02T13:47:02Z",
+    "Callsign": "PAL117",
+    "Position": "50.305603,162.841568",
+    "Altitude": 34000,
+    "Speed": 449,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1567432170,
+    "UTC": "2019-09-02T13:49:30Z",
+    "Callsign": "PAL117",
+    "Position": "50.105209,162.392242",
+    "Altitude": 34000,
+    "Speed": 444,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567432290,
+    "UTC": "2019-09-02T13:51:30Z",
+    "Callsign": "PAL117",
+    "Position": "49.964516,162.077805",
+    "Altitude": 34000,
+    "Speed": 444,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567432304,
+    "UTC": "2019-09-02T13:51:44Z",
+    "Callsign": "PAL117",
+    "Position": "49.94799,162.041138",
+    "Altitude": 34000,
+    "Speed": 443,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567432412,
+    "UTC": "2019-09-02T13:53:32Z",
+    "Callsign": "PAL117",
+    "Position": "49.819885,161.758438",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567432438,
+    "UTC": "2019-09-02T13:53:58Z",
+    "Callsign": "PAL117",
+    "Position": "49.789387,161.691574",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567432538,
+    "UTC": "2019-09-02T13:55:38Z",
+    "Callsign": "PAL117",
+    "Position": "49.670681,161.433029",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567432603,
+    "UTC": "2019-09-02T13:56:43Z",
+    "Callsign": "PAL117",
+    "Position": "49.593822,161.266907",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567432665,
+    "UTC": "2019-09-02T13:57:45Z",
+    "Callsign": "PAL117",
+    "Position": "49.518826,161.10582",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567432674,
+    "UTC": "2019-09-02T13:57:54Z",
+    "Callsign": "PAL117",
+    "Position": "49.507885,161.082504",
+    "Altitude": 34000,
+    "Speed": 445,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567432754,
+    "UTC": "2019-09-02T13:59:14Z",
+    "Callsign": "PAL117",
+    "Position": "49.412018,160.878937",
+    "Altitude": 34000,
+    "Speed": 442,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567432850,
+    "UTC": "2019-09-02T14:00:50Z",
+    "Callsign": "PAL117",
+    "Position": "49.296211,160.6353",
+    "Altitude": 34000,
+    "Speed": 442,
+    "Direction": 233
+  },
+  {
+    "Timestamp": 1567438274,
+    "UTC": "2019-09-02T15:31:14Z",
+    "Callsign": "PAL117",
+    "Position": "42.584869,149.354141",
+    "Altitude": 36000,
+    "Speed": 377,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567438336,
+    "UTC": "2019-09-02T15:32:16Z",
+    "Callsign": "PAL117",
+    "Position": "42.508575,149.24971",
+    "Altitude": 36000,
+    "Speed": 378,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567438399,
+    "UTC": "2019-09-02T15:33:19Z",
+    "Callsign": "PAL117",
+    "Position": "42.431713,149.144897",
+    "Altitude": 36000,
+    "Speed": 374,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567438461,
+    "UTC": "2019-09-02T15:34:21Z",
+    "Callsign": "PAL117",
+    "Position": "42.356251,149.042252",
+    "Altitude": 36000,
+    "Speed": 374,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567438523,
+    "UTC": "2019-09-02T15:35:23Z",
+    "Callsign": "PAL117",
+    "Position": "42.280651,148.939728",
+    "Altitude": 36000,
+    "Speed": 376,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567438584,
+    "UTC": "2019-09-02T15:36:24Z",
+    "Callsign": "PAL117",
+    "Position": "42.204304,148.836777",
+    "Altitude": 36000,
+    "Speed": 374,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567438646,
+    "UTC": "2019-09-02T15:37:26Z",
+    "Callsign": "PAL117",
+    "Position": "42.130379,148.73732",
+    "Altitude": 36000,
+    "Speed": 376,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1567438708,
+    "UTC": "2019-09-02T15:38:28Z",
+    "Callsign": "PAL117",
+    "Position": "42.052917,148.63353",
+    "Altitude": 36000,
+    "Speed": 378,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567438777,
+    "UTC": "2019-09-02T15:39:37Z",
+    "Callsign": "PAL117",
+    "Position": "41.968098,148.52034",
+    "Altitude": 36000,
+    "Speed": 378,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567438838,
+    "UTC": "2019-09-02T15:40:38Z",
+    "Callsign": "PAL117",
+    "Position": "41.892471,148.419739",
+    "Altitude": 36000,
+    "Speed": 380,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567438902,
+    "UTC": "2019-09-02T15:41:42Z",
+    "Callsign": "PAL117",
+    "Position": "41.810211,148.310684",
+    "Altitude": 36000,
+    "Speed": 382,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567438964,
+    "UTC": "2019-09-02T15:42:44Z",
+    "Callsign": "PAL117",
+    "Position": "41.733856,148.209869",
+    "Altitude": 36000,
+    "Speed": 384,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567439026,
+    "UTC": "2019-09-02T15:43:46Z",
+    "Callsign": "PAL117",
+    "Position": "41.652969,148.10556",
+    "Altitude": 36000,
+    "Speed": 382,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567439090,
+    "UTC": "2019-09-02T15:44:50Z",
+    "Callsign": "PAL117",
+    "Position": "41.572731,148.002258",
+    "Altitude": 36000,
+    "Speed": 384,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567439150,
+    "UTC": "2019-09-02T15:45:50Z",
+    "Callsign": "PAL117",
+    "Position": "41.496803,147.904663",
+    "Altitude": 36000,
+    "Speed": 386,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439168,
+    "UTC": "2019-09-02T15:46:08Z",
+    "Callsign": "PAL117",
+    "Position": "41.472977,147.874161",
+    "Altitude": 36000,
+    "Speed": 386,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439216,
+    "UTC": "2019-09-02T15:46:56Z",
+    "Callsign": "PAL117",
+    "Position": "41.411545,147.7957",
+    "Altitude": 36000,
+    "Speed": 386,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567439309,
+    "UTC": "2019-09-02T15:48:29Z",
+    "Callsign": "PAL117",
+    "Position": "41.290951,147.642136",
+    "Altitude": 36000,
+    "Speed": 389,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439326,
+    "UTC": "2019-09-02T15:48:46Z",
+    "Callsign": "PAL117",
+    "Position": "41.26907,147.614426",
+    "Altitude": 36000,
+    "Speed": 389,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439417,
+    "UTC": "2019-09-02T15:50:17Z",
+    "Callsign": "PAL117",
+    "Position": "41.15126,147.465515",
+    "Altitude": 36000,
+    "Speed": 391,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439477,
+    "UTC": "2019-09-02T15:51:17Z",
+    "Callsign": "PAL117",
+    "Position": "41.071968,147.365616",
+    "Altitude": 36000,
+    "Speed": 391,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439486,
+    "UTC": "2019-09-02T15:51:26Z",
+    "Callsign": "PAL117",
+    "Position": "41.058979,147.349258",
+    "Altitude": 36000,
+    "Speed": 391,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439576,
+    "UTC": "2019-09-02T15:52:56Z",
+    "Callsign": "PAL117",
+    "Position": "40.939865,147.200012",
+    "Altitude": 36000,
+    "Speed": 391,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439639,
+    "UTC": "2019-09-02T15:53:59Z",
+    "Callsign": "PAL117",
+    "Position": "40.8582,147.098083",
+    "Altitude": 36000,
+    "Speed": 394,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439651,
+    "UTC": "2019-09-02T15:54:11Z",
+    "Callsign": "PAL117",
+    "Position": "40.842327,147.078339",
+    "Altitude": 36000,
+    "Speed": 394,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439694,
+    "UTC": "2019-09-02T15:54:54Z",
+    "Callsign": "PAL117",
+    "Position": "40.784775,147.006775",
+    "Altitude": 36000,
+    "Speed": 398,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439765,
+    "UTC": "2019-09-02T15:56:05Z",
+    "Callsign": "PAL117",
+    "Position": "40.689926,146.889404",
+    "Altitude": 36000,
+    "Speed": 398,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439853,
+    "UTC": "2019-09-02T15:57:33Z",
+    "Callsign": "PAL117",
+    "Position": "40.571392,146.743195",
+    "Altitude": 36000,
+    "Speed": 399,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567439859,
+    "UTC": "2019-09-02T15:57:39Z",
+    "Callsign": "PAL117",
+    "Position": "40.563198,146.733093",
+    "Altitude": 36000,
+    "Speed": 399,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567440016,
+    "UTC": "2019-09-02T16:00:16Z",
+    "Callsign": "PAL117",
+    "Position": "40.352188,146.474854",
+    "Altitude": 36000,
+    "Speed": 397,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440080,
+    "UTC": "2019-09-02T16:01:20Z",
+    "Callsign": "PAL117",
+    "Position": "40.266987,146.371155",
+    "Altitude": 36000,
+    "Speed": 398,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440146,
+    "UTC": "2019-09-02T16:02:26Z",
+    "Callsign": "PAL117",
+    "Position": "40.176956,146.262238",
+    "Altitude": 36000,
+    "Speed": 399,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440213,
+    "UTC": "2019-09-02T16:03:33Z",
+    "Callsign": "PAL117",
+    "Position": "40.086922,146.153427",
+    "Altitude": 36000,
+    "Speed": 399,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440227,
+    "UTC": "2019-09-02T16:03:47Z",
+    "Callsign": "PAL117",
+    "Position": "40.06691,146.129333",
+    "Altitude": 36000,
+    "Speed": 399,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440292,
+    "UTC": "2019-09-02T16:04:52Z",
+    "Callsign": "PAL117",
+    "Position": "39.979015,146.023712",
+    "Altitude": 36000,
+    "Speed": 400,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440392,
+    "UTC": "2019-09-02T16:06:32Z",
+    "Callsign": "PAL117",
+    "Position": "39.841415,145.859268",
+    "Altitude": 36000,
+    "Speed": 403,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440470,
+    "UTC": "2019-09-02T16:07:50Z",
+    "Callsign": "PAL117",
+    "Position": "39.733109,145.730362",
+    "Altitude": 36000,
+    "Speed": 404,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440524,
+    "UTC": "2019-09-02T16:08:44Z",
+    "Callsign": "PAL117",
+    "Position": "39.659317,145.642883",
+    "Altitude": 36000,
+    "Speed": 405,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440583,
+    "UTC": "2019-09-02T16:09:43Z",
+    "Callsign": "PAL117",
+    "Position": "39.577515,145.546158",
+    "Altitude": 36000,
+    "Speed": 407,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440673,
+    "UTC": "2019-09-02T16:11:13Z",
+    "Callsign": "PAL117",
+    "Position": "39.451767,145.398254",
+    "Altitude": 36000,
+    "Speed": 409,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440696,
+    "UTC": "2019-09-02T16:11:36Z",
+    "Callsign": "PAL117",
+    "Position": "39.419724,145.360641",
+    "Altitude": 36000,
+    "Speed": 409,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440744,
+    "UTC": "2019-09-02T16:12:24Z",
+    "Callsign": "PAL117",
+    "Position": "39.352936,145.282471",
+    "Altitude": 36000,
+    "Speed": 409,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440834,
+    "UTC": "2019-09-02T16:13:54Z",
+    "Callsign": "PAL117",
+    "Position": "39.226639,145.135315",
+    "Altitude": 36000,
+    "Speed": 409,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567440897,
+    "UTC": "2019-09-02T16:14:57Z",
+    "Callsign": "PAL117",
+    "Position": "39.131882,145.038101",
+    "Altitude": 36000,
+    "Speed": 417,
+    "Direction": 213
+  },
+  {
+    "Timestamp": 1567440972,
+    "UTC": "2019-09-02T16:16:12Z",
+    "Callsign": "PAL117",
+    "Position": "39.007236,144.940552",
+    "Altitude": 36000,
+    "Speed": 423,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441035,
+    "UTC": "2019-09-02T16:17:15Z",
+    "Callsign": "PAL117",
+    "Position": "38.901169,144.857788",
+    "Altitude": 36000,
+    "Speed": 424,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441101,
+    "UTC": "2019-09-02T16:18:21Z",
+    "Callsign": "PAL117",
+    "Position": "38.791718,144.772156",
+    "Altitude": 36000,
+    "Speed": 426,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441162,
+    "UTC": "2019-09-02T16:19:22Z",
+    "Callsign": "PAL117",
+    "Position": "38.687565,144.69104",
+    "Altitude": 36000,
+    "Speed": 428,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441227,
+    "UTC": "2019-09-02T16:20:27Z",
+    "Callsign": "PAL117",
+    "Position": "38.578674,144.606705",
+    "Altitude": 36000,
+    "Speed": 428,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441291,
+    "UTC": "2019-09-02T16:21:31Z",
+    "Callsign": "PAL117",
+    "Position": "38.470459,144.523178",
+    "Altitude": 36000,
+    "Speed": 428,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441343,
+    "UTC": "2019-09-02T16:22:23Z",
+    "Callsign": "PAL117",
+    "Position": "38.381287,144.454498",
+    "Altitude": 36000,
+    "Speed": 427,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441434,
+    "UTC": "2019-09-02T16:23:54Z",
+    "Callsign": "PAL117",
+    "Position": "38.225998,144.335327",
+    "Altitude": 36000,
+    "Speed": 431,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441499,
+    "UTC": "2019-09-02T16:24:59Z",
+    "Callsign": "PAL117",
+    "Position": "38.114178,144.250015",
+    "Altitude": 36000,
+    "Speed": 432,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567441561,
+    "UTC": "2019-09-02T16:26:01Z",
+    "Callsign": "PAL117",
+    "Position": "38.008274,144.169464",
+    "Altitude": 36000,
+    "Speed": 435,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567441593,
+    "UTC": "2019-09-02T16:26:33Z",
+    "Callsign": "PAL117",
+    "Position": "37.953342,144.127792",
+    "Altitude": 36000,
+    "Speed": 436,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567441680,
+    "UTC": "2019-09-02T16:28:00Z",
+    "Callsign": "PAL117",
+    "Position": "37.801208,144.012756",
+    "Altitude": 36000,
+    "Speed": 439,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567441742,
+    "UTC": "2019-09-02T16:29:02Z",
+    "Callsign": "PAL117",
+    "Position": "37.692417,143.930817",
+    "Altitude": 36000,
+    "Speed": 438,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567441769,
+    "UTC": "2019-09-02T16:29:29Z",
+    "Callsign": "PAL117",
+    "Position": "37.646935,143.896713",
+    "Altitude": 36000,
+    "Speed": 439,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567441854,
+    "UTC": "2019-09-02T16:30:54Z",
+    "Callsign": "PAL117",
+    "Position": "37.496887,143.78421",
+    "Altitude": 36000,
+    "Speed": 442,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567441921,
+    "UTC": "2019-09-02T16:32:01Z",
+    "Callsign": "PAL117",
+    "Position": "37.378792,143.696152",
+    "Altitude": 36000,
+    "Speed": 446,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567441988,
+    "UTC": "2019-09-02T16:33:08Z",
+    "Callsign": "PAL117",
+    "Position": "37.258621,143.606964",
+    "Altitude": 36000,
+    "Speed": 447,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442052,
+    "UTC": "2019-09-02T16:34:12Z",
+    "Callsign": "PAL117",
+    "Position": "37.145187,143.522934",
+    "Altitude": 36000,
+    "Speed": 448,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442115,
+    "UTC": "2019-09-02T16:35:15Z",
+    "Callsign": "PAL117",
+    "Position": "37.033096,143.440247",
+    "Altitude": 36000,
+    "Speed": 446,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442183,
+    "UTC": "2019-09-02T16:36:23Z",
+    "Callsign": "PAL117",
+    "Position": "36.911545,143.350952",
+    "Altitude": 36000,
+    "Speed": 449,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442246,
+    "UTC": "2019-09-02T16:37:26Z",
+    "Callsign": "PAL117",
+    "Position": "36.797928,143.267731",
+    "Altitude": 36000,
+    "Speed": 450,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442307,
+    "UTC": "2019-09-02T16:38:27Z",
+    "Callsign": "PAL117",
+    "Position": "36.688614,143.187897",
+    "Altitude": 36000,
+    "Speed": 452,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442369,
+    "UTC": "2019-09-02T16:39:29Z",
+    "Callsign": "PAL117",
+    "Position": "36.577209,143.106857",
+    "Altitude": 36000,
+    "Speed": 452,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442439,
+    "UTC": "2019-09-02T16:40:39Z",
+    "Callsign": "PAL117",
+    "Position": "36.450806,143.01532",
+    "Altitude": 36000,
+    "Speed": 453,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442501,
+    "UTC": "2019-09-02T16:41:41Z",
+    "Callsign": "PAL117",
+    "Position": "36.338257,142.934006",
+    "Altitude": 36000,
+    "Speed": 454,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442560,
+    "UTC": "2019-09-02T16:42:40Z",
+    "Callsign": "PAL117",
+    "Position": "36.330139,142.928131",
+    "Altitude": 36000,
+    "Speed": 454,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442590,
+    "UTC": "2019-09-02T16:43:10Z",
+    "Callsign": "PAL117",
+    "Position": "36.330139,142.928131",
+    "Altitude": 36000,
+    "Speed": 456,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442682,
+    "UTC": "2019-09-02T16:44:42Z",
+    "Callsign": "PAL117",
+    "Position": "36.008194,142.697235",
+    "Altitude": 36000,
+    "Speed": 457,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442746,
+    "UTC": "2019-09-02T16:45:46Z",
+    "Callsign": "PAL117",
+    "Position": "35.891125,142.613754",
+    "Altitude": 36000,
+    "Speed": 459,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1567442782,
+    "UTC": "2019-09-02T16:46:22Z",
+    "Callsign": "PAL117",
+    "Position": "35.826965,142.561279",
+    "Altitude": 36000,
+    "Speed": 453,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567442793,
+    "UTC": "2019-09-02T16:46:33Z",
+    "Callsign": "PAL117",
+    "Position": "35.811951,142.543152",
+    "Altitude": 36000,
+    "Speed": 452,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567442800,
+    "UTC": "2019-09-02T16:46:40Z",
+    "Callsign": "PAL117",
+    "Position": "35.801834,142.528717",
+    "Altitude": 36000,
+    "Speed": 451,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1567442809,
+    "UTC": "2019-09-02T16:46:49Z",
+    "Callsign": "PAL117",
+    "Position": "35.790619,142.510269",
+    "Altitude": 36000,
+    "Speed": 451,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1567442879,
+    "UTC": "2019-09-02T16:47:59Z",
+    "Callsign": "PAL117",
+    "Position": "35.707336,142.361664",
+    "Altitude": 36000,
+    "Speed": 453,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567442941,
+    "UTC": "2019-09-02T16:49:01Z",
+    "Callsign": "PAL117",
+    "Position": "35.634109,142.231125",
+    "Altitude": 36000,
+    "Speed": 454,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567443006,
+    "UTC": "2019-09-02T16:50:06Z",
+    "Callsign": "PAL117",
+    "Position": "35.55455,142.093658",
+    "Altitude": 36000,
+    "Speed": 455,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1567443067,
+    "UTC": "2019-09-02T16:51:07Z",
+    "Callsign": "PAL117",
+    "Position": "35.472473,141.971161",
+    "Altitude": 36000,
+    "Speed": 455,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1567443129,
+    "UTC": "2019-09-02T16:52:09Z",
+    "Callsign": "PAL117",
+    "Position": "35.387787,141.852142",
+    "Altitude": 36000,
+    "Speed": 455,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443188,
+    "UTC": "2019-09-02T16:53:08Z",
+    "Callsign": "PAL117",
+    "Position": "35.304008,141.734787",
+    "Altitude": 36000,
+    "Speed": 457,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443258,
+    "UTC": "2019-09-02T16:54:18Z",
+    "Callsign": "PAL117",
+    "Position": "35.209831,141.602386",
+    "Altitude": 36000,
+    "Speed": 456,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1567443318,
+    "UTC": "2019-09-02T16:55:18Z",
+    "Callsign": "PAL117",
+    "Position": "35.123383,141.480865",
+    "Altitude": 36000,
+    "Speed": 457,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1567443381,
+    "UTC": "2019-09-02T16:56:21Z",
+    "Callsign": "PAL117",
+    "Position": "35.039017,141.36293",
+    "Altitude": 36000,
+    "Speed": 457,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1567443443,
+    "UTC": "2019-09-02T16:57:23Z",
+    "Callsign": "PAL117",
+    "Position": "34.950668,141.23967",
+    "Altitude": 36000,
+    "Speed": 457,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443504,
+    "UTC": "2019-09-02T16:58:24Z",
+    "Callsign": "PAL117",
+    "Position": "34.865662,141.121567",
+    "Altitude": 35975,
+    "Speed": 457,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443565,
+    "UTC": "2019-09-02T16:59:25Z",
+    "Callsign": "PAL117",
+    "Position": "34.782669,141.006546",
+    "Altitude": 36000,
+    "Speed": 456,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443626,
+    "UTC": "2019-09-02T17:00:26Z",
+    "Callsign": "PAL117",
+    "Position": "34.696781,140.887985",
+    "Altitude": 36000,
+    "Speed": 457,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443686,
+    "UTC": "2019-09-02T17:01:26Z",
+    "Callsign": "PAL117",
+    "Position": "34.610458,140.769333",
+    "Altitude": 36000,
+    "Speed": 459,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443751,
+    "UTC": "2019-09-02T17:02:31Z",
+    "Callsign": "PAL117",
+    "Position": "34.521057,140.646805",
+    "Altitude": 36000,
+    "Speed": 459,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443811,
+    "UTC": "2019-09-02T17:03:31Z",
+    "Callsign": "PAL117",
+    "Position": "34.43541,140.529816",
+    "Altitude": 36000,
+    "Speed": 461,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443871,
+    "UTC": "2019-09-02T17:04:31Z",
+    "Callsign": "PAL117",
+    "Position": "34.349499,140.412888",
+    "Altitude": 35975,
+    "Speed": 463,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443937,
+    "UTC": "2019-09-02T17:05:37Z",
+    "Callsign": "PAL117",
+    "Position": "34.257744,140.288422",
+    "Altitude": 35975,
+    "Speed": 466,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567443999,
+    "UTC": "2019-09-02T17:06:39Z",
+    "Callsign": "PAL117",
+    "Position": "34.167023,140.165756",
+    "Altitude": 36000,
+    "Speed": 466,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567444061,
+    "UTC": "2019-09-02T17:07:41Z",
+    "Callsign": "PAL117",
+    "Position": "34.079224,140.047485",
+    "Altitude": 36000,
+    "Speed": 467,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567444123,
+    "UTC": "2019-09-02T17:08:43Z",
+    "Callsign": "PAL117",
+    "Position": "33.987881,139.92485",
+    "Altitude": 36000,
+    "Speed": 468,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567444186,
+    "UTC": "2019-09-02T17:09:46Z",
+    "Callsign": "PAL117",
+    "Position": "33.89566,139.801529",
+    "Altitude": 36000,
+    "Speed": 468,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567444247,
+    "UTC": "2019-09-02T17:10:47Z",
+    "Callsign": "PAL117",
+    "Position": "33.807819,139.684296",
+    "Altitude": 35975,
+    "Speed": 468,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1567444311,
+    "UTC": "2019-09-02T17:11:51Z",
+    "Callsign": "PAL117",
+    "Position": "33.716217,139.562576",
+    "Altitude": 36000,
+    "Speed": 461,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444371,
+    "UTC": "2019-09-02T17:12:51Z",
+    "Callsign": "PAL117",
+    "Position": "33.630203,139.44873",
+    "Altitude": 36000,
+    "Speed": 459,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444433,
+    "UTC": "2019-09-02T17:13:53Z",
+    "Callsign": "PAL117",
+    "Position": "33.542797,139.333359",
+    "Altitude": 36000,
+    "Speed": 458,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444496,
+    "UTC": "2019-09-02T17:14:56Z",
+    "Callsign": "PAL117",
+    "Position": "33.451786,139.213654",
+    "Altitude": 36000,
+    "Speed": 460,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444556,
+    "UTC": "2019-09-02T17:15:56Z",
+    "Callsign": "PAL117",
+    "Position": "33.364456,139.099014",
+    "Altitude": 36000,
+    "Speed": 463,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444617,
+    "UTC": "2019-09-02T17:16:57Z",
+    "Callsign": "PAL117",
+    "Position": "33.276657,138.984283",
+    "Altitude": 36000,
+    "Speed": 465,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444676,
+    "UTC": "2019-09-02T17:17:56Z",
+    "Callsign": "PAL117",
+    "Position": "33.190861,138.872452",
+    "Altitude": 36000,
+    "Speed": 469,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444746,
+    "UTC": "2019-09-02T17:19:06Z",
+    "Callsign": "PAL117",
+    "Position": "33.091782,138.743927",
+    "Altitude": 36000,
+    "Speed": 472,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444820,
+    "UTC": "2019-09-02T17:20:20Z",
+    "Callsign": "PAL117",
+    "Position": "32.98119,138.600769",
+    "Altitude": 36000,
+    "Speed": 474,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444863,
+    "UTC": "2019-09-02T17:21:03Z",
+    "Callsign": "PAL117",
+    "Position": "32.914806,138.515182",
+    "Altitude": 36000,
+    "Speed": 474,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444900,
+    "UTC": "2019-09-02T17:21:40Z",
+    "Callsign": "PAL117",
+    "Position": "32.859501,138.443985",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567444961,
+    "UTC": "2019-09-02T17:22:41Z",
+    "Callsign": "PAL117",
+    "Position": "32.768188,138.326874",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567445011,
+    "UTC": "2019-09-02T17:23:31Z",
+    "Callsign": "PAL117",
+    "Position": "32.693031,138.230713",
+    "Altitude": 36000,
+    "Speed": 475,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567445080,
+    "UTC": "2019-09-02T17:24:40Z",
+    "Callsign": "PAL117",
+    "Position": "32.590199,138.099487",
+    "Altitude": 36000,
+    "Speed": 476,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567445176,
+    "UTC": "2019-09-02T17:26:16Z",
+    "Callsign": "PAL117",
+    "Position": "32.444962,137.915054",
+    "Altitude": 36000,
+    "Speed": 477,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567445239,
+    "UTC": "2019-09-02T17:27:19Z",
+    "Callsign": "PAL117",
+    "Position": "32.352951,137.798767",
+    "Altitude": 36000,
+    "Speed": 476,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567445264,
+    "UTC": "2019-09-02T17:27:44Z",
+    "Callsign": "PAL117",
+    "Position": "32.314281,137.749893",
+    "Altitude": 36000,
+    "Speed": 476,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567445352,
+    "UTC": "2019-09-02T17:29:12Z",
+    "Callsign": "PAL117",
+    "Position": "32.179653,137.580551",
+    "Altitude": 36000,
+    "Speed": 478,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445362,
+    "UTC": "2019-09-02T17:29:22Z",
+    "Callsign": "PAL117",
+    "Position": "32.166138,137.563553",
+    "Altitude": 36000,
+    "Speed": 478,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445453,
+    "UTC": "2019-09-02T17:30:53Z",
+    "Callsign": "PAL117",
+    "Position": "32.027435,137.389908",
+    "Altitude": 36000,
+    "Speed": 481,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445518,
+    "UTC": "2019-09-02T17:31:58Z",
+    "Callsign": "PAL117",
+    "Position": "31.927048,137.264893",
+    "Altitude": 36000,
+    "Speed": 483,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445580,
+    "UTC": "2019-09-02T17:33:00Z",
+    "Callsign": "PAL117",
+    "Position": "31.830233,137.144577",
+    "Altitude": 36000,
+    "Speed": 485,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445644,
+    "UTC": "2019-09-02T17:34:04Z",
+    "Callsign": "PAL117",
+    "Position": "31.731812,137.022614",
+    "Altitude": 36000,
+    "Speed": 486,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445657,
+    "UTC": "2019-09-02T17:34:17Z",
+    "Callsign": "PAL117",
+    "Position": "31.712502,136.998795",
+    "Altitude": 36000,
+    "Speed": 486,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445792,
+    "UTC": "2019-09-02T17:36:32Z",
+    "Callsign": "PAL117",
+    "Position": "31.502243,136.740036",
+    "Altitude": 36000,
+    "Speed": 486,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1567445853,
+    "UTC": "2019-09-02T17:37:33Z",
+    "Callsign": "PAL117",
+    "Position": "31.405518,136.62706",
+    "Altitude": 36000,
+    "Speed": 489,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1567445920,
+    "UTC": "2019-09-02T17:38:40Z",
+    "Callsign": "PAL117",
+    "Position": "31.291855,136.510788",
+    "Altitude": 36000,
+    "Speed": 491,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1567445973,
+    "UTC": "2019-09-02T17:39:33Z",
+    "Callsign": "PAL117",
+    "Position": "31.200623,136.417984",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1567446060,
+    "UTC": "2019-09-02T17:41:00Z",
+    "Callsign": "PAL117",
+    "Position": "31.051025,136.266388",
+    "Altitude": 36000,
+    "Speed": 490,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1567446365,
+    "UTC": "2019-09-02T17:46:05Z",
+    "Callsign": "PAL117",
+    "Position": "30.524689,135.737915",
+    "Altitude": 36000,
+    "Speed": 494,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567446374,
+    "UTC": "2019-09-02T17:46:14Z",
+    "Callsign": "PAL117",
+    "Position": "30.509033,135.722351",
+    "Altitude": 36000,
+    "Speed": 493,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567446504,
+    "UTC": "2019-09-02T17:48:24Z",
+    "Callsign": "PAL117",
+    "Position": "30.2845,135.499344",
+    "Altitude": 36000,
+    "Speed": 491,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567447320,
+    "UTC": "2019-09-02T18:02:00Z",
+    "Callsign": "PAL117",
+    "Position": "28.900421,134.122711",
+    "Altitude": 36000,
+    "Speed": 482,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567447409,
+    "UTC": "2019-09-02T18:03:29Z",
+    "Callsign": "PAL117",
+    "Position": "28.74987,133.975632",
+    "Altitude": 36000,
+    "Speed": 482,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567447467,
+    "UTC": "2019-09-02T18:04:27Z",
+    "Callsign": "PAL117",
+    "Position": "28.64983,133.878159",
+    "Altitude": 36000,
+    "Speed": 482,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567447757,
+    "UTC": "2019-09-02T18:09:17Z",
+    "Callsign": "PAL117",
+    "Position": "28.15892,133.403763",
+    "Altitude": 36000,
+    "Speed": 482,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567447823,
+    "UTC": "2019-09-02T18:10:23Z",
+    "Callsign": "PAL117",
+    "Position": "28.048141,133.297653",
+    "Altitude": 36000,
+    "Speed": 481,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567447834,
+    "UTC": "2019-09-02T18:10:34Z",
+    "Callsign": "PAL117",
+    "Position": "28.029661,133.279892",
+    "Altitude": 36000,
+    "Speed": 480,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567448990,
+    "UTC": "2019-09-02T18:29:50Z",
+    "Callsign": "PAL117",
+    "Position": "26.049225,131.439957",
+    "Altitude": 38000,
+    "Speed": 479,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1567448998,
+    "UTC": "2019-09-02T18:29:58Z",
+    "Callsign": "PAL117",
+    "Position": "26.037458,131.429291",
+    "Altitude": 38000,
+    "Speed": 479,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1567449085,
+    "UTC": "2019-09-02T18:31:25Z",
+    "Callsign": "PAL117",
+    "Position": "25.889515,131.295441",
+    "Altitude": 38000,
+    "Speed": 479,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1567449148,
+    "UTC": "2019-09-02T18:32:28Z",
+    "Callsign": "PAL117",
+    "Position": "25.775742,131.202881",
+    "Altitude": 38000,
+    "Speed": 479,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449212,
+    "UTC": "2019-09-02T18:33:32Z",
+    "Callsign": "PAL117",
+    "Position": "25.660492,131.113937",
+    "Altitude": 38000,
+    "Speed": 481,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449273,
+    "UTC": "2019-09-02T18:34:33Z",
+    "Callsign": "PAL117",
+    "Position": "25.546844,131.026428",
+    "Altitude": 38000,
+    "Speed": 482,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449308,
+    "UTC": "2019-09-02T18:35:08Z",
+    "Callsign": "PAL117",
+    "Position": "25.483063,130.977325",
+    "Altitude": 38000,
+    "Speed": 483,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449442,
+    "UTC": "2019-09-02T18:37:22Z",
+    "Callsign": "PAL117",
+    "Position": "25.235502,130.787521",
+    "Altitude": 38000,
+    "Speed": 483,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449506,
+    "UTC": "2019-09-02T18:38:26Z",
+    "Callsign": "PAL117",
+    "Position": "25.119461,130.699005",
+    "Altitude": 38000,
+    "Speed": 482,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449570,
+    "UTC": "2019-09-02T18:39:30Z",
+    "Callsign": "PAL117",
+    "Position": "25.002365,130.609741",
+    "Altitude": 38000,
+    "Speed": 481,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449632,
+    "UTC": "2019-09-02T18:40:32Z",
+    "Callsign": "PAL117",
+    "Position": "24.885544,130.521042",
+    "Altitude": 38000,
+    "Speed": 480,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449692,
+    "UTC": "2019-09-02T18:41:32Z",
+    "Callsign": "PAL117",
+    "Position": "24.777283,130.438995",
+    "Altitude": 38000,
+    "Speed": 480,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449756,
+    "UTC": "2019-09-02T18:42:36Z",
+    "Callsign": "PAL117",
+    "Position": "24.659958,130.350189",
+    "Altitude": 38000,
+    "Speed": 480,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449820,
+    "UTC": "2019-09-02T18:43:40Z",
+    "Callsign": "PAL117",
+    "Position": "24.542013,130.261154",
+    "Altitude": 38000,
+    "Speed": 480,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449883,
+    "UTC": "2019-09-02T18:44:43Z",
+    "Callsign": "PAL117",
+    "Position": "24.426704,130.174408",
+    "Altitude": 38000,
+    "Speed": 479,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1567449947,
+    "UTC": "2019-09-02T18:45:47Z",
+    "Callsign": "PAL117",
+    "Position": "24.312195,130.087585",
+    "Altitude": 38000,
+    "Speed": 478,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450010,
+    "UTC": "2019-09-02T18:46:50Z",
+    "Callsign": "PAL117",
+    "Position": "24.198486,129.998474",
+    "Altitude": 38000,
+    "Speed": 479,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450072,
+    "UTC": "2019-09-02T18:47:52Z",
+    "Callsign": "PAL117",
+    "Position": "24.084915,129.910324",
+    "Altitude": 38000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450134,
+    "UTC": "2019-09-02T18:48:54Z",
+    "Callsign": "PAL117",
+    "Position": "23.971563,129.822693",
+    "Altitude": 38000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450198,
+    "UTC": "2019-09-02T18:49:58Z",
+    "Callsign": "PAL117",
+    "Position": "23.855694,129.733093",
+    "Altitude": 38000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450261,
+    "UTC": "2019-09-02T18:51:01Z",
+    "Callsign": "PAL117",
+    "Position": "23.74054,129.644318",
+    "Altitude": 38000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450324,
+    "UTC": "2019-09-02T18:52:04Z",
+    "Callsign": "PAL117",
+    "Position": "23.627449,129.557358",
+    "Altitude": 38000,
+    "Speed": 480,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450385,
+    "UTC": "2019-09-02T18:53:05Z",
+    "Callsign": "PAL117",
+    "Position": "23.514374,129.470627",
+    "Altitude": 38000,
+    "Speed": 476,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450446,
+    "UTC": "2019-09-02T18:54:06Z",
+    "Callsign": "PAL117",
+    "Position": "23.40572,129.387314",
+    "Altitude": 38000,
+    "Speed": 475,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450511,
+    "UTC": "2019-09-02T18:55:11Z",
+    "Callsign": "PAL117",
+    "Position": "23.289248,129.298355",
+    "Altitude": 38000,
+    "Speed": 469,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450575,
+    "UTC": "2019-09-02T18:56:15Z",
+    "Callsign": "PAL117",
+    "Position": "23.177948,129.213455",
+    "Altitude": 38000,
+    "Speed": 467,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450639,
+    "UTC": "2019-09-02T18:57:19Z",
+    "Callsign": "PAL117",
+    "Position": "23.064377,129.126953",
+    "Altitude": 38000,
+    "Speed": 464,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567450712,
+    "UTC": "2019-09-02T18:58:32Z",
+    "Callsign": "PAL117",
+    "Position": "22.939453,129.027679",
+    "Altitude": 38000,
+    "Speed": 457,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1567450772,
+    "UTC": "2019-09-02T18:59:32Z",
+    "Callsign": "PAL117",
+    "Position": "22.836805,128.939209",
+    "Altitude": 38025,
+    "Speed": 459,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1567450833,
+    "UTC": "2019-09-02T19:00:33Z",
+    "Callsign": "PAL117",
+    "Position": "22.735107,128.853546",
+    "Altitude": 38000,
+    "Speed": 460,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567450898,
+    "UTC": "2019-09-02T19:01:38Z",
+    "Callsign": "PAL117",
+    "Position": "22.626995,128.763016",
+    "Altitude": 38000,
+    "Speed": 461,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567450930,
+    "UTC": "2019-09-02T19:02:10Z",
+    "Callsign": "PAL117",
+    "Position": "22.570433,128.715668",
+    "Altitude": 38000,
+    "Speed": 458,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451016,
+    "UTC": "2019-09-02T19:03:36Z",
+    "Callsign": "PAL117",
+    "Position": "22.42561,128.594254",
+    "Altitude": 38000,
+    "Speed": 463,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451071,
+    "UTC": "2019-09-02T19:04:31Z",
+    "Callsign": "PAL117",
+    "Position": "22.33342,128.517319",
+    "Altitude": 38000,
+    "Speed": 463,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451163,
+    "UTC": "2019-09-02T19:06:03Z",
+    "Callsign": "PAL117",
+    "Position": "22.177765,128.387405",
+    "Altitude": 38000,
+    "Speed": 461,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451227,
+    "UTC": "2019-09-02T19:07:07Z",
+    "Callsign": "PAL117",
+    "Position": "22.070114,128.297745",
+    "Altitude": 38000,
+    "Speed": 461,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451288,
+    "UTC": "2019-09-02T19:08:08Z",
+    "Callsign": "PAL117",
+    "Position": "21.966698,128.211823",
+    "Altitude": 38000,
+    "Speed": 460,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451356,
+    "UTC": "2019-09-02T19:09:16Z",
+    "Callsign": "PAL117",
+    "Position": "21.852272,128.11702",
+    "Altitude": 38000,
+    "Speed": 457,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451420,
+    "UTC": "2019-09-02T19:10:20Z",
+    "Callsign": "PAL117",
+    "Position": "21.743362,128.026978",
+    "Altitude": 38000,
+    "Speed": 457,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451485,
+    "UTC": "2019-09-02T19:11:25Z",
+    "Callsign": "PAL117",
+    "Position": "21.63652,127.938736",
+    "Altitude": 38000,
+    "Speed": 457,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567451506,
+    "UTC": "2019-09-02T19:11:46Z",
+    "Callsign": "PAL117",
+    "Position": "21.599533,127.908173",
+    "Altitude": 38000,
+    "Speed": 458,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1567454448,
+    "UTC": "2019-09-02T20:00:48Z",
+    "Callsign": "PAL117",
+    "Position": "16.954788,123.602501",
+    "Altitude": 38000,
+    "Speed": 485,
+    "Direction": 194
+  },
+  {
+    "Timestamp": 1567454509,
+    "UTC": "2019-09-02T20:01:49Z",
+    "Callsign": "PAL117",
+    "Position": "16.822723,123.56694",
+    "Altitude": 38000,
+    "Speed": 483,
+    "Direction": 194
+  },
+  {
+    "Timestamp": 1567454569,
+    "UTC": "2019-09-02T20:02:49Z",
+    "Callsign": "PAL117",
+    "Position": "16.691986,123.527962",
+    "Altitude": 38000,
+    "Speed": 485,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1567454633,
+    "UTC": "2019-09-02T20:03:53Z",
+    "Callsign": "PAL117",
+    "Position": "16.560122,123.471024",
+    "Altitude": 38000,
+    "Speed": 483,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567454694,
+    "UTC": "2019-09-02T20:04:54Z",
+    "Callsign": "PAL117",
+    "Position": "16.435226,123.414627",
+    "Altitude": 38000,
+    "Speed": 481,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567454759,
+    "UTC": "2019-09-02T20:05:59Z",
+    "Callsign": "PAL117",
+    "Position": "16.303572,123.355133",
+    "Altitude": 38000,
+    "Speed": 483,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567454819,
+    "UTC": "2019-09-02T20:06:59Z",
+    "Callsign": "PAL117",
+    "Position": "16.179794,123.299171",
+    "Altitude": 38000,
+    "Speed": 482,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567454879,
+    "UTC": "2019-09-02T20:07:59Z",
+    "Callsign": "PAL117",
+    "Position": "16.055466,123.243187",
+    "Altitude": 38000,
+    "Speed": 485,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567454943,
+    "UTC": "2019-09-02T20:09:03Z",
+    "Callsign": "PAL117",
+    "Position": "15.921936,123.183075",
+    "Altitude": 38000,
+    "Speed": 488,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567455005,
+    "UTC": "2019-09-02T20:10:05Z",
+    "Callsign": "PAL117",
+    "Position": "15.796059,123.12648",
+    "Altitude": 37950,
+    "Speed": 488,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567455064,
+    "UTC": "2019-09-02T20:11:04Z",
+    "Callsign": "PAL117",
+    "Position": "15.670135,123.06723",
+    "Altitude": 35025,
+    "Speed": 502,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1567455070,
+    "UTC": "2019-09-02T20:11:10Z",
+    "Callsign": "PAL117",
+    "Position": "15.658264,123.058586",
+    "Altitude": 34800,
+    "Speed": 501,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1567455077,
+    "UTC": "2019-09-02T20:11:17Z",
+    "Callsign": "PAL117",
+    "Position": "15.645905,123.04818",
+    "Altitude": 34575,
+    "Speed": 498,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1567455084,
+    "UTC": "2019-09-02T20:11:24Z",
+    "Callsign": "PAL117",
+    "Position": "15.636017,123.038589",
+    "Altitude": 34375,
+    "Speed": 495,
+    "Direction": 223
+  },
+  {
+    "Timestamp": 1567455093,
+    "UTC": "2019-09-02T20:11:33Z",
+    "Callsign": "PAL117",
+    "Position": "15.622186,123.022697",
+    "Altitude": 34075,
+    "Speed": 492,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1567455101,
+    "UTC": "2019-09-02T20:11:41Z",
+    "Callsign": "PAL117",
+    "Position": "15.610199,123.005821",
+    "Altitude": 33775,
+    "Speed": 487,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567455108,
+    "UTC": "2019-09-02T20:11:48Z",
+    "Callsign": "PAL117",
+    "Position": "15.602829,122.99334",
+    "Altitude": 33575,
+    "Speed": 484,
+    "Direction": 238
+  },
+  {
+    "Timestamp": 1567455116,
+    "UTC": "2019-09-02T20:11:56Z",
+    "Callsign": "PAL117",
+    "Position": "15.592346,122.974548",
+    "Altitude": 33250,
+    "Speed": 481,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455122,
+    "UTC": "2019-09-02T20:12:02Z",
+    "Callsign": "PAL117",
+    "Position": "15.585892,122.963036",
+    "Altitude": 33050,
+    "Speed": 479,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567455185,
+    "UTC": "2019-09-02T20:13:05Z",
+    "Callsign": "PAL117",
+    "Position": "15.520144,122.842796",
+    "Altitude": 31075,
+    "Speed": 462,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455246,
+    "UTC": "2019-09-02T20:14:06Z",
+    "Callsign": "PAL117",
+    "Position": "15.456299,122.725914",
+    "Altitude": 29100,
+    "Speed": 447,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455307,
+    "UTC": "2019-09-02T20:15:07Z",
+    "Callsign": "PAL117",
+    "Position": "15.394226,122.613304",
+    "Altitude": 27225,
+    "Speed": 433,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455369,
+    "UTC": "2019-09-02T20:16:09Z",
+    "Callsign": "PAL117",
+    "Position": "15.333893,122.504013",
+    "Altitude": 25400,
+    "Speed": 421,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455431,
+    "UTC": "2019-09-02T20:17:11Z",
+    "Callsign": "PAL117",
+    "Position": "15.27486,122.397507",
+    "Altitude": 23650,
+    "Speed": 407,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455493,
+    "UTC": "2019-09-02T20:18:13Z",
+    "Callsign": "PAL117",
+    "Position": "15.217507,122.293526",
+    "Altitude": 21900,
+    "Speed": 395,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455559,
+    "UTC": "2019-09-02T20:19:19Z",
+    "Callsign": "PAL117",
+    "Position": "15.159084,122.187927",
+    "Altitude": 20100,
+    "Speed": 382,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455621,
+    "UTC": "2019-09-02T20:20:21Z",
+    "Callsign": "PAL117",
+    "Position": "15.105057,122.090675",
+    "Altitude": 18400,
+    "Speed": 371,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455680,
+    "UTC": "2019-09-02T20:21:20Z",
+    "Callsign": "PAL117",
+    "Position": "15.054854,122.000084",
+    "Altitude": 16750,
+    "Speed": 361,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455713,
+    "UTC": "2019-09-02T20:21:53Z",
+    "Callsign": "PAL117",
+    "Position": "15.028319,121.952408",
+    "Altitude": 16275,
+    "Speed": 344,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455743,
+    "UTC": "2019-09-02T20:22:23Z",
+    "Callsign": "PAL117",
+    "Position": "15.004671,121.909889",
+    "Altitude": 15950,
+    "Speed": 326,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455777,
+    "UTC": "2019-09-02T20:22:57Z",
+    "Callsign": "PAL117",
+    "Position": "14.97944,121.864471",
+    "Altitude": 15175,
+    "Speed": 324,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455814,
+    "UTC": "2019-09-02T20:23:34Z",
+    "Callsign": "PAL117",
+    "Position": "14.953033,121.816795",
+    "Altitude": 14350,
+    "Speed": 302,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455846,
+    "UTC": "2019-09-02T20:24:06Z",
+    "Callsign": "PAL117",
+    "Position": "14.930511,121.776512",
+    "Altitude": 13650,
+    "Speed": 296,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455878,
+    "UTC": "2019-09-02T20:24:38Z",
+    "Callsign": "PAL117",
+    "Position": "14.9095,121.739021",
+    "Altitude": 12950,
+    "Speed": 295,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567455909,
+    "UTC": "2019-09-02T20:25:09Z",
+    "Callsign": "PAL117",
+    "Position": "14.888077,121.700233",
+    "Altitude": 12425,
+    "Speed": 285,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455940,
+    "UTC": "2019-09-02T20:25:40Z",
+    "Callsign": "PAL117",
+    "Position": "14.867111,121.662987",
+    "Altitude": 11725,
+    "Speed": 287,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567455957,
+    "UTC": "2019-09-02T20:25:57Z",
+    "Callsign": "PAL117",
+    "Position": "14.856949,121.644577",
+    "Altitude": 11400,
+    "Speed": 284,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567455970,
+    "UTC": "2019-09-02T20:26:10Z",
+    "Callsign": "PAL117",
+    "Position": "14.847519,121.628052",
+    "Altitude": 11100,
+    "Speed": 281,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567455983,
+    "UTC": "2019-09-02T20:26:23Z",
+    "Callsign": "PAL117",
+    "Position": "14.837781,121.61586",
+    "Altitude": 10900,
+    "Speed": 279,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1567455993,
+    "UTC": "2019-09-02T20:26:33Z",
+    "Callsign": "PAL117",
+    "Position": "14.825911,121.607857",
+    "Altitude": 10825,
+    "Speed": 275,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1567455999,
+    "UTC": "2019-09-02T20:26:39Z",
+    "Callsign": "PAL117",
+    "Position": "14.820324,121.604874",
+    "Altitude": 10750,
+    "Speed": 271,
+    "Direction": 207
+  },
+  {
+    "Timestamp": 1567456009,
+    "UTC": "2019-09-02T20:26:49Z",
+    "Callsign": "PAL117",
+    "Position": "14.808965,121.599091",
+    "Altitude": 10525,
+    "Speed": 261,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1567456024,
+    "UTC": "2019-09-02T20:27:04Z",
+    "Callsign": "PAL117",
+    "Position": "14.792439,121.590706",
+    "Altitude": 10200,
+    "Speed": 249,
+    "Direction": 206
+  },
+  {
+    "Timestamp": 1567456035,
+    "UTC": "2019-09-02T20:27:15Z",
+    "Callsign": "PAL117",
+    "Position": "14.782516,121.585693",
+    "Altitude": 10000,
+    "Speed": 243,
+    "Direction": 206
+  },
+  {
+    "Timestamp": 1567456046,
+    "UTC": "2019-09-02T20:27:26Z",
+    "Callsign": "PAL117",
+    "Position": "14.77,121.579575",
+    "Altitude": 9800,
+    "Speed": 239,
+    "Direction": 204
+  },
+  {
+    "Timestamp": 1567456061,
+    "UTC": "2019-09-02T20:27:41Z",
+    "Callsign": "PAL117",
+    "Position": "14.755012,121.572586",
+    "Altitude": 9700,
+    "Speed": 226,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567456072,
+    "UTC": "2019-09-02T20:27:52Z",
+    "Callsign": "PAL117",
+    "Position": "14.744677,121.567909",
+    "Altitude": 9650,
+    "Speed": 218,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567456082,
+    "UTC": "2019-09-02T20:28:02Z",
+    "Callsign": "PAL117",
+    "Position": "14.736969,121.564476",
+    "Altitude": 9575,
+    "Speed": 212,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567456094,
+    "UTC": "2019-09-02T20:28:14Z",
+    "Callsign": "PAL117",
+    "Position": "14.725171,121.559334",
+    "Altitude": 9325,
+    "Speed": 211,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1567456164,
+    "UTC": "2019-09-02T20:29:24Z",
+    "Callsign": "PAL117",
+    "Position": "14.661441,121.535339",
+    "Altitude": 7875,
+    "Speed": 209,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1567456175,
+    "UTC": "2019-09-02T20:29:35Z",
+    "Callsign": "PAL117",
+    "Position": "14.650362,121.531487",
+    "Altitude": 7650,
+    "Speed": 209,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1567456188,
+    "UTC": "2019-09-02T20:29:48Z",
+    "Callsign": "PAL117",
+    "Position": "14.638817,121.527534",
+    "Altitude": 7450,
+    "Speed": 208,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1567456200,
+    "UTC": "2019-09-02T20:30:00Z",
+    "Callsign": "PAL117",
+    "Position": "14.628435,121.524017",
+    "Altitude": 7250,
+    "Speed": 208,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1567456214,
+    "UTC": "2019-09-02T20:30:14Z",
+    "Callsign": "PAL117",
+    "Position": "14.616611,121.52002",
+    "Altitude": 7025,
+    "Speed": 209,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1567456224,
+    "UTC": "2019-09-02T20:30:24Z",
+    "Callsign": "PAL117",
+    "Position": "14.605728,121.516411",
+    "Altitude": 6800,
+    "Speed": 209,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1567456237,
+    "UTC": "2019-09-02T20:30:37Z",
+    "Callsign": "PAL117",
+    "Position": "14.594467,121.512482",
+    "Altitude": 6525,
+    "Speed": 207,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1567456243,
+    "UTC": "2019-09-02T20:30:43Z",
+    "Callsign": "PAL117",
+    "Position": "14.589705,121.510094",
+    "Altitude": 6400,
+    "Speed": 202,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1567456250,
+    "UTC": "2019-09-02T20:30:50Z",
+    "Callsign": "PAL117",
+    "Position": "14.58522,121.506424",
+    "Altitude": 6275,
+    "Speed": 194,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1567456256,
+    "UTC": "2019-09-02T20:30:56Z",
+    "Callsign": "PAL117",
+    "Position": "14.581512,121.502396",
+    "Altitude": 6175,
+    "Speed": 189,
+    "Direction": 227
+  },
+  {
+    "Timestamp": 1567456264,
+    "UTC": "2019-09-02T20:31:04Z",
+    "Callsign": "PAL117",
+    "Position": "14.57666,121.496284",
+    "Altitude": 6000,
+    "Speed": 187,
+    "Direction": 231
+  },
+  {
+    "Timestamp": 1567456271,
+    "UTC": "2019-09-02T20:31:11Z",
+    "Callsign": "PAL117",
+    "Position": "14.57341,121.491882",
+    "Altitude": 5875,
+    "Speed": 187,
+    "Direction": 232
+  },
+  {
+    "Timestamp": 1567456280,
+    "UTC": "2019-09-02T20:31:20Z",
+    "Callsign": "PAL117",
+    "Position": "14.568832,121.485443",
+    "Altitude": 5675,
+    "Speed": 187,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567456294,
+    "UTC": "2019-09-02T20:31:34Z",
+    "Callsign": "PAL117",
+    "Position": "14.561096,121.474266",
+    "Altitude": 5400,
+    "Speed": 185,
+    "Direction": 234
+  },
+  {
+    "Timestamp": 1567456307,
+    "UTC": "2019-09-02T20:31:47Z",
+    "Callsign": "PAL117",
+    "Position": "14.555237,121.465599",
+    "Altitude": 5200,
+    "Speed": 185,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1567456317,
+    "UTC": "2019-09-02T20:31:57Z",
+    "Callsign": "PAL117",
+    "Position": "14.550041,121.45636",
+    "Altitude": 5150,
+    "Speed": 186,
+    "Direction": 243
+  },
+  {
+    "Timestamp": 1567456324,
+    "UTC": "2019-09-02T20:32:04Z",
+    "Callsign": "PAL117",
+    "Position": "14.548319,121.451256",
+    "Altitude": 5150,
+    "Speed": 189,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1567456330,
+    "UTC": "2019-09-02T20:32:10Z",
+    "Callsign": "PAL117",
+    "Position": "14.546997,121.446091",
+    "Altitude": 5150,
+    "Speed": 188,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1567456337,
+    "UTC": "2019-09-02T20:32:17Z",
+    "Callsign": "PAL117",
+    "Position": "14.545898,121.440796",
+    "Altitude": 5150,
+    "Speed": 187,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1567456345,
+    "UTC": "2019-09-02T20:32:25Z",
+    "Callsign": "PAL117",
+    "Position": "14.544409,121.432755",
+    "Altitude": 5150,
+    "Speed": 186,
+    "Direction": 259
+  },
+  {
+    "Timestamp": 1567456352,
+    "UTC": "2019-09-02T20:32:32Z",
+    "Callsign": "PAL117",
+    "Position": "14.543525,121.427551",
+    "Altitude": 5150,
+    "Speed": 187,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456365,
+    "UTC": "2019-09-02T20:32:45Z",
+    "Callsign": "PAL117",
+    "Position": "14.541801,121.416847",
+    "Altitude": 5150,
+    "Speed": 189,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456376,
+    "UTC": "2019-09-02T20:32:56Z",
+    "Callsign": "PAL117",
+    "Position": "14.540126,121.406105",
+    "Altitude": 5150,
+    "Speed": 191,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456387,
+    "UTC": "2019-09-02T20:33:07Z",
+    "Callsign": "PAL117",
+    "Position": "14.538404,121.394875",
+    "Altitude": 5150,
+    "Speed": 191,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456400,
+    "UTC": "2019-09-02T20:33:20Z",
+    "Callsign": "PAL117",
+    "Position": "14.536728,121.384468",
+    "Altitude": 5150,
+    "Speed": 189,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456411,
+    "UTC": "2019-09-02T20:33:31Z",
+    "Callsign": "PAL117",
+    "Position": "14.534912,121.373451",
+    "Altitude": 5125,
+    "Speed": 186,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456424,
+    "UTC": "2019-09-02T20:33:44Z",
+    "Callsign": "PAL117",
+    "Position": "14.533143,121.362831",
+    "Altitude": 4975,
+    "Speed": 183,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456431,
+    "UTC": "2019-09-02T20:33:51Z",
+    "Callsign": "PAL117",
+    "Position": "14.532398,121.358253",
+    "Altitude": 4875,
+    "Speed": 183,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456441,
+    "UTC": "2019-09-02T20:34:01Z",
+    "Callsign": "PAL117",
+    "Position": "14.530582,121.347412",
+    "Altitude": 4600,
+    "Speed": 185,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456447,
+    "UTC": "2019-09-02T20:34:07Z",
+    "Callsign": "PAL117",
+    "Position": "14.529698,121.341919",
+    "Altitude": 4450,
+    "Speed": 187,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456454,
+    "UTC": "2019-09-02T20:34:14Z",
+    "Callsign": "PAL117",
+    "Position": "14.528778,121.336609",
+    "Altitude": 4325,
+    "Speed": 188,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456461,
+    "UTC": "2019-09-02T20:34:21Z",
+    "Callsign": "PAL117",
+    "Position": "14.527976,121.331276",
+    "Altitude": 4225,
+    "Speed": 189,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567456488,
+    "UTC": "2019-09-02T20:34:48Z",
+    "Callsign": "PAL117",
+    "Position": "14.53049,121.306412",
+    "Altitude": 3700,
+    "Speed": 195,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567456494,
+    "UTC": "2019-09-02T20:34:54Z",
+    "Callsign": "PAL117",
+    "Position": "14.532349,121.301186",
+    "Altitude": 3675,
+    "Speed": 198,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567456504,
+    "UTC": "2019-09-02T20:35:04Z",
+    "Callsign": "PAL117",
+    "Position": "14.53688,121.291145",
+    "Altitude": 3650,
+    "Speed": 202,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456511,
+    "UTC": "2019-09-02T20:35:11Z",
+    "Callsign": "PAL117",
+    "Position": "14.539428,121.2855",
+    "Altitude": 3650,
+    "Speed": 202,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456517,
+    "UTC": "2019-09-02T20:35:17Z",
+    "Callsign": "PAL117",
+    "Position": "14.541895,121.280151",
+    "Altitude": 3650,
+    "Speed": 202,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456523,
+    "UTC": "2019-09-02T20:35:23Z",
+    "Callsign": "PAL117",
+    "Position": "14.544502,121.274658",
+    "Altitude": 3650,
+    "Speed": 203,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456531,
+    "UTC": "2019-09-02T20:35:31Z",
+    "Callsign": "PAL117",
+    "Position": "14.546923,121.269592",
+    "Altitude": 3650,
+    "Speed": 203,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456541,
+    "UTC": "2019-09-02T20:35:41Z",
+    "Callsign": "PAL117",
+    "Position": "14.552078,121.258896",
+    "Altitude": 3575,
+    "Speed": 203,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456553,
+    "UTC": "2019-09-02T20:35:53Z",
+    "Callsign": "PAL117",
+    "Position": "14.557297,121.248245",
+    "Altitude": 3375,
+    "Speed": 203,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456565,
+    "UTC": "2019-09-02T20:36:05Z",
+    "Callsign": "PAL117",
+    "Position": "14.562378,121.237923",
+    "Altitude": 3200,
+    "Speed": 203,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456571,
+    "UTC": "2019-09-02T20:36:11Z",
+    "Callsign": "PAL117",
+    "Position": "14.564896,121.232758",
+    "Altitude": 3175,
+    "Speed": 204,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456578,
+    "UTC": "2019-09-02T20:36:18Z",
+    "Callsign": "PAL117",
+    "Position": "14.567545,121.227386",
+    "Altitude": 3150,
+    "Speed": 201,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456589,
+    "UTC": "2019-09-02T20:36:29Z",
+    "Callsign": "PAL117",
+    "Position": "14.572247,121.217896",
+    "Altitude": 3125,
+    "Speed": 183,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456595,
+    "UTC": "2019-09-02T20:36:35Z",
+    "Callsign": "PAL117",
+    "Position": "14.574574,121.213173",
+    "Altitude": 3100,
+    "Speed": 178,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456601,
+    "UTC": "2019-09-02T20:36:41Z",
+    "Callsign": "PAL117",
+    "Position": "14.576809,121.208542",
+    "Altitude": 3025,
+    "Speed": 173,
+    "Direction": 296
+  },
+  {
+    "Timestamp": 1567456613,
+    "UTC": "2019-09-02T20:36:53Z",
+    "Callsign": "PAL117",
+    "Position": "14.581045,121.19973",
+    "Altitude": 2775,
+    "Speed": 171,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456619,
+    "UTC": "2019-09-02T20:36:59Z",
+    "Callsign": "PAL117",
+    "Position": "14.583094,121.195343",
+    "Altitude": 2700,
+    "Speed": 172,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456626,
+    "UTC": "2019-09-02T20:37:06Z",
+    "Callsign": "PAL117",
+    "Position": "14.585189,121.190857",
+    "Altitude": 2650,
+    "Speed": 174,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456632,
+    "UTC": "2019-09-02T20:37:12Z",
+    "Callsign": "PAL117",
+    "Position": "14.587283,121.186333",
+    "Altitude": 2625,
+    "Speed": 175,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567456638,
+    "UTC": "2019-09-02T20:37:18Z",
+    "Callsign": "PAL117",
+    "Position": "14.588974,121.181236",
+    "Altitude": 2625,
+    "Speed": 174,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567456645,
+    "UTC": "2019-09-02T20:37:25Z",
+    "Callsign": "PAL117",
+    "Position": "14.589378,121.176552",
+    "Altitude": 2625,
+    "Speed": 169,
+    "Direction": 275
+  },
+  {
+    "Timestamp": 1567456652,
+    "UTC": "2019-09-02T20:37:32Z",
+    "Callsign": "PAL117",
+    "Position": "14.58868,121.171921",
+    "Altitude": 2650,
+    "Speed": 165,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1567456658,
+    "UTC": "2019-09-02T20:37:38Z",
+    "Callsign": "PAL117",
+    "Position": "14.586958,121.165131",
+    "Altitude": 2650,
+    "Speed": 165,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1567456666,
+    "UTC": "2019-09-02T20:37:46Z",
+    "Callsign": "PAL117",
+    "Position": "14.585403,121.160591",
+    "Altitude": 2650,
+    "Speed": 164,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1567456673,
+    "UTC": "2019-09-02T20:37:53Z",
+    "Callsign": "PAL117",
+    "Position": "14.583467,121.155922",
+    "Altitude": 2650,
+    "Speed": 163,
+    "Direction": 246
+  },
+  {
+    "Timestamp": 1567456682,
+    "UTC": "2019-09-02T20:38:02Z",
+    "Callsign": "PAL117",
+    "Position": "14.580441,121.149757",
+    "Altitude": 2650,
+    "Speed": 161,
+    "Direction": 242
+  },
+  {
+    "Timestamp": 1567456689,
+    "UTC": "2019-09-02T20:38:09Z",
+    "Callsign": "PAL117",
+    "Position": "14.577321,121.143784",
+    "Altitude": 2650,
+    "Speed": 157,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1567456698,
+    "UTC": "2019-09-02T20:38:18Z",
+    "Callsign": "PAL117",
+    "Position": "14.574295,121.1381",
+    "Altitude": 2500,
+    "Speed": 152,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456704,
+    "UTC": "2019-09-02T20:38:24Z",
+    "Callsign": "PAL117",
+    "Position": "14.572154,121.134239",
+    "Altitude": 2400,
+    "Speed": 149,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456710,
+    "UTC": "2019-09-02T20:38:30Z",
+    "Callsign": "PAL117",
+    "Position": "14.57016,121.130569",
+    "Altitude": 2325,
+    "Speed": 145,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456718,
+    "UTC": "2019-09-02T20:38:38Z",
+    "Callsign": "PAL117",
+    "Position": "14.568197,121.127014",
+    "Altitude": 2250,
+    "Speed": 142,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456729,
+    "UTC": "2019-09-02T20:38:49Z",
+    "Callsign": "PAL117",
+    "Position": "14.564392,121.120148",
+    "Altitude": 2125,
+    "Speed": 134,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456742,
+    "UTC": "2019-09-02T20:39:02Z",
+    "Callsign": "PAL117",
+    "Position": "14.560702,121.113525",
+    "Altitude": 1975,
+    "Speed": 129,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456752,
+    "UTC": "2019-09-02T20:39:12Z",
+    "Callsign": "PAL117",
+    "Position": "14.557205,121.107124",
+    "Altitude": 1850,
+    "Speed": 129,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456760,
+    "UTC": "2019-09-02T20:39:20Z",
+    "Callsign": "PAL117",
+    "Position": "14.555374,121.103813",
+    "Altitude": 1775,
+    "Speed": 130,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456771,
+    "UTC": "2019-09-02T20:39:31Z",
+    "Callsign": "PAL117",
+    "Position": "14.551804,121.09742",
+    "Altitude": 1650,
+    "Speed": 131,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456777,
+    "UTC": "2019-09-02T20:39:37Z",
+    "Callsign": "PAL117",
+    "Position": "14.549881,121.09391",
+    "Altitude": 1575,
+    "Speed": 132,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456790,
+    "UTC": "2019-09-02T20:39:50Z",
+    "Callsign": "PAL117",
+    "Position": "14.546225,121.087311",
+    "Altitude": 1450,
+    "Speed": 133,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456803,
+    "UTC": "2019-09-02T20:40:03Z",
+    "Callsign": "PAL117",
+    "Position": "14.542407,121.080421",
+    "Altitude": 1325,
+    "Speed": 133,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567456813,
+    "UTC": "2019-09-02T20:40:13Z",
+    "Callsign": "PAL117",
+    "Position": "14.53873,121.073769",
+    "Altitude": 1175,
+    "Speed": 135,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456821,
+    "UTC": "2019-09-02T20:40:21Z",
+    "Callsign": "PAL117",
+    "Position": "14.536789,121.070282",
+    "Altitude": 1100,
+    "Speed": 136,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456832,
+    "UTC": "2019-09-02T20:40:32Z",
+    "Callsign": "PAL117",
+    "Position": "14.533004,121.063454",
+    "Altitude": 975,
+    "Speed": 137,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456843,
+    "UTC": "2019-09-02T20:40:43Z",
+    "Callsign": "PAL117",
+    "Position": "14.52919,121.056648",
+    "Altitude": 825,
+    "Speed": 138,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456851,
+    "UTC": "2019-09-02T20:40:51Z",
+    "Callsign": "PAL117",
+    "Position": "14.527278,121.053146",
+    "Altitude": 750,
+    "Speed": 139,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456857,
+    "UTC": "2019-09-02T20:40:57Z",
+    "Callsign": "PAL117",
+    "Position": "14.525299,121.049545",
+    "Altitude": 675,
+    "Speed": 140,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456867,
+    "UTC": "2019-09-02T20:41:07Z",
+    "Callsign": "PAL117",
+    "Position": "14.521317,121.042389",
+    "Altitude": 525,
+    "Speed": 143,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456873,
+    "UTC": "2019-09-02T20:41:13Z",
+    "Callsign": "PAL117",
+    "Position": "14.519317,121.038788",
+    "Altitude": 450,
+    "Speed": 144,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456880,
+    "UTC": "2019-09-02T20:41:20Z",
+    "Callsign": "PAL117",
+    "Position": "14.517315,121.035217",
+    "Altitude": 375,
+    "Speed": 146,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456891,
+    "UTC": "2019-09-02T20:41:31Z",
+    "Callsign": "PAL117",
+    "Position": "14.51326,121.027855",
+    "Altitude": 200,
+    "Speed": 148,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456897,
+    "UTC": "2019-09-02T20:41:37Z",
+    "Callsign": "PAL117",
+    "Position": "14.511246,121.024254",
+    "Altitude": 175,
+    "Speed": 146,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456903,
+    "UTC": "2019-09-02T20:41:43Z",
+    "Callsign": "PAL117",
+    "Position": "14.509542,121.021202",
+    "Altitude": 175,
+    "Speed": 142,
+    "Direction": 240
+  },
+  {
+    "Timestamp": 1567456910,
+    "UTC": "2019-09-02T20:41:50Z",
+    "Callsign": "PAL117",
+    "Position": "14.507538,121.017624",
+    "Altitude": 100,
+    "Speed": 120,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567456923,
+    "UTC": "2019-09-02T20:42:03Z",
+    "Callsign": "PAL117",
+    "Position": "14.505272,121.013504",
+    "Altitude": 0,
+    "Speed": 59,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567456931,
+    "UTC": "2019-09-02T20:42:11Z",
+    "Callsign": "PAL117",
+    "Position": "14.504281,121.011726",
+    "Altitude": 0,
+    "Speed": 36,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567456949,
+    "UTC": "2019-09-02T20:42:29Z",
+    "Callsign": "PAL117",
+    "Position": "14.503349,121.009987",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1567456957,
+    "UTC": "2019-09-02T20:42:37Z",
+    "Callsign": "PAL117",
+    "Position": "14.503082,121.009308",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1567456966,
+    "UTC": "2019-09-02T20:42:46Z",
+    "Callsign": "PAL117",
+    "Position": "14.502931,121.008614",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 258
+  },
+  {
+    "Timestamp": 1567456972,
+    "UTC": "2019-09-02T20:42:52Z",
+    "Callsign": "PAL117",
+    "Position": "14.50285,121.008011",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1567456983,
+    "UTC": "2019-09-02T20:43:03Z",
+    "Callsign": "PAL117",
+    "Position": "14.5028,121.007622",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1567457000,
+    "UTC": "2019-09-02T20:43:20Z",
+    "Callsign": "PAL117",
+    "Position": "14.502686,121.006767",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1567457012,
+    "UTC": "2019-09-02T20:43:32Z",
+    "Callsign": "PAL117",
+    "Position": "14.502628,121.00631",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1567457044,
+    "UTC": "2019-09-02T20:44:04Z",
+    "Callsign": "PAL117",
+    "Position": "14.502594,121.006012",
+    "Altitude": 0,
+    "Speed": 12,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1567457063,
+    "UTC": "2019-09-02T20:44:23Z",
+    "Callsign": "PAL117",
+    "Position": "14.502331,121.005348",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 241
+  },
+  {
+    "Timestamp": 1567457075,
+    "UTC": "2019-09-02T20:44:35Z",
+    "Callsign": "PAL117",
+    "Position": "14.50201,121.004791",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567457090,
+    "UTC": "2019-09-02T20:44:50Z",
+    "Callsign": "PAL117",
+    "Position": "14.50169,121.004196",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 239
+  },
+  {
+    "Timestamp": 1567457111,
+    "UTC": "2019-09-02T20:45:11Z",
+    "Callsign": "PAL117",
+    "Position": "14.501383,121.003548",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1567457121,
+    "UTC": "2019-09-02T20:45:21Z",
+    "Callsign": "PAL117",
+    "Position": "14.501598,121.003296",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1567457134,
+    "UTC": "2019-09-02T20:45:34Z",
+    "Callsign": "PAL117",
+    "Position": "14.501999,121.003273",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 8
+  },
+  {
+    "Timestamp": 1567457145,
+    "UTC": "2019-09-02T20:45:45Z",
+    "Callsign": "PAL117",
+    "Position": "14.502174,121.003502",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 42
+  },
+  {
+    "Timestamp": 1567457154,
+    "UTC": "2019-09-02T20:45:54Z",
+    "Callsign": "PAL117",
+    "Position": "14.502296,121.003723",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 56
+  },
+  {
+    "Timestamp": 1567457162,
+    "UTC": "2019-09-02T20:46:02Z",
+    "Callsign": "PAL117",
+    "Position": "14.502399,121.00396",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567457173,
+    "UTC": "2019-09-02T20:46:13Z",
+    "Callsign": "PAL117",
+    "Position": "14.50256,121.00425",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567457180,
+    "UTC": "2019-09-02T20:46:20Z",
+    "Callsign": "PAL117",
+    "Position": "14.50272,121.004555",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567457187,
+    "UTC": "2019-09-02T20:46:27Z",
+    "Callsign": "PAL117",
+    "Position": "14.50285,121.004791",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567457196,
+    "UTC": "2019-09-02T20:46:36Z",
+    "Callsign": "PAL117",
+    "Position": "14.503063,121.005173",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567457209,
+    "UTC": "2019-09-02T20:46:49Z",
+    "Callsign": "PAL117",
+    "Position": "14.503315,121.005623",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567457226,
+    "UTC": "2019-09-02T20:47:06Z",
+    "Callsign": "PAL117",
+    "Position": "14.503658,121.005928",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 25
+  },
+  {
+    "Timestamp": 1567457238,
+    "UTC": "2019-09-02T20:47:18Z",
+    "Callsign": "PAL117",
+    "Position": "14.503932,121.005661",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 323
+  },
+  {
+    "Timestamp": 1567457248,
+    "UTC": "2019-09-02T20:47:28Z",
+    "Callsign": "PAL117",
+    "Position": "14.504093,121.005417",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1567457267,
+    "UTC": "2019-09-02T20:47:47Z",
+    "Callsign": "PAL117",
+    "Position": "14.504333,121.005112",
+    "Altitude": 0,
+    "Speed": 11,
+    "Direction": 306
+  }
+]
