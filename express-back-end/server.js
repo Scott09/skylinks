@@ -71,7 +71,36 @@ App.get("/api/airports/:id", (req, res) => {
     });
 });
 
-App.get("/api/shcedules/from/:from/to/:to", (req, res) => {
+App.get("/api/real/from/:from/to/:to", (req, res) => {
+  const departure = req.params.from;
+  const arrival = req.params.to;
+  pool.query(
+    `SELECT * FROM route_info WHERE departure_iata = '${departure}' AND arrival_iata = '${arrival}' ORDER BY position_time ASC`,
+    (error, response) => {
+      if (error) {
+        console.log(error);
+      } else {
+        const waypoints = [];
+        for (const item of response.rows) {
+          const currentLatitude = item.position.split(",")[0];
+          const currentLongitude = item.position.split(",")[1];
+
+          waypoints.push({
+            timestamp: item.position_time,
+            position: {
+              latitude: currentLatitude,
+              longitude: currentLongitude,
+              altitude: item.altitude
+            }
+          });
+        }
+        res.json(waypoints);
+      }
+    }
+  );
+});
+
+App.get("/api/schedules/from/:from/to/:to", (req, res) => {
   const from = req.params.from;
   const to = req.params.to;
   const now = new Date();

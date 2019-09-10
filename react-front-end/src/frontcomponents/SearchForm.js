@@ -1,13 +1,9 @@
 import React, { useState, useEffect } from "react";
-import { makeStyles } from "@material-ui/core/styles";
-import TextField from "@material-ui/core/TextField";
-import { Button } from "antd";
 import { Input } from "antd";
 import "antd/dist/antd.css";
 import "./SearchForm.css";
 
 const SearchForm = props => {
-  const [arrival, setArrival] = useState("");
   const [departure, setDeparture] = useState("");
 
   const { Search } = Input;
@@ -18,10 +14,6 @@ const SearchForm = props => {
   useEffect(() => {
     onFormSubmit();
   }, [departure]);
-
-  // const handleArrivalChange = event => {
-  //   setArrival(event.target.value);
-  // };
 
   const onFormSubmit = () => {
     props.getDepartures(departure);
@@ -34,7 +26,7 @@ const SearchForm = props => {
           <span>
             <Search
               allowClear
-              id = "text"
+              id="text"
               className="textinput"
               placeholder="input search text"
               enterButton="Search"
