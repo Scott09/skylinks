@@ -94,7 +94,6 @@ export default canvas => {
   }
 
   function addEntity(airport) {
-    console.log(airport);
     if (airport.waypoints.length > 1) {
       sceneRealRoute.push(createSceneRealRoute(scene, airport.waypoints));
     } else {
@@ -124,7 +123,6 @@ export default canvas => {
 
   function clearWaypoints(obj) {
     var children_to_remove = [];
-    console.log(obj);
     obj &&
       obj.traverse(line => {
         if (line.name === "waypointsLine") {

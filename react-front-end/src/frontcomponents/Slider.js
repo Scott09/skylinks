@@ -49,12 +49,20 @@ export default function CustomizedSlider(props) {
   // props.waypoints.forEach(waypoint =>
   //   marks.push({ value: waypoint.position.altitude })
   // );
-  const [value, setValue] = React.useState(30);
-
   const handleSliderChange = (event, newValue) => {
-    console.log(newValue);
     props.setRealFlightPosition(newValue);
   };
+
+  const marks = [
+    {
+      value: 0,
+      label: "Departure"
+    },
+    {
+      value: 100,
+      label: "Destination"
+    }
+  ];
 
   const classes = useStyles();
 
@@ -64,6 +72,7 @@ export default function CustomizedSlider(props) {
         valueLabelDisplay="auto"
         aria-label="pretto slider"
         onChange={handleSliderChange}
+        marks={marks}
         min={0}
         max={100}
         step={1}
