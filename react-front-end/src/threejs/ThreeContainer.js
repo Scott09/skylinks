@@ -10,6 +10,13 @@ const ThreeContainer = props => {
     setState(manager);
   }, []);
 
+  useEffect(() => {
+    console.log(props.realFlightPosition);
+    if (props.realFlightPosition) {
+      state.updatePosition(props.realFlightPosition);
+    }
+  }, [props.realFlightPosition]);
+
   if (state) {
     state.clear();
     state.addEntity({
