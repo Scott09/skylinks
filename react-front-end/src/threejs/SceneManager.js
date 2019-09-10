@@ -78,7 +78,7 @@ export default canvas => {
   function createSceneSubjects(scene) {
     const sceneSubjects = [
       new Earth(scene),
-      new Clouds(scene),
+      // new Clouds(scene),
       new Sun(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene)
@@ -94,7 +94,6 @@ export default canvas => {
   }
 
   function addEntity(airport) {
-    console.log(airport);
     if (airport.waypoints.length > 1) {
       sceneRealRoute.push(createSceneRealRoute(scene, airport.waypoints));
     } else {
@@ -124,7 +123,6 @@ export default canvas => {
 
   function clearWaypoints(obj) {
     var children_to_remove = [];
-    console.log(obj);
     obj &&
       obj.traverse(line => {
         if (line.name === "waypointsLine") {
@@ -216,6 +214,15 @@ export default canvas => {
     }
   }
 
+  function updatePosition(position) {
+    const plane = scene.getObjectByName("realTimePlane");
+    if (plane) {
+      const index = plane.points.length - 1;
+      const current = Math.floor((position / 100) * index);
+      plane.position.copy(plane.points[current]);
+    }
+  }
+
   return {
     update,
     onWindowResize,
@@ -223,6 +230,7 @@ export default canvas => {
     clear,
     addEntity,
     onMouseEnter,
-    onMouseLeave
+    onMouseLeave,
+    updatePosition
   };
 };
