@@ -84,6 +84,7 @@ const App = props => {
     setArrivalAirport("");
     setSchedule("");
     setDepartureFs("");
+    setArrivalAirportFs("");
     setWaypoints([]);
   };
   return (
