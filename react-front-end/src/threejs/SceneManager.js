@@ -78,7 +78,7 @@ export default canvas => {
   function createSceneSubjects(scene) {
     const sceneSubjects = [
       new Earth(scene),
-      new Clouds(scene),
+      // new Clouds(scene),
       new Sun(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene)
@@ -216,6 +216,15 @@ export default canvas => {
     }
   }
 
+  function updatePosition(position) {
+    const plane = scene.getObjectByName("realTimePlane");
+    if (plane) {
+      const index = plane.points.length - 1;
+      const current = Math.floor((position / 100) * index);
+      plane.position.copy(plane.points[current]);
+    }
+  }
+
   return {
     update,
     onWindowResize,
@@ -223,6 +232,7 @@ export default canvas => {
     clear,
     addEntity,
     onMouseEnter,
-    onMouseLeave
+    onMouseLeave,
+    updatePosition
   };
 };

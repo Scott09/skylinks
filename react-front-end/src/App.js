@@ -7,6 +7,7 @@ import SearchForm from "./frontcomponents/SearchForm";
 import ResetButton from "./frontcomponents/ResetButton";
 import ScheduleListTable from "./frontcomponents/ScheduleListTable";
 import Logo from "./frontcomponents/Logo";
+import Slider from "./frontcomponents/Slider";
 
 const App = props => {
   const [departureAirport, setDepartureAirport] = useState("");
@@ -15,6 +16,7 @@ const App = props => {
   const [arrivalAirportFs, setArrivalAirportFs] = useState("");
   const [schedule, setSchedule] = useState("");
   const [waypoints, setWaypoints] = useState([]);
+  const [realFlightPosition, setRealFlightPosition] = useState(0);
 
   useEffect(() => {
     fetchData();
@@ -104,9 +106,15 @@ const App = props => {
         ></RouteList>
         <ResetButton onClear={onClear}></ResetButton>
         <SearchForm getArrival={arrivals} getDepartures={departures} />
+        <Slider
+          waypoints={waypoints}
+          realFlightPosition={realFlightPosition}
+          setRealFlightPosition={setRealFlightPosition}
+        />
       </div>
       <ThreeContainer
         waypoints={waypoints}
+        realFlightPosition={realFlightPosition}
         newDeparture={departureAirport}
         newArrival={arrivalAirport}
       />
