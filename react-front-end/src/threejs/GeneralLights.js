@@ -6,7 +6,7 @@ import {
 } from "./helpers/constants";
 
 export default scene => {
-  let lightA = new THREE.AmbientLight(0x333333);
+  let lightA = new THREE.AmbientLight(0x444444);
   scene.add(lightA);
   //Create a new directional light
   let lightD = new THREE.DirectionalLight(0xffffff, 1);
