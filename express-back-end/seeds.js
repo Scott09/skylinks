@@ -119,6 +119,7 @@ fs.readdirSync(waypointfolder).forEach(file => {
         arrival
       ]
     );
+    
 }});
 
 
