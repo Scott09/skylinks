@@ -17,7 +17,7 @@ const useStyles = makeStyles(theme => ({
 const PrettoSlider = withStyles({
   root: {
     color: "#52af77",
-    height: 8
+    height: 8,
   },
   thumb: {
     height: 24,
@@ -56,11 +56,11 @@ export default function CustomizedSlider(props) {
   const marks = [
     {
       value: 0,
-      label: "Departure"
+      label: "Depart"
     },
     {
       value: 100,
-      label: "Destination"
+      label: "Arrive"
     }
   ];
 
