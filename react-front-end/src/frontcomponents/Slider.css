@@ -3,6 +3,7 @@
   left: 0;
   right: 0;
   margin: auto;
-  bottom: 24px;
+  bottom: 20px;
   opacity: 0.8;
+  background-color: lightblue;
 }
