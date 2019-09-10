@@ -2,20 +2,13 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 import ThreeContainer from "./threejs/ThreeContainer";
-import flightData from "./frontcomponents/fakeData/fakeData.json";
-import FlightList from "./frontcomponents/FlightList";
 import RouteList from "./frontcomponents/RouteList";
-import ScheduleList from "./frontcomponents/ScheduleList";
 import SearchForm from "./frontcomponents/SearchForm";
 import ResetButton from "./frontcomponents/ResetButton";
-
 import ScheduleListTable from "./frontcomponents/ScheduleListTable";
-
-import Logo from './frontcomponents/Logo';
-
+import Logo from "./frontcomponents/Logo";
 
 const App = props => {
-  const [clearToggle, setClearToggle] = useState(false);
   const [departureAirport, setDepartureAirport] = useState("");
   const [arrivalAirport, setArrivalAirport] = useState("");
   const [schedule, setSchedule] = useState("");
@@ -73,12 +66,8 @@ const App = props => {
   return (
     <>
       <div>
-
+        <Logo></Logo>
         <ScheduleListTable
-
-        <Logo />
-        <ScheduleList
-
           newDeparture={departureAirport}
           newArrival={arrivalAirport}
           newSchedule={schedule}
@@ -93,7 +82,6 @@ const App = props => {
         <SearchForm getArrival={arrivals} getDepartures={departures} />
       </div>
       <ThreeContainer
-        clear={clearToggle}
         newDeparture={departureAirport}
         newArrival={arrivalAirport}
       />
