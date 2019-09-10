@@ -59,7 +59,6 @@ App.get("/api/airports/:id", (req, res) => {
     .query(findDepartureCoords)
     .then(depart => {
       pool.query(findArrivalCoords).then(arrive => {
-        console.log(depart.rows);
         res.json({
           departure: depart.rows[0],
           arrival: arrive.rows
@@ -122,7 +121,6 @@ App.get("/api/schedules/from/:from/to/:to", (req, res) => {
 
 App.get("/api/plane/:id", (req, res) => {
   const file_name = req.params.id;
-  console.log(file_name);
   res.send(`/plane/${file_name}`);
 });
 
