@@ -4,6 +4,7 @@ import StarsBackGround from "./components/stars";
 import Clouds from "./components/clouds";
 import Sun from "./components/sun";
 import FlightRoutes from "./components/flightRoutes";
+import FlightRealRoutes from "./components/realFlightRoutes";
 import GeneralLights from "./GeneralLights";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
@@ -21,6 +22,7 @@ export default canvas => {
   const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
   let sceneRoutes = [];
+  let sceneRealRoute = [];
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -68,6 +70,7 @@ export default canvas => {
       nearPlane,
       farPlane
     );
+
     camera.position.z = 10;
     return camera;
   }
@@ -86,19 +89,25 @@ export default canvas => {
   function createSceneRoute(scene, airport) {
     return [new FlightRoutes(scene, airport)];
   }
-
-  function addEntity(airport) {
-    sceneRoutes.push(createSceneRoute(scene, airport));
+  function createSceneRealRoute(scene, airport) {
+    return [new FlightRealRoutes(scene, airport)];
   }
 
-  function clear() {
-    var selectedObject = scene.getObjectByName("routes");
+  function addEntity(airport) {
+    console.log(airport);
+    if (airport.waypoints.length > 1) {
+      sceneRealRoute.push(createSceneRealRoute(scene, airport.waypoints));
+    } else {
+      sceneRoutes.push(createSceneRoute(scene, airport));
+    }
+  }
+
+  function clearRoutes(obj) {
     var children_to_remove = [];
 
-    selectedObject &&
-      selectedObject.traverse(line => {
+    obj &&
+      obj.traverse(line => {
         if (line.type === "Line") {
-          console.log("removed");
           children_to_remove.push(line);
         }
       });
@@ -110,7 +119,40 @@ export default canvas => {
     });
 
     sceneRoutes.length = 0;
-    scene.remove(selectedObject);
+    scene.remove(obj);
+  }
+
+  function clearWaypoints(obj) {
+    var children_to_remove = [];
+    console.log(obj);
+    obj &&
+      obj.traverse(line => {
+        if (line.name === "waypointsLine") {
+          children_to_remove.push(line);
+        }
+      });
+    //remove all children
+    children_to_remove.forEach(function(child) {
+      scene.remove(child);
+      child.geometry.dispose();
+      child.material.dispose();
+    });
+
+    sceneRealRoute.length = 0;
+    scene.remove(obj);
+  }
+
+  function clear() {
+    var selectedObject = "";
+    if (scene.getObjectByName("routes")) {
+      selectedObject = scene.getObjectByName("routes");
+      console.log("routes");
+      clearRoutes(selectedObject);
+    } else if (scene.getObjectByName("realRoute")) {
+      selectedObject = scene.getObjectByName("realRoute");
+      console.log("realRoute");
+      clearWaypoints(selectedObject);
+    }
   }
 
   function update() {

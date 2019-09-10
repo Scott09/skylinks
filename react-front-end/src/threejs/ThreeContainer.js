@@ -14,7 +14,8 @@ const ThreeContainer = props => {
     state.clear();
     state.addEntity({
       departure: props.newDeparture,
-      arrival: props.newArrival
+      arrival: props.newArrival,
+      waypoints: props.waypoints
     });
   }
 
