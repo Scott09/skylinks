@@ -1,0 +1,1847 @@
+[
+  {
+    "Timestamp": 1560565219,
+    "UTC": "2019-06-15T02:20:19Z",
+    "Callsign": "ROU1898",
+    "Position": "49.183334,-123.166664",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 0
+  },
+  {
+    "Timestamp": 1560565403,
+    "UTC": "2019-06-15T02:23:23Z",
+    "Callsign": "ROU1898",
+    "Position": "49.183334,-123.183334",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1560565646,
+    "UTC": "2019-06-15T02:27:26Z",
+    "Callsign": "ROU1898",
+    "Position": "49.166668,-123.183334",
+    "Altitude": 100,
+    "Speed": 10,
+    "Direction": 180
+  },
+  {
+    "Timestamp": 1560565767,
+    "UTC": "2019-06-15T02:29:27Z",
+    "Callsign": "ROU1898",
+    "Position": "49.166668,-123.166664",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1560565988,
+    "UTC": "2019-06-15T02:33:08Z",
+    "Callsign": "ROU1898",
+    "Position": "49.187626,-123.172607",
+    "Altitude": 0,
+    "Speed": 100,
+    "Direction": 350
+  },
+  {
+    "Timestamp": 1560565997,
+    "UTC": "2019-06-15T02:33:17Z",
+    "Callsign": "ROU1898",
+    "Position": "49.188622,-123.193687",
+    "Altitude": 50,
+    "Speed": 100,
+    "Direction": 275
+  },
+  {
+    "Timestamp": 1560566005,
+    "UTC": "2019-06-15T02:33:25Z",
+    "Callsign": "ROU1898",
+    "Position": "49.191738,-123.200752",
+    "Altitude": 375,
+    "Speed": 130,
+    "Direction": 304
+  },
+  {
+    "Timestamp": 1560566012,
+    "UTC": "2019-06-15T02:33:32Z",
+    "Callsign": "ROU1898",
+    "Position": "49.192017,-123.205627",
+    "Altitude": 639,
+    "Speed": 118,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1560566029,
+    "UTC": "2019-06-15T02:33:49Z",
+    "Callsign": "ROU1898",
+    "Position": "49.192612,-123.218666",
+    "Altitude": 1254,
+    "Speed": 119,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1560566036,
+    "UTC": "2019-06-15T02:33:56Z",
+    "Callsign": "ROU1898",
+    "Position": "49.193008,-123.228661",
+    "Altitude": 1564,
+    "Speed": 111,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1560566053,
+    "UTC": "2019-06-15T02:34:13Z",
+    "Callsign": "ROU1898",
+    "Position": "49.193493,-123.242363",
+    "Altitude": 1870,
+    "Speed": 139,
+    "Direction": 273
+  },
+  {
+    "Timestamp": 1560566060,
+    "UTC": "2019-06-15T02:34:20Z",
+    "Callsign": "ROU1898",
+    "Position": "49.193291,-123.255867",
+    "Altitude": 2150,
+    "Speed": 135,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1560566077,
+    "UTC": "2019-06-15T02:34:37Z",
+    "Callsign": "ROU1898",
+    "Position": "49.192852,-123.274155",
+    "Altitude": 2500,
+    "Speed": 187,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1560566085,
+    "UTC": "2019-06-15T02:34:45Z",
+    "Callsign": "ROU1898",
+    "Position": "49.192131,-123.292084",
+    "Altitude": 3143,
+    "Speed": 184,
+    "Direction": 268
+  },
+  {
+    "Timestamp": 1560566092,
+    "UTC": "2019-06-15T02:34:52Z",
+    "Callsign": "ROU1898",
+    "Position": "49.191132,-123.307236",
+    "Altitude": 3675,
+    "Speed": 218,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1560566104,
+    "UTC": "2019-06-15T02:35:04Z",
+    "Callsign": "ROU1898",
+    "Position": "49.188545,-123.328773",
+    "Altitude": 4494,
+    "Speed": 246,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1560566113,
+    "UTC": "2019-06-15T02:35:13Z",
+    "Callsign": "ROU1898",
+    "Position": "49.186985,-123.33548",
+    "Altitude": 4769,
+    "Speed": 246,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1560566120,
+    "UTC": "2019-06-15T02:35:20Z",
+    "Callsign": "ROU1898",
+    "Position": "49.181343,-123.353638",
+    "Altitude": 5382,
+    "Speed": 246,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1560566129,
+    "UTC": "2019-06-15T02:35:29Z",
+    "Callsign": "ROU1898",
+    "Position": "49.175301,-123.363426",
+    "Altitude": 5703,
+    "Speed": 263,
+    "Direction": 242
+  },
+  {
+    "Timestamp": 1560566136,
+    "UTC": "2019-06-15T02:35:36Z",
+    "Callsign": "ROU1898",
+    "Position": "49.1674,-123.370956",
+    "Altitude": 6130,
+    "Speed": 249,
+    "Direction": 224
+  },
+  {
+    "Timestamp": 1560566148,
+    "UTC": "2019-06-15T02:35:48Z",
+    "Callsign": "ROU1898",
+    "Position": "49.16497,-123.414543",
+    "Altitude": 6500,
+    "Speed": 281,
+    "Direction": 171
+  },
+  {
+    "Timestamp": 1560566156,
+    "UTC": "2019-06-15T02:35:56Z",
+    "Callsign": "ROU1898",
+    "Position": "49.154022,-123.40609",
+    "Altitude": 6767,
+    "Speed": 296,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566166,
+    "UTC": "2019-06-15T02:36:06Z",
+    "Callsign": "ROU1898",
+    "Position": "49.142769,-123.395309",
+    "Altitude": 6964,
+    "Speed": 325,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560566173,
+    "UTC": "2019-06-15T02:36:13Z",
+    "Callsign": "ROU1898",
+    "Position": "49.130394,-123.383591",
+    "Altitude": 7168,
+    "Speed": 335,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560566182,
+    "UTC": "2019-06-15T02:36:22Z",
+    "Callsign": "ROU1898",
+    "Position": "49.118942,-123.37072",
+    "Altitude": 7341,
+    "Speed": 373,
+    "Direction": 144
+  },
+  {
+    "Timestamp": 1560566188,
+    "UTC": "2019-06-15T02:36:28Z",
+    "Callsign": "ROU1898",
+    "Position": "49.106575,-123.35746",
+    "Altitude": 7625,
+    "Speed": 383,
+    "Direction": 144
+  },
+  {
+    "Timestamp": 1560566200,
+    "UTC": "2019-06-15T02:36:40Z",
+    "Callsign": "ROU1898",
+    "Position": "49.088322,-123.338638",
+    "Altitude": 8217,
+    "Speed": 389,
+    "Direction": 144
+  },
+  {
+    "Timestamp": 1560566212,
+    "UTC": "2019-06-15T02:36:52Z",
+    "Callsign": "ROU1898",
+    "Position": "49.07,-123.320801",
+    "Altitude": 8849,
+    "Speed": 399,
+    "Direction": 146
+  },
+  {
+    "Timestamp": 1560566224,
+    "UTC": "2019-06-15T02:37:04Z",
+    "Callsign": "ROU1898",
+    "Position": "49.050488,-123.303307",
+    "Altitude": 9582,
+    "Speed": 391,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560566236,
+    "UTC": "2019-06-15T02:37:16Z",
+    "Callsign": "ROU1898",
+    "Position": "49.033417,-123.287621",
+    "Altitude": 10260,
+    "Speed": 379,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560566249,
+    "UTC": "2019-06-15T02:37:29Z",
+    "Callsign": "ROU1898",
+    "Position": "49.01553,-123.272522",
+    "Altitude": 10707,
+    "Speed": 371,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560566260,
+    "UTC": "2019-06-15T02:37:40Z",
+    "Callsign": "ROU1898",
+    "Position": "48.998573,-123.259842",
+    "Altitude": 10957,
+    "Speed": 357,
+    "Direction": 152
+  },
+  {
+    "Timestamp": 1560566276,
+    "UTC": "2019-06-15T02:37:56Z",
+    "Callsign": "ROU1898",
+    "Position": "48.975723,-123.243279",
+    "Altitude": 11271,
+    "Speed": 346,
+    "Direction": 153
+  },
+  {
+    "Timestamp": 1560566288,
+    "UTC": "2019-06-15T02:38:08Z",
+    "Callsign": "ROU1898",
+    "Position": "48.958107,-123.231461",
+    "Altitude": 11512,
+    "Speed": 347,
+    "Direction": 155
+  },
+  {
+    "Timestamp": 1560566300,
+    "UTC": "2019-06-15T02:38:20Z",
+    "Callsign": "ROU1898",
+    "Position": "48.937332,-123.217918",
+    "Altitude": 11772,
+    "Speed": 363,
+    "Direction": 155
+  },
+  {
+    "Timestamp": 1560566314,
+    "UTC": "2019-06-15T02:38:34Z",
+    "Callsign": "ROU1898",
+    "Position": "48.918476,-123.205925",
+    "Altitude": 11975,
+    "Speed": 369,
+    "Direction": 156
+  },
+  {
+    "Timestamp": 1560566328,
+    "UTC": "2019-06-15T02:38:48Z",
+    "Callsign": "ROU1898",
+    "Position": "48.907009,-123.199005",
+    "Altitude": 12100,
+    "Speed": 373,
+    "Direction": 156
+  },
+  {
+    "Timestamp": 1560566360,
+    "UTC": "2019-06-15T02:39:20Z",
+    "Callsign": "ROU1898",
+    "Position": "48.842503,-123.159203",
+    "Altitude": 12789,
+    "Speed": 417,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566392,
+    "UTC": "2019-06-15T02:39:52Z",
+    "Callsign": "ROU1898",
+    "Position": "48.7756,-123.118057",
+    "Altitude": 14016,
+    "Speed": 446,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566425,
+    "UTC": "2019-06-15T02:40:25Z",
+    "Callsign": "ROU1898",
+    "Position": "48.712273,-123.078979",
+    "Altitude": 15195,
+    "Speed": 457,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566460,
+    "UTC": "2019-06-15T02:41:00Z",
+    "Callsign": "ROU1898",
+    "Position": "48.639805,-123.033936",
+    "Altitude": 16574,
+    "Speed": 458,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566492,
+    "UTC": "2019-06-15T02:41:32Z",
+    "Callsign": "ROU1898",
+    "Position": "48.574932,-122.993889",
+    "Altitude": 17439,
+    "Speed": 456,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566525,
+    "UTC": "2019-06-15T02:42:05Z",
+    "Callsign": "ROU1898",
+    "Position": "48.512413,-122.955139",
+    "Altitude": 18517,
+    "Speed": 461,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566584,
+    "UTC": "2019-06-15T02:43:04Z",
+    "Callsign": "ROU1898",
+    "Position": "48.390133,-122.880386",
+    "Altitude": 20088,
+    "Speed": 480,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566646,
+    "UTC": "2019-06-15T02:44:06Z",
+    "Callsign": "ROU1898",
+    "Position": "48.265011,-122.804054",
+    "Altitude": 21539,
+    "Speed": 484,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566704,
+    "UTC": "2019-06-15T02:45:04Z",
+    "Callsign": "ROU1898",
+    "Position": "48.137543,-122.7267",
+    "Altitude": 22664,
+    "Speed": 499,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566769,
+    "UTC": "2019-06-15T02:46:09Z",
+    "Callsign": "ROU1898",
+    "Position": "47.996944,-122.641815",
+    "Altitude": 23799,
+    "Speed": 509,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566834,
+    "UTC": "2019-06-15T02:47:14Z",
+    "Callsign": "ROU1898",
+    "Position": "47.85339,-122.556068",
+    "Altitude": 24819,
+    "Speed": 528,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566896,
+    "UTC": "2019-06-15T02:48:16Z",
+    "Callsign": "ROU1898",
+    "Position": "47.711544,-122.471352",
+    "Altitude": 26743,
+    "Speed": 511,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560566960,
+    "UTC": "2019-06-15T02:49:20Z",
+    "Callsign": "ROU1898",
+    "Position": "47.572102,-122.388626",
+    "Altitude": 28238,
+    "Speed": 510,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560567024,
+    "UTC": "2019-06-15T02:50:24Z",
+    "Callsign": "ROU1898",
+    "Position": "47.432957,-122.308846",
+    "Altitude": 29953,
+    "Speed": 500,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560567089,
+    "UTC": "2019-06-15T02:51:29Z",
+    "Callsign": "ROU1898",
+    "Position": "47.295761,-122.247459",
+    "Altitude": 31496,
+    "Speed": 488,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567153,
+    "UTC": "2019-06-15T02:52:33Z",
+    "Callsign": "ROU1898",
+    "Position": "47.156467,-122.196083",
+    "Altitude": 32829,
+    "Speed": 481,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560567216,
+    "UTC": "2019-06-15T02:53:36Z",
+    "Callsign": "ROU1898",
+    "Position": "47.0177,-122.14299",
+    "Altitude": 34126,
+    "Speed": 481,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567276,
+    "UTC": "2019-06-15T02:54:36Z",
+    "Callsign": "ROU1898",
+    "Position": "46.889229,-122.092651",
+    "Altitude": 35240,
+    "Speed": 480,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567337,
+    "UTC": "2019-06-15T02:55:37Z",
+    "Callsign": "ROU1898",
+    "Position": "46.764629,-122.043808",
+    "Altitude": 36225,
+    "Speed": 465,
+    "Direction": 163
+  },
+  {
+    "Timestamp": 1560567400,
+    "UTC": "2019-06-15T02:56:40Z",
+    "Callsign": "ROU1898",
+    "Position": "46.626945,-121.99044",
+    "Altitude": 36965,
+    "Speed": 483,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567433,
+    "UTC": "2019-06-15T02:57:13Z",
+    "Callsign": "ROU1898",
+    "Position": "46.559113,-121.964714",
+    "Altitude": 37000,
+    "Speed": 466,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567472,
+    "UTC": "2019-06-15T02:57:52Z",
+    "Callsign": "ROU1898",
+    "Position": "46.47982,-121.933929",
+    "Altitude": 37000,
+    "Speed": 468,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567566,
+    "UTC": "2019-06-15T02:59:26Z",
+    "Callsign": "ROU1898",
+    "Position": "46.29287,-121.862053",
+    "Altitude": 36975,
+    "Speed": 462,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567629,
+    "UTC": "2019-06-15T03:00:29Z",
+    "Callsign": "ROU1898",
+    "Position": "46.15115,-121.808296",
+    "Altitude": 36950,
+    "Speed": 470,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567690,
+    "UTC": "2019-06-15T03:01:30Z",
+    "Callsign": "ROU1898",
+    "Position": "46.028748,-121.762383",
+    "Altitude": 36975,
+    "Speed": 462,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567752,
+    "UTC": "2019-06-15T03:02:32Z",
+    "Callsign": "ROU1898",
+    "Position": "45.891052,-121.709633",
+    "Altitude": 36975,
+    "Speed": 465,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567817,
+    "UTC": "2019-06-15T03:03:37Z",
+    "Callsign": "ROU1898",
+    "Position": "45.758957,-121.660332",
+    "Altitude": 36975,
+    "Speed": 482,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560567881,
+    "UTC": "2019-06-15T03:04:41Z",
+    "Callsign": "ROU1898",
+    "Position": "45.628731,-121.61158",
+    "Altitude": 37000,
+    "Speed": 471,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560567944,
+    "UTC": "2019-06-15T03:05:44Z",
+    "Callsign": "ROU1898",
+    "Position": "45.493423,-121.561462",
+    "Altitude": 37000,
+    "Speed": 480,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560568004,
+    "UTC": "2019-06-15T03:06:44Z",
+    "Callsign": "ROU1898",
+    "Position": "45.361347,-121.512733",
+    "Altitude": 36975,
+    "Speed": 475,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568069,
+    "UTC": "2019-06-15T03:07:49Z",
+    "Callsign": "ROU1898",
+    "Position": "45.226597,-121.465561",
+    "Altitude": 37000,
+    "Speed": 468,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568133,
+    "UTC": "2019-06-15T03:08:53Z",
+    "Callsign": "ROU1898",
+    "Position": "45.089554,-121.41938",
+    "Altitude": 37000,
+    "Speed": 474,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568200,
+    "UTC": "2019-06-15T03:10:00Z",
+    "Callsign": "ROU1898",
+    "Position": "44.954357,-121.371948",
+    "Altitude": 36975,
+    "Speed": 470,
+    "Direction": 164
+  },
+  {
+    "Timestamp": 1560568261,
+    "UTC": "2019-06-15T03:11:01Z",
+    "Callsign": "ROU1898",
+    "Position": "44.826164,-121.326981",
+    "Altitude": 36993,
+    "Speed": 470,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568326,
+    "UTC": "2019-06-15T03:12:06Z",
+    "Callsign": "ROU1898",
+    "Position": "44.681034,-121.276749",
+    "Altitude": 36974,
+    "Speed": 474,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568392,
+    "UTC": "2019-06-15T03:13:12Z",
+    "Callsign": "ROU1898",
+    "Position": "44.535423,-121.228142",
+    "Altitude": 37000,
+    "Speed": 478,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560568456,
+    "UTC": "2019-06-15T03:14:16Z",
+    "Callsign": "ROU1898",
+    "Position": "44.401524,-121.182159",
+    "Altitude": 37000,
+    "Speed": 470,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560568517,
+    "UTC": "2019-06-15T03:15:17Z",
+    "Callsign": "ROU1898",
+    "Position": "44.272865,-121.138817",
+    "Altitude": 37000,
+    "Speed": 474,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568576,
+    "UTC": "2019-06-15T03:16:16Z",
+    "Callsign": "ROU1898",
+    "Position": "44.145607,-121.095917",
+    "Altitude": 36975,
+    "Speed": 474,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560568640,
+    "UTC": "2019-06-15T03:17:20Z",
+    "Callsign": "ROU1898",
+    "Position": "44.009468,-121.049667",
+    "Altitude": 36975,
+    "Speed": 474,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568705,
+    "UTC": "2019-06-15T03:18:25Z",
+    "Callsign": "ROU1898",
+    "Position": "43.873932,-121.004623",
+    "Altitude": 37000,
+    "Speed": 470,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568768,
+    "UTC": "2019-06-15T03:19:28Z",
+    "Callsign": "ROU1898",
+    "Position": "43.73801,-120.959457",
+    "Altitude": 37017,
+    "Speed": 473,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568833,
+    "UTC": "2019-06-15T03:20:33Z",
+    "Callsign": "ROU1898",
+    "Position": "43.600021,-120.913651",
+    "Altitude": 37000,
+    "Speed": 474,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560568896,
+    "UTC": "2019-06-15T03:21:36Z",
+    "Callsign": "ROU1898",
+    "Position": "43.464882,-120.870834",
+    "Altitude": 36975,
+    "Speed": 468,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560568960,
+    "UTC": "2019-06-15T03:22:40Z",
+    "Callsign": "ROU1898",
+    "Position": "43.329914,-120.824379",
+    "Altitude": 36975,
+    "Speed": 471,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560569024,
+    "UTC": "2019-06-15T03:23:44Z",
+    "Callsign": "ROU1898",
+    "Position": "43.193832,-120.780518",
+    "Altitude": 37000,
+    "Speed": 470,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569088,
+    "UTC": "2019-06-15T03:24:48Z",
+    "Callsign": "ROU1898",
+    "Position": "43.057888,-120.736679",
+    "Altitude": 37000,
+    "Speed": 479,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560569148,
+    "UTC": "2019-06-15T03:25:48Z",
+    "Callsign": "ROU1898",
+    "Position": "42.930965,-120.696121",
+    "Altitude": 37000,
+    "Speed": 473,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560569212,
+    "UTC": "2019-06-15T03:26:52Z",
+    "Callsign": "ROU1898",
+    "Position": "42.795956,-120.652901",
+    "Altitude": 36975,
+    "Speed": 469,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569276,
+    "UTC": "2019-06-15T03:27:56Z",
+    "Callsign": "ROU1898",
+    "Position": "42.659828,-120.608582",
+    "Altitude": 36975,
+    "Speed": 470,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560569338,
+    "UTC": "2019-06-15T03:28:58Z",
+    "Callsign": "ROU1898",
+    "Position": "42.530926,-120.567123",
+    "Altitude": 37000,
+    "Speed": 475,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569405,
+    "UTC": "2019-06-15T03:30:05Z",
+    "Callsign": "ROU1898",
+    "Position": "42.3857,-120.520821",
+    "Altitude": 37000,
+    "Speed": 470,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569426,
+    "UTC": "2019-06-15T03:30:26Z",
+    "Callsign": "ROU1898",
+    "Position": "42.344475,-120.507744",
+    "Altitude": 36975,
+    "Speed": 471,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569464,
+    "UTC": "2019-06-15T03:31:04Z",
+    "Callsign": "ROU1898",
+    "Position": "42.259064,-120.480743",
+    "Altitude": 37000,
+    "Speed": 472,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569552,
+    "UTC": "2019-06-15T03:32:32Z",
+    "Callsign": "ROU1898",
+    "Position": "42.07246,-120.422379",
+    "Altitude": 37000,
+    "Speed": 478,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569616,
+    "UTC": "2019-06-15T03:33:36Z",
+    "Callsign": "ROU1898",
+    "Position": "41.935036,-120.379021",
+    "Altitude": 37000,
+    "Speed": 470,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569684,
+    "UTC": "2019-06-15T03:34:44Z",
+    "Callsign": "ROU1898",
+    "Position": "41.807304,-120.338882",
+    "Altitude": 36975,
+    "Speed": 472,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560569744,
+    "UTC": "2019-06-15T03:35:44Z",
+    "Callsign": "ROU1898",
+    "Position": "41.671837,-120.296906",
+    "Altitude": 37000,
+    "Speed": 470,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569838,
+    "UTC": "2019-06-15T03:37:18Z",
+    "Callsign": "ROU1898",
+    "Position": "41.495743,-120.242767",
+    "Altitude": 36975,
+    "Speed": 470,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560569904,
+    "UTC": "2019-06-15T03:38:24Z",
+    "Callsign": "ROU1898",
+    "Position": "41.338379,-120.195366",
+    "Altitude": 37000,
+    "Speed": 466,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560569965,
+    "UTC": "2019-06-15T03:39:25Z",
+    "Callsign": "ROU1898",
+    "Position": "41.195312,-120.150879",
+    "Altitude": 37000,
+    "Speed": 474,
+    "Direction": 166
+  },
+  {
+    "Timestamp": 1560570029,
+    "UTC": "2019-06-15T03:40:29Z",
+    "Callsign": "ROU1898",
+    "Position": "41.057667,-120.110336",
+    "Altitude": 37025,
+    "Speed": 483,
+    "Direction": 167
+  },
+  {
+    "Timestamp": 1560570088,
+    "UTC": "2019-06-15T03:41:28Z",
+    "Callsign": "ROU1898",
+    "Position": "40.94495,-120.073845",
+    "Altitude": 37000,
+    "Speed": 475,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560570102,
+    "UTC": "2019-06-15T03:41:42Z",
+    "Callsign": "ROU1898",
+    "Position": "40.90498,-120.049011",
+    "Altitude": 36975,
+    "Speed": 473,
+    "Direction": 150
+  },
+  {
+    "Timestamp": 1560570113,
+    "UTC": "2019-06-15T03:41:53Z",
+    "Callsign": "ROU1898",
+    "Position": "40.890732,-120.035515",
+    "Altitude": 36975,
+    "Speed": 467,
+    "Direction": 145
+  },
+  {
+    "Timestamp": 1560570126,
+    "UTC": "2019-06-15T03:42:06Z",
+    "Callsign": "ROU1898",
+    "Position": "40.866146,-120.017212",
+    "Altitude": 36975,
+    "Speed": 480,
+    "Direction": 150
+  },
+  {
+    "Timestamp": 1560570177,
+    "UTC": "2019-06-15T03:42:57Z",
+    "Callsign": "ROU1898",
+    "Position": "40.773296,-119.933258",
+    "Altitude": 37000,
+    "Speed": 486,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1560570242,
+    "UTC": "2019-06-15T03:44:02Z",
+    "Callsign": "ROU1898",
+    "Position": "40.648464,-119.816376",
+    "Altitude": 36950,
+    "Speed": 483,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560570305,
+    "UTC": "2019-06-15T03:45:05Z",
+    "Callsign": "ROU1898",
+    "Position": "40.531582,-119.716576",
+    "Altitude": 37000,
+    "Speed": 478,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560570369,
+    "UTC": "2019-06-15T03:46:09Z",
+    "Callsign": "ROU1898",
+    "Position": "40.410774,-119.615417",
+    "Altitude": 36975,
+    "Speed": 482,
+    "Direction": 147
+  },
+  {
+    "Timestamp": 1560570432,
+    "UTC": "2019-06-15T03:47:12Z",
+    "Callsign": "ROU1898",
+    "Position": "40.289597,-119.518318",
+    "Altitude": 36975,
+    "Speed": 480,
+    "Direction": 146
+  },
+  {
+    "Timestamp": 1560570441,
+    "UTC": "2019-06-15T03:47:21Z",
+    "Callsign": "ROU1898",
+    "Position": "40.265324,-119.51403",
+    "Altitude": 36975,
+    "Speed": 524,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560570452,
+    "UTC": "2019-06-15T03:47:32Z",
+    "Callsign": "ROU1898",
+    "Position": "40.256081,-119.510979",
+    "Altitude": 37000,
+    "Speed": 524,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1560570476,
+    "UTC": "2019-06-15T03:47:56Z",
+    "Callsign": "ROU1898",
+    "Position": "40.176937,-119.475945",
+    "Altitude": 36999,
+    "Speed": 513,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1560570532,
+    "UTC": "2019-06-15T03:48:52Z",
+    "Callsign": "ROU1898",
+    "Position": "40.11018,-119.379829",
+    "Altitude": 36999,
+    "Speed": 459,
+    "Direction": 125
+  },
+  {
+    "Timestamp": 1560570544,
+    "UTC": "2019-06-15T03:49:04Z",
+    "Callsign": "ROU1898",
+    "Position": "40.085945,-119.352676",
+    "Altitude": 36989,
+    "Speed": 459,
+    "Direction": 125
+  },
+  {
+    "Timestamp": 1560570553,
+    "UTC": "2019-06-15T03:49:13Z",
+    "Callsign": "ROU1898",
+    "Position": "40.066177,-119.332367",
+    "Altitude": 37000,
+    "Speed": 459,
+    "Direction": 125
+  },
+  {
+    "Timestamp": 1560570560,
+    "UTC": "2019-06-15T03:49:20Z",
+    "Callsign": "ROU1898",
+    "Position": "40.051044,-119.317657",
+    "Altitude": 37000,
+    "Speed": 459,
+    "Direction": 137
+  },
+  {
+    "Timestamp": 1560570569,
+    "UTC": "2019-06-15T03:49:29Z",
+    "Callsign": "ROU1898",
+    "Position": "40.0364,-119.304474",
+    "Altitude": 36975,
+    "Speed": 463,
+    "Direction": 142
+  },
+  {
+    "Timestamp": 1560570580,
+    "UTC": "2019-06-15T03:49:40Z",
+    "Callsign": "ROU1898",
+    "Position": "40.013817,-119.285294",
+    "Altitude": 36975,
+    "Speed": 467,
+    "Direction": 145
+  },
+  {
+    "Timestamp": 1560570588,
+    "UTC": "2019-06-15T03:49:48Z",
+    "Callsign": "ROU1898",
+    "Position": "39.998856,-119.274986",
+    "Altitude": 36975,
+    "Speed": 476,
+    "Direction": 150
+  },
+  {
+    "Timestamp": 1560570617,
+    "UTC": "2019-06-15T03:50:17Z",
+    "Callsign": "ROU1898",
+    "Position": "39.949245,-119.229973",
+    "Altitude": 36975,
+    "Speed": 489,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1560570641,
+    "UTC": "2019-06-15T03:50:41Z",
+    "Callsign": "ROU1898",
+    "Position": "39.904644,-119.191299",
+    "Altitude": 36975,
+    "Speed": 482,
+    "Direction": 150
+  },
+  {
+    "Timestamp": 1560570653,
+    "UTC": "2019-06-15T03:50:53Z",
+    "Callsign": "ROU1898",
+    "Position": "39.881882,-119.174973",
+    "Altitude": 36991,
+    "Speed": 482,
+    "Direction": 150
+  },
+  {
+    "Timestamp": 1560570717,
+    "UTC": "2019-06-15T03:51:57Z",
+    "Callsign": "ROU1898",
+    "Position": "39.757164,-119.082169",
+    "Altitude": 37000,
+    "Speed": 484,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560570768,
+    "UTC": "2019-06-15T03:52:48Z",
+    "Callsign": "ROU1898",
+    "Position": "39.683121,-118.973068",
+    "Altitude": 36967,
+    "Speed": 484,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1560570774,
+    "UTC": "2019-06-15T03:52:54Z",
+    "Callsign": "ROU1898",
+    "Position": "39.672504,-118.968414",
+    "Altitude": 36975,
+    "Speed": 484,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1560570793,
+    "UTC": "2019-06-15T03:53:13Z",
+    "Callsign": "ROU1898",
+    "Position": "39.626209,-118.948486",
+    "Altitude": 37000,
+    "Speed": 506,
+    "Direction": 157
+  },
+  {
+    "Timestamp": 1560570800,
+    "UTC": "2019-06-15T03:53:20Z",
+    "Callsign": "ROU1898",
+    "Position": "39.605427,-118.940376",
+    "Altitude": 37000,
+    "Speed": 511,
+    "Direction": 160
+  },
+  {
+    "Timestamp": 1560570864,
+    "UTC": "2019-06-15T03:54:24Z",
+    "Callsign": "ROU1898",
+    "Position": "39.473099,-118.858765",
+    "Altitude": 37000,
+    "Speed": 496,
+    "Direction": 147
+  },
+  {
+    "Timestamp": 1560570872,
+    "UTC": "2019-06-15T03:54:32Z",
+    "Callsign": "ROU1898",
+    "Position": "39.467934,-118.848373",
+    "Altitude": 37000,
+    "Speed": 489,
+    "Direction": 138
+  },
+  {
+    "Timestamp": 1560570900,
+    "UTC": "2019-06-15T03:55:00Z",
+    "Callsign": "ROU1898",
+    "Position": "39.40406,-118.799232",
+    "Altitude": 36975,
+    "Speed": 489,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560570966,
+    "UTC": "2019-06-15T03:56:06Z",
+    "Callsign": "ROU1898",
+    "Position": "39.282841,-118.703262",
+    "Altitude": 36975,
+    "Speed": 486,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560571032,
+    "UTC": "2019-06-15T03:57:12Z",
+    "Callsign": "ROU1898",
+    "Position": "39.166344,-118.611076",
+    "Altitude": 37000,
+    "Speed": 490,
+    "Direction": 146
+  },
+  {
+    "Timestamp": 1560571096,
+    "UTC": "2019-06-15T03:58:16Z",
+    "Callsign": "ROU1898",
+    "Position": "39.027351,-118.498528",
+    "Altitude": 37000,
+    "Speed": 490,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571157,
+    "UTC": "2019-06-15T03:59:17Z",
+    "Callsign": "ROU1898",
+    "Position": "38.909157,-118.407669",
+    "Altitude": 36975,
+    "Speed": 491,
+    "Direction": 147
+  },
+  {
+    "Timestamp": 1560571220,
+    "UTC": "2019-06-15T04:00:20Z",
+    "Callsign": "ROU1898",
+    "Position": "38.786797,-118.309952",
+    "Altitude": 37000,
+    "Speed": 495,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560571280,
+    "UTC": "2019-06-15T04:01:20Z",
+    "Callsign": "ROU1898",
+    "Position": "38.674915,-118.224487",
+    "Altitude": 36985,
+    "Speed": 501,
+    "Direction": 145
+  },
+  {
+    "Timestamp": 1560571340,
+    "UTC": "2019-06-15T04:02:20Z",
+    "Callsign": "ROU1898",
+    "Position": "38.547756,-118.123138",
+    "Altitude": 37000,
+    "Speed": 506,
+    "Direction": 145
+  },
+  {
+    "Timestamp": 1560571405,
+    "UTC": "2019-06-15T04:03:25Z",
+    "Callsign": "ROU1898",
+    "Position": "38.421803,-118.029236",
+    "Altitude": 36682,
+    "Speed": 498,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1560571464,
+    "UTC": "2019-06-15T04:04:24Z",
+    "Callsign": "ROU1898",
+    "Position": "38.304005,-117.938538",
+    "Altitude": 35050,
+    "Speed": 498,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571528,
+    "UTC": "2019-06-15T04:05:28Z",
+    "Callsign": "ROU1898",
+    "Position": "38.176102,-117.840935",
+    "Altitude": 35000,
+    "Speed": 501,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571560,
+    "UTC": "2019-06-15T04:06:00Z",
+    "Callsign": "ROU1898",
+    "Position": "38.130131,-117.805946",
+    "Altitude": 34900,
+    "Speed": 500,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571596,
+    "UTC": "2019-06-15T04:06:36Z",
+    "Callsign": "ROU1898",
+    "Position": "38.048744,-117.743843",
+    "Altitude": 34250,
+    "Speed": 500,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571689,
+    "UTC": "2019-06-15T04:08:09Z",
+    "Callsign": "ROU1898",
+    "Position": "37.88908,-117.621544",
+    "Altitude": 33025,
+    "Speed": 500,
+    "Direction": 147
+  },
+  {
+    "Timestamp": 1560571757,
+    "UTC": "2019-06-15T04:09:17Z",
+    "Callsign": "ROU1898",
+    "Position": "37.7384,-117.507812",
+    "Altitude": 32974,
+    "Speed": 506,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571820,
+    "UTC": "2019-06-15T04:10:20Z",
+    "Callsign": "ROU1898",
+    "Position": "37.594677,-117.399475",
+    "Altitude": 32975,
+    "Speed": 512,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571892,
+    "UTC": "2019-06-15T04:11:32Z",
+    "Callsign": "ROU1898",
+    "Position": "37.464611,-117.30233",
+    "Altitude": 32975,
+    "Speed": 498,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1560571956,
+    "UTC": "2019-06-15T04:12:36Z",
+    "Callsign": "ROU1898",
+    "Position": "37.324287,-117.190025",
+    "Altitude": 33000,
+    "Speed": 499,
+    "Direction": 145
+  },
+  {
+    "Timestamp": 1560572021,
+    "UTC": "2019-06-15T04:13:41Z",
+    "Callsign": "ROU1898",
+    "Position": "37.199009,-117.081589",
+    "Altitude": 33000,
+    "Speed": 504,
+    "Direction": 144
+  },
+  {
+    "Timestamp": 1560572052,
+    "UTC": "2019-06-15T04:14:12Z",
+    "Callsign": "ROU1898",
+    "Position": "37.105103,-117.035355",
+    "Altitude": 32975,
+    "Speed": 415,
+    "Direction": 120
+  },
+  {
+    "Timestamp": 1560572065,
+    "UTC": "2019-06-15T04:14:25Z",
+    "Callsign": "ROU1898",
+    "Position": "37.099136,-117.022377",
+    "Altitude": 32975,
+    "Speed": 389,
+    "Direction": 119
+  },
+  {
+    "Timestamp": 1560572084,
+    "UTC": "2019-06-15T04:14:44Z",
+    "Callsign": "ROU1898",
+    "Position": "37.064838,-116.979523",
+    "Altitude": 32951,
+    "Speed": 403,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1560572094,
+    "UTC": "2019-06-15T04:14:54Z",
+    "Callsign": "ROU1898",
+    "Position": "37.054459,-116.966721",
+    "Altitude": 32950,
+    "Speed": 409,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1560572156,
+    "UTC": "2019-06-15T04:15:56Z",
+    "Callsign": "ROU1898",
+    "Position": "36.956493,-116.843796",
+    "Altitude": 33000,
+    "Speed": 498,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1560572221,
+    "UTC": "2019-06-15T04:17:01Z",
+    "Callsign": "ROU1898",
+    "Position": "36.848064,-116.71476",
+    "Altitude": 32800,
+    "Speed": 527,
+    "Direction": 136
+  },
+  {
+    "Timestamp": 1560572285,
+    "UTC": "2019-06-15T04:18:05Z",
+    "Callsign": "ROU1898",
+    "Position": "36.736824,-116.583076",
+    "Altitude": 29518,
+    "Speed": 520,
+    "Direction": 137
+  },
+  {
+    "Timestamp": 1560572304,
+    "UTC": "2019-06-15T04:18:24Z",
+    "Callsign": "ROU1898",
+    "Position": "36.710354,-116.547638",
+    "Altitude": 28254,
+    "Speed": 437,
+    "Direction": 128
+  },
+  {
+    "Timestamp": 1560572356,
+    "UTC": "2019-06-15T04:19:16Z",
+    "Callsign": "ROU1898",
+    "Position": "36.620487,-116.444427",
+    "Altitude": 25442,
+    "Speed": 520,
+    "Direction": 139
+  },
+  {
+    "Timestamp": 1560572422,
+    "UTC": "2019-06-15T04:20:22Z",
+    "Callsign": "ROU1898",
+    "Position": "36.509308,-116.322151",
+    "Altitude": 22475,
+    "Speed": 495,
+    "Direction": 137
+  },
+  {
+    "Timestamp": 1560572489,
+    "UTC": "2019-06-15T04:21:29Z",
+    "Callsign": "ROU1898",
+    "Position": "36.410297,-116.201447",
+    "Altitude": 20100,
+    "Speed": 459,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1560572549,
+    "UTC": "2019-06-15T04:22:29Z",
+    "Callsign": "ROU1898",
+    "Position": "36.327324,-116.078552",
+    "Altitude": 18575,
+    "Speed": 437,
+    "Direction": 129
+  },
+  {
+    "Timestamp": 1560572613,
+    "UTC": "2019-06-15T04:23:33Z",
+    "Callsign": "ROU1898",
+    "Position": "36.251724,-115.969841",
+    "Altitude": 17125,
+    "Speed": 373,
+    "Direction": 130
+  },
+  {
+    "Timestamp": 1560572649,
+    "UTC": "2019-06-15T04:24:09Z",
+    "Callsign": "ROU1898",
+    "Position": "36.21312,-115.916382",
+    "Altitude": 16396,
+    "Speed": 351,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1560572680,
+    "UTC": "2019-06-15T04:24:40Z",
+    "Callsign": "ROU1898",
+    "Position": "36.183498,-115.86834",
+    "Altitude": 15816,
+    "Speed": 334,
+    "Direction": 121
+  },
+  {
+    "Timestamp": 1560572688,
+    "UTC": "2019-06-15T04:24:48Z",
+    "Callsign": "ROU1898",
+    "Position": "36.177467,-115.853951",
+    "Altitude": 15675,
+    "Speed": 332,
+    "Direction": 118
+  },
+  {
+    "Timestamp": 1560572697,
+    "UTC": "2019-06-15T04:24:57Z",
+    "Callsign": "ROU1898",
+    "Position": "36.174847,-115.846718",
+    "Altitude": 15607,
+    "Speed": 332,
+    "Direction": 118
+  },
+  {
+    "Timestamp": 1560572710,
+    "UTC": "2019-06-15T04:25:10Z",
+    "Callsign": "ROU1898",
+    "Position": "36.165154,-115.818817",
+    "Altitude": 15350,
+    "Speed": 331,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1560572716,
+    "UTC": "2019-06-15T04:25:16Z",
+    "Callsign": "ROU1898",
+    "Position": "36.16143,-115.804436",
+    "Altitude": 15200,
+    "Speed": 330,
+    "Direction": 107
+  },
+  {
+    "Timestamp": 1560572722,
+    "UTC": "2019-06-15T04:25:22Z",
+    "Callsign": "ROU1898",
+    "Position": "36.159683,-115.797546",
+    "Altitude": 15133,
+    "Speed": 330,
+    "Direction": 107
+  },
+  {
+    "Timestamp": 1560572728,
+    "UTC": "2019-06-15T04:25:28Z",
+    "Callsign": "ROU1898",
+    "Position": "36.15588,-115.782272",
+    "Altitude": 15000,
+    "Speed": 334,
+    "Direction": 107
+  },
+  {
+    "Timestamp": 1560572772,
+    "UTC": "2019-06-15T04:26:12Z",
+    "Callsign": "ROU1898",
+    "Position": "36.134552,-115.701141",
+    "Altitude": 14233,
+    "Speed": 333,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1560572801,
+    "UTC": "2019-06-15T04:26:41Z",
+    "Callsign": "ROU1898",
+    "Position": "36.120152,-115.651031",
+    "Altitude": 13764,
+    "Speed": 334,
+    "Direction": 108
+  },
+  {
+    "Timestamp": 1560572832,
+    "UTC": "2019-06-15T04:27:12Z",
+    "Callsign": "ROU1898",
+    "Position": "36.102772,-115.595078",
+    "Altitude": 13238,
+    "Speed": 327,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1560572866,
+    "UTC": "2019-06-15T04:27:46Z",
+    "Callsign": "ROU1898",
+    "Position": "36.087547,-115.546768",
+    "Altitude": 12775,
+    "Speed": 328,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1560572896,
+    "UTC": "2019-06-15T04:28:16Z",
+    "Callsign": "ROU1898",
+    "Position": "36.072044,-115.496231",
+    "Altitude": 12300,
+    "Speed": 324,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1560572929,
+    "UTC": "2019-06-15T04:28:49Z",
+    "Callsign": "ROU1898",
+    "Position": "36.051682,-115.433533",
+    "Altitude": 11700,
+    "Speed": 324,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1560572945,
+    "UTC": "2019-06-15T04:29:05Z",
+    "Callsign": "ROU1898",
+    "Position": "36.047146,-115.420624",
+    "Altitude": 11574,
+    "Speed": 318,
+    "Direction": 112
+  },
+  {
+    "Timestamp": 1560572966,
+    "UTC": "2019-06-15T04:29:26Z",
+    "Callsign": "ROU1898",
+    "Position": "36.038654,-115.394554",
+    "Altitude": 11350,
+    "Speed": 318,
+    "Direction": 112
+  },
+  {
+    "Timestamp": 1560573060,
+    "UTC": "2019-06-15T04:31:00Z",
+    "Callsign": "ROU1898",
+    "Position": "36.028561,-115.361069",
+    "Altitude": 11025,
+    "Speed": 318,
+    "Direction": 112
+  },
+  {
+    "Timestamp": 1560573116,
+    "UTC": "2019-06-15T04:31:56Z",
+    "Callsign": "ROU1898",
+    "Position": "36.008293,-115.134392",
+    "Altitude": 8588,
+    "Speed": 294,
+    "Direction": 95
+  },
+  {
+    "Timestamp": 1560573176,
+    "UTC": "2019-06-15T04:32:56Z",
+    "Callsign": "ROU1898",
+    "Position": "36.008221,-115.122078",
+    "Altitude": 8475,
+    "Speed": 284,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1560573232,
+    "UTC": "2019-06-15T04:33:52Z",
+    "Callsign": "ROU1898",
+    "Position": "36.001099,-115.024467",
+    "Altitude": 8043,
+    "Speed": 234,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1560573314,
+    "UTC": "2019-06-15T04:35:14Z",
+    "Callsign": "ROU1898",
+    "Position": "36.005444,-114.927048",
+    "Altitude": 5300,
+    "Speed": 194,
+    "Direction": 22
+  },
+  {
+    "Timestamp": 1560573400,
+    "UTC": "2019-06-15T04:36:40Z",
+    "Callsign": "ROU1898",
+    "Position": "35.995365,-114.961708",
+    "Altitude": 6525,
+    "Speed": 234,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1560573481,
+    "UTC": "2019-06-15T04:38:01Z",
+    "Callsign": "ROU1898",
+    "Position": "36.031071,-114.954567",
+    "Altitude": 2700,
+    "Speed": 125,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1560573527,
+    "UTC": "2019-06-15T04:38:47Z",
+    "Callsign": "ROU1898",
+    "Position": "36.073669,-115.133308",
+    "Altitude": 0,
+    "Speed": 132,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1560573546,
+    "UTC": "2019-06-15T04:39:06Z",
+    "Callsign": "ROU1898",
+    "Position": "36.073639,-115.144691",
+    "Altitude": 0,
+    "Speed": 65,
+    "Direction": 270
+  },
+  {
+    "Timestamp": 1560573572,
+    "UTC": "2019-06-15T04:39:32Z",
+    "Callsign": "ROU1898",
+    "Position": "36.074268,-115.149681",
+    "Altitude": 2100,
+    "Speed": 26,
+    "Direction": 292
+  },
+  {
+    "Timestamp": 1560573582,
+    "UTC": "2019-06-15T04:39:42Z",
+    "Callsign": "ROU1898",
+    "Position": "36.074898,-115.150833",
+    "Altitude": 2100,
+    "Speed": 25,
+    "Direction": 308
+  },
+  {
+    "Timestamp": 1560573593,
+    "UTC": "2019-06-15T04:39:53Z",
+    "Callsign": "ROU1898",
+    "Position": "36.075645,-115.151665",
+    "Altitude": 2100,
+    "Speed": 20,
+    "Direction": 332
+  },
+  {
+    "Timestamp": 1560573603,
+    "UTC": "2019-06-15T04:40:03Z",
+    "Callsign": "ROU1898",
+    "Position": "36.076477,-115.15226",
+    "Altitude": 2100,
+    "Speed": 19,
+    "Direction": 335
+  },
+  {
+    "Timestamp": 1560573612,
+    "UTC": "2019-06-15T04:40:12Z",
+    "Callsign": "ROU1898",
+    "Position": "36.077148,-115.152702",
+    "Altitude": 2100,
+    "Speed": 16,
+    "Direction": 329
+  },
+  {
+    "Timestamp": 1560573623,
+    "UTC": "2019-06-15T04:40:23Z",
+    "Callsign": "ROU1898",
+    "Position": "36.077824,-115.153084",
+    "Altitude": 2100,
+    "Speed": 14,
+    "Direction": 335
+  },
+  {
+    "Timestamp": 1560573648,
+    "UTC": "2019-06-15T04:40:48Z",
+    "Callsign": "ROU1898",
+    "Position": "36.078674,-115.152725",
+    "Altitude": 2100,
+    "Speed": 15,
+    "Direction": 99
+  },
+  {
+    "Timestamp": 1560573673,
+    "UTC": "2019-06-15T04:41:13Z",
+    "Callsign": "ROU1898",
+    "Position": "36.078865,-115.150932",
+    "Altitude": 2100,
+    "Speed": 26,
+    "Direction": 104
+  },
+  {
+    "Timestamp": 1560573683,
+    "UTC": "2019-06-15T04:41:23Z",
+    "Callsign": "ROU1898",
+    "Position": "36.078575,-115.149536",
+    "Altitude": 2100,
+    "Speed": 93,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1560573692,
+    "UTC": "2019-06-15T04:41:32Z",
+    "Callsign": "ROU1898",
+    "Position": "36.078682,-115.148521",
+    "Altitude": 2100,
+    "Speed": 22,
+    "Direction": 68
+  },
+  {
+    "Timestamp": 1560573712,
+    "UTC": "2019-06-15T04:41:52Z",
+    "Callsign": "ROU1898",
+    "Position": "36.079052,-115.146942",
+    "Altitude": 2100,
+    "Speed": 35,
+    "Direction": 96
+  },
+  {
+    "Timestamp": 1560573722,
+    "UTC": "2019-06-15T04:42:02Z",
+    "Callsign": "ROU1898",
+    "Position": "36.078907,-115.145378",
+    "Altitude": 2100,
+    "Speed": 16,
+    "Direction": 94
+  },
+  {
+    "Timestamp": 1560573732,
+    "UTC": "2019-06-15T04:42:12Z",
+    "Callsign": "ROU1898",
+    "Position": "36.078835,-115.144165",
+    "Altitude": 2100,
+    "Speed": 13,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1560573738,
+    "UTC": "2019-06-15T04:42:18Z",
+    "Callsign": "ROU1898",
+    "Position": "36.078865,-115.143585",
+    "Altitude": 2100,
+    "Speed": 17,
+    "Direction": 33
+  },
+  {
+    "Timestamp": 1560573748,
+    "UTC": "2019-06-15T04:42:28Z",
+    "Callsign": "ROU1898",
+    "Position": "36.079208,-115.142418",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1560573759,
+    "UTC": "2019-06-15T04:42:39Z",
+    "Callsign": "ROU1898",
+    "Position": "36.0802,-115.142433",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 356
+  },
+  {
+    "Timestamp": 1560573768,
+    "UTC": "2019-06-15T04:42:48Z",
+    "Callsign": "ROU1898",
+    "Position": "36.08083,-115.142387",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 4
+  },
+  {
+    "Timestamp": 1560573779,
+    "UTC": "2019-06-15T04:42:59Z",
+    "Callsign": "ROU1898",
+    "Position": "36.08157,-115.142502",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 351
+  },
+  {
+    "Timestamp": 1560573788,
+    "UTC": "2019-06-15T04:43:08Z",
+    "Callsign": "ROU1898",
+    "Position": "36.082199,-115.142403",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 6
+  },
+  {
+    "Timestamp": 1560573798,
+    "UTC": "2019-06-15T04:43:18Z",
+    "Callsign": "ROU1898",
+    "Position": "36.0825,-115.142052",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 224
+  }
+]

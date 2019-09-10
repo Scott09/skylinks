@@ -1,0 +1,146 @@
+[
+  {
+    "Timestamp": 1567790539,
+    "UTC": "2019-09-06T17:22:19Z",
+    "Callsign": "CFBKA",
+    "Position": "49.466667,-123.949997",
+    "Altitude": 500,
+    "Speed": 140,
+    "Direction": 135
+  },
+  {
+    "Timestamp": 1567790598,
+    "UTC": "2019-09-06T17:23:18Z",
+    "Callsign": "CFBKA",
+    "Position": "49.450001,-123.900002",
+    "Altitude": 500,
+    "Speed": 140,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567790656,
+    "UTC": "2019-09-06T17:24:16Z",
+    "Callsign": "CFBKA",
+    "Position": "49.433334,-123.849998",
+    "Altitude": 1100,
+    "Speed": 130,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567790717,
+    "UTC": "2019-09-06T17:25:17Z",
+    "Callsign": "CFBKA",
+    "Position": "49.416668,-123.800003",
+    "Altitude": 1400,
+    "Speed": 130,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567790750,
+    "UTC": "2019-09-06T17:25:50Z",
+    "Callsign": "CFBKA",
+    "Position": "49.401817,-123.755447",
+    "Altitude": 1500,
+    "Speed": 140,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567790809,
+    "UTC": "2019-09-06T17:26:49Z",
+    "Callsign": "CFBKA",
+    "Position": "49.382927,-123.698769",
+    "Altitude": 1500,
+    "Speed": 140,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567790893,
+    "UTC": "2019-09-06T17:28:13Z",
+    "Callsign": "CFBKA",
+    "Position": "49.363522,-123.640564",
+    "Altitude": 1500,
+    "Speed": 140,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567790930,
+    "UTC": "2019-09-06T17:28:50Z",
+    "Callsign": "CFBKA",
+    "Position": "49.351093,-123.603287",
+    "Altitude": 1500,
+    "Speed": 140,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567790994,
+    "UTC": "2019-09-06T17:29:54Z",
+    "Callsign": "CFBKA",
+    "Position": "49.332897,-123.548706",
+    "Altitude": 1500,
+    "Speed": 140,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567791052,
+    "UTC": "2019-09-06T17:30:52Z",
+    "Callsign": "CFBKA",
+    "Position": "49.315948,-123.497849",
+    "Altitude": 1500,
+    "Speed": 130,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567791112,
+    "UTC": "2019-09-06T17:31:52Z",
+    "Callsign": "CFBKA",
+    "Position": "49.29937,-123.440155",
+    "Altitude": 1500,
+    "Speed": 140,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1567791191,
+    "UTC": "2019-09-06T17:33:11Z",
+    "Callsign": "CFBKA",
+    "Position": "49.280434,-123.377373",
+    "Altitude": 1500,
+    "Speed": 140,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567791210,
+    "UTC": "2019-09-06T17:33:30Z",
+    "Callsign": "CFBKA",
+    "Position": "49.286877,-123.349037",
+    "Altitude": 1400,
+    "Speed": 140,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1567791296,
+    "UTC": "2019-09-06T17:34:56Z",
+    "Callsign": "CFBKA",
+    "Position": "49.245792,-123.272881",
+    "Altitude": 1100,
+    "Speed": 140,
+    "Direction": 127
+  },
+  {
+    "Timestamp": 1567791446,
+    "UTC": "2019-09-06T17:37:26Z",
+    "Callsign": "CFBKA",
+    "Position": "49.200001,-123.23333",
+    "Altitude": 500,
+    "Speed": 150,
+    "Direction": 146
+  },
+  {
+    "Timestamp": 1567791473,
+    "UTC": "2019-09-06T17:37:53Z",
+    "Callsign": "CFBKA",
+    "Position": "49.166668,-123.216667",
+    "Altitude": 300,
+    "Speed": 140,
+    "Direction": 161
+  }
+]
