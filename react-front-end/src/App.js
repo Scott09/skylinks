@@ -106,11 +106,7 @@ const App = props => {
         ></RouteList>
         <ResetButton onClear={onClear}></ResetButton>
         <SearchForm getArrival={arrivals} getDepartures={departures} />
-        <Slider
-          waypoints={waypoints}
-          realFlightPosition={realFlightPosition}
-          setRealFlightPosition={setRealFlightPosition}
-        />
+        <Slider setRealFlightPosition={setRealFlightPosition} />
       </div>
       <ThreeContainer
         waypoints={waypoints}
