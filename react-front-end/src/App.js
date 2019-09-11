@@ -107,6 +107,7 @@ const App = props => {
         <SearchForm getArrival={arrivals} getDepartures={departures} />
         {waypoints.length > 0 ? (
           <Slider
+            realFlightPosition={realFlightPosition}
             setRealFlightPosition={setRealFlightPosition}
             waypoints={waypoints}
           />

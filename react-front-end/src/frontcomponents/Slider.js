@@ -45,10 +45,24 @@ const PrettoSlider = withStyles({
 })(Slider);
 
 export default function CustomizedSlider(props) {
-  // const marks = [];
-  // props.waypoints.forEach(waypoint =>
-  //   marks.push({ value: waypoint.position.altitude })
-  // );
+  function checkTime(i) {
+    if (i < 10) {
+      i = "0" + i;
+    }
+    return i;
+  }
+
+  const index = props.waypoints.length - 1;
+  const currentIndex = Math.floor((props.realFlightPosition / 100) * index);
+  let totalSeconds =
+    props.waypoints[currentIndex].timestamp - props.waypoints[0].timestamp;
+  let hours = Math.floor(totalSeconds / 3600);
+  totalSeconds = totalSeconds % 3600;
+  let minutes = Math.floor(totalSeconds / 60);
+  minutes = checkTime(minutes);
+  let seconds = totalSeconds % 60;
+  seconds = checkTime(seconds);
+
   const handleSliderChange = (event, newValue) => {
     props.setRealFlightPosition(newValue);
   };
@@ -69,17 +83,26 @@ export default function CustomizedSlider(props) {
   return (
     <Paper id="slider" className={classes.root}>
       <PrettoSlider
-        valueLabelDisplay="auto"
         aria-label="pretto slider"
         onChange={handleSliderChange}
         marks={marks}
         min={0}
         max={100}
-        step={1}
+        step={0.5}
       ></PrettoSlider>
-      <p id="slidertext">Altitude: 20435 Feet</p>
+      <p id="slidertext">
+        Altitude: {props.waypoints[currentIndex].position.altitude} Ft.
+      </p>
+      <p>
+        {hours}:{minutes}:{seconds} Since Departure
+      </p>
       <span>
-        Longitude: 13.45432 -<span></span> Latitude: 24.53435{" "}
+        Latitude:{" "}
+        {parseFloat(props.waypoints[currentIndex].position.latitude).toFixed(4)}{" "}
+        -<span></span> Longitude:{" "}
+        {parseFloat(props.waypoints[currentIndex].position.longitude).toFixed(
+          4
+        )}
       </span>
     </Paper>
   );
