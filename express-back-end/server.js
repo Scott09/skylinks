@@ -3,8 +3,8 @@ const App = Express();
 const BodyParser = require("body-parser");
 const PORT = 8080;
 const { Pool } = require("pg");
+const cors = require("cors");
 require("dotenv").config();
-const axios = require("axios");
 const spidertest = require("./testflightdata.json");
 
 const pool = new Pool({
@@ -13,6 +13,15 @@ const pool = new Pool({
   password: process.env.DB_PASS,
   database: process.env.DB_NAME,
   port: process.env.DB_PORT
+});
+
+App.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "http://localhost:3000"); // update to match the domain you will make the request from
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );
+  next();
 });
 
 pool.connect((error, client) => {
@@ -33,6 +42,19 @@ App.get("/api/data", (req, res) => {
   res.json({
     message: "Seems to work!"
   });
+});
+
+App.get("/api/textures/:id", (req, res, next) => {
+  const texture = req.params.id;
+  if (__dirname + "/textures/" + texture)
+    res.sendFile(__dirname + "/textures/" + texture);
+});
+
+App.get("/with-cors/:id", (req, res, next) => {
+  const plane = req.params.id;
+  if (__dirname + "/airbus_a350_xwb/" + plane) {
+    res.sendFile(__dirname + "/airbus_a350_xwb/" + plane);
+  }
 });
 
 App.get("/api/airports/:id", (req, res) => {
@@ -118,11 +140,6 @@ App.get("/api/schedules/from/:from/to/:to", (req, res) => {
     .catch(err => {
       console.log(err);
     });
-});
-
-App.get("/api/plane/:id", (req, res) => {
-  const file_name = req.params.id;
-  res.send(`/plane/${file_name}`);
 });
 
 App.listen(PORT, () => {
