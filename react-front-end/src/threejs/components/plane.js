@@ -5,10 +5,11 @@ export default spline => {
   let tangent = new THREE.Vector3();
   let axis = new THREE.Vector3();
   let up = new THREE.Vector3(0, 1, 0);
+  var textureLoader = new THREE.TextureLoader();
 
   let geo = new THREE.PlaneBufferGeometry(0.2, 0.2, 0.1, 0.1);
   let mat = new THREE.MeshBasicMaterial({
-    map: THREE.ImageUtils.loadTexture("images/plane.png"),
+    map: textureLoader.load("http://localhost:8080/api/textures/plane.png"),
     transparent: true,
     side: THREE.DoubleSide
   });
@@ -20,21 +21,6 @@ export default spline => {
   }, ran_for_airplane);
 
   return plane;
-  // var mtlLoader = new MTLLoader();
-  // mtlLoader.setPath("/api/plane/");
-  // mtlLoader.load("plane.mtl", function(materials) {
-  //   materials.preload();
-
-  //   var objLoader = new OBJLoader();
-  //   objLoader.setMaterials(materials);
-  //   objLoader.setPath("/api/plane/");
-  //   objLoader.load("plane.obj", function(object) {
-  //     console.log(`am i here?`);
-  //     scene.add(object);
-  //     setInterval(moveontrack(object), 100);
-  //   });
-  // });
-
   function moveontrack() {
     if (counter <= 1) {
       plane.position.copy(spline.getPointAt(counter));
