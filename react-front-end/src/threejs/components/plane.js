@@ -8,15 +8,11 @@ export default spline => {
 
   var textureLoader = new THREE.TextureLoader();
 
-  let center = new THREE.Vector3(0, 0, 0);
-
-
   let geo = new THREE.PlaneBufferGeometry(0.2, 0.2, 0.1, 0.1);
   let mat = new THREE.MeshBasicMaterial({
     map: textureLoader.load("http://localhost:8080/api/textures/plane.png"),
     transparent: true,
-    side: THREE.DoubleSide,
-    normal: center
+    side: THREE.DoubleSide
   });
   let plane = new THREE.Mesh(geo, mat);
 

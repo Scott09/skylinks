@@ -4,11 +4,10 @@ import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
 import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemText from "@material-ui/core/ListItemText";
-import PlaneLogo from "./flying-airliner.svg";
 import AirportTower from "./control-tower.png";
 import Arrow from "./right-arrow.svg";
 import "./RouteList.css";
-import plane from './niceplane.png';
+import plane from "./niceplane.png";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -32,7 +31,7 @@ export default function RouteList(props) {
   const classes = useStyles();
 
   return (
-    <React.Fragment>
+    <React.Fragment key={1}>
       {props.newDeparture && props.newArrival[0] && (
         <div id="list_main" className={classes.root}>
           <List component="nav" aria-label="main mailbox folders">
@@ -54,9 +53,9 @@ export default function RouteList(props) {
               />
             </ListItem>
             <hr />
-            {props.newArrival.map(arrival => {
+            {props.newArrival.map((arrival, index) => {
               return (
-                <>
+                <div key={index}>
                   <ListItem
                     id={`${props.newDeparture.fs}_${arrival.fs}`}
                     className={classes.mainContainer}
@@ -64,12 +63,7 @@ export default function RouteList(props) {
                     button
                   >
                     <ListItemIcon>
-                      <img
-                        alt="PlaneLogo"
-                        src={plane}
-                        height="44"
-                        width="44"
-                      />
+                      <img alt="PlaneLogo" src={plane} height="44" width="44" />
                     </ListItemIcon>
                     <ListItemText>
                       <img alt="Arrow" src={Arrow} height="12" width="12" /> To:
@@ -77,7 +71,7 @@ export default function RouteList(props) {
                     </ListItemText>
                   </ListItem>
                   <hr />
-                </>
+                </div>
               );
             })}
           </List>

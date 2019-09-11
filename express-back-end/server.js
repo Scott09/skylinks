@@ -5,6 +5,7 @@ const PORT = 8080;
 const { Pool } = require("pg");
 const cors = require("cors");
 require("dotenv").config();
+const axios = require("axios");
 const spidertest = require("./testflightdata.json");
 
 const pool = new Pool({
@@ -17,6 +18,7 @@ const pool = new Pool({
 
 App.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "http://localhost:3000"); // update to match the domain you will make the request from
+  res.header("Access-Control-Allow-Origin", "http://localhost:3002"); // update to match the domain you will make the request from
   res.header(
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
