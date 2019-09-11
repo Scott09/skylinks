@@ -1,0 +1,4619 @@
+[
+  {
+    "Timestamp": 1568171310,
+    "UTC": "2019-09-11T03:08:30Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197041,-123.178993",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 36
+  },
+  {
+    "Timestamp": 1568171342,
+    "UTC": "2019-09-11T03:09:02Z",
+    "Callsign": "ANZ23",
+    "Position": "49.196907,-123.179199",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1568171362,
+    "UTC": "2019-09-11T03:09:22Z",
+    "Callsign": "ANZ23",
+    "Position": "49.196766,-123.17952",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 78
+  },
+  {
+    "Timestamp": 1568171376,
+    "UTC": "2019-09-11T03:09:36Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19672,-123.179802",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 87
+  },
+  {
+    "Timestamp": 1568171418,
+    "UTC": "2019-09-11T03:10:18Z",
+    "Callsign": "ANZ23",
+    "Position": "49.196709,-123.180679",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 47
+  },
+  {
+    "Timestamp": 1568171473,
+    "UTC": "2019-09-11T03:11:13Z",
+    "Callsign": "ANZ23",
+    "Position": "49.196857,-123.180931",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 348
+  },
+  {
+    "Timestamp": 1568171488,
+    "UTC": "2019-09-11T03:11:28Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197018,-123.181175",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 320
+  },
+  {
+    "Timestamp": 1568171504,
+    "UTC": "2019-09-11T03:11:44Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197144,-123.181419",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 312
+  },
+  {
+    "Timestamp": 1568171511,
+    "UTC": "2019-09-11T03:11:51Z",
+    "Callsign": "ANZ23",
+    "Position": "49.196663,-123.18084",
+    "Altitude": 0,
+    "Speed": 10,
+    "Direction": 309
+  },
+  {
+    "Timestamp": 1568171675,
+    "UTC": "2019-09-11T03:14:35Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19751,-123.182846",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 291
+  },
+  {
+    "Timestamp": 1568171791,
+    "UTC": "2019-09-11T03:16:31Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197533,-123.183075",
+    "Altitude": 0,
+    "Speed": 12,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568171801,
+    "UTC": "2019-09-11T03:16:41Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197578,-123.183426",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568171812,
+    "UTC": "2019-09-11T03:16:52Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197662,-123.184097",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568171818,
+    "UTC": "2019-09-11T03:16:58Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197708,-123.184532",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568171824,
+    "UTC": "2019-09-11T03:17:04Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197742,-123.184853",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568171831,
+    "UTC": "2019-09-11T03:17:11Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197796,-123.18528",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 278
+  },
+  {
+    "Timestamp": 1568171839,
+    "UTC": "2019-09-11T03:17:19Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197742,-123.185722",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568171850,
+    "UTC": "2019-09-11T03:17:30Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19751,-123.18605",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1568171857,
+    "UTC": "2019-09-11T03:17:37Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197281,-123.186356",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1568171864,
+    "UTC": "2019-09-11T03:17:44Z",
+    "Callsign": "ANZ23",
+    "Position": "49.197102,-123.186569",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1568171873,
+    "UTC": "2019-09-11T03:17:53Z",
+    "Callsign": "ANZ23",
+    "Position": "49.196743,-123.186813",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 202
+  },
+  {
+    "Timestamp": 1568171881,
+    "UTC": "2019-09-11T03:18:01Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19648,-123.186882",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568171889,
+    "UTC": "2019-09-11T03:18:09Z",
+    "Callsign": "ANZ23",
+    "Position": "49.196243,-123.186935",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1568171897,
+    "UTC": "2019-09-11T03:18:17Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19585,-123.187019",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1568171905,
+    "UTC": "2019-09-11T03:18:25Z",
+    "Callsign": "ANZ23",
+    "Position": "49.195599,-123.187088",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568171915,
+    "UTC": "2019-09-11T03:18:35Z",
+    "Callsign": "ANZ23",
+    "Position": "49.195053,-123.187241",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568171921,
+    "UTC": "2019-09-11T03:18:41Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19474,-123.18734",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568171927,
+    "UTC": "2019-09-11T03:18:47Z",
+    "Callsign": "ANZ23",
+    "Position": "49.1945,-123.187393",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 185
+  },
+  {
+    "Timestamp": 1568171933,
+    "UTC": "2019-09-11T03:18:53Z",
+    "Callsign": "ANZ23",
+    "Position": "49.194263,-123.187279",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 163
+  },
+  {
+    "Timestamp": 1568171942,
+    "UTC": "2019-09-11T03:19:02Z",
+    "Callsign": "ANZ23",
+    "Position": "49.193985,-123.186966",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 149
+  },
+  {
+    "Timestamp": 1568171950,
+    "UTC": "2019-09-11T03:19:10Z",
+    "Callsign": "ANZ23",
+    "Position": "49.193668,-123.186935",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 174
+  },
+  {
+    "Timestamp": 1568171957,
+    "UTC": "2019-09-11T03:19:17Z",
+    "Callsign": "ANZ23",
+    "Position": "49.193436,-123.186989",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1568171963,
+    "UTC": "2019-09-11T03:19:23Z",
+    "Callsign": "ANZ23",
+    "Position": "49.193146,-123.187057",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568171970,
+    "UTC": "2019-09-11T03:19:30Z",
+    "Callsign": "ANZ23",
+    "Position": "49.192856,-123.187134",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568171978,
+    "UTC": "2019-09-11T03:19:38Z",
+    "Callsign": "ANZ23",
+    "Position": "49.192314,-123.187286",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568171986,
+    "UTC": "2019-09-11T03:19:46Z",
+    "Callsign": "ANZ23",
+    "Position": "49.191853,-123.187187",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 163
+  },
+  {
+    "Timestamp": 1568171994,
+    "UTC": "2019-09-11T03:19:54Z",
+    "Callsign": "ANZ23",
+    "Position": "49.191605,-123.186913",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 146
+  },
+  {
+    "Timestamp": 1568172002,
+    "UTC": "2019-09-11T03:20:02Z",
+    "Callsign": "ANZ23",
+    "Position": "49.191216,-123.18644",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1568172008,
+    "UTC": "2019-09-11T03:20:08Z",
+    "Callsign": "ANZ23",
+    "Position": "49.190994,-123.186172",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1568172015,
+    "UTC": "2019-09-11T03:20:15Z",
+    "Callsign": "ANZ23",
+    "Position": "49.190701,-123.185822",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1568172027,
+    "UTC": "2019-09-11T03:20:27Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19014,-123.185158",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 143
+  },
+  {
+    "Timestamp": 1568172033,
+    "UTC": "2019-09-11T03:20:33Z",
+    "Callsign": "ANZ23",
+    "Position": "49.189842,-123.184784",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1568172039,
+    "UTC": "2019-09-11T03:20:39Z",
+    "Callsign": "ANZ23",
+    "Position": "49.189598,-123.184349",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 126
+  },
+  {
+    "Timestamp": 1568172045,
+    "UTC": "2019-09-11T03:20:45Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18948,-123.183769",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 106
+  },
+  {
+    "Timestamp": 1568172053,
+    "UTC": "2019-09-11T03:20:53Z",
+    "Callsign": "ANZ23",
+    "Position": "49.189384,-123.182922",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172059,
+    "UTC": "2019-09-11T03:20:59Z",
+    "Callsign": "ANZ23",
+    "Position": "49.189316,-123.182335",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172068,
+    "UTC": "2019-09-11T03:21:08Z",
+    "Callsign": "ANZ23",
+    "Position": "49.189213,-123.181442",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172074,
+    "UTC": "2019-09-11T03:21:14Z",
+    "Callsign": "ANZ23",
+    "Position": "49.189156,-123.180862",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1568172081,
+    "UTC": "2019-09-11T03:21:21Z",
+    "Callsign": "ANZ23",
+    "Position": "49.189083,-123.180229",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172092,
+    "UTC": "2019-09-11T03:21:32Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188938,-123.179008",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172099,
+    "UTC": "2019-09-11T03:21:39Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188862,-123.178368",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172111,
+    "UTC": "2019-09-11T03:21:51Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188725,-123.177101",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1568172118,
+    "UTC": "2019-09-11T03:21:58Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188656,-123.176414",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 98
+  },
+  {
+    "Timestamp": 1568172127,
+    "UTC": "2019-09-11T03:22:07Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188503,-123.175224",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172134,
+    "UTC": "2019-09-11T03:22:14Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188412,-123.174362",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172140,
+    "UTC": "2019-09-11T03:22:20Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188354,-123.173904",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172146,
+    "UTC": "2019-09-11T03:22:26Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188248,-123.17289",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172153,
+    "UTC": "2019-09-11T03:22:33Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18816,-123.172142",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172159,
+    "UTC": "2019-09-11T03:22:39Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188072,-123.171394",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172170,
+    "UTC": "2019-09-11T03:22:50Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18792,-123.170029",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172178,
+    "UTC": "2019-09-11T03:22:58Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187817,-123.169136",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172184,
+    "UTC": "2019-09-11T03:23:04Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187725,-123.168358",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172195,
+    "UTC": "2019-09-11T03:23:15Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187538,-123.16671",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172201,
+    "UTC": "2019-09-11T03:23:21Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18745,-123.165894",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172210,
+    "UTC": "2019-09-11T03:23:30Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187328,-123.164848",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172216,
+    "UTC": "2019-09-11T03:23:36Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187244,-123.164169",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172222,
+    "UTC": "2019-09-11T03:23:42Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187187,-123.16362",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172228,
+    "UTC": "2019-09-11T03:23:48Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187096,-123.163155",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 109
+  },
+  {
+    "Timestamp": 1568172234,
+    "UTC": "2019-09-11T03:23:54Z",
+    "Callsign": "ANZ23",
+    "Position": "49.186874,-123.16272",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 129
+  },
+  {
+    "Timestamp": 1568172240,
+    "UTC": "2019-09-11T03:24:00Z",
+    "Callsign": "ANZ23",
+    "Position": "49.186619,-123.162361",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 135
+  },
+  {
+    "Timestamp": 1568172252,
+    "UTC": "2019-09-11T03:24:12Z",
+    "Callsign": "ANZ23",
+    "Position": "49.186359,-123.161438",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 104
+  },
+  {
+    "Timestamp": 1568172258,
+    "UTC": "2019-09-11T03:24:18Z",
+    "Callsign": "ANZ23",
+    "Position": "49.186306,-123.161072",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 101
+  },
+  {
+    "Timestamp": 1568172266,
+    "UTC": "2019-09-11T03:24:26Z",
+    "Callsign": "ANZ23",
+    "Position": "49.185989,-123.160446",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 140
+  },
+  {
+    "Timestamp": 1568172273,
+    "UTC": "2019-09-11T03:24:33Z",
+    "Callsign": "ANZ23",
+    "Position": "49.185688,-123.160385",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 171
+  },
+  {
+    "Timestamp": 1568172280,
+    "UTC": "2019-09-11T03:24:40Z",
+    "Callsign": "ANZ23",
+    "Position": "49.185299,-123.160469",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 188
+  },
+  {
+    "Timestamp": 1568172288,
+    "UTC": "2019-09-11T03:24:48Z",
+    "Callsign": "ANZ23",
+    "Position": "49.184887,-123.160576",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568172295,
+    "UTC": "2019-09-11T03:24:55Z",
+    "Callsign": "ANZ23",
+    "Position": "49.184715,-123.16082",
+    "Altitude": 0,
+    "Speed": 19,
+    "Direction": 225
+  },
+  {
+    "Timestamp": 1568172302,
+    "UTC": "2019-09-11T03:25:02Z",
+    "Callsign": "ANZ23",
+    "Position": "49.184731,-123.161133",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1568172313,
+    "UTC": "2019-09-11T03:25:13Z",
+    "Callsign": "ANZ23",
+    "Position": "49.184803,-123.16153",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568172321,
+    "UTC": "2019-09-11T03:25:21Z",
+    "Callsign": "ANZ23",
+    "Position": "49.184872,-123.162033",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568172328,
+    "UTC": "2019-09-11T03:25:28Z",
+    "Callsign": "ANZ23",
+    "Position": "49.184963,-123.162865",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568172334,
+    "UTC": "2019-09-11T03:25:34Z",
+    "Callsign": "ANZ23",
+    "Position": "49.185268,-123.165306",
+    "Altitude": 0,
+    "Speed": 58,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568172349,
+    "UTC": "2019-09-11T03:25:49Z",
+    "Callsign": "ANZ23",
+    "Position": "49.186398,-123.175385",
+    "Altitude": 25,
+    "Speed": 119,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1568172355,
+    "UTC": "2019-09-11T03:25:55Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187046,-123.181099",
+    "Altitude": 25,
+    "Speed": 141,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1568172361,
+    "UTC": "2019-09-11T03:26:01Z",
+    "Callsign": "ANZ23",
+    "Position": "49.187794,-123.187454",
+    "Altitude": 25,
+    "Speed": 161,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1568172373,
+    "UTC": "2019-09-11T03:26:13Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18959,-123.203217",
+    "Altitude": 75,
+    "Speed": 191,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1568172380,
+    "UTC": "2019-09-11T03:26:20Z",
+    "Callsign": "ANZ23",
+    "Position": "49.190445,-123.210732",
+    "Altitude": 250,
+    "Speed": 192,
+    "Direction": 280
+  },
+  {
+    "Timestamp": 1568172387,
+    "UTC": "2019-09-11T03:26:27Z",
+    "Callsign": "ANZ23",
+    "Position": "49.191467,-123.219414",
+    "Altitude": 500,
+    "Speed": 192,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1568172397,
+    "UTC": "2019-09-11T03:26:37Z",
+    "Callsign": "ANZ23",
+    "Position": "49.193241,-123.235519",
+    "Altitude": 975,
+    "Speed": 196,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1568172403,
+    "UTC": "2019-09-11T03:26:43Z",
+    "Callsign": "ANZ23",
+    "Position": "49.194168,-123.243927",
+    "Altitude": 1250,
+    "Speed": 196,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1568172417,
+    "UTC": "2019-09-11T03:26:57Z",
+    "Callsign": "ANZ23",
+    "Position": "49.19445,-123.26487",
+    "Altitude": 1625,
+    "Speed": 209,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1568172423,
+    "UTC": "2019-09-11T03:27:03Z",
+    "Callsign": "ANZ23",
+    "Position": "49.194168,-123.269562",
+    "Altitude": 1700,
+    "Speed": 211,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1568172430,
+    "UTC": "2019-09-11T03:27:10Z",
+    "Callsign": "ANZ23",
+    "Position": "49.193253,-123.283432",
+    "Altitude": 1800,
+    "Speed": 220,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1568172438,
+    "UTC": "2019-09-11T03:27:18Z",
+    "Callsign": "ANZ23",
+    "Position": "49.192635,-123.292694",
+    "Altitude": 1850,
+    "Speed": 227,
+    "Direction": 264
+  },
+  {
+    "Timestamp": 1568172447,
+    "UTC": "2019-09-11T03:27:27Z",
+    "Callsign": "ANZ23",
+    "Position": "49.191147,-123.312515",
+    "Altitude": 2075,
+    "Speed": 237,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1568172454,
+    "UTC": "2019-09-11T03:27:34Z",
+    "Callsign": "ANZ23",
+    "Position": "49.190399,-123.322548",
+    "Altitude": 2200,
+    "Speed": 240,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1568172460,
+    "UTC": "2019-09-11T03:27:40Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18956,-123.333244",
+    "Altitude": 2300,
+    "Speed": 246,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1568172466,
+    "UTC": "2019-09-11T03:27:46Z",
+    "Callsign": "ANZ23",
+    "Position": "49.188766,-123.343224",
+    "Altitude": 2375,
+    "Speed": 252,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1568172472,
+    "UTC": "2019-09-11T03:27:52Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18784,-123.354637",
+    "Altitude": 2525,
+    "Speed": 256,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1568172478,
+    "UTC": "2019-09-11T03:27:58Z",
+    "Callsign": "ANZ23",
+    "Position": "49.186935,-123.365829",
+    "Altitude": 2700,
+    "Speed": 259,
+    "Direction": 262
+  },
+  {
+    "Timestamp": 1568172484,
+    "UTC": "2019-09-11T03:28:04Z",
+    "Callsign": "ANZ23",
+    "Position": "49.185837,-123.376747",
+    "Altitude": 2900,
+    "Speed": 260,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1568172491,
+    "UTC": "2019-09-11T03:28:11Z",
+    "Callsign": "ANZ23",
+    "Position": "49.18428,-123.388084",
+    "Altitude": 3100,
+    "Speed": 261,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1568172497,
+    "UTC": "2019-09-11T03:28:17Z",
+    "Callsign": "ANZ23",
+    "Position": "49.182533,-123.399017",
+    "Altitude": 3225,
+    "Speed": 262,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172509,
+    "UTC": "2019-09-11T03:28:29Z",
+    "Callsign": "ANZ23",
+    "Position": "49.178833,-123.420761",
+    "Altitude": 3475,
+    "Speed": 265,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172515,
+    "UTC": "2019-09-11T03:28:35Z",
+    "Callsign": "ANZ23",
+    "Position": "49.176994,-123.431396",
+    "Altitude": 3625,
+    "Speed": 265,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172521,
+    "UTC": "2019-09-11T03:28:41Z",
+    "Callsign": "ANZ23",
+    "Position": "49.175129,-123.442528",
+    "Altitude": 3750,
+    "Speed": 267,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172532,
+    "UTC": "2019-09-11T03:28:52Z",
+    "Callsign": "ANZ23",
+    "Position": "49.171501,-123.4645",
+    "Altitude": 4000,
+    "Speed": 268,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172539,
+    "UTC": "2019-09-11T03:28:59Z",
+    "Callsign": "ANZ23",
+    "Position": "49.169678,-123.475693",
+    "Altitude": 4150,
+    "Speed": 269,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172546,
+    "UTC": "2019-09-11T03:29:06Z",
+    "Callsign": "ANZ23",
+    "Position": "49.167847,-123.486961",
+    "Altitude": 4275,
+    "Speed": 269,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172557,
+    "UTC": "2019-09-11T03:29:17Z",
+    "Callsign": "ANZ23",
+    "Position": "49.164238,-123.50946",
+    "Altitude": 4550,
+    "Speed": 271,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172563,
+    "UTC": "2019-09-11T03:29:23Z",
+    "Callsign": "ANZ23",
+    "Position": "49.162514,-123.520447",
+    "Altitude": 4675,
+    "Speed": 271,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172574,
+    "UTC": "2019-09-11T03:29:34Z",
+    "Callsign": "ANZ23",
+    "Position": "49.159058,-123.541824",
+    "Altitude": 4950,
+    "Speed": 272,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172581,
+    "UTC": "2019-09-11T03:29:41Z",
+    "Callsign": "ANZ23",
+    "Position": "49.157089,-123.554008",
+    "Altitude": 5075,
+    "Speed": 274,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172593,
+    "UTC": "2019-09-11T03:29:53Z",
+    "Callsign": "ANZ23",
+    "Position": "49.15329,-123.577316",
+    "Altitude": 5350,
+    "Speed": 275,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172605,
+    "UTC": "2019-09-11T03:30:05Z",
+    "Callsign": "ANZ23",
+    "Position": "49.149666,-123.600098",
+    "Altitude": 5600,
+    "Speed": 276,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172617,
+    "UTC": "2019-09-11T03:30:17Z",
+    "Callsign": "ANZ23",
+    "Position": "49.146175,-123.622429",
+    "Altitude": 5850,
+    "Speed": 278,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172629,
+    "UTC": "2019-09-11T03:30:29Z",
+    "Callsign": "ANZ23",
+    "Position": "49.142357,-123.646133",
+    "Altitude": 6100,
+    "Speed": 280,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172640,
+    "UTC": "2019-09-11T03:30:40Z",
+    "Callsign": "ANZ23",
+    "Position": "49.138588,-123.669189",
+    "Altitude": 6350,
+    "Speed": 281,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172654,
+    "UTC": "2019-09-11T03:30:54Z",
+    "Callsign": "ANZ23",
+    "Position": "49.134842,-123.692108",
+    "Altitude": 6600,
+    "Speed": 283,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172665,
+    "UTC": "2019-09-11T03:31:05Z",
+    "Callsign": "ANZ23",
+    "Position": "49.131088,-123.716194",
+    "Altitude": 6875,
+    "Speed": 283,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172677,
+    "UTC": "2019-09-11T03:31:17Z",
+    "Callsign": "ANZ23",
+    "Position": "49.12738,-123.739716",
+    "Altitude": 7150,
+    "Speed": 284,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172689,
+    "UTC": "2019-09-11T03:31:29Z",
+    "Callsign": "ANZ23",
+    "Position": "49.123627,-123.763168",
+    "Altitude": 7400,
+    "Speed": 285,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172700,
+    "UTC": "2019-09-11T03:31:40Z",
+    "Callsign": "ANZ23",
+    "Position": "49.119873,-123.78669",
+    "Altitude": 7650,
+    "Speed": 287,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172713,
+    "UTC": "2019-09-11T03:31:53Z",
+    "Callsign": "ANZ23",
+    "Position": "49.11615,-123.810211",
+    "Altitude": 7875,
+    "Speed": 288,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172726,
+    "UTC": "2019-09-11T03:32:06Z",
+    "Callsign": "ANZ23",
+    "Position": "49.112503,-123.834091",
+    "Altitude": 8150,
+    "Speed": 289,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172738,
+    "UTC": "2019-09-11T03:32:18Z",
+    "Callsign": "ANZ23",
+    "Position": "49.108746,-123.858849",
+    "Altitude": 8425,
+    "Speed": 290,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1568172749,
+    "UTC": "2019-09-11T03:32:29Z",
+    "Callsign": "ANZ23",
+    "Position": "49.105316,-123.882256",
+    "Altitude": 8675,
+    "Speed": 290,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1568172761,
+    "UTC": "2019-09-11T03:32:41Z",
+    "Callsign": "ANZ23",
+    "Position": "49.101746,-123.906204",
+    "Altitude": 8950,
+    "Speed": 290,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1568172773,
+    "UTC": "2019-09-11T03:32:53Z",
+    "Callsign": "ANZ23",
+    "Position": "49.097713,-123.92997",
+    "Altitude": 9175,
+    "Speed": 291,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172785,
+    "UTC": "2019-09-11T03:33:05Z",
+    "Callsign": "ANZ23",
+    "Position": "49.093525,-123.954041",
+    "Altitude": 9425,
+    "Speed": 292,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172797,
+    "UTC": "2019-09-11T03:33:17Z",
+    "Callsign": "ANZ23",
+    "Position": "49.089287,-123.97818",
+    "Altitude": 9675,
+    "Speed": 293,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172810,
+    "UTC": "2019-09-11T03:33:30Z",
+    "Callsign": "ANZ23",
+    "Position": "49.085129,-124.002548",
+    "Altitude": 9925,
+    "Speed": 294,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172822,
+    "UTC": "2019-09-11T03:33:42Z",
+    "Callsign": "ANZ23",
+    "Position": "49.080917,-124.027267",
+    "Altitude": 10150,
+    "Speed": 296,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172833,
+    "UTC": "2019-09-11T03:33:53Z",
+    "Callsign": "ANZ23",
+    "Position": "49.076889,-124.050995",
+    "Altitude": 10250,
+    "Speed": 302,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172846,
+    "UTC": "2019-09-11T03:34:06Z",
+    "Callsign": "ANZ23",
+    "Position": "49.072624,-124.07634",
+    "Altitude": 10350,
+    "Speed": 308,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172858,
+    "UTC": "2019-09-11T03:34:18Z",
+    "Callsign": "ANZ23",
+    "Position": "49.068329,-124.101982",
+    "Altitude": 10475,
+    "Speed": 314,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172870,
+    "UTC": "2019-09-11T03:34:30Z",
+    "Callsign": "ANZ23",
+    "Position": "49.06398,-124.127762",
+    "Altitude": 10575,
+    "Speed": 320,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172884,
+    "UTC": "2019-09-11T03:34:44Z",
+    "Callsign": "ANZ23",
+    "Position": "49.059311,-124.155228",
+    "Altitude": 10675,
+    "Speed": 327,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172894,
+    "UTC": "2019-09-11T03:34:54Z",
+    "Callsign": "ANZ23",
+    "Position": "49.054733,-124.182266",
+    "Altitude": 10800,
+    "Speed": 333,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172907,
+    "UTC": "2019-09-11T03:35:07Z",
+    "Callsign": "ANZ23",
+    "Position": "49.049999,-124.210121",
+    "Altitude": 10925,
+    "Speed": 338,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172918,
+    "UTC": "2019-09-11T03:35:18Z",
+    "Callsign": "ANZ23",
+    "Position": "49.045258,-124.237976",
+    "Altitude": 11050,
+    "Speed": 344,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172930,
+    "UTC": "2019-09-11T03:35:30Z",
+    "Callsign": "ANZ23",
+    "Position": "49.040409,-124.266144",
+    "Altitude": 11225,
+    "Speed": 348,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172943,
+    "UTC": "2019-09-11T03:35:43Z",
+    "Callsign": "ANZ23",
+    "Position": "49.035416,-124.295517",
+    "Altitude": 11350,
+    "Speed": 354,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172955,
+    "UTC": "2019-09-11T03:35:55Z",
+    "Callsign": "ANZ23",
+    "Position": "49.030445,-124.324829",
+    "Altitude": 11475,
+    "Speed": 359,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172966,
+    "UTC": "2019-09-11T03:36:06Z",
+    "Callsign": "ANZ23",
+    "Position": "49.025372,-124.354248",
+    "Altitude": 11575,
+    "Speed": 365,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172979,
+    "UTC": "2019-09-11T03:36:19Z",
+    "Callsign": "ANZ23",
+    "Position": "49.020264,-124.384041",
+    "Altitude": 11675,
+    "Speed": 371,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568172991,
+    "UTC": "2019-09-11T03:36:31Z",
+    "Callsign": "ANZ23",
+    "Position": "49.015045,-124.414673",
+    "Altitude": 11775,
+    "Speed": 377,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568173003,
+    "UTC": "2019-09-11T03:36:43Z",
+    "Callsign": "ANZ23",
+    "Position": "49.009644,-124.44622",
+    "Altitude": 11925,
+    "Speed": 382,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568173014,
+    "UTC": "2019-09-11T03:36:54Z",
+    "Callsign": "ANZ23",
+    "Position": "49.004284,-124.477341",
+    "Altitude": 12175,
+    "Speed": 384,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568173048,
+    "UTC": "2019-09-11T03:37:28Z",
+    "Callsign": "ANZ23",
+    "Position": "48.989136,-124.564537",
+    "Altitude": 12900,
+    "Speed": 386,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568173081,
+    "UTC": "2019-09-11T03:38:01Z",
+    "Callsign": "ANZ23",
+    "Position": "48.97393,-124.652107",
+    "Altitude": 13600,
+    "Speed": 390,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568173114,
+    "UTC": "2019-09-11T03:38:34Z",
+    "Callsign": "ANZ23",
+    "Position": "48.95842,-124.740601",
+    "Altitude": 14300,
+    "Speed": 394,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568173147,
+    "UTC": "2019-09-11T03:39:07Z",
+    "Callsign": "ANZ23",
+    "Position": "48.94281,-124.829338",
+    "Altitude": 15000,
+    "Speed": 398,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173179,
+    "UTC": "2019-09-11T03:39:39Z",
+    "Callsign": "ANZ23",
+    "Position": "48.926773,-124.920113",
+    "Altitude": 15700,
+    "Speed": 401,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173210,
+    "UTC": "2019-09-11T03:40:10Z",
+    "Callsign": "ANZ23",
+    "Position": "48.912598,-124.999832",
+    "Altitude": 16300,
+    "Speed": 405,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173245,
+    "UTC": "2019-09-11T03:40:45Z",
+    "Callsign": "ANZ23",
+    "Position": "48.896072,-125.092728",
+    "Altitude": 17000,
+    "Speed": 409,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173277,
+    "UTC": "2019-09-11T03:41:17Z",
+    "Callsign": "ANZ23",
+    "Position": "48.87941,-125.185547",
+    "Altitude": 17725,
+    "Speed": 411,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173310,
+    "UTC": "2019-09-11T03:41:50Z",
+    "Callsign": "ANZ23",
+    "Position": "48.862656,-125.27858",
+    "Altitude": 18425,
+    "Speed": 415,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173373,
+    "UTC": "2019-09-11T03:42:53Z",
+    "Callsign": "ANZ23",
+    "Position": "48.830063,-125.457954",
+    "Altitude": 19675,
+    "Speed": 423,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173436,
+    "UTC": "2019-09-11T03:43:56Z",
+    "Callsign": "ANZ23",
+    "Position": "48.796799,-125.63929",
+    "Altitude": 20875,
+    "Speed": 430,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173497,
+    "UTC": "2019-09-11T03:44:57Z",
+    "Callsign": "ANZ23",
+    "Position": "48.764191,-125.815498",
+    "Altitude": 22075,
+    "Speed": 437,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173560,
+    "UTC": "2019-09-11T03:46:00Z",
+    "Callsign": "ANZ23",
+    "Position": "48.729218,-126.00206",
+    "Altitude": 23300,
+    "Speed": 442,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173615,
+    "UTC": "2019-09-11T03:46:55Z",
+    "Callsign": "ANZ23",
+    "Position": "48.698273,-126.166214",
+    "Altitude": 24325,
+    "Speed": 448,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568173704,
+    "UTC": "2019-09-11T03:48:24Z",
+    "Callsign": "ANZ23",
+    "Position": "48.646576,-126.436157",
+    "Altitude": 26000,
+    "Speed": 451,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568173770,
+    "UTC": "2019-09-11T03:49:30Z",
+    "Callsign": "ANZ23",
+    "Position": "48.608047,-126.636444",
+    "Altitude": 27250,
+    "Speed": 450,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568173811,
+    "UTC": "2019-09-11T03:50:11Z",
+    "Callsign": "ANZ23",
+    "Position": "48.584198,-126.759026",
+    "Altitude": 27650,
+    "Speed": 458,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568173876,
+    "UTC": "2019-09-11T03:51:16Z",
+    "Callsign": "ANZ23",
+    "Position": "48.544022,-126.962852",
+    "Altitude": 28400,
+    "Speed": 467,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568173966,
+    "UTC": "2019-09-11T03:52:46Z",
+    "Callsign": "ANZ23",
+    "Position": "48.488205,-127.242737",
+    "Altitude": 29525,
+    "Speed": 474,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568173978,
+    "UTC": "2019-09-11T03:52:58Z",
+    "Callsign": "ANZ23",
+    "Position": "48.480743,-127.279922",
+    "Altitude": 29725,
+    "Speed": 473,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568174055,
+    "UTC": "2019-09-11T03:54:15Z",
+    "Callsign": "ANZ23",
+    "Position": "48.432064,-127.46595",
+    "Altitude": 31000,
+    "Speed": 470,
+    "Direction": 248
+  },
+  {
+    "Timestamp": 1568174109,
+    "UTC": "2019-09-11T03:55:09Z",
+    "Callsign": "ANZ23",
+    "Position": "48.398819,-127.603638",
+    "Altitude": 32000,
+    "Speed": 460,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568174167,
+    "UTC": "2019-09-11T03:56:07Z",
+    "Callsign": "ANZ23",
+    "Position": "48.364014,-127.773094",
+    "Altitude": 32000,
+    "Speed": 451,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568174226,
+    "UTC": "2019-09-11T03:57:06Z",
+    "Callsign": "ANZ23",
+    "Position": "48.330811,-127.939438",
+    "Altitude": 32000,
+    "Speed": 457,
+    "Direction": 254
+  },
+  {
+    "Timestamp": 1568174308,
+    "UTC": "2019-09-11T03:58:28Z",
+    "Callsign": "ANZ23",
+    "Position": "48.156055,-128.186783",
+    "Altitude": 32000,
+    "Speed": 502,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568174400,
+    "UTC": "2019-09-11T04:00:00Z",
+    "Callsign": "ANZ23",
+    "Position": "48.029606,-128.388397",
+    "Altitude": 32000,
+    "Speed": 500,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1568174469,
+    "UTC": "2019-09-11T04:01:09Z",
+    "Callsign": "ANZ23",
+    "Position": "47.849716,-128.504059",
+    "Altitude": 32000,
+    "Speed": 502,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568174544,
+    "UTC": "2019-09-11T04:02:24Z",
+    "Callsign": "ANZ23",
+    "Position": "47.705849,-128.652222",
+    "Altitude": 32000,
+    "Speed": 501,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568174564,
+    "UTC": "2019-09-11T04:02:44Z",
+    "Callsign": "ANZ23",
+    "Position": "47.666,-128.692856",
+    "Altitude": 32000,
+    "Speed": 501,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568174654,
+    "UTC": "2019-09-11T04:04:14Z",
+    "Callsign": "ANZ23",
+    "Position": "47.52697,-128.836212",
+    "Altitude": 32000,
+    "Speed": 500,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1568174715,
+    "UTC": "2019-09-11T04:05:15Z",
+    "Callsign": "ANZ23",
+    "Position": "47.417679,-128.938751",
+    "Altitude": 32000,
+    "Speed": 500,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568174777,
+    "UTC": "2019-09-11T04:06:17Z",
+    "Callsign": "ANZ23",
+    "Position": "47.323109,-129.029449",
+    "Altitude": 32000,
+    "Speed": 500,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568174867,
+    "UTC": "2019-09-11T04:07:47Z",
+    "Callsign": "ANZ23",
+    "Position": "47.132755,-129.226639",
+    "Altitude": 32000,
+    "Speed": 500,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568174933,
+    "UTC": "2019-09-11T04:08:53Z",
+    "Callsign": "ANZ23",
+    "Position": "46.988644,-129.374832",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568174990,
+    "UTC": "2019-09-11T04:09:50Z",
+    "Callsign": "ANZ23",
+    "Position": "46.874584,-129.483536",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568175050,
+    "UTC": "2019-09-11T04:10:50Z",
+    "Callsign": "ANZ23",
+    "Position": "46.761822,-129.600006",
+    "Altitude": 32000,
+    "Speed": 500,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1568175112,
+    "UTC": "2019-09-11T04:11:52Z",
+    "Callsign": "ANZ23",
+    "Position": "46.647953,-129.708969",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568175171,
+    "UTC": "2019-09-11T04:12:51Z",
+    "Callsign": "ANZ23",
+    "Position": "46.534115,-129.819168",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568175231,
+    "UTC": "2019-09-11T04:13:51Z",
+    "Callsign": "ANZ23",
+    "Position": "46.417839,-129.925278",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568175293,
+    "UTC": "2019-09-11T04:14:53Z",
+    "Callsign": "ANZ23",
+    "Position": "46.308968,-130.035049",
+    "Altitude": 32000,
+    "Speed": 490,
+    "Direction": 219
+  },
+  {
+    "Timestamp": 1568175673,
+    "UTC": "2019-09-11T04:21:13Z",
+    "Callsign": "ANZ23",
+    "Position": "45.599983,-130.703369",
+    "Altitude": 32000,
+    "Speed": 493,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568176259,
+    "UTC": "2019-09-11T04:30:59Z",
+    "Callsign": "ANZ23",
+    "Position": "44.500416,-131.719528",
+    "Altitude": 32000,
+    "Speed": 489,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568176825,
+    "UTC": "2019-09-11T04:40:25Z",
+    "Callsign": "ANZ23",
+    "Position": "43.405857,-132.671677",
+    "Altitude": 32000,
+    "Speed": 487,
+    "Direction": 213
+  },
+  {
+    "Timestamp": 1568177038,
+    "UTC": "2019-09-11T04:43:58Z",
+    "Callsign": "ANZ23",
+    "Position": "42.996788,-133.013107",
+    "Altitude": 32000,
+    "Speed": 480,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568177409,
+    "UTC": "2019-09-11T04:50:09Z",
+    "Callsign": "ANZ23",
+    "Position": "42.338497,-133.67128",
+    "Altitude": 32000,
+    "Speed": 481,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1568177974,
+    "UTC": "2019-09-11T04:59:34Z",
+    "Callsign": "ANZ23",
+    "Position": "41.330627,-134.709732",
+    "Altitude": 32000,
+    "Speed": 479,
+    "Direction": 218
+  },
+  {
+    "Timestamp": 1568178560,
+    "UTC": "2019-09-11T05:09:20Z",
+    "Callsign": "ANZ23",
+    "Position": "40.297981,-135.723633",
+    "Altitude": 32000,
+    "Speed": 475,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1568178736,
+    "UTC": "2019-09-11T05:12:16Z",
+    "Callsign": "ANZ23",
+    "Position": "39.99464,-136.012207",
+    "Altitude": 32000,
+    "Speed": 471,
+    "Direction": 216
+  },
+  {
+    "Timestamp": 1568179145,
+    "UTC": "2019-09-11T05:19:05Z",
+    "Callsign": "ANZ23",
+    "Position": "39.379551,-136.811508",
+    "Altitude": 32000,
+    "Speed": 473,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1568180295,
+    "UTC": "2019-09-11T05:38:15Z",
+    "Callsign": "ANZ23",
+    "Position": "37.663094,-139.143951",
+    "Altitude": 32000,
+    "Speed": 471,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1568180727,
+    "UTC": "2019-09-11T05:45:27Z",
+    "Callsign": "ANZ23",
+    "Position": "37.002766,-140.003586",
+    "Altitude": 32000,
+    "Speed": 473,
+    "Direction": 226
+  },
+  {
+    "Timestamp": 1568180860,
+    "UTC": "2019-09-11T05:47:40Z",
+    "Callsign": "ANZ23",
+    "Position": "36.800636,-140.277008",
+    "Altitude": 32000,
+    "Speed": 472,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1568182012,
+    "UTC": "2019-09-11T06:06:52Z",
+    "Callsign": "ANZ23",
+    "Position": "35.114674,-142.551437",
+    "Altitude": 32000,
+    "Speed": 465,
+    "Direction": 229
+  },
+  {
+    "Timestamp": 1568182597,
+    "UTC": "2019-09-11T06:16:37Z",
+    "Callsign": "ANZ23",
+    "Position": "34.265232,-143.658585",
+    "Altitude": 32000,
+    "Speed": 469,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1568182772,
+    "UTC": "2019-09-11T06:19:32Z",
+    "Callsign": "ANZ23",
+    "Position": "34.002872,-143.998962",
+    "Altitude": 32000,
+    "Speed": 476,
+    "Direction": 228
+  },
+  {
+    "Timestamp": 1568183164,
+    "UTC": "2019-09-11T06:26:04Z",
+    "Callsign": "ANZ23",
+    "Position": "33.363605,-144.696121",
+    "Altitude": 32000,
+    "Speed": 478,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568183735,
+    "UTC": "2019-09-11T06:35:35Z",
+    "Callsign": "ANZ23",
+    "Position": "32.406952,-145.673767",
+    "Altitude": 32000,
+    "Speed": 483,
+    "Direction": 222
+  },
+  {
+    "Timestamp": 1568184314,
+    "UTC": "2019-09-11T06:45:14Z",
+    "Callsign": "ANZ23",
+    "Position": "31.420685,-146.639343",
+    "Altitude": 33000,
+    "Speed": 484,
+    "Direction": 221
+  },
+  {
+    "Timestamp": 1568184899,
+    "UTC": "2019-09-11T06:54:59Z",
+    "Callsign": "ANZ23",
+    "Position": "30.418709,-147.602982",
+    "Altitude": 33000,
+    "Speed": 493,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1568185133,
+    "UTC": "2019-09-11T06:58:53Z",
+    "Callsign": "ANZ23",
+    "Position": "30.004473,-147.998489",
+    "Altitude": 33000,
+    "Speed": 492,
+    "Direction": 220
+  },
+  {
+    "Timestamp": 1568186050,
+    "UTC": "2019-09-11T07:14:10Z",
+    "Callsign": "ANZ23",
+    "Position": "28.290398,-149.422531",
+    "Altitude": 33000,
+    "Speed": 504,
+    "Direction": 217
+  },
+  {
+    "Timestamp": 1568186615,
+    "UTC": "2019-09-11T07:23:35Z",
+    "Callsign": "ANZ23",
+    "Position": "27.192183,-150.301071",
+    "Altitude": 33000,
+    "Speed": 495,
+    "Direction": 216
+  },
+  {
+    "Timestamp": 1568187199,
+    "UTC": "2019-09-11T07:33:19Z",
+    "Callsign": "ANZ23",
+    "Position": "26.125175,-151.143387",
+    "Altitude": 33000,
+    "Speed": 488,
+    "Direction": 216
+  },
+  {
+    "Timestamp": 1568187785,
+    "UTC": "2019-09-11T07:43:05Z",
+    "Callsign": "ANZ23",
+    "Position": "25.063736,-151.956772",
+    "Altitude": 33000,
+    "Speed": 469,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568187826,
+    "UTC": "2019-09-11T07:43:46Z",
+    "Callsign": "ANZ23",
+    "Position": "24.993698,-152.007904",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568188350,
+    "UTC": "2019-09-11T07:52:30Z",
+    "Callsign": "ANZ23",
+    "Position": "23.961514,-152.660538",
+    "Altitude": 33000,
+    "Speed": 484,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568188509,
+    "UTC": "2019-09-11T07:55:09Z",
+    "Callsign": "ANZ23",
+    "Position": "23.641081,-152.853699",
+    "Altitude": 33000,
+    "Speed": 480,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568188569,
+    "UTC": "2019-09-11T07:56:09Z",
+    "Callsign": "ANZ23",
+    "Position": "23.520967,-152.92244",
+    "Altitude": 33000,
+    "Speed": 480,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568188628,
+    "UTC": "2019-09-11T07:57:08Z",
+    "Callsign": "ANZ23",
+    "Position": "23.402285,-152.997223",
+    "Altitude": 33000,
+    "Speed": 480,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568188686,
+    "UTC": "2019-09-11T07:58:06Z",
+    "Callsign": "ANZ23",
+    "Position": "23.2819,-153.070328",
+    "Altitude": 33000,
+    "Speed": 480,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568188744,
+    "UTC": "2019-09-11T07:59:04Z",
+    "Callsign": "ANZ23",
+    "Position": "23.166704,-153.130737",
+    "Altitude": 33000,
+    "Speed": 490,
+    "Direction": 202
+  },
+  {
+    "Timestamp": 1568188834,
+    "UTC": "2019-09-11T08:00:34Z",
+    "Callsign": "ANZ23",
+    "Position": "22.963303,-153.241592",
+    "Altitude": 33000,
+    "Speed": 488,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568188894,
+    "UTC": "2019-09-11T08:01:34Z",
+    "Callsign": "ANZ23",
+    "Position": "22.840157,-153.306381",
+    "Altitude": 33000,
+    "Speed": 489,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568188962,
+    "UTC": "2019-09-11T08:02:42Z",
+    "Callsign": "ANZ23",
+    "Position": "22.704924,-153.377533",
+    "Altitude": 33000,
+    "Speed": 489,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189022,
+    "UTC": "2019-09-11T08:03:42Z",
+    "Callsign": "ANZ23",
+    "Position": "22.580063,-153.4431",
+    "Altitude": 33000,
+    "Speed": 490,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189064,
+    "UTC": "2019-09-11T08:04:24Z",
+    "Callsign": "ANZ23",
+    "Position": "22.493343,-153.488617",
+    "Altitude": 33000,
+    "Speed": 491,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189173,
+    "UTC": "2019-09-11T08:06:13Z",
+    "Callsign": "ANZ23",
+    "Position": "22.283756,-153.582657",
+    "Altitude": 33000,
+    "Speed": 490,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568189232,
+    "UTC": "2019-09-11T08:07:12Z",
+    "Callsign": "ANZ23",
+    "Position": "22.178486,-153.633942",
+    "Altitude": 33000,
+    "Speed": 490,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568189289,
+    "UTC": "2019-09-11T08:08:09Z",
+    "Callsign": "ANZ23",
+    "Position": "22.05706,-153.694092",
+    "Altitude": 33000,
+    "Speed": 490,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189349,
+    "UTC": "2019-09-11T08:09:09Z",
+    "Callsign": "ANZ23",
+    "Position": "21.939352,-153.756882",
+    "Altitude": 33000,
+    "Speed": 490,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568189435,
+    "UTC": "2019-09-11T08:10:35Z",
+    "Callsign": "ANZ23",
+    "Position": "21.736357,-153.882797",
+    "Altitude": 33000,
+    "Speed": 484,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189499,
+    "UTC": "2019-09-11T08:11:39Z",
+    "Callsign": "ANZ23",
+    "Position": "21.609642,-153.948364",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189561,
+    "UTC": "2019-09-11T08:12:41Z",
+    "Callsign": "ANZ23",
+    "Position": "21.482647,-154.013931",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189624,
+    "UTC": "2019-09-11T08:13:44Z",
+    "Callsign": "ANZ23",
+    "Position": "21.354769,-154.079742",
+    "Altitude": 33000,
+    "Speed": 481,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189689,
+    "UTC": "2019-09-11T08:14:49Z",
+    "Callsign": "ANZ23",
+    "Position": "21.226181,-154.145828",
+    "Altitude": 33000,
+    "Speed": 481,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189751,
+    "UTC": "2019-09-11T08:15:51Z",
+    "Callsign": "ANZ23",
+    "Position": "21.098419,-154.211441",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189816,
+    "UTC": "2019-09-11T08:16:56Z",
+    "Callsign": "ANZ23",
+    "Position": "20.970247,-154.277054",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189879,
+    "UTC": "2019-09-11T08:17:59Z",
+    "Callsign": "ANZ23",
+    "Position": "20.841064,-154.343094",
+    "Altitude": 33000,
+    "Speed": 484,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568189945,
+    "UTC": "2019-09-11T08:19:05Z",
+    "Callsign": "ANZ23",
+    "Position": "20.707443,-154.411224",
+    "Altitude": 33000,
+    "Speed": 484,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190009,
+    "UTC": "2019-09-11T08:20:09Z",
+    "Callsign": "ANZ23",
+    "Position": "20.578903,-154.476608",
+    "Altitude": 33000,
+    "Speed": 484,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190070,
+    "UTC": "2019-09-11T08:21:10Z",
+    "Callsign": "ANZ23",
+    "Position": "20.455797,-154.539337",
+    "Altitude": 33000,
+    "Speed": 485,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190130,
+    "UTC": "2019-09-11T08:22:10Z",
+    "Callsign": "ANZ23",
+    "Position": "20.330841,-154.602753",
+    "Altitude": 33000,
+    "Speed": 485,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190197,
+    "UTC": "2019-09-11T08:23:17Z",
+    "Callsign": "ANZ23",
+    "Position": "20.195663,-154.671173",
+    "Altitude": 33000,
+    "Speed": 486,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190261,
+    "UTC": "2019-09-11T08:24:21Z",
+    "Callsign": "ANZ23",
+    "Position": "20.067535,-154.735901",
+    "Altitude": 33000,
+    "Speed": 484,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190322,
+    "UTC": "2019-09-11T08:25:22Z",
+    "Callsign": "ANZ23",
+    "Position": "19.942047,-154.79921",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190385,
+    "UTC": "2019-09-11T08:26:25Z",
+    "Callsign": "ANZ23",
+    "Position": "19.814758,-154.863281",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190449,
+    "UTC": "2019-09-11T08:27:29Z",
+    "Callsign": "ANZ23",
+    "Position": "19.687778,-154.9272",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190510,
+    "UTC": "2019-09-11T08:28:30Z",
+    "Callsign": "ANZ23",
+    "Position": "19.563438,-154.989578",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190572,
+    "UTC": "2019-09-11T08:29:32Z",
+    "Callsign": "ANZ23",
+    "Position": "19.437332,-155.052704",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190635,
+    "UTC": "2019-09-11T08:30:35Z",
+    "Callsign": "ANZ23",
+    "Position": "19.310623,-155.116119",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190662,
+    "UTC": "2019-09-11T08:31:02Z",
+    "Callsign": "ANZ23",
+    "Position": "19.25354,-155.144638",
+    "Altitude": 33000,
+    "Speed": 483,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190756,
+    "UTC": "2019-09-11T08:32:36Z",
+    "Callsign": "ANZ23",
+    "Position": "19.063747,-155.239212",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190821,
+    "UTC": "2019-09-11T08:33:41Z",
+    "Callsign": "ANZ23",
+    "Position": "18.932373,-155.30455",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190888,
+    "UTC": "2019-09-11T08:34:48Z",
+    "Callsign": "ANZ23",
+    "Position": "18.797058,-155.371735",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568190930,
+    "UTC": "2019-09-11T08:35:30Z",
+    "Callsign": "ANZ23",
+    "Position": "18.710835,-155.41449",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568191004,
+    "UTC": "2019-09-11T08:36:44Z",
+    "Callsign": "ANZ23",
+    "Position": "18.561768,-155.488281",
+    "Altitude": 33000,
+    "Speed": 481,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568191092,
+    "UTC": "2019-09-11T08:38:12Z",
+    "Callsign": "ANZ23",
+    "Position": "18.383852,-155.576187",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568191158,
+    "UTC": "2019-09-11T08:39:18Z",
+    "Callsign": "ANZ23",
+    "Position": "18.253738,-155.640411",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 205
+  },
+  {
+    "Timestamp": 1568191218,
+    "UTC": "2019-09-11T08:40:18Z",
+    "Callsign": "ANZ23",
+    "Position": "18.126297,-155.704361",
+    "Altitude": 33000,
+    "Speed": 482,
+    "Direction": 208
+  },
+  {
+    "Timestamp": 1568191282,
+    "UTC": "2019-09-11T08:41:22Z",
+    "Callsign": "ANZ23",
+    "Position": "18.00985,-155.786041",
+    "Altitude": 33650,
+    "Speed": 482,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191346,
+    "UTC": "2019-09-11T08:42:26Z",
+    "Callsign": "ANZ23",
+    "Position": "17.894943,-155.872284",
+    "Altitude": 34000,
+    "Speed": 478,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191408,
+    "UTC": "2019-09-11T08:43:28Z",
+    "Callsign": "ANZ23",
+    "Position": "17.779587,-155.958679",
+    "Altitude": 34000,
+    "Speed": 479,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191470,
+    "UTC": "2019-09-11T08:44:30Z",
+    "Callsign": "ANZ23",
+    "Position": "17.670364,-156.040222",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191531,
+    "UTC": "2019-09-11T08:45:31Z",
+    "Callsign": "ANZ23",
+    "Position": "17.55986,-156.122711",
+    "Altitude": 34000,
+    "Speed": 480,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191594,
+    "UTC": "2019-09-11T08:46:34Z",
+    "Callsign": "ANZ23",
+    "Position": "17.446196,-156.207397",
+    "Altitude": 34000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191654,
+    "UTC": "2019-09-11T08:47:34Z",
+    "Callsign": "ANZ23",
+    "Position": "17.335052,-156.290161",
+    "Altitude": 34000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191718,
+    "UTC": "2019-09-11T08:48:38Z",
+    "Callsign": "ANZ23",
+    "Position": "17.219147,-156.37616",
+    "Altitude": 34000,
+    "Speed": 483,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191779,
+    "UTC": "2019-09-11T08:49:39Z",
+    "Callsign": "ANZ23",
+    "Position": "17.107203,-156.459198",
+    "Altitude": 34000,
+    "Speed": 484,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191841,
+    "UTC": "2019-09-11T08:50:41Z",
+    "Callsign": "ANZ23",
+    "Position": "16.995338,-156.542084",
+    "Altitude": 34000,
+    "Speed": 486,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191902,
+    "UTC": "2019-09-11T08:51:42Z",
+    "Callsign": "ANZ23",
+    "Position": "16.881145,-156.626541",
+    "Altitude": 34000,
+    "Speed": 486,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568191965,
+    "UTC": "2019-09-11T08:52:45Z",
+    "Callsign": "ANZ23",
+    "Position": "16.766327,-156.711304",
+    "Altitude": 34000,
+    "Speed": 484,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192026,
+    "UTC": "2019-09-11T08:53:46Z",
+    "Callsign": "ANZ23",
+    "Position": "16.653505,-156.794418",
+    "Altitude": 34000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192090,
+    "UTC": "2019-09-11T08:54:50Z",
+    "Callsign": "ANZ23",
+    "Position": "16.539125,-156.878632",
+    "Altitude": 34000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192150,
+    "UTC": "2019-09-11T08:55:50Z",
+    "Callsign": "ANZ23",
+    "Position": "16.428751,-156.959808",
+    "Altitude": 34000,
+    "Speed": 481,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192212,
+    "UTC": "2019-09-11T08:56:52Z",
+    "Callsign": "ANZ23",
+    "Position": "16.314743,-157.043488",
+    "Altitude": 34000,
+    "Speed": 482,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192280,
+    "UTC": "2019-09-11T08:58:00Z",
+    "Callsign": "ANZ23",
+    "Position": "16.191008,-157.134171",
+    "Altitude": 34000,
+    "Speed": 484,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192316,
+    "UTC": "2019-09-11T08:58:36Z",
+    "Callsign": "ANZ23",
+    "Position": "16.123444,-157.183655",
+    "Altitude": 34025,
+    "Speed": 483,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192405,
+    "UTC": "2019-09-11T09:00:05Z",
+    "Callsign": "ANZ23",
+    "Position": "15.962157,-157.301468",
+    "Altitude": 35000,
+    "Speed": 476,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192467,
+    "UTC": "2019-09-11T09:01:07Z",
+    "Callsign": "ANZ23",
+    "Position": "15.851349,-157.382431",
+    "Altitude": 35000,
+    "Speed": 477,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192528,
+    "UTC": "2019-09-11T09:02:08Z",
+    "Callsign": "ANZ23",
+    "Position": "15.739823,-157.463654",
+    "Altitude": 35000,
+    "Speed": 476,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192540,
+    "UTC": "2019-09-11T09:02:20Z",
+    "Callsign": "ANZ23",
+    "Position": "15.719879,-157.478226",
+    "Altitude": 35000,
+    "Speed": 475,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192588,
+    "UTC": "2019-09-11T09:03:08Z",
+    "Callsign": "ANZ23",
+    "Position": "15.63401,-157.540665",
+    "Altitude": 35000,
+    "Speed": 476,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568192683,
+    "UTC": "2019-09-11T09:04:43Z",
+    "Callsign": "ANZ23",
+    "Position": "15.460836,-157.666458",
+    "Altitude": 35000,
+    "Speed": 479,
+    "Direction": 215
+  },
+  {
+    "Timestamp": 1568193306,
+    "UTC": "2019-09-11T09:15:06Z",
+    "Callsign": "ANZ23",
+    "Position": "14.300434,-158.435104",
+    "Altitude": 35000,
+    "Speed": 495,
+    "Direction": 214
+  },
+  {
+    "Timestamp": 1568193578,
+    "UTC": "2019-09-11T09:19:38Z",
+    "Callsign": "ANZ23",
+    "Position": "13.81031,-158.730667",
+    "Altitude": 35000,
+    "Speed": 497,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568193889,
+    "UTC": "2019-09-11T09:24:49Z",
+    "Callsign": "ANZ23",
+    "Position": "13.209162,-159.098145",
+    "Altitude": 35000,
+    "Speed": 499,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568193969,
+    "UTC": "2019-09-11T09:26:09Z",
+    "Callsign": "ANZ23",
+    "Position": "13.043301,-159.197098",
+    "Altitude": 35000,
+    "Speed": 500,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568193988,
+    "UTC": "2019-09-11T09:26:28Z",
+    "Callsign": "ANZ23",
+    "Position": "12.99449,-159.220596",
+    "Altitude": 35000,
+    "Speed": 503,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568194318,
+    "UTC": "2019-09-11T09:31:58Z",
+    "Callsign": "ANZ23",
+    "Position": "12.364648,-159.601135",
+    "Altitude": 35000,
+    "Speed": 501,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568194475,
+    "UTC": "2019-09-11T09:34:35Z",
+    "Callsign": "ANZ23",
+    "Position": "12.077377,-159.77179",
+    "Altitude": 35000,
+    "Speed": 502,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568195042,
+    "UTC": "2019-09-11T09:44:02Z",
+    "Callsign": "ANZ23",
+    "Position": "10.955776,-160.446365",
+    "Altitude": 35000,
+    "Speed": 506,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568195508,
+    "UTC": "2019-09-11T09:51:48Z",
+    "Callsign": "ANZ23",
+    "Position": "10.006237,-160.999771",
+    "Altitude": 35000,
+    "Speed": 508,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568195626,
+    "UTC": "2019-09-11T09:53:46Z",
+    "Callsign": "ANZ23",
+    "Position": "9.776602,-161.136246",
+    "Altitude": 35000,
+    "Speed": 509,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568196195,
+    "UTC": "2019-09-11T10:03:15Z",
+    "Callsign": "ANZ23",
+    "Position": "8.619635,-161.830215",
+    "Altitude": 35000,
+    "Speed": 509,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568196776,
+    "UTC": "2019-09-11T10:12:56Z",
+    "Callsign": "ANZ23",
+    "Position": "7.449777,-162.533066",
+    "Altitude": 36000,
+    "Speed": 514,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568197341,
+    "UTC": "2019-09-11T10:22:21Z",
+    "Callsign": "ANZ23",
+    "Position": "6.272022,-163.24585",
+    "Altitude": 36000,
+    "Speed": 521,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568197926,
+    "UTC": "2019-09-11T10:32:06Z",
+    "Callsign": "ANZ23",
+    "Position": "5.066209,-163.96788",
+    "Altitude": 36000,
+    "Speed": 517,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568197950,
+    "UTC": "2019-09-11T10:32:30Z",
+    "Callsign": "ANZ23",
+    "Position": "5.006492,-164.000031",
+    "Altitude": 36000,
+    "Speed": 524,
+    "Direction": 207
+  },
+  {
+    "Timestamp": 1568198492,
+    "UTC": "2019-09-11T10:41:32Z",
+    "Callsign": "ANZ23",
+    "Position": "3.868829,-164.681747",
+    "Altitude": 36000,
+    "Speed": 525,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568199077,
+    "UTC": "2019-09-11T10:51:17Z",
+    "Callsign": "ANZ23",
+    "Position": "2.663524,-165.4021",
+    "Altitude": 36000,
+    "Speed": 523,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568199643,
+    "UTC": "2019-09-11T11:00:43Z",
+    "Callsign": "ANZ23",
+    "Position": "1.469862,-166.114914",
+    "Altitude": 36000,
+    "Speed": 523,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568200230,
+    "UTC": "2019-09-11T11:10:30Z",
+    "Callsign": "ANZ23",
+    "Position": "0.262071,-166.850662",
+    "Altitude": 36000,
+    "Speed": 524,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568200367,
+    "UTC": "2019-09-11T11:12:47Z",
+    "Callsign": "ANZ23",
+    "Position": "-0.011331,-167.010788",
+    "Altitude": 36000,
+    "Speed": 520,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568200798,
+    "UTC": "2019-09-11T11:19:58Z",
+    "Callsign": "ANZ23",
+    "Position": "-0.92488,-167.561264",
+    "Altitude": 36000,
+    "Speed": 519,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568201385,
+    "UTC": "2019-09-11T11:29:45Z",
+    "Callsign": "ANZ23",
+    "Position": "-2.136295,-168.285767",
+    "Altitude": 36000,
+    "Speed": 520,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568201971,
+    "UTC": "2019-09-11T11:39:31Z",
+    "Callsign": "ANZ23",
+    "Position": "-3.336402,-169.002197",
+    "Altitude": 36000,
+    "Speed": 521,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568202531,
+    "UTC": "2019-09-11T11:48:51Z",
+    "Callsign": "ANZ23",
+    "Position": "-4.512734,-169.713028",
+    "Altitude": 36000,
+    "Speed": 513,
+    "Direction": 212
+  },
+  {
+    "Timestamp": 1568204664,
+    "UTC": "2019-09-11T12:24:24Z",
+    "Callsign": "ANZ23",
+    "Position": "-8.924698,-172.347549",
+    "Altitude": 36000,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568204723,
+    "UTC": "2019-09-11T12:25:23Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.043098,-172.419098",
+    "Altitude": 36000,
+    "Speed": 505,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568204766,
+    "UTC": "2019-09-11T12:26:06Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.128847,-172.471008",
+    "Altitude": 36000,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568204868,
+    "UTC": "2019-09-11T12:27:48Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.336098,-172.596634",
+    "Altitude": 36000,
+    "Speed": 506,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568204887,
+    "UTC": "2019-09-11T12:28:07Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.374268,-172.619797",
+    "Altitude": 36000,
+    "Speed": 506,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568204974,
+    "UTC": "2019-09-11T12:29:34Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.549728,-172.726212",
+    "Altitude": 36000,
+    "Speed": 505,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568204995,
+    "UTC": "2019-09-11T12:29:55Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.594498,-172.753448",
+    "Altitude": 36000,
+    "Speed": 505,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568205038,
+    "UTC": "2019-09-11T12:30:38Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.675797,-172.802795",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568205168,
+    "UTC": "2019-09-11T12:32:48Z",
+    "Callsign": "ANZ23",
+    "Position": "-9.93956,-172.963257",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 211
+  },
+  {
+    "Timestamp": 1568205228,
+    "UTC": "2019-09-11T12:33:48Z",
+    "Callsign": "ANZ23",
+    "Position": "-10.061371,-173.036621",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205266,
+    "UTC": "2019-09-11T12:34:26Z",
+    "Callsign": "ANZ23",
+    "Position": "-10.136856,-173.080658",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205456,
+    "UTC": "2019-09-11T12:37:36Z",
+    "Callsign": "ANZ23",
+    "Position": "-10.518478,-173.305618",
+    "Altitude": 36000,
+    "Speed": 500,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205517,
+    "UTC": "2019-09-11T12:38:37Z",
+    "Callsign": "ANZ23",
+    "Position": "-10.644836,-173.38031",
+    "Altitude": 36000,
+    "Speed": 498,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205580,
+    "UTC": "2019-09-11T12:39:40Z",
+    "Callsign": "ANZ23",
+    "Position": "-10.76865,-173.453491",
+    "Altitude": 36000,
+    "Speed": 497,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205643,
+    "UTC": "2019-09-11T12:40:43Z",
+    "Callsign": "ANZ23",
+    "Position": "-10.893317,-173.527267",
+    "Altitude": 36000,
+    "Speed": 497,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205705,
+    "UTC": "2019-09-11T12:41:45Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.019938,-173.602158",
+    "Altitude": 36000,
+    "Speed": 499,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205766,
+    "UTC": "2019-09-11T12:42:46Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.141766,-173.674332",
+    "Altitude": 36000,
+    "Speed": 500,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205794,
+    "UTC": "2019-09-11T12:43:14Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.195251,-173.705963",
+    "Altitude": 36000,
+    "Speed": 501,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205885,
+    "UTC": "2019-09-11T12:44:45Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.38151,-173.816437",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568205947,
+    "UTC": "2019-09-11T12:45:47Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.506363,-173.890549",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206012,
+    "UTC": "2019-09-11T12:46:52Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.634476,-173.966751",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206075,
+    "UTC": "2019-09-11T12:47:55Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.762493,-174.042862",
+    "Altitude": 36000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206136,
+    "UTC": "2019-09-11T12:48:56Z",
+    "Callsign": "ANZ23",
+    "Position": "-11.884973,-174.11586",
+    "Altitude": 36000,
+    "Speed": 505,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206196,
+    "UTC": "2019-09-11T12:49:56Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.010208,-174.190598",
+    "Altitude": 36000,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206259,
+    "UTC": "2019-09-11T12:50:59Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.134585,-174.264755",
+    "Altitude": 36000,
+    "Speed": 505,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206323,
+    "UTC": "2019-09-11T12:52:03Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.263628,-174.341843",
+    "Altitude": 36000,
+    "Speed": 505,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206387,
+    "UTC": "2019-09-11T12:53:07Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.392997,-174.419327",
+    "Altitude": 36250,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206449,
+    "UTC": "2019-09-11T12:54:09Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.52069,-174.495804",
+    "Altitude": 37000,
+    "Speed": 503,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206511,
+    "UTC": "2019-09-11T12:55:11Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.646008,-174.571014",
+    "Altitude": 37000,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206576,
+    "UTC": "2019-09-11T12:56:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.77504,-174.648468",
+    "Altitude": 37000,
+    "Speed": 503,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206638,
+    "UTC": "2019-09-11T12:57:18Z",
+    "Callsign": "ANZ23",
+    "Position": "-12.901814,-174.724686",
+    "Altitude": 37000,
+    "Speed": 502,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206701,
+    "UTC": "2019-09-11T12:58:21Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.028503,-174.800812",
+    "Altitude": 37000,
+    "Speed": 501,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206765,
+    "UTC": "2019-09-11T12:59:25Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.154251,-174.876633",
+    "Altitude": 37000,
+    "Speed": 501,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206794,
+    "UTC": "2019-09-11T12:59:54Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.214722,-174.913086",
+    "Altitude": 37000,
+    "Speed": 500,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206888,
+    "UTC": "2019-09-11T13:01:28Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.400024,-175.024994",
+    "Altitude": 37000,
+    "Speed": 501,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568206949,
+    "UTC": "2019-09-11T13:02:29Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.522751,-175.099152",
+    "Altitude": 37000,
+    "Speed": 500,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207010,
+    "UTC": "2019-09-11T13:03:30Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.647347,-175.174637",
+    "Altitude": 37000,
+    "Speed": 501,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207072,
+    "UTC": "2019-09-11T13:04:32Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.771223,-175.249817",
+    "Altitude": 37000,
+    "Speed": 501,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207135,
+    "UTC": "2019-09-11T13:05:35Z",
+    "Callsign": "ANZ23",
+    "Position": "-13.897612,-175.326523",
+    "Altitude": 37000,
+    "Speed": 502,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207197,
+    "UTC": "2019-09-11T13:06:37Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.022079,-175.402176",
+    "Altitude": 37000,
+    "Speed": 503,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207259,
+    "UTC": "2019-09-11T13:07:39Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.144119,-175.476425",
+    "Altitude": 37000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207320,
+    "UTC": "2019-09-11T13:08:40Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.269937,-175.55304",
+    "Altitude": 37000,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207383,
+    "UTC": "2019-09-11T13:09:43Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.393347,-175.628403",
+    "Altitude": 37000,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207445,
+    "UTC": "2019-09-11T13:10:45Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.518572,-175.70488",
+    "Altitude": 37000,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207508,
+    "UTC": "2019-09-11T13:11:48Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.645939,-175.782791",
+    "Altitude": 37000,
+    "Speed": 505,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207571,
+    "UTC": "2019-09-11T13:12:51Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.773636,-175.861038",
+    "Altitude": 37000,
+    "Speed": 506,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207634,
+    "UTC": "2019-09-11T13:13:54Z",
+    "Callsign": "ANZ23",
+    "Position": "-14.900114,-175.938644",
+    "Altitude": 37000,
+    "Speed": 507,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207696,
+    "UTC": "2019-09-11T13:14:56Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.025726,-176.015625",
+    "Altitude": 37000,
+    "Speed": 508,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568207757,
+    "UTC": "2019-09-11T13:15:57Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.154861,-176.09021",
+    "Altitude": 37000,
+    "Speed": 509,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568207820,
+    "UTC": "2019-09-11T13:17:00Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.280518,-176.163162",
+    "Altitude": 37000,
+    "Speed": 510,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568207882,
+    "UTC": "2019-09-11T13:18:02Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.40947,-176.238586",
+    "Altitude": 37000,
+    "Speed": 510,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568207951,
+    "UTC": "2019-09-11T13:19:11Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.554489,-176.323624",
+    "Altitude": 37000,
+    "Speed": 510,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208013,
+    "UTC": "2019-09-11T13:20:13Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.679306,-176.396729",
+    "Altitude": 37000,
+    "Speed": 510,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208074,
+    "UTC": "2019-09-11T13:21:14Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.808255,-176.472458",
+    "Altitude": 37000,
+    "Speed": 511,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208137,
+    "UTC": "2019-09-11T13:22:17Z",
+    "Callsign": "ANZ23",
+    "Position": "-15.937205,-176.548233",
+    "Altitude": 37000,
+    "Speed": 511,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208200,
+    "UTC": "2019-09-11T13:23:20Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.067505,-176.624893",
+    "Altitude": 37000,
+    "Speed": 510,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208224,
+    "UTC": "2019-09-11T13:23:44Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.113871,-176.652161",
+    "Altitude": 37000,
+    "Speed": 511,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208296,
+    "UTC": "2019-09-11T13:24:56Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.26186,-176.739471",
+    "Altitude": 37000,
+    "Speed": 512,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208385,
+    "UTC": "2019-09-11T13:26:25Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.449051,-176.850098",
+    "Altitude": 37000,
+    "Speed": 512,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208428,
+    "UTC": "2019-09-11T13:27:08Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.534973,-176.900986",
+    "Altitude": 37000,
+    "Speed": 512,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208487,
+    "UTC": "2019-09-11T13:28:07Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.659485,-176.974762",
+    "Altitude": 37000,
+    "Speed": 512,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208582,
+    "UTC": "2019-09-11T13:29:42Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.852516,-177.089401",
+    "Altitude": 37000,
+    "Speed": 512,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568208648,
+    "UTC": "2019-09-11T13:30:48Z",
+    "Callsign": "ANZ23",
+    "Position": "-16.988214,-177.170135",
+    "Altitude": 37000,
+    "Speed": 512,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568209146,
+    "UTC": "2019-09-11T13:39:06Z",
+    "Callsign": "ANZ23",
+    "Position": "-18.012177,-177.783936",
+    "Altitude": 37000,
+    "Speed": 508,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568209216,
+    "UTC": "2019-09-11T13:40:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-18.153744,-177.869492",
+    "Altitude": 37000,
+    "Speed": 504,
+    "Direction": 209
+  },
+  {
+    "Timestamp": 1568209296,
+    "UTC": "2019-09-11T13:41:36Z",
+    "Callsign": "ANZ23",
+    "Position": "-18.314955,-177.966934",
+    "Altitude": 38025,
+    "Speed": 504,
+    "Direction": 210
+  },
+  {
+    "Timestamp": 1568216031,
+    "UTC": "2019-09-11T15:33:51Z",
+    "Callsign": "ANZ23",
+    "Position": "-32.414371,176.083603",
+    "Altitude": 39000,
+    "Speed": 463,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216094,
+    "UTC": "2019-09-11T15:34:54Z",
+    "Callsign": "ANZ23",
+    "Position": "-32.543243,176.033386",
+    "Altitude": 39000,
+    "Speed": 464,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216156,
+    "UTC": "2019-09-11T15:35:56Z",
+    "Callsign": "ANZ23",
+    "Position": "-32.672287,175.982742",
+    "Altitude": 39000,
+    "Speed": 464,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216218,
+    "UTC": "2019-09-11T15:36:58Z",
+    "Callsign": "ANZ23",
+    "Position": "-32.796146,175.934052",
+    "Altitude": 39000,
+    "Speed": 464,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216281,
+    "UTC": "2019-09-11T15:38:01Z",
+    "Callsign": "ANZ23",
+    "Position": "-32.924606,175.883423",
+    "Altitude": 39000,
+    "Speed": 464,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216343,
+    "UTC": "2019-09-11T15:39:03Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.049946,175.833832",
+    "Altitude": 39000,
+    "Speed": 465,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216402,
+    "UTC": "2019-09-11T15:40:02Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.17514,175.784164",
+    "Altitude": 39000,
+    "Speed": 467,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216466,
+    "UTC": "2019-09-11T15:41:06Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.302765,175.733566",
+    "Altitude": 39000,
+    "Speed": 467,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216527,
+    "UTC": "2019-09-11T15:42:07Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.427998,175.683548",
+    "Altitude": 39000,
+    "Speed": 468,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216588,
+    "UTC": "2019-09-11T15:43:08Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.554031,175.633102",
+    "Altitude": 39000,
+    "Speed": 468,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216651,
+    "UTC": "2019-09-11T15:44:11Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.684174,175.580978",
+    "Altitude": 39000,
+    "Speed": 472,
+    "Direction": 198
+  },
+  {
+    "Timestamp": 1568216713,
+    "UTC": "2019-09-11T15:45:13Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.822144,175.554916",
+    "Altitude": 39000,
+    "Speed": 498,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568216773,
+    "UTC": "2019-09-11T15:46:13Z",
+    "Callsign": "ANZ23",
+    "Position": "-33.96405,175.541351",
+    "Altitude": 39000,
+    "Speed": 498,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568216836,
+    "UTC": "2019-09-11T15:47:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-34.105099,175.527817",
+    "Altitude": 39000,
+    "Speed": 498,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568216896,
+    "UTC": "2019-09-11T15:48:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-34.247272,175.513977",
+    "Altitude": 39000,
+    "Speed": 498,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568216957,
+    "UTC": "2019-09-11T15:49:17Z",
+    "Callsign": "ANZ23",
+    "Position": "-34.387253,175.500259",
+    "Altitude": 39000,
+    "Speed": 499,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217018,
+    "UTC": "2019-09-11T15:50:18Z",
+    "Callsign": "ANZ23",
+    "Position": "-34.527794,175.486389",
+    "Altitude": 39000,
+    "Speed": 499,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217081,
+    "UTC": "2019-09-11T15:51:21Z",
+    "Callsign": "ANZ23",
+    "Position": "-34.668869,175.472626",
+    "Altitude": 39000,
+    "Speed": 498,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217145,
+    "UTC": "2019-09-11T15:52:25Z",
+    "Callsign": "ANZ23",
+    "Position": "-34.813614,175.458496",
+    "Altitude": 38500,
+    "Speed": 496,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217206,
+    "UTC": "2019-09-11T15:53:26Z",
+    "Callsign": "ANZ23",
+    "Position": "-34.958817,175.443756",
+    "Altitude": 35750,
+    "Speed": 497,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217269,
+    "UTC": "2019-09-11T15:54:29Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.098389,175.429688",
+    "Altitude": 33175,
+    "Speed": 494,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217331,
+    "UTC": "2019-09-11T15:55:31Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.239197,175.416122",
+    "Altitude": 31100,
+    "Speed": 470,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217395,
+    "UTC": "2019-09-11T15:56:35Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.370251,175.403275",
+    "Altitude": 29100,
+    "Speed": 436,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217457,
+    "UTC": "2019-09-11T15:57:37Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.493057,175.390823",
+    "Altitude": 27200,
+    "Speed": 417,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217520,
+    "UTC": "2019-09-11T15:58:40Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.612183,175.378723",
+    "Altitude": 25325,
+    "Speed": 403,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217582,
+    "UTC": "2019-09-11T15:59:42Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.728546,175.367035",
+    "Altitude": 23450,
+    "Speed": 390,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217605,
+    "UTC": "2019-09-11T16:00:05Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.767914,175.363022",
+    "Altitude": 22800,
+    "Speed": 386,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217698,
+    "UTC": "2019-09-11T16:01:38Z",
+    "Callsign": "ANZ23",
+    "Position": "-35.931252,175.346527",
+    "Altitude": 20050,
+    "Speed": 381,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217762,
+    "UTC": "2019-09-11T16:02:42Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.041061,175.335388",
+    "Altitude": 18150,
+    "Speed": 368,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217826,
+    "UTC": "2019-09-11T16:03:46Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.149368,175.324341",
+    "Altitude": 16250,
+    "Speed": 358,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217858,
+    "UTC": "2019-09-11T16:04:18Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.201233,175.319077",
+    "Altitude": 15325,
+    "Speed": 351,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217892,
+    "UTC": "2019-09-11T16:04:52Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.256744,175.313278",
+    "Altitude": 14275,
+    "Speed": 347,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217926,
+    "UTC": "2019-09-11T16:05:26Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.310913,175.3078",
+    "Altitude": 13275,
+    "Speed": 341,
+    "Direction": 184
+  },
+  {
+    "Timestamp": 1568217953,
+    "UTC": "2019-09-11T16:05:53Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.351524,175.303055",
+    "Altitude": 12650,
+    "Speed": 337,
+    "Direction": 185
+  },
+  {
+    "Timestamp": 1568217983,
+    "UTC": "2019-09-11T16:06:23Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.394913,175.288681",
+    "Altitude": 12000,
+    "Speed": 319,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1568218014,
+    "UTC": "2019-09-11T16:06:54Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.437897,175.269302",
+    "Altitude": 11125,
+    "Speed": 314,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218027,
+    "UTC": "2019-09-11T16:07:07Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.45433,175.26181",
+    "Altitude": 10775,
+    "Speed": 312,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218041,
+    "UTC": "2019-09-11T16:07:21Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.474106,175.252762",
+    "Altitude": 10500,
+    "Speed": 309,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218052,
+    "UTC": "2019-09-11T16:07:32Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.488342,175.246246",
+    "Altitude": 10400,
+    "Speed": 299,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218070,
+    "UTC": "2019-09-11T16:07:50Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.512363,175.235382",
+    "Altitude": 10225,
+    "Speed": 285,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218083,
+    "UTC": "2019-09-11T16:08:03Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.528656,175.227966",
+    "Altitude": 10125,
+    "Speed": 275,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218096,
+    "UTC": "2019-09-11T16:08:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.543926,175.220947",
+    "Altitude": 10025,
+    "Speed": 267,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218110,
+    "UTC": "2019-09-11T16:08:30Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.557007,175.214981",
+    "Altitude": 9875,
+    "Speed": 263,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218122,
+    "UTC": "2019-09-11T16:08:42Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.571472,175.208359",
+    "Altitude": 9625,
+    "Speed": 258,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218133,
+    "UTC": "2019-09-11T16:08:53Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.585297,175.201889",
+    "Altitude": 9375,
+    "Speed": 256,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218148,
+    "UTC": "2019-09-11T16:09:08Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.599697,175.195358",
+    "Altitude": 9100,
+    "Speed": 254,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218161,
+    "UTC": "2019-09-11T16:09:21Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.61496,175.188385",
+    "Altitude": 8825,
+    "Speed": 253,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218173,
+    "UTC": "2019-09-11T16:09:33Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.629333,175.18187",
+    "Altitude": 8550,
+    "Speed": 251,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1568218187,
+    "UTC": "2019-09-11T16:09:47Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.643387,175.175568",
+    "Altitude": 8300,
+    "Speed": 249,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1568218198,
+    "UTC": "2019-09-11T16:09:58Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.657303,175.16922",
+    "Altitude": 8025,
+    "Speed": 247,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218211,
+    "UTC": "2019-09-11T16:10:11Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.67012,175.163269",
+    "Altitude": 7800,
+    "Speed": 245,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218225,
+    "UTC": "2019-09-11T16:10:25Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.683395,175.157089",
+    "Altitude": 7550,
+    "Speed": 244,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218238,
+    "UTC": "2019-09-11T16:10:38Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.697449,175.150574",
+    "Altitude": 7275,
+    "Speed": 242,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218251,
+    "UTC": "2019-09-11T16:10:51Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.711548,175.144104",
+    "Altitude": 7000,
+    "Speed": 242,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218263,
+    "UTC": "2019-09-11T16:11:03Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.725201,175.137848",
+    "Altitude": 6750,
+    "Speed": 239,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218276,
+    "UTC": "2019-09-11T16:11:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.738094,175.132065",
+    "Altitude": 6500,
+    "Speed": 238,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1568218290,
+    "UTC": "2019-09-11T16:11:30Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.752014,175.125931",
+    "Altitude": 6225,
+    "Speed": 236,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1568218303,
+    "UTC": "2019-09-11T16:11:43Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.764862,175.120148",
+    "Altitude": 5975,
+    "Speed": 236,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218316,
+    "UTC": "2019-09-11T16:11:56Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.777988,175.113953",
+    "Altitude": 5725,
+    "Speed": 234,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218328,
+    "UTC": "2019-09-11T16:12:08Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.791073,175.107864",
+    "Altitude": 5475,
+    "Speed": 233,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218342,
+    "UTC": "2019-09-11T16:12:22Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.80471,175.101563",
+    "Altitude": 5225,
+    "Speed": 231,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218354,
+    "UTC": "2019-09-11T16:12:34Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.817093,175.095825",
+    "Altitude": 4975,
+    "Speed": 229,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218361,
+    "UTC": "2019-09-11T16:12:41Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.823799,175.092728",
+    "Altitude": 4850,
+    "Speed": 229,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218374,
+    "UTC": "2019-09-11T16:12:54Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.837891,175.086304",
+    "Altitude": 4600,
+    "Speed": 226,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218382,
+    "UTC": "2019-09-11T16:13:02Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.844234,175.083389",
+    "Altitude": 4475,
+    "Speed": 226,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218395,
+    "UTC": "2019-09-11T16:13:15Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.856888,175.077606",
+    "Altitude": 4225,
+    "Speed": 223,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218407,
+    "UTC": "2019-09-11T16:13:27Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.8703,175.071411",
+    "Altitude": 3975,
+    "Speed": 221,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218415,
+    "UTC": "2019-09-11T16:13:35Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.876022,175.06871",
+    "Altitude": 3875,
+    "Speed": 222,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218427,
+    "UTC": "2019-09-11T16:13:47Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.88797,175.063217",
+    "Altitude": 3700,
+    "Speed": 218,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218440,
+    "UTC": "2019-09-11T16:14:00Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.900238,175.057617",
+    "Altitude": 3625,
+    "Speed": 209,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218446,
+    "UTC": "2019-09-11T16:14:06Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.905731,175.055099",
+    "Altitude": 3600,
+    "Speed": 206,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218453,
+    "UTC": "2019-09-11T16:14:13Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.911728,175.052414",
+    "Altitude": 3550,
+    "Speed": 202,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218459,
+    "UTC": "2019-09-11T16:14:19Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.917084,175.049957",
+    "Altitude": 3500,
+    "Speed": 198,
+    "Direction": 199
+  },
+  {
+    "Timestamp": 1568218467,
+    "UTC": "2019-09-11T16:14:27Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.922531,175.04744",
+    "Altitude": 3475,
+    "Speed": 194,
+    "Direction": 200
+  },
+  {
+    "Timestamp": 1568218478,
+    "UTC": "2019-09-11T16:14:38Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.932968,175.042419",
+    "Altitude": 3400,
+    "Speed": 186,
+    "Direction": 203
+  },
+  {
+    "Timestamp": 1568218484,
+    "UTC": "2019-09-11T16:14:44Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.937317,175.038681",
+    "Altitude": 3350,
+    "Speed": 183,
+    "Direction": 216
+  },
+  {
+    "Timestamp": 1568218492,
+    "UTC": "2019-09-11T16:14:52Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.94162,175.032654",
+    "Altitude": 3325,
+    "Speed": 182,
+    "Direction": 230
+  },
+  {
+    "Timestamp": 1568218500,
+    "UTC": "2019-09-11T16:15:00Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.945053,175.02536",
+    "Altitude": 3200,
+    "Speed": 183,
+    "Direction": 235
+  },
+  {
+    "Timestamp": 1568218509,
+    "UTC": "2019-09-11T16:15:09Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.947891,175.016525",
+    "Altitude": 3150,
+    "Speed": 181,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1568218518,
+    "UTC": "2019-09-11T16:15:18Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.950092,175.008438",
+    "Altitude": 3125,
+    "Speed": 173,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218524,
+    "UTC": "2019-09-11T16:15:24Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.951736,175.002441",
+    "Altitude": 3075,
+    "Speed": 167,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218534,
+    "UTC": "2019-09-11T16:15:34Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.954189,174.993881",
+    "Altitude": 3050,
+    "Speed": 163,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218545,
+    "UTC": "2019-09-11T16:15:45Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.957596,174.982468",
+    "Altitude": 2950,
+    "Speed": 164,
+    "Direction": 249
+  },
+  {
+    "Timestamp": 1568218552,
+    "UTC": "2019-09-11T16:15:52Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.958939,174.977753",
+    "Altitude": 2850,
+    "Speed": 165,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218559,
+    "UTC": "2019-09-11T16:15:59Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.960754,174.971252",
+    "Altitude": 2725,
+    "Speed": 166,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218565,
+    "UTC": "2019-09-11T16:16:05Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.962357,174.965454",
+    "Altitude": 2625,
+    "Speed": 166,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218578,
+    "UTC": "2019-09-11T16:16:18Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.965317,174.954773",
+    "Altitude": 2450,
+    "Speed": 165,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218590,
+    "UTC": "2019-09-11T16:16:30Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.968575,174.94313",
+    "Altitude": 2250,
+    "Speed": 166,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218596,
+    "UTC": "2019-09-11T16:16:36Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.970158,174.937454",
+    "Altitude": 2150,
+    "Speed": 164,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218602,
+    "UTC": "2019-09-11T16:16:42Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.971237,174.933548",
+    "Altitude": 2100,
+    "Speed": 160,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218613,
+    "UTC": "2019-09-11T16:16:53Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.974022,174.92366",
+    "Altitude": 1925,
+    "Speed": 151,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218625,
+    "UTC": "2019-09-11T16:17:05Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.976593,174.914261",
+    "Altitude": 1775,
+    "Speed": 141,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218631,
+    "UTC": "2019-09-11T16:17:11Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.977932,174.909454",
+    "Altitude": 1700,
+    "Speed": 139,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218644,
+    "UTC": "2019-09-11T16:17:24Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.980713,174.899475",
+    "Altitude": 1550,
+    "Speed": 134,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218651,
+    "UTC": "2019-09-11T16:17:31Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.981949,174.895035",
+    "Altitude": 1450,
+    "Speed": 129,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218657,
+    "UTC": "2019-09-11T16:17:37Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.983185,174.890594",
+    "Altitude": 1400,
+    "Speed": 127,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218669,
+    "UTC": "2019-09-11T16:17:49Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.985382,174.882584",
+    "Altitude": 1275,
+    "Speed": 126,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218696,
+    "UTC": "2019-09-11T16:18:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.99078,174.862991",
+    "Altitude": 950,
+    "Speed": 129,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218703,
+    "UTC": "2019-09-11T16:18:23Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.991989,174.858749",
+    "Altitude": 875,
+    "Speed": 127,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218713,
+    "UTC": "2019-09-11T16:18:33Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.9939,174.851837",
+    "Altitude": 750,
+    "Speed": 128,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218725,
+    "UTC": "2019-09-11T16:18:45Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.99604,174.844131",
+    "Altitude": 625,
+    "Speed": 128,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218739,
+    "UTC": "2019-09-11T16:18:59Z",
+    "Callsign": "ANZ23",
+    "Position": "-36.998882,174.833862",
+    "Altitude": 475,
+    "Speed": 131,
+    "Direction": 250
+  },
+  {
+    "Timestamp": 1568218777,
+    "UTC": "2019-09-11T16:19:37Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006374,174.806808",
+    "Altitude": 25,
+    "Speed": 129,
+    "Direction": 251
+  },
+  {
+    "Timestamp": 1568218839,
+    "UTC": "2019-09-11T16:20:39Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.012463,174.783081",
+    "Altitude": 0,
+    "Speed": 30,
+    "Direction": 272
+  },
+  {
+    "Timestamp": 1568218847,
+    "UTC": "2019-09-11T16:20:47Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.012287,174.781708",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568218853,
+    "UTC": "2019-09-11T16:20:53Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.012173,174.780991",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 281
+  },
+  {
+    "Timestamp": 1568218866,
+    "UTC": "2019-09-11T16:21:06Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.01215,174.77919",
+    "Altitude": 0,
+    "Speed": 20,
+    "Direction": 261
+  },
+  {
+    "Timestamp": 1568218875,
+    "UTC": "2019-09-11T16:21:15Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.012299,174.778397",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 253
+  },
+  {
+    "Timestamp": 1568218881,
+    "UTC": "2019-09-11T16:21:21Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.012405,174.777985",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 255
+  },
+  {
+    "Timestamp": 1568218889,
+    "UTC": "2019-09-11T16:21:29Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.01223,174.777512",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 303
+  },
+  {
+    "Timestamp": 1568218896,
+    "UTC": "2019-09-11T16:21:36Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.011951,174.777328",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1568218902,
+    "UTC": "2019-09-11T16:21:42Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.0116,174.777191",
+    "Altitude": 0,
+    "Speed": 29,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1568218908,
+    "UTC": "2019-09-11T16:21:48Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.011253,174.777039",
+    "Altitude": 0,
+    "Speed": 32,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1568218914,
+    "UTC": "2019-09-11T16:21:54Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.010868,174.776886",
+    "Altitude": 0,
+    "Speed": 34,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1568218922,
+    "UTC": "2019-09-11T16:22:02Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.010414,174.776688",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1568218931,
+    "UTC": "2019-09-11T16:22:11Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.009819,174.776428",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1568218943,
+    "UTC": "2019-09-11T16:22:23Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.008957,174.776062",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1568218950,
+    "UTC": "2019-09-11T16:22:30Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.008579,174.775894",
+    "Altitude": 0,
+    "Speed": 16,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1568218958,
+    "UTC": "2019-09-11T16:22:38Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007957,174.775635",
+    "Altitude": 0,
+    "Speed": 33,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1568218964,
+    "UTC": "2019-09-11T16:22:44Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007645,174.775497",
+    "Altitude": 0,
+    "Speed": 27,
+    "Direction": 340
+  },
+  {
+    "Timestamp": 1568218972,
+    "UTC": "2019-09-11T16:22:52Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.00732,174.775406",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 351
+  },
+  {
+    "Timestamp": 1568218979,
+    "UTC": "2019-09-11T16:22:59Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007023,174.775589",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 30
+  },
+  {
+    "Timestamp": 1568218986,
+    "UTC": "2019-09-11T16:23:06Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006889,174.775894",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1568218992,
+    "UTC": "2019-09-11T16:23:12Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006817,174.776215",
+    "Altitude": 0,
+    "Speed": 22,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568218998,
+    "UTC": "2019-09-11T16:23:18Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006748,174.776459",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568219006,
+    "UTC": "2019-09-11T16:23:26Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006641,174.776825",
+    "Altitude": 0,
+    "Speed": 25,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568219015,
+    "UTC": "2019-09-11T16:23:35Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.00647,174.777466",
+    "Altitude": 0,
+    "Speed": 28,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568219022,
+    "UTC": "2019-09-11T16:23:42Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.00629,174.778122",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568219029,
+    "UTC": "2019-09-11T16:23:49Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006165,174.778564",
+    "Altitude": 0,
+    "Speed": 31,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568219041,
+    "UTC": "2019-09-11T16:24:01Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.005981,174.779205",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568219050,
+    "UTC": "2019-09-11T16:24:10Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.00597,174.779739",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 92
+  },
+  {
+    "Timestamp": 1568219056,
+    "UTC": "2019-09-11T16:24:16Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006096,174.780106",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 118
+  },
+  {
+    "Timestamp": 1568219068,
+    "UTC": "2019-09-11T16:24:28Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.006599,174.780411",
+    "Altitude": 0,
+    "Speed": 23,
+    "Direction": 165
+  },
+  {
+    "Timestamp": 1568219078,
+    "UTC": "2019-09-11T16:24:38Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007004,174.780304",
+    "Altitude": 0,
+    "Speed": 26,
+    "Direction": 194
+  },
+  {
+    "Timestamp": 1568219086,
+    "UTC": "2019-09-11T16:24:46Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007401,174.780106",
+    "Altitude": 0,
+    "Speed": 24,
+    "Direction": 202
+  },
+  {
+    "Timestamp": 1568219095,
+    "UTC": "2019-09-11T16:24:55Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007668,174.780045",
+    "Altitude": 0,
+    "Speed": 21,
+    "Direction": 191
+  },
+  {
+    "Timestamp": 1568219102,
+    "UTC": "2019-09-11T16:25:02Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007961,174.780106",
+    "Altitude": 0,
+    "Speed": 18,
+    "Direction": 168
+  },
+  {
+    "Timestamp": 1568219112,
+    "UTC": "2019-09-11T16:25:12Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.008053,174.78038",
+    "Altitude": 0,
+    "Speed": 17,
+    "Direction": 115
+  },
+  {
+    "Timestamp": 1568219121,
+    "UTC": "2019-09-11T16:25:21Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007946,174.78064",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 75
+  },
+  {
+    "Timestamp": 1568219130,
+    "UTC": "2019-09-11T16:25:30Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.00787,174.780914",
+    "Altitude": 0,
+    "Speed": 15,
+    "Direction": 70
+  },
+  {
+    "Timestamp": 1568219143,
+    "UTC": "2019-09-11T16:25:43Z",
+    "Callsign": "ANZ23",
+    "Position": "-37.007771,174.781204",
+    "Altitude": 0,
+    "Speed": 13,
+    "Direction": 67
+  }
+]
