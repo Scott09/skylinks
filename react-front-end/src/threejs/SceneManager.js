@@ -223,10 +223,17 @@ export default canvas => {
       plane.position.lerp(plane.points[current], 1);
       plane.rotation.z =
         -(Math.PI / 180) * waypoints[current].position.direction;
-      // console.log(waypoints);
-      // waypoints[index].position.direction
       // axis.crossVectors(up, plane.points[current]).normalize();
-      // plane.quaternion.setFromAxisAngle(axis, radians);
+
+      // plane.quaternion.setFromAxisAngle(
+      //   new THREE.Vector3(0, 1, 0),
+      //   (Math.PI / 180) * waypoints[current].position.direction
+      // );
+
+      // plane.quaternion.setFromUnitVectors(
+      //   plane.points[current],
+      //   plane.points[current + 10]
+      // );
     }
   }
 
