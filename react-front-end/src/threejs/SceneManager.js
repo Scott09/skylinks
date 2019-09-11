@@ -247,22 +247,24 @@ export default canvas => {
 
   function updatePosition(position, waypoints) {
     const plane = scene.getObjectByName("realTimePlane");
+    const center = new THREE.Vector3(0, 0, 0);
     if (airPlaneRoot && plane) {
       airPlaneRoot.points = plane.points;
       const index = airPlaneRoot.points.length - 1;
       const current = Math.floor((position / 100) * index);
       airPlaneRoot.position.lerp(airPlaneRoot.points[current], 1);
-      airPlaneRoot.rotation.z =
-        -(Math.PI / 180) * waypoints[current].position.direction;
-      console.log(airPlaneRoot);
+      // airPlaneRoot.lookAt(center);
+      airPlaneRoot.rotation.z = (Math.PI / 180) * 10;
+      airPlaneRoot.rotation.x = (Math.PI / 180) * 10;
+      airPlaneRoot.rotation.y =
+        -(Math.PI / 180) * (waypoints[current].position.direction + 200);
     } else if (plane) {
       const index = plane.points.length - 1;
       const current = Math.floor((position / 100) * index);
       plane.position.lerp(plane.points[current], 1);
       plane.rotation.z =
-        -(Math.PI / 180) * waypoints[current].position.direction;
+        (Math.PI / 180) * waypoints[current].position.direction;
       // axis.crossVectors(up, plane.points[current]).normalize();
-
       // plane.quaternion.setFromAxisAngle(
       //   new THREE.Vector3(0, 1, 0),
       //   (Math.PI / 180) * waypoints[current].position.direction
