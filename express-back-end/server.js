@@ -18,7 +18,7 @@ const pool = new Pool({
 
 App.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "http://localhost:3000"); // update to match the domain you will make the request from
-  res.header("Access-Control-Allow-Origin", "http://localhost:3002"); // update to match the domain you will make the request from
+  // res.header("Access-Control-Allow-Origin", "http://localhost:3002"); // update to match the domain you will make the request from
   res.header(
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
@@ -131,17 +131,17 @@ App.get("/api/schedules/from/:from/to/:to", (req, res) => {
   const y = now.getYear() + 1900;
   const m = now.getMonth() + 1;
   const d = now.getDate();
-  res.json(spidertest);
-  // axios
-  //   .get(
-  //     `https://api.flightstats.com/flex/schedules/rest/v1/json/from/${from}/to/${to}/departing/${y}/${m}/${d}?appId=${process.env.appId}&appKey=${process.env.appKey}`
-  //   )
-  //   .then(api => {
-  //     res.json(api.data);
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  // res.json(spidertest);
+  axios
+    .get(
+      `https://api.flightstats.com/flex/schedules/rest/v1/json/from/${from}/to/${to}/departing/${y}/${m}/${d}?appId=${process.env.appId}&appKey=${process.env.appKey}`
+    )
+    .then(api => {
+      res.json(api.data);
+    })
+    .catch(err => {
+      console.log(err);
+    });
 });
 
 App.listen(PORT, () => {
