@@ -7,7 +7,6 @@ export default points => {
 
   // let dir = new THREE.Vector3();
   // dir.subVectors(points[0], points[points.length - 1]).normalize();
-  let center = new THREE.Vector3(0, 0, 0);
 
   let geo = new THREE.PlaneBufferGeometry(0.2, 0.2, 0.1, 0.1);
   let mat = new THREE.MeshBasicMaterial({
@@ -15,7 +14,6 @@ export default points => {
     transparent: true
   });
   let plane = new THREE.Mesh(geo, mat);
-  plane.lookAt(center);
 
   return plane;
 
