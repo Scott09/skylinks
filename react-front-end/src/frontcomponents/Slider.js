@@ -3,7 +3,6 @@ import { withStyles, makeStyles } from "@material-ui/core/styles";
 import Paper from "@material-ui/core/Paper";
 import Slider from "@material-ui/core/Slider";
 import "./Slider.css";
-import { fontFamily } from "@material-ui/system";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -46,9 +45,7 @@ const PrettoSlider = withStyles({
   rail: {
     height: 8,
     borderRadius: 4,
-    marginBottom: 0,
-    
-
+    marginBottom: 0
   }
 })(Slider);
 
@@ -89,7 +86,6 @@ export default function CustomizedSlider(props) {
   const classes = useStyles();
 
   return (
-    
     <Paper id="slider" className={classes.root}>
       <PrettoSlider
         aria-label="pretto slider"
@@ -115,6 +111,5 @@ export default function CustomizedSlider(props) {
         )}
       </span>
     </Paper>
-    
   );
 }
