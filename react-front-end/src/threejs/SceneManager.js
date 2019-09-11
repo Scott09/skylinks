@@ -33,12 +33,17 @@ export default canvas => {
       gltf.scene.traverse(function(child) {
         if (child.isMesh) {
           child.name = "airPlaneParts";
+          child.rotation.set(
+            (Math.PI / 180) * 0,
+            (Math.PI / 180) * 0,
+            (Math.PI / 180) * 0
+          );
           child.geometry.center(); // center here
         }
       });
       const root = gltf.scene;
-      root.scale.set(0.00003, 0.00003, 0.00003);
-      root.name = "root";
+      root.scale.set(0.00001, 0.00001, 0.00001);
+      root.name = "real3d";
       scene.add(root);
 
       return root;
@@ -178,7 +183,7 @@ export default canvas => {
 
   function update() {
     if (!airPlaneRoot) {
-      airPlaneRoot = scene.getObjectByName("root");
+      airPlaneRoot = scene.getObjectByName("real3d");
     }
     const elapsedTime = clock.getElapsedTime();
 
@@ -242,7 +247,15 @@ export default canvas => {
 
   function updatePosition(position, waypoints) {
     const plane = scene.getObjectByName("realTimePlane");
-    if (plane) {
+    if (airPlaneRoot && plane) {
+      airPlaneRoot.points = plane.points;
+      const index = airPlaneRoot.points.length - 1;
+      const current = Math.floor((position / 100) * index);
+      airPlaneRoot.position.lerp(airPlaneRoot.points[current], 1);
+      airPlaneRoot.rotation.z =
+        -(Math.PI / 180) * waypoints[current].position.direction;
+      console.log(airPlaneRoot);
+    } else if (plane) {
       const index = plane.points.length - 1;
       const current = Math.floor((position / 100) * index);
       plane.position.lerp(plane.points[current], 1);
