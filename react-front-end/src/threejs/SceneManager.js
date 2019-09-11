@@ -7,9 +7,11 @@ import FlightRoutes from "./components/flightRoutes";
 import FlightRealRoutes from "./components/realFlightRoutes";
 import GeneralLights from "./GeneralLights";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
+import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
 
 export default canvas => {
   const clock = new THREE.Clock();
+  var gltfLoader = new GLTFLoader();
 
   const screenDimensions = {
     width: window.innerWidth,
@@ -21,8 +23,47 @@ export default canvas => {
   const camera = buildCamera(screenDimensions);
   const controls = buildControls(camera);
   const sceneSubjects = createSceneSubjects(scene);
+  createPlane(scene);
+  let airPlaneRoot = "";
   let sceneRoutes = [];
   let sceneRealRoute = [];
+
+  function dumpObject(obj, lines = [], isLast = true, prefix = "") {
+    const localPrefix = isLast ? "└─" : "├─";
+    lines.push(
+      `${prefix}${prefix ? localPrefix : ""}${obj.name || "*no-name*"} [${
+        obj.type
+      }]`
+    );
+    const newPrefix = prefix + (isLast ? "  " : "│ ");
+    const lastNdx = obj.children.length - 1;
+    obj.children.forEach((child, ndx) => {
+      const isLast = ndx === lastNdx;
+      dumpObject(child, lines, isLast, newPrefix);
+    });
+    return lines;
+  }
+
+  function createPlane(scene) {
+    gltfLoader.load("http://localhost:8080/with-cors/scene.gltf", gltf => {
+      gltf.scene.traverse(function(child) {
+        if (child.isMesh) {
+          child.name = "airPlaneParts";
+          child.geometry.center(); // center here
+        }
+      });
+      const root = gltf.scene;
+      root.scale.set(0.00003, 0.00003, 0.00003);
+      root.name = "root";
+      scene.add(root);
+      console.log(dumpObject(root).join("\n"));
+
+      return root;
+
+      // compute the box that contains all the stuff
+      // from root and below
+    });
+  }
 
   function buildScene() {
     const scene = new THREE.Scene();
@@ -55,13 +96,14 @@ export default canvas => {
     controls.minDistance = 6;
     controls.enablePan = false;
     controls.enabled = false;
+    controls.target.set(0, 0.6, 0);
 
     return controls;
   }
 
   function buildCamera({ width, height }) {
-    const aspectRatio = width / height;
     const fieldOfView = 65;
+    const aspectRatio = width / height;
     const nearPlane = 0.2;
     const farPlane = 10000;
     const camera = new THREE.PerspectiveCamera(
@@ -77,8 +119,8 @@ export default canvas => {
 
   function createSceneSubjects(scene) {
     const sceneSubjects = [
-      new Earth(scene),
-      // new Clouds(scene),
+      //new Earth(scene),
+      new Clouds(scene),
       new Sun(scene),
       new GeneralLights(scene),
       new StarsBackGround(scene)
@@ -154,6 +196,9 @@ export default canvas => {
   }
 
   function update() {
+    if (!airPlaneRoot) {
+      airPlaneRoot = scene.getObjectByName("root");
+    }
     const elapsedTime = clock.getElapsedTime();
 
     for (let i = 0; i < sceneSubjects.length; i++) {
@@ -214,6 +259,7 @@ export default canvas => {
     }
   }
 
+
   function updatePosition(position, waypoints) {
     const plane = scene.getObjectByName("realTimePlane");
     console.log(plane);
@@ -234,6 +280,7 @@ export default canvas => {
       //   plane.points[current],
       //   plane.points[current + 10]
       // );
+
     }
   }
 

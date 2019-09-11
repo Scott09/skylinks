@@ -2,6 +2,7 @@ import * as THREE from "three";
 import { CURVE_SEGMENTS, GLOBE_RADIUS } from "../helpers/constants";
 
 export default scene => {
+  var textureLoader = new THREE.TextureLoader();
   const sphere = new THREE.SphereGeometry(
     GLOBE_RADIUS + 0.1,
     CURVE_SEGMENTS,
@@ -9,7 +10,9 @@ export default scene => {
   );
 
   const material = new THREE.MeshPhongMaterial({
-    map: THREE.ImageUtils.loadTexture("images/fair_clouds_4k.png"),
+    map: textureLoader.load(
+      "http://localhost:8080/api/textures/fair_clouds_4k.png"
+    ),
     opacity: 0.7,
     transparent: true
   });

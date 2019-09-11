@@ -5,11 +5,15 @@ export default spline => {
   let tangent = new THREE.Vector3();
   let axis = new THREE.Vector3();
   let up = new THREE.Vector3(0, 1, 0);
+
+  var textureLoader = new THREE.TextureLoader();
+
   let center = new THREE.Vector3(0, 0, 0);
+
 
   let geo = new THREE.PlaneBufferGeometry(0.2, 0.2, 0.1, 0.1);
   let mat = new THREE.MeshBasicMaterial({
-    map: THREE.ImageUtils.loadTexture("images/plane.png"),
+    map: textureLoader.load("http://localhost:8080/api/textures/plane.png"),
     transparent: true,
     side: THREE.DoubleSide,
     normal: center
