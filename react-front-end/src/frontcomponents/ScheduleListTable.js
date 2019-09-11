@@ -2,10 +2,10 @@ import React from "react";
 import "./ScheduleListTable.css";
 
 export default function ScheduleListTable(props) {
-  const now = new Date();
-  const y = now.getYear() + 1900;
-  const m = now.getMonth() + 1;
-  const d = now.getDate();
+  // const now = new Date();
+  // const y = now.getYear() + 1900;
+  // const m = now.getMonth() + 1;
+  // const d = now.getDate();
 
   function beautyTime(time) {
     let ampm = "";
@@ -36,9 +36,9 @@ export default function ScheduleListTable(props) {
               </tr>
             </thead>
             <tbody>
-              {props.newSchedule.scheduledFlights.map(schedule => {
+              {props.newSchedule.scheduledFlights.map((schedule, index) => {
                 return (
-                  <tr>
+                  <tr key={index}>
                     <td>
                       {schedule.carrierFsCode} {schedule.flightNumber}
                     </td>

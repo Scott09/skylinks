@@ -28,22 +28,6 @@ export default canvas => {
   let sceneRoutes = [];
   let sceneRealRoute = [];
 
-  function dumpObject(obj, lines = [], isLast = true, prefix = "") {
-    const localPrefix = isLast ? "└─" : "├─";
-    lines.push(
-      `${prefix}${prefix ? localPrefix : ""}${obj.name || "*no-name*"} [${
-        obj.type
-      }]`
-    );
-    const newPrefix = prefix + (isLast ? "  " : "│ ");
-    const lastNdx = obj.children.length - 1;
-    obj.children.forEach((child, ndx) => {
-      const isLast = ndx === lastNdx;
-      dumpObject(child, lines, isLast, newPrefix);
-    });
-    return lines;
-  }
-
   function createPlane(scene) {
     gltfLoader.load("http://localhost:8080/with-cors/scene.gltf", gltf => {
       gltf.scene.traverse(function(child) {
@@ -56,7 +40,6 @@ export default canvas => {
       root.scale.set(0.00003, 0.00003, 0.00003);
       root.name = "root";
       scene.add(root);
-      console.log(dumpObject(root).join("\n"));
 
       return root;
 
@@ -119,7 +102,7 @@ export default canvas => {
 
   function createSceneSubjects(scene) {
     const sceneSubjects = [
-      //new Earth(scene),
+      new Earth(scene),
       new Clouds(scene),
       new Sun(scene),
       new GeneralLights(scene),
@@ -186,11 +169,9 @@ export default canvas => {
     var selectedObject = "";
     if (scene.getObjectByName("routes")) {
       selectedObject = scene.getObjectByName("routes");
-      console.log("routes");
       clearRoutes(selectedObject);
     } else if (scene.getObjectByName("realRoute")) {
       selectedObject = scene.getObjectByName("realRoute");
-      console.log("realRoute");
       clearWaypoints(selectedObject);
     }
   }
@@ -259,10 +240,8 @@ export default canvas => {
     }
   }
 
-
   function updatePosition(position, waypoints) {
     const plane = scene.getObjectByName("realTimePlane");
-    console.log(plane);
     if (plane) {
       const index = plane.points.length - 1;
       const current = Math.floor((position / 100) * index);
@@ -280,7 +259,6 @@ export default canvas => {
       //   plane.points[current],
       //   plane.points[current + 10]
       // );
-
     }
   }
 

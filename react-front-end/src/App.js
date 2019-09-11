@@ -23,7 +23,6 @@ const App = props => {
   }, [departureFs]);
 
   useEffect(() => {
-    console.log("here");
     fetchFlightSchedule();
     fetchWaypoints();
   }, [arrivalAirportFs]);
@@ -57,12 +56,12 @@ const App = props => {
     if (departureFs && arrivalAirportFs) {
       departure = departureFs;
       arrival = arrivalAirportFs;
+      axios.get(`/api/real/from/${departure}/to/${arrival}`).then(response => {
+        if (response.data) {
+          setWaypoints(response.data);
+        }
+      });
     }
-    axios.get(`/api/real/from/${departure}/to/${arrival}`).then(response => {
-      if (response.data) {
-        setWaypoints(response.data);
-      }
-    });
   };
 
   const arrivals = () => {};
@@ -106,7 +105,12 @@ const App = props => {
         ></RouteList>
         <ResetButton onClear={onClear}></ResetButton>
         <SearchForm getArrival={arrivals} getDepartures={departures} />
-        <Slider setRealFlightPosition={setRealFlightPosition} />
+        {waypoints.length > 0 ? (
+          <Slider
+            setRealFlightPosition={setRealFlightPosition}
+            waypoints={waypoints}
+          />
+        ) : null}
       </div>
       <ThreeContainer
         waypoints={waypoints}

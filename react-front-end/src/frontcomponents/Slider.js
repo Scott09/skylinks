@@ -17,7 +17,7 @@ const useStyles = makeStyles(theme => ({
 const PrettoSlider = withStyles({
   root: {
     color: "#52af77",
-    height: 8,
+    height: 8
   },
   thumb: {
     height: 24,
@@ -78,8 +78,9 @@ export default function CustomizedSlider(props) {
         step={1}
       ></PrettoSlider>
       <p id="slidertext">Altitude: 20435 Feet</p>
-      <span >Longitude: 13.45432 -<span></span> Latitude:  24.53435 </span>
-      
+      <span>
+        Longitude: 13.45432 -<span></span> Latitude: 24.53435{" "}
+      </span>
     </Paper>
   );
 }
