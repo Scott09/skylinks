@@ -7,6 +7,7 @@ import {
 } from "../helpers/constants";
 
 export default scene => {
+  var textureLoader = new THREE.TextureLoader();
   const sphere = new THREE.SphereGeometry(
     GLOBE_RADIUS * 0.2,
     CURVE_SEGMENTS,
@@ -14,15 +15,13 @@ export default scene => {
   );
 
   const material = new THREE.MeshBasicMaterial({
-    color: 0xfdb813,
-    shininess: 30
+    color: 0xfdb813
   });
 
   const sun = new THREE.Mesh(sphere, material);
 
   var spriteMaterial = new THREE.SpriteMaterial({
-    map: new THREE.ImageUtils.loadTexture("images/glow.png"),
-    useScreenCoordinates: false,
+    map: textureLoader.load("http://localhost:8080/api/textures/glow.png"),
     color: 0xfdb813,
     transparent: false,
     blending: THREE.AdditiveBlending
