@@ -247,7 +247,7 @@ export default canvas => {
 
   function updatePosition(position, waypoints) {
     const plane = scene.getObjectByName("realTimePlane");
-    const center = new THREE.Vector3(0, 0, 0);
+    // const center = new THREE.Vector3(0, 0, 0);
     if (airPlaneRoot && plane) {
       airPlaneRoot.points = plane.points;
       const index = airPlaneRoot.points.length - 1;
