@@ -46,8 +46,8 @@ export default function ScheduleListTable(props) {
                       <img
                         id="airlinelogo"
                         alt="airlinelogo"
-                        style={{ opacity: 1 }}
-                        src={`http://pics.avs.io/50/25/${schedule.carrierFsCode}.png`}
+                        style={{ opacity: 1, maxHeight: 30, maxWidth: 50 }}
+                        src={`http://pics.avs.io/500/250/${schedule.carrierFsCode}.png`}
                       ></img>
                     </td>
                     <td>{beautyTime(schedule.departureTime)}</td>
