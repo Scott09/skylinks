@@ -1,0 +1,1892 @@
+[
+  {
+    "Timestamp": 1567583659,
+    "UTC": "2019-09-04T07:54:19Z",
+    "Callsign": "TSC176",
+    "Position": "55.559723,-14.04808",
+    "Altitude": 41000,
+    "Speed": 506,
+    "Direction": 129
+  },
+  {
+    "Timestamp": 1567583720,
+    "UTC": "2019-09-04T07:55:20Z",
+    "Callsign": "TSC176",
+    "Position": "55.468948,-13.856506",
+    "Altitude": 41000,
+    "Speed": 432,
+    "Direction": 129
+  },
+  {
+    "Timestamp": 1567583782,
+    "UTC": "2019-09-04T07:56:22Z",
+    "Callsign": "TSC176",
+    "Position": "55.377594,-13.665296",
+    "Altitude": 41000,
+    "Speed": 471,
+    "Direction": 130
+  },
+  {
+    "Timestamp": 1567583841,
+    "UTC": "2019-09-04T07:57:21Z",
+    "Callsign": "TSC176",
+    "Position": "55.2873,-13.477311",
+    "Altitude": 41000,
+    "Speed": 378,
+    "Direction": 130
+  },
+  {
+    "Timestamp": 1567583909,
+    "UTC": "2019-09-04T07:58:29Z",
+    "Callsign": "TSC176",
+    "Position": "55.185677,-13.267739",
+    "Altitude": 41000,
+    "Speed": 528,
+    "Direction": 130
+  },
+  {
+    "Timestamp": 1567583975,
+    "UTC": "2019-09-04T07:59:35Z",
+    "Callsign": "TSC176",
+    "Position": "55.08424,-13.06033",
+    "Altitude": 41000,
+    "Speed": 661,
+    "Direction": 130
+  },
+  {
+    "Timestamp": 1567584036,
+    "UTC": "2019-09-04T08:00:36Z",
+    "Callsign": "TSC176",
+    "Position": "54.992718,-12.874978",
+    "Altitude": 41000,
+    "Speed": 646,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1567584095,
+    "UTC": "2019-09-04T08:01:35Z",
+    "Callsign": "TSC176",
+    "Position": "54.901939,-12.691956",
+    "Altitude": 41000,
+    "Speed": 375,
+    "Direction": 129
+  },
+  {
+    "Timestamp": 1567584156,
+    "UTC": "2019-09-04T08:02:36Z",
+    "Callsign": "TSC176",
+    "Position": "54.809052,-12.506561",
+    "Altitude": 41000,
+    "Speed": 393,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1567584219,
+    "UTC": "2019-09-04T08:03:39Z",
+    "Callsign": "TSC176",
+    "Position": "54.714111,-12.318582",
+    "Altitude": 41000,
+    "Speed": 486,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1567584279,
+    "UTC": "2019-09-04T08:04:39Z",
+    "Callsign": "TSC176",
+    "Position": "54.619041,-12.131653",
+    "Altitude": 41000,
+    "Speed": 634,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1567584345,
+    "UTC": "2019-09-04T08:05:45Z",
+    "Callsign": "TSC176",
+    "Position": "54.517914,-11.93406",
+    "Altitude": 41000,
+    "Speed": 578,
+    "Direction": 130
+  },
+  {
+    "Timestamp": 1567584407,
+    "UTC": "2019-09-04T08:06:47Z",
+    "Callsign": "TSC176",
+    "Position": "54.422825,-11.750211",
+    "Altitude": 41000,
+    "Speed": 591,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1567584467,
+    "UTC": "2019-09-04T08:07:47Z",
+    "Callsign": "TSC176",
+    "Position": "54.32959,-11.570866",
+    "Altitude": 41000,
+    "Speed": 438,
+    "Direction": 131
+  },
+  {
+    "Timestamp": 1567584532,
+    "UTC": "2019-09-04T08:08:52Z",
+    "Callsign": "TSC176",
+    "Position": "54.225582,-11.372788",
+    "Altitude": 41000,
+    "Speed": 670,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567584593,
+    "UTC": "2019-09-04T08:09:53Z",
+    "Callsign": "TSC176",
+    "Position": "54.129265,-11.190625",
+    "Altitude": 41000,
+    "Speed": 651,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567584654,
+    "UTC": "2019-09-04T08:10:54Z",
+    "Callsign": "TSC176",
+    "Position": "54.033325,-11.010184",
+    "Altitude": 40975,
+    "Speed": 690,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567584715,
+    "UTC": "2019-09-04T08:11:55Z",
+    "Callsign": "TSC176",
+    "Position": "53.936508,-10.830009",
+    "Altitude": 41000,
+    "Speed": 535,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567584776,
+    "UTC": "2019-09-04T08:12:56Z",
+    "Callsign": "TSC176",
+    "Position": "53.840874,-10.653023",
+    "Altitude": 41000,
+    "Speed": 513,
+    "Direction": 133
+  },
+  {
+    "Timestamp": 1567584842,
+    "UTC": "2019-09-04T08:14:02Z",
+    "Callsign": "TSC176",
+    "Position": "53.736511,-10.461574",
+    "Altitude": 40975,
+    "Speed": 682,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567584901,
+    "UTC": "2019-09-04T08:15:01Z",
+    "Callsign": "TSC176",
+    "Position": "53.641251,-10.288069",
+    "Altitude": 41000,
+    "Speed": 545,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567584967,
+    "UTC": "2019-09-04T08:16:07Z",
+    "Callsign": "TSC176",
+    "Position": "53.535828,-10.097299",
+    "Altitude": 41000,
+    "Speed": 624,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567585028,
+    "UTC": "2019-09-04T08:17:08Z",
+    "Callsign": "TSC176",
+    "Position": "53.43869,-9.92293",
+    "Altitude": 41000,
+    "Speed": 621,
+    "Direction": 133
+  },
+  {
+    "Timestamp": 1567585089,
+    "UTC": "2019-09-04T08:18:09Z",
+    "Callsign": "TSC176",
+    "Position": "53.342907,-9.752305",
+    "Altitude": 41000,
+    "Speed": 642,
+    "Direction": 133
+  },
+  {
+    "Timestamp": 1567585154,
+    "UTC": "2019-09-04T08:19:14Z",
+    "Callsign": "TSC176",
+    "Position": "53.238693,-9.567758",
+    "Altitude": 41000,
+    "Speed": 655,
+    "Direction": 132
+  },
+  {
+    "Timestamp": 1567585215,
+    "UTC": "2019-09-04T08:20:15Z",
+    "Callsign": "TSC176",
+    "Position": "53.14238,-9.398804",
+    "Altitude": 41000,
+    "Speed": 617,
+    "Direction": 133
+  },
+  {
+    "Timestamp": 1567585276,
+    "UTC": "2019-09-04T08:21:16Z",
+    "Callsign": "TSC176",
+    "Position": "53.045902,-9.230399",
+    "Altitude": 40975,
+    "Speed": 507,
+    "Direction": 133
+  },
+  {
+    "Timestamp": 1567585340,
+    "UTC": "2019-09-04T08:22:20Z",
+    "Callsign": "TSC176",
+    "Position": "52.946701,-9.058619",
+    "Altitude": 41000,
+    "Speed": 545,
+    "Direction": 133
+  },
+  {
+    "Timestamp": 1567585401,
+    "UTC": "2019-09-04T08:23:21Z",
+    "Callsign": "TSC176",
+    "Position": "52.844925,-8.883667",
+    "Altitude": 41000,
+    "Speed": 642,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1567585461,
+    "UTC": "2019-09-04T08:24:21Z",
+    "Callsign": "TSC176",
+    "Position": "52.747238,-8.716965",
+    "Altitude": 40975,
+    "Speed": 641,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1567585527,
+    "UTC": "2019-09-04T08:25:27Z",
+    "Callsign": "TSC176",
+    "Position": "52.643875,-8.54187",
+    "Altitude": 41000,
+    "Speed": 725,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1567585589,
+    "UTC": "2019-09-04T08:26:29Z",
+    "Callsign": "TSC176",
+    "Position": "52.542938,-8.371964",
+    "Altitude": 41000,
+    "Speed": 674,
+    "Direction": 135
+  },
+  {
+    "Timestamp": 1567585651,
+    "UTC": "2019-09-04T08:27:31Z",
+    "Callsign": "TSC176",
+    "Position": "52.438751,-8.197708",
+    "Altitude": 40975,
+    "Speed": 557,
+    "Direction": 133
+  },
+  {
+    "Timestamp": 1567585714,
+    "UTC": "2019-09-04T08:28:34Z",
+    "Callsign": "TSC176",
+    "Position": "52.335068,-8.025742",
+    "Altitude": 41000,
+    "Speed": 649,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1567585778,
+    "UTC": "2019-09-04T08:29:38Z",
+    "Callsign": "TSC176",
+    "Position": "52.231567,-7.855072",
+    "Altitude": 41000,
+    "Speed": 425,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1567585841,
+    "UTC": "2019-09-04T08:30:41Z",
+    "Callsign": "TSC176",
+    "Position": "52.128918,-7.687055",
+    "Altitude": 41000,
+    "Speed": 496,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1567585901,
+    "UTC": "2019-09-04T08:31:41Z",
+    "Callsign": "TSC176",
+    "Position": "52.030552,-7.527361",
+    "Altitude": 41000,
+    "Speed": 739,
+    "Direction": 134
+  },
+  {
+    "Timestamp": 1567585964,
+    "UTC": "2019-09-04T08:32:44Z",
+    "Callsign": "TSC176",
+    "Position": "51.928741,-7.362958",
+    "Altitude": 41000,
+    "Speed": 708,
+    "Direction": 135
+  },
+  {
+    "Timestamp": 1567586027,
+    "UTC": "2019-09-04T08:33:47Z",
+    "Callsign": "TSC176",
+    "Position": "51.824047,-7.195206",
+    "Altitude": 41000,
+    "Speed": 712,
+    "Direction": 135
+  },
+  {
+    "Timestamp": 1567586090,
+    "UTC": "2019-09-04T08:34:50Z",
+    "Callsign": "TSC176",
+    "Position": "51.721909,-7.026978",
+    "Altitude": 40975,
+    "Speed": 741,
+    "Direction": 130
+  },
+  {
+    "Timestamp": 1567586153,
+    "UTC": "2019-09-04T08:35:53Z",
+    "Callsign": "TSC176",
+    "Position": "51.638626,-6.83023",
+    "Altitude": 41000,
+    "Speed": 490,
+    "Direction": 117
+  },
+  {
+    "Timestamp": 1567586216,
+    "UTC": "2019-09-04T08:36:56Z",
+    "Callsign": "TSC176",
+    "Position": "51.581818,-6.60501",
+    "Altitude": 41000,
+    "Speed": 408,
+    "Direction": 106
+  },
+  {
+    "Timestamp": 1567586277,
+    "UTC": "2019-09-04T08:37:57Z",
+    "Callsign": "TSC176",
+    "Position": "51.547478,-6.378632",
+    "Altitude": 41000,
+    "Speed": 568,
+    "Direction": 102
+  },
+  {
+    "Timestamp": 1567586340,
+    "UTC": "2019-09-04T08:39:00Z",
+    "Callsign": "TSC176",
+    "Position": "51.512146,-6.144475",
+    "Altitude": 41000,
+    "Speed": 736,
+    "Direction": 102
+  },
+  {
+    "Timestamp": 1567586403,
+    "UTC": "2019-09-04T08:40:03Z",
+    "Callsign": "TSC176",
+    "Position": "51.476254,-5.908813",
+    "Altitude": 40975,
+    "Speed": 489,
+    "Direction": 104
+  },
+  {
+    "Timestamp": 1567586466,
+    "UTC": "2019-09-04T08:41:06Z",
+    "Callsign": "TSC176",
+    "Position": "51.440548,-5.676727",
+    "Altitude": 41000,
+    "Speed": 516,
+    "Direction": 103
+  },
+  {
+    "Timestamp": 1567586529,
+    "UTC": "2019-09-04T08:42:09Z",
+    "Callsign": "TSC176",
+    "Position": "51.398666,-5.445952",
+    "Altitude": 41000,
+    "Speed": 733,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1567586593,
+    "UTC": "2019-09-04T08:43:13Z",
+    "Callsign": "TSC176",
+    "Position": "51.346802,-5.221995",
+    "Altitude": 41000,
+    "Speed": 562,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1567586656,
+    "UTC": "2019-09-04T08:44:16Z",
+    "Callsign": "TSC176",
+    "Position": "51.294617,-4.997443",
+    "Altitude": 40975,
+    "Speed": 566,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567586718,
+    "UTC": "2019-09-04T08:45:18Z",
+    "Callsign": "TSC176",
+    "Position": "51.243633,-4.779739",
+    "Altitude": 41000,
+    "Speed": 332,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567586782,
+    "UTC": "2019-09-04T08:46:22Z",
+    "Callsign": "TSC176",
+    "Position": "51.188049,-4.544554",
+    "Altitude": 41000,
+    "Speed": 595,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1567586844,
+    "UTC": "2019-09-04T08:47:24Z",
+    "Callsign": "TSC176",
+    "Position": "51.134842,-4.322281",
+    "Altitude": 40975,
+    "Speed": 538,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567586909,
+    "UTC": "2019-09-04T08:48:29Z",
+    "Callsign": "TSC176",
+    "Position": "51.080048,-4.095383",
+    "Altitude": 40600,
+    "Speed": 502,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567586972,
+    "UTC": "2019-09-04T08:49:32Z",
+    "Callsign": "TSC176",
+    "Position": "51.025116,-3.87085",
+    "Altitude": 39550,
+    "Speed": 538,
+    "Direction": 110
+  },
+  {
+    "Timestamp": 1567587035,
+    "UTC": "2019-09-04T08:50:35Z",
+    "Callsign": "TSC176",
+    "Position": "50.969833,-3.646941",
+    "Altitude": 38550,
+    "Speed": 695,
+    "Direction": 112
+  },
+  {
+    "Timestamp": 1567587097,
+    "UTC": "2019-09-04T08:51:37Z",
+    "Callsign": "TSC176",
+    "Position": "50.915451,-3.428625",
+    "Altitude": 36375,
+    "Speed": 561,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567587159,
+    "UTC": "2019-09-04T08:52:39Z",
+    "Callsign": "TSC176",
+    "Position": "50.860336,-3.208899",
+    "Altitude": 34550,
+    "Speed": 504,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567587223,
+    "UTC": "2019-09-04T08:53:43Z",
+    "Callsign": "TSC176",
+    "Position": "50.806274,-2.996216",
+    "Altitude": 32375,
+    "Speed": 491,
+    "Direction": 111
+  },
+  {
+    "Timestamp": 1567587285,
+    "UTC": "2019-09-04T08:54:45Z",
+    "Callsign": "TSC176",
+    "Position": "50.752365,-2.786407",
+    "Altitude": 30000,
+    "Speed": 484,
+    "Direction": 112
+  },
+  {
+    "Timestamp": 1567587349,
+    "UTC": "2019-09-04T08:55:49Z",
+    "Callsign": "TSC176",
+    "Position": "50.700508,-2.573547",
+    "Altitude": 27550,
+    "Speed": 679,
+    "Direction": 107
+  },
+  {
+    "Timestamp": 1567587381,
+    "UTC": "2019-09-04T08:56:21Z",
+    "Callsign": "TSC176",
+    "Position": "50.699478,-2.568425",
+    "Altitude": 26700,
+    "Speed": 138,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567587436,
+    "UTC": "2019-09-04T08:57:16Z",
+    "Callsign": "TSC176",
+    "Position": "50.672195,-2.274689",
+    "Altitude": 25475,
+    "Speed": 436,
+    "Direction": 93
+  },
+  {
+    "Timestamp": 1567587444,
+    "UTC": "2019-09-04T08:57:24Z",
+    "Callsign": "TSC176",
+    "Position": "50.671181,-2.248783",
+    "Altitude": 25325,
+    "Speed": 395,
+    "Direction": 93
+  },
+  {
+    "Timestamp": 1567587458,
+    "UTC": "2019-09-04T08:57:38Z",
+    "Callsign": "TSC176",
+    "Position": "50.668758,-2.196598",
+    "Altitude": 25000,
+    "Speed": 549,
+    "Direction": 93
+  },
+  {
+    "Timestamp": 1567587521,
+    "UTC": "2019-09-04T08:58:41Z",
+    "Callsign": "TSC176",
+    "Position": "50.661217,-1.991495",
+    "Altitude": 23725,
+    "Speed": 479,
+    "Direction": 88
+  },
+  {
+    "Timestamp": 1567587585,
+    "UTC": "2019-09-04T08:59:45Z",
+    "Callsign": "TSC176",
+    "Position": "50.663776,-1.782383",
+    "Altitude": 22450,
+    "Speed": 669,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567587646,
+    "UTC": "2019-09-04T09:00:46Z",
+    "Callsign": "TSC176",
+    "Position": "50.665825,-1.586708",
+    "Altitude": 21225,
+    "Speed": 346,
+    "Direction": 88
+  },
+  {
+    "Timestamp": 1567587712,
+    "UTC": "2019-09-04T09:01:52Z",
+    "Callsign": "TSC176",
+    "Position": "50.664459,-1.386157",
+    "Altitude": 19675,
+    "Speed": 590,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567587728,
+    "UTC": "2019-09-04T09:02:08Z",
+    "Callsign": "TSC176",
+    "Position": "50.665825,-1.335062",
+    "Altitude": 19400,
+    "Speed": 411,
+    "Direction": 81
+  },
+  {
+    "Timestamp": 1567587735,
+    "UTC": "2019-09-04T09:02:15Z",
+    "Callsign": "TSC176",
+    "Position": "50.669083,-1.315324",
+    "Altitude": 19250,
+    "Speed": 466,
+    "Direction": 75
+  },
+  {
+    "Timestamp": 1567587756,
+    "UTC": "2019-09-04T09:02:36Z",
+    "Callsign": "TSC176",
+    "Position": "50.682816,-1.260681",
+    "Altitude": 18675,
+    "Speed": 403,
+    "Direction": 68
+  },
+  {
+    "Timestamp": 1567587824,
+    "UTC": "2019-09-04T09:03:44Z",
+    "Callsign": "TSC176",
+    "Position": "50.727631,-1.085791",
+    "Altitude": 16125,
+    "Speed": 566,
+    "Direction": 67
+  },
+  {
+    "Timestamp": 1567587854,
+    "UTC": "2019-09-04T09:04:14Z",
+    "Callsign": "TSC176",
+    "Position": "50.748413,-1.003542",
+    "Altitude": 15150,
+    "Speed": 385,
+    "Direction": 68
+  },
+  {
+    "Timestamp": 1567587864,
+    "UTC": "2019-09-04T09:04:24Z",
+    "Callsign": "TSC176",
+    "Position": "50.754913,-0.978006",
+    "Altitude": 14900,
+    "Speed": 171,
+    "Direction": 68
+  },
+  {
+    "Timestamp": 1567587895,
+    "UTC": "2019-09-04T09:04:55Z",
+    "Callsign": "TSC176",
+    "Position": "50.767822,-0.899353",
+    "Altitude": 14100,
+    "Speed": 171,
+    "Direction": 79
+  },
+  {
+    "Timestamp": 1567587929,
+    "UTC": "2019-09-04T09:05:29Z",
+    "Callsign": "TSC176",
+    "Position": "50.781181,-0.810471",
+    "Altitude": 13125,
+    "Speed": 413,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1567587979,
+    "UTC": "2019-09-04T09:06:19Z",
+    "Callsign": "TSC176",
+    "Position": "50.800095,-0.686126",
+    "Altitude": 11925,
+    "Speed": 337,
+    "Direction": 76
+  },
+  {
+    "Timestamp": 1567587996,
+    "UTC": "2019-09-04T09:06:36Z",
+    "Callsign": "TSC176",
+    "Position": "50.805763,-0.647736",
+    "Altitude": 11500,
+    "Speed": 390,
+    "Direction": 76
+  },
+  {
+    "Timestamp": 1567588011,
+    "UTC": "2019-09-04T09:06:51Z",
+    "Callsign": "TSC176",
+    "Position": "50.811581,-0.608215",
+    "Altitude": 11050,
+    "Speed": 408,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1567588026,
+    "UTC": "2019-09-04T09:07:06Z",
+    "Callsign": "TSC176",
+    "Position": "50.816895,-0.57218",
+    "Altitude": 10625,
+    "Speed": 488,
+    "Direction": 76
+  },
+  {
+    "Timestamp": 1567588041,
+    "UTC": "2019-09-04T09:07:21Z",
+    "Callsign": "TSC176",
+    "Position": "50.822388,-0.535287",
+    "Altitude": 10250,
+    "Speed": 427,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1567588051,
+    "UTC": "2019-09-04T09:07:31Z",
+    "Callsign": "TSC176",
+    "Position": "50.826187,-0.510345",
+    "Altitude": 10025,
+    "Speed": 446,
+    "Direction": 76
+  },
+  {
+    "Timestamp": 1567588066,
+    "UTC": "2019-09-04T09:07:46Z",
+    "Callsign": "TSC176",
+    "Position": "50.831314,-0.474862",
+    "Altitude": 9700,
+    "Speed": 323,
+    "Direction": 76
+  },
+  {
+    "Timestamp": 1567588082,
+    "UTC": "2019-09-04T09:08:02Z",
+    "Callsign": "TSC176",
+    "Position": "50.836998,-0.438461",
+    "Altitude": 9400,
+    "Speed": 411,
+    "Direction": 75
+  },
+  {
+    "Timestamp": 1567588093,
+    "UTC": "2019-09-04T09:08:13Z",
+    "Callsign": "TSC176",
+    "Position": "50.842667,-0.415625",
+    "Altitude": 9175,
+    "Speed": 358,
+    "Direction": 66
+  },
+  {
+    "Timestamp": 1567588102,
+    "UTC": "2019-09-04T09:08:22Z",
+    "Callsign": "TSC176",
+    "Position": "50.850037,-0.393281",
+    "Altitude": 9000,
+    "Speed": 358,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567588112,
+    "UTC": "2019-09-04T09:08:32Z",
+    "Callsign": "TSC176",
+    "Position": "50.85725,-0.373077",
+    "Altitude": 8825,
+    "Speed": 372,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567588127,
+    "UTC": "2019-09-04T09:08:47Z",
+    "Callsign": "TSC176",
+    "Position": "50.86805,-0.341492",
+    "Altitude": 8550,
+    "Speed": 467,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567588142,
+    "UTC": "2019-09-04T09:09:02Z",
+    "Callsign": "TSC176",
+    "Position": "50.879196,-0.309325",
+    "Altitude": 8250,
+    "Speed": 403,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567588152,
+    "UTC": "2019-09-04T09:09:12Z",
+    "Callsign": "TSC176",
+    "Position": "50.886246,-0.288614",
+    "Altitude": 8100,
+    "Speed": 377,
+    "Direction": 62
+  },
+  {
+    "Timestamp": 1567588168,
+    "UTC": "2019-09-04T09:09:28Z",
+    "Callsign": "TSC176",
+    "Position": "50.897564,-0.2565",
+    "Altitude": 7875,
+    "Speed": 344,
+    "Direction": 60
+  },
+  {
+    "Timestamp": 1567588182,
+    "UTC": "2019-09-04T09:09:42Z",
+    "Callsign": "TSC176",
+    "Position": "50.90855,-0.226135",
+    "Altitude": 7700,
+    "Speed": 319,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567588198,
+    "UTC": "2019-09-04T09:09:58Z",
+    "Callsign": "TSC176",
+    "Position": "50.919537,-0.195923",
+    "Altitude": 7575,
+    "Speed": 369,
+    "Direction": 60
+  },
+  {
+    "Timestamp": 1567588213,
+    "UTC": "2019-09-04T09:10:13Z",
+    "Callsign": "TSC176",
+    "Position": "50.929871,-0.167542",
+    "Altitude": 7500,
+    "Speed": 366,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567588227,
+    "UTC": "2019-09-04T09:10:27Z",
+    "Callsign": "TSC176",
+    "Position": "50.939835,-0.139923",
+    "Altitude": 7400,
+    "Speed": 323,
+    "Direction": 60
+  },
+  {
+    "Timestamp": 1567588243,
+    "UTC": "2019-09-04T09:10:43Z",
+    "Callsign": "TSC176",
+    "Position": "50.950104,-0.111793",
+    "Altitude": 7225,
+    "Speed": 335,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567588258,
+    "UTC": "2019-09-04T09:10:58Z",
+    "Callsign": "TSC176",
+    "Position": "50.960083,-0.083808",
+    "Altitude": 7050,
+    "Speed": 321,
+    "Direction": 60
+  },
+  {
+    "Timestamp": 1567588273,
+    "UTC": "2019-09-04T09:11:13Z",
+    "Callsign": "TSC176",
+    "Position": "50.969513,-0.057381",
+    "Altitude": 6875,
+    "Speed": 268,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567588290,
+    "UTC": "2019-09-04T09:11:30Z",
+    "Callsign": "TSC176",
+    "Position": "50.980148,-0.027695",
+    "Altitude": 6650,
+    "Speed": 166,
+    "Direction": 60
+  },
+  {
+    "Timestamp": 1567588321,
+    "UTC": "2019-09-04T09:12:01Z",
+    "Callsign": "TSC176",
+    "Position": "50.999557,0.025558",
+    "Altitude": 6250,
+    "Speed": 166,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567588335,
+    "UTC": "2019-09-04T09:12:15Z",
+    "Callsign": "TSC176",
+    "Position": "51.009148,0.051956",
+    "Altitude": 6050,
+    "Speed": 484,
+    "Direction": 60
+  },
+  {
+    "Timestamp": 1567588350,
+    "UTC": "2019-09-04T09:12:30Z",
+    "Callsign": "TSC176",
+    "Position": "51.018768,0.078092",
+    "Altitude": 5850,
+    "Speed": 303,
+    "Direction": 59
+  },
+  {
+    "Timestamp": 1567588361,
+    "UTC": "2019-09-04T09:12:41Z",
+    "Callsign": "TSC176",
+    "Position": "51.025814,0.09697",
+    "Altitude": 5725,
+    "Speed": 230,
+    "Direction": 57
+  },
+  {
+    "Timestamp": 1567588367,
+    "UTC": "2019-09-04T09:12:47Z",
+    "Callsign": "TSC176",
+    "Position": "51.029938,0.106077",
+    "Altitude": 5625,
+    "Speed": 115,
+    "Direction": 49
+  },
+  {
+    "Timestamp": 1567588378,
+    "UTC": "2019-09-04T09:12:58Z",
+    "Callsign": "TSC176",
+    "Position": "51.039734,0.121002",
+    "Altitude": 5500,
+    "Speed": 440,
+    "Direction": 42
+  },
+  {
+    "Timestamp": 1567588386,
+    "UTC": "2019-09-04T09:13:06Z",
+    "Callsign": "TSC176",
+    "Position": "51.048485,0.131989",
+    "Altitude": 5375,
+    "Speed": 498,
+    "Direction": 37
+  },
+  {
+    "Timestamp": 1567588393,
+    "UTC": "2019-09-04T09:13:13Z",
+    "Callsign": "TSC176",
+    "Position": "51.053608,0.138168",
+    "Altitude": 5325,
+    "Speed": 203,
+    "Direction": 38
+  },
+  {
+    "Timestamp": 1567588401,
+    "UTC": "2019-09-04T09:13:21Z",
+    "Callsign": "TSC176",
+    "Position": "51.062897,0.149503",
+    "Altitude": 5200,
+    "Speed": 328,
+    "Direction": 36
+  },
+  {
+    "Timestamp": 1567588412,
+    "UTC": "2019-09-04T09:13:32Z",
+    "Callsign": "TSC176",
+    "Position": "51.073883,0.163088",
+    "Altitude": 5100,
+    "Speed": 312,
+    "Direction": 39
+  },
+  {
+    "Timestamp": 1567588427,
+    "UTC": "2019-09-04T09:13:47Z",
+    "Callsign": "TSC176",
+    "Position": "51.085556,0.177117",
+    "Altitude": 4975,
+    "Speed": 692,
+    "Direction": 36
+  },
+  {
+    "Timestamp": 1567588437,
+    "UTC": "2019-09-04T09:13:57Z",
+    "Callsign": "TSC176",
+    "Position": "51.096039,0.190182",
+    "Altitude": 4875,
+    "Speed": 286,
+    "Direction": 38
+  },
+  {
+    "Timestamp": 1567588448,
+    "UTC": "2019-09-04T09:14:08Z",
+    "Callsign": "TSC176",
+    "Position": "51.105286,0.20102",
+    "Altitude": 4825,
+    "Speed": 179,
+    "Direction": 34
+  },
+  {
+    "Timestamp": 1567588455,
+    "UTC": "2019-09-04T09:14:15Z",
+    "Callsign": "TSC176",
+    "Position": "51.112152,0.205622",
+    "Altitude": 4775,
+    "Speed": 236,
+    "Direction": 18
+  },
+  {
+    "Timestamp": 1567588461,
+    "UTC": "2019-09-04T09:14:21Z",
+    "Callsign": "TSC176",
+    "Position": "51.118698,0.20733",
+    "Altitude": 4700,
+    "Speed": 318,
+    "Direction": 6
+  },
+  {
+    "Timestamp": 1567588468,
+    "UTC": "2019-09-04T09:14:28Z",
+    "Callsign": "TSC176",
+    "Position": "51.124329,0.207701",
+    "Altitude": 4625,
+    "Speed": 307,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1567588474,
+    "UTC": "2019-09-04T09:14:34Z",
+    "Callsign": "TSC176",
+    "Position": "51.130005,0.207701",
+    "Altitude": 4550,
+    "Speed": 317,
+    "Direction": 1
+  },
+  {
+    "Timestamp": 1567588481,
+    "UTC": "2019-09-04T09:14:41Z",
+    "Callsign": "TSC176",
+    "Position": "51.135677,0.207367",
+    "Altitude": 4450,
+    "Speed": 593,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1567588488,
+    "UTC": "2019-09-04T09:14:48Z",
+    "Callsign": "TSC176",
+    "Position": "51.14373,0.206985",
+    "Altitude": 4350,
+    "Speed": 257,
+    "Direction": 358
+  },
+  {
+    "Timestamp": 1567588495,
+    "UTC": "2019-09-04T09:14:55Z",
+    "Callsign": "TSC176",
+    "Position": "51.149734,0.20681",
+    "Altitude": 4275,
+    "Speed": 624,
+    "Direction": 358
+  },
+  {
+    "Timestamp": 1567588502,
+    "UTC": "2019-09-04T09:15:02Z",
+    "Callsign": "TSC176",
+    "Position": "51.155411,0.206513",
+    "Altitude": 4200,
+    "Speed": 307,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1567588509,
+    "UTC": "2019-09-04T09:15:09Z",
+    "Callsign": "TSC176",
+    "Position": "51.16246,0.204435",
+    "Altitude": 4100,
+    "Speed": 382,
+    "Direction": 348
+  },
+  {
+    "Timestamp": 1567588515,
+    "UTC": "2019-09-04T09:15:15Z",
+    "Callsign": "TSC176",
+    "Position": "51.166916,0.200958",
+    "Altitude": 4050,
+    "Speed": 359,
+    "Direction": 331
+  },
+  {
+    "Timestamp": 1567588521,
+    "UTC": "2019-09-04T09:15:21Z",
+    "Callsign": "TSC176",
+    "Position": "51.170547,0.195465",
+    "Altitude": 4000,
+    "Speed": 305,
+    "Direction": 313
+  },
+  {
+    "Timestamp": 1567588527,
+    "UTC": "2019-09-04T09:15:27Z",
+    "Callsign": "TSC176",
+    "Position": "51.17276,0.189291",
+    "Altitude": 3950,
+    "Speed": 208,
+    "Direction": 297
+  },
+  {
+    "Timestamp": 1567588533,
+    "UTC": "2019-09-04T09:15:33Z",
+    "Callsign": "TSC176",
+    "Position": "51.173943,0.185165",
+    "Altitude": 3925,
+    "Speed": 307,
+    "Direction": 295
+  },
+  {
+    "Timestamp": 1567588543,
+    "UTC": "2019-09-04T09:15:43Z",
+    "Callsign": "TSC176",
+    "Position": "51.17688,0.171995",
+    "Altitude": 3825,
+    "Speed": 243,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567588552,
+    "UTC": "2019-09-04T09:15:52Z",
+    "Callsign": "TSC176",
+    "Position": "51.179123,0.161158",
+    "Altitude": 3750,
+    "Speed": 196,
+    "Direction": 290
+  },
+  {
+    "Timestamp": 1567588558,
+    "UTC": "2019-09-04T09:15:58Z",
+    "Callsign": "TSC176",
+    "Position": "51.180134,0.155334",
+    "Altitude": 3700,
+    "Speed": 246,
+    "Direction": 283
+  },
+  {
+    "Timestamp": 1567588569,
+    "UTC": "2019-09-04T09:16:09Z",
+    "Callsign": "TSC176",
+    "Position": "51.182877,0.141412",
+    "Altitude": 3600,
+    "Speed": 162,
+    "Direction": 288
+  },
+  {
+    "Timestamp": 1567588581,
+    "UTC": "2019-09-04T09:16:21Z",
+    "Callsign": "TSC176",
+    "Position": "51.185303,0.12753",
+    "Altitude": 3475,
+    "Speed": 214,
+    "Direction": 286
+  },
+  {
+    "Timestamp": 1567588590,
+    "UTC": "2019-09-04T09:16:30Z",
+    "Callsign": "TSC176",
+    "Position": "51.186325,0.117188",
+    "Altitude": 3425,
+    "Speed": 165,
+    "Direction": 279
+  },
+  {
+    "Timestamp": 1567588597,
+    "UTC": "2019-09-04T09:16:37Z",
+    "Callsign": "TSC176",
+    "Position": "51.18684,0.110703",
+    "Altitude": 3400,
+    "Speed": 181,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567588607,
+    "UTC": "2019-09-04T09:16:47Z",
+    "Callsign": "TSC176",
+    "Position": "51.187363,0.101104",
+    "Altitude": 3375,
+    "Speed": 256,
+    "Direction": 276
+  },
+  {
+    "Timestamp": 1567588621,
+    "UTC": "2019-09-04T09:17:01Z",
+    "Callsign": "TSC176",
+    "Position": "51.187027,0.085144",
+    "Altitude": 3300,
+    "Speed": 181,
+    "Direction": 267
+  },
+  {
+    "Timestamp": 1567588631,
+    "UTC": "2019-09-04T09:17:11Z",
+    "Callsign": "TSC176",
+    "Position": "51.186493,0.076533",
+    "Altitude": 3250,
+    "Speed": 394,
+    "Direction": 265
+  },
+  {
+    "Timestamp": 1567588644,
+    "UTC": "2019-09-04T09:17:24Z",
+    "Callsign": "TSC176",
+    "Position": "51.184753,0.061613",
+    "Altitude": 3100,
+    "Speed": 136,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567588654,
+    "UTC": "2019-09-04T09:17:34Z",
+    "Callsign": "TSC176",
+    "Position": "51.183578,0.051804",
+    "Altitude": 2975,
+    "Speed": 150,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567588696,
+    "UTC": "2019-09-04T09:18:16Z",
+    "Callsign": "TSC176",
+    "Position": "51.177063,0.006332",
+    "Altitude": 2375,
+    "Speed": 179,
+    "Direction": 246
+  },
+  {
+    "Timestamp": 1567588709,
+    "UTC": "2019-09-04T09:18:29Z",
+    "Callsign": "TSC176",
+    "Position": "51.175003,-0.007423",
+    "Altitude": 2225,
+    "Speed": 102,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1567588721,
+    "UTC": "2019-09-04T09:18:41Z",
+    "Callsign": "TSC176",
+    "Position": "51.173447,-0.018187",
+    "Altitude": 2100,
+    "Speed": 137,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1567588746,
+    "UTC": "2019-09-04T09:19:06Z",
+    "Callsign": "TSC176",
+    "Position": "51.169476,-0.045166",
+    "Altitude": 1750,
+    "Speed": 137,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1567588754,
+    "UTC": "2019-09-04T09:19:14Z",
+    "Callsign": "TSC176",
+    "Position": "51.168274,-0.053744",
+    "Altitude": 1700,
+    "Speed": 84,
+    "Direction": 260
+  },
+  {
+    "Timestamp": 1567588766,
+    "UTC": "2019-09-04T09:19:26Z",
+    "Callsign": "TSC176",
+    "Position": "51.166214,-0.066289",
+    "Altitude": 1475,
+    "Speed": 172,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1567588780,
+    "UTC": "2019-09-04T09:19:40Z",
+    "Callsign": "TSC176",
+    "Position": "51.164154,-0.080393",
+    "Altitude": 1325,
+    "Speed": 134,
+    "Direction": 256
+  },
+  {
+    "Timestamp": 1567588793,
+    "UTC": "2019-09-04T09:19:53Z",
+    "Callsign": "TSC176",
+    "Position": "51.162445,-0.092392",
+    "Altitude": 1175,
+    "Speed": 151,
+    "Direction": 258
+  },
+  {
+    "Timestamp": 1567588801,
+    "UTC": "2019-09-04T09:20:01Z",
+    "Callsign": "TSC176",
+    "Position": "51.161407,-0.099397",
+    "Altitude": 1075,
+    "Speed": 122,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1567588854,
+    "UTC": "2019-09-04T09:20:54Z",
+    "Callsign": "TSC176",
+    "Position": "51.154541,-0.147128",
+    "Altitude": 475,
+    "Speed": 122,
+    "Direction": 258
+  },
+  {
+    "Timestamp": 1567588860,
+    "UTC": "2019-09-04T09:21:00Z",
+    "Callsign": "TSC176",
+    "Position": "51.153881,-0.151749",
+    "Altitude": 425,
+    "Speed": 122,
+    "Direction": 258
+  },
+  {
+    "Timestamp": 1567588869,
+    "UTC": "2019-09-04T09:21:09Z",
+    "Callsign": "TSC176",
+    "Position": "51.152664,-0.159821",
+    "Altitude": 300,
+    "Speed": 122,
+    "Direction": 257
+  },
+  {
+    "Timestamp": 1567588878,
+    "UTC": "2019-09-04T09:21:18Z",
+    "Callsign": "TSC176",
+    "Position": "51.151474,-0.167764",
+    "Altitude": 200,
+    "Speed": 122,
+    "Direction": 258
+  },
+  {
+    "Timestamp": 1567588939,
+    "UTC": "2019-09-04T09:22:19Z",
+    "Callsign": "TSC176",
+    "Position": "51.147202,-0.201015",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 263
+  },
+  {
+    "Timestamp": 1567588947,
+    "UTC": "2019-09-04T09:22:27Z",
+    "Callsign": "TSC176",
+    "Position": "51.147202,-0.202217",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 273
+  },
+  {
+    "Timestamp": 1567588957,
+    "UTC": "2019-09-04T09:22:37Z",
+    "Callsign": "TSC176",
+    "Position": "51.147362,-0.203934",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567588966,
+    "UTC": "2019-09-04T09:22:46Z",
+    "Callsign": "TSC176",
+    "Position": "51.147537,-0.205135",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567588975,
+    "UTC": "2019-09-04T09:22:55Z",
+    "Callsign": "TSC176",
+    "Position": "51.147713,-0.206165",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567588987,
+    "UTC": "2019-09-04T09:23:07Z",
+    "Callsign": "TSC176",
+    "Position": "51.148052,-0.20668",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1567588996,
+    "UTC": "2019-09-04T09:23:16Z",
+    "Callsign": "TSC176",
+    "Position": "51.148399,-0.20668",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 274
+  },
+  {
+    "Timestamp": 1567589002,
+    "UTC": "2019-09-04T09:23:22Z",
+    "Callsign": "TSC176",
+    "Position": "51.148567,-0.206161",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 51
+  },
+  {
+    "Timestamp": 1567589008,
+    "UTC": "2019-09-04T09:23:28Z",
+    "Callsign": "TSC176",
+    "Position": "51.148735,-0.20565",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1567589015,
+    "UTC": "2019-09-04T09:23:35Z",
+    "Callsign": "TSC176",
+    "Position": "51.148735,-0.205135",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567589021,
+    "UTC": "2019-09-04T09:23:41Z",
+    "Callsign": "TSC176",
+    "Position": "51.148739,-0.20462",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589030,
+    "UTC": "2019-09-04T09:23:50Z",
+    "Callsign": "TSC176",
+    "Position": "51.148911,-0.203767",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589036,
+    "UTC": "2019-09-04T09:23:56Z",
+    "Callsign": "TSC176",
+    "Position": "51.149082,-0.20308",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567589047,
+    "UTC": "2019-09-04T09:24:07Z",
+    "Callsign": "TSC176",
+    "Position": "51.149254,-0.201707",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567589054,
+    "UTC": "2019-09-04T09:24:14Z",
+    "Callsign": "TSC176",
+    "Position": "51.149426,-0.20102",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589060,
+    "UTC": "2019-09-04T09:24:20Z",
+    "Callsign": "TSC176",
+    "Position": "51.149426,-0.200333",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589068,
+    "UTC": "2019-09-04T09:24:28Z",
+    "Callsign": "TSC176",
+    "Position": "51.149597,-0.199471",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589075,
+    "UTC": "2019-09-04T09:24:35Z",
+    "Callsign": "TSC176",
+    "Position": "51.149769,-0.19896",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 50
+  },
+  {
+    "Timestamp": 1567589087,
+    "UTC": "2019-09-04T09:24:47Z",
+    "Callsign": "TSC176",
+    "Position": "51.14994,-0.197754",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 52
+  },
+  {
+    "Timestamp": 1567589098,
+    "UTC": "2019-09-04T09:24:58Z",
+    "Callsign": "TSC176",
+    "Position": "51.150108,-0.196381",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 53
+  },
+  {
+    "Timestamp": 1567589107,
+    "UTC": "2019-09-04T09:25:07Z",
+    "Callsign": "TSC176",
+    "Position": "51.150284,-0.195341",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 52
+  },
+  {
+    "Timestamp": 1567589138,
+    "UTC": "2019-09-04T09:25:38Z",
+    "Callsign": "TSC176",
+    "Position": "51.150635,-0.191746",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 79
+  },
+  {
+    "Timestamp": 1567589145,
+    "UTC": "2019-09-04T09:25:45Z",
+    "Callsign": "TSC176",
+    "Position": "51.150795,-0.190716",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 90
+  },
+  {
+    "Timestamp": 1567589164,
+    "UTC": "2019-09-04T09:26:04Z",
+    "Callsign": "TSC176",
+    "Position": "51.151146,-0.187969",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 78
+  },
+  {
+    "Timestamp": 1567589172,
+    "UTC": "2019-09-04T09:26:12Z",
+    "Callsign": "TSC176",
+    "Position": "51.151321,-0.187454",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589184,
+    "UTC": "2019-09-04T09:26:24Z",
+    "Callsign": "TSC176",
+    "Position": "51.151657,-0.187102",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 34
+  },
+  {
+    "Timestamp": 1567589199,
+    "UTC": "2019-09-04T09:26:39Z",
+    "Callsign": "TSC176",
+    "Position": "51.152,-0.187287",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567589205,
+    "UTC": "2019-09-04T09:26:45Z",
+    "Callsign": "TSC176",
+    "Position": "51.152344,-0.187287",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567589218,
+    "UTC": "2019-09-04T09:26:58Z",
+    "Callsign": "TSC176",
+    "Position": "51.15303,-0.187621",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 352
+  },
+  {
+    "Timestamp": 1567589225,
+    "UTC": "2019-09-04T09:27:05Z",
+    "Callsign": "TSC176",
+    "Position": "51.153374,-0.187788",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 329
+  },
+  {
+    "Timestamp": 1567589231,
+    "UTC": "2019-09-04T09:27:11Z",
+    "Callsign": "TSC176",
+    "Position": "51.153717,-0.187798",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1567589244,
+    "UTC": "2019-09-04T09:27:24Z",
+    "Callsign": "TSC176",
+    "Position": "51.154755,-0.188141",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 352
+  },
+  {
+    "Timestamp": 1567589250,
+    "UTC": "2019-09-04T09:27:30Z",
+    "Callsign": "TSC176",
+    "Position": "51.15509,-0.188308",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1567589268,
+    "UTC": "2019-09-04T09:27:48Z",
+    "Callsign": "TSC176",
+    "Position": "51.155777,-0.188308",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1567589278,
+    "UTC": "2019-09-04T09:27:58Z",
+    "Callsign": "TSC176",
+    "Position": "51.155949,-0.187974",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 31
+  },
+  {
+    "Timestamp": 1567589285,
+    "UTC": "2019-09-04T09:28:05Z",
+    "Callsign": "TSC176",
+    "Position": "51.155952,-0.187454",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 88
+  },
+  {
+    "Timestamp": 1567589292,
+    "UTC": "2019-09-04T09:28:12Z",
+    "Callsign": "TSC176",
+    "Position": "51.155952,-0.187111",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 88
+  },
+  {
+    "Timestamp": 1567589301,
+    "UTC": "2019-09-04T09:28:21Z",
+    "Callsign": "TSC176",
+    "Position": "51.156128,-0.186253",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 72
+  },
+  {
+    "Timestamp": 1567589314,
+    "UTC": "2019-09-04T09:28:34Z",
+    "Callsign": "TSC176",
+    "Position": "51.156288,-0.185051",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 77
+  },
+  {
+    "Timestamp": 1567589321,
+    "UTC": "2019-09-04T09:28:41Z",
+    "Callsign": "TSC176",
+    "Position": "51.156292,-0.184355",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589331,
+    "UTC": "2019-09-04T09:28:51Z",
+    "Callsign": "TSC176",
+    "Position": "51.156464,-0.183501",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589337,
+    "UTC": "2019-09-04T09:28:57Z",
+    "Callsign": "TSC176",
+    "Position": "51.156639,-0.182991",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 61
+  },
+  {
+    "Timestamp": 1567589343,
+    "UTC": "2019-09-04T09:29:03Z",
+    "Callsign": "TSC176",
+    "Position": "51.156639,-0.182476",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589349,
+    "UTC": "2019-09-04T09:29:09Z",
+    "Callsign": "TSC176",
+    "Position": "51.156639,-0.182133",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 88
+  },
+  {
+    "Timestamp": 1567589358,
+    "UTC": "2019-09-04T09:29:18Z",
+    "Callsign": "TSC176",
+    "Position": "51.156975,-0.181789",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 34
+  },
+  {
+    "Timestamp": 1567589366,
+    "UTC": "2019-09-04T09:29:26Z",
+    "Callsign": "TSC176",
+    "Position": "51.157326,-0.181961",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 329
+  },
+  {
+    "Timestamp": 1567589374,
+    "UTC": "2019-09-04T09:29:34Z",
+    "Callsign": "TSC176",
+    "Position": "51.157661,-0.182133",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1567589382,
+    "UTC": "2019-09-04T09:29:42Z",
+    "Callsign": "TSC176",
+    "Position": "51.15818,-0.182128",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 269
+  },
+  {
+    "Timestamp": 1567589391,
+    "UTC": "2019-09-04T09:29:51Z",
+    "Callsign": "TSC176",
+    "Position": "51.158524,-0.182304",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 359
+  },
+  {
+    "Timestamp": 1567589397,
+    "UTC": "2019-09-04T09:29:57Z",
+    "Callsign": "TSC176",
+    "Position": "51.159035,-0.182476",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 343
+  },
+  {
+    "Timestamp": 1567589407,
+    "UTC": "2019-09-04T09:30:07Z",
+    "Callsign": "TSC176",
+    "Position": "51.159561,-0.182648",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 329
+  },
+  {
+    "Timestamp": 1567589417,
+    "UTC": "2019-09-04T09:30:17Z",
+    "Callsign": "TSC176",
+    "Position": "51.160072,-0.182819",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 271
+  },
+  {
+    "Timestamp": 1567589427,
+    "UTC": "2019-09-04T09:30:27Z",
+    "Callsign": "TSC176",
+    "Position": "51.16024,-0.182481",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 31
+  },
+  {
+    "Timestamp": 1567589435,
+    "UTC": "2019-09-04T09:30:35Z",
+    "Callsign": "TSC176",
+    "Position": "51.16024,-0.182128",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589445,
+    "UTC": "2019-09-04T09:30:45Z",
+    "Callsign": "TSC176",
+    "Position": "51.16024,-0.181608",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567589454,
+    "UTC": "2019-09-04T09:30:54Z",
+    "Callsign": "TSC176",
+    "Position": "51.159897,-0.181274",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 148
+  },
+  {
+    "Timestamp": 1567589468,
+    "UTC": "2019-09-04T09:31:08Z",
+    "Callsign": "TSC176",
+    "Position": "51.159721,-0.180759",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 91
+  },
+  {
+    "Timestamp": 1567589478,
+    "UTC": "2019-09-04T09:31:18Z",
+    "Callsign": "TSC176",
+    "Position": "51.159897,-0.180416",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589487,
+    "UTC": "2019-09-04T09:31:27Z",
+    "Callsign": "TSC176",
+    "Position": "51.159897,-0.180073",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  },
+  {
+    "Timestamp": 1567589523,
+    "UTC": "2019-09-04T09:32:03Z",
+    "Callsign": "TSC176",
+    "Position": "51.159897,-0.179734",
+    "Altitude": 0,
+    "Speed": 0,
+    "Direction": 89
+  }
+]
