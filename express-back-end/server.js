@@ -107,17 +107,17 @@ App.get("/api/schedules/from/:from/to/:to", (req, res) => {
   const y = now.getYear() + 1900;
   const m = now.getMonth() + 1;
   const d = now.getDate();
-  res.json(spidertest);
-  // axios
-  //   .get(
-  //     `https://api.flightstats.com/flex/schedules/rest/v1/json/from/${from}/to/${to}/departing/${y}/${m}/${d}?appId=${process.env.appId}&appKey=${process.env.appKey}`
-  //   )
-  //   .then(api => {
-  //     res.json(api.data);
-  //   })
-  //   .catch(err => {
-  //     console.log(err);
-  //   });
+  // res.json(spidertest);
+  axios
+    .get(
+      `https://api.flightstats.com/flex/schedules/rest/v1/json/from/${from}/to/${to}/departing/${y}/${m}/${d}?appId=${process.env.appId}&appKey=${process.env.appKey}`
+    )
+    .then(api => {
+      res.json(api.data);
+    })
+    .catch(err => {
+      console.log(err);
+    });
 });
 
 App.get("/api/plane/:id", (req, res) => {
