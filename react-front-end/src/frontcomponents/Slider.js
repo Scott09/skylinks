@@ -3,21 +3,25 @@ import { withStyles, makeStyles } from "@material-ui/core/styles";
 import Paper from "@material-ui/core/Paper";
 import Slider from "@material-ui/core/Slider";
 import "./Slider.css";
+import { fontFamily } from "@material-ui/system";
 
 const useStyles = makeStyles(theme => ({
   root: {
     width: 300 + theme.spacing(3) * 2,
-    padding: theme.spacing(3)
+    padding: theme.spacing(2.8),
+    marginBottom: 0
   },
   margin: {
-    height: theme.spacing(3)
+    height: theme.spacing(0)
   }
 }));
 
 const PrettoSlider = withStyles({
   root: {
-    color: "#52af77",
-    height: 8
+    color: "blue",
+    height: 8,
+    marginBottom: 0,
+    marginTop: 0
   },
   thumb: {
     height: 24,
@@ -36,11 +40,15 @@ const PrettoSlider = withStyles({
   },
   track: {
     height: 8,
-    borderRadius: 4
+    borderRadius: 4,
+    marginTop: 0
   },
   rail: {
     height: 8,
-    borderRadius: 4
+    borderRadius: 4,
+    marginBottom: 0,
+    
+
   }
 })(Slider);
 
@@ -81,6 +89,7 @@ export default function CustomizedSlider(props) {
   const classes = useStyles();
 
   return (
+    
     <Paper id="slider" className={classes.root}>
       <PrettoSlider
         aria-label="pretto slider"
@@ -90,13 +99,14 @@ export default function CustomizedSlider(props) {
         max={100}
         step={0.5}
       ></PrettoSlider>
-      <p id="slidertext">
+      <p> </p>
+      <p id="slidertext" class="text">
         Altitude: {props.waypoints[currentIndex].position.altitude} Ft.
       </p>
-      <p>
+      <p class="text">
         {hours}:{minutes}:{seconds} Since Departure
       </p>
-      <span>
+      <span class="text">
         Latitude:{" "}
         {parseFloat(props.waypoints[currentIndex].position.latitude).toFixed(4)}{" "}
         -<span></span> Longitude:{" "}
@@ -105,5 +115,6 @@ export default function CustomizedSlider(props) {
         )}
       </span>
     </Paper>
+    
   );
 }

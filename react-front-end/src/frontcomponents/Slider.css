@@ -3,12 +3,30 @@
   left: 0;
   right: 0;
   margin: auto;
-  bottom: 20px;
+  bottom: 0px;
   opacity: 0.8;
   background-color: lightblue;
+  font-family: 'Noto Serif', serif bold;
+  font-size: 11px;
+  color: blue;
+  font-weight: bold;
+  
 }
 
 
 #slidertext {
   margin: 0px;
 }
+
+.text {
+  margin: 0px;
+}
+
+.MuiSlider-markLabel {
+  font-family: 'Noto Serif', serif;
+  font-size: 20px;
+}
+
+
+
+
