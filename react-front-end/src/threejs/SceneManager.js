@@ -259,13 +259,28 @@ export default canvas => {
     }
   }
 
-  function updatePosition(position) {
-    if (airPlaneRoot) {
-      if (airPlaneRoot) {
-        const index = airPlaneRoot.points.length - 1;
-        const current = Math.floor((position / 100) * index);
-        airPlaneRoot.position.copy(airPlaneRoot.points[current]);
-      }
+
+  function updatePosition(position, waypoints) {
+    const plane = scene.getObjectByName("realTimePlane");
+    console.log(plane);
+    if (plane) {
+      const index = plane.points.length - 1;
+      const current = Math.floor((position / 100) * index);
+      plane.position.lerp(plane.points[current], 1);
+      plane.rotation.z =
+        -(Math.PI / 180) * waypoints[current].position.direction;
+      // axis.crossVectors(up, plane.points[current]).normalize();
+
+      // plane.quaternion.setFromAxisAngle(
+      //   new THREE.Vector3(0, 1, 0),
+      //   (Math.PI / 180) * waypoints[current].position.direction
+      // );
+
+      // plane.quaternion.setFromUnitVectors(
+      //   plane.points[current],
+      //   plane.points[current + 10]
+      // );
+
     }
   }
 
