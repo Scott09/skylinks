@@ -23,6 +23,9 @@ const ThreeContainer = props => {
       arrival: props.newArrival,
       waypoints: props.waypoints
     });
+    if(props.waypoints.length === 0){
+      state.clearAirPlane3d();
+    }
   }
 
   const style = {
