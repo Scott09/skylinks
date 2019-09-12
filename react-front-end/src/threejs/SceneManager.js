@@ -8,6 +8,7 @@ import FlightRealRoutes from "./components/realFlightRoutes";
 import GeneralLights from "./GeneralLights";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
+import { coordinateToPosition } from "./helpers/curve";
 
 export default canvas => {
   const clock = new THREE.Clock();
@@ -245,19 +246,31 @@ export default canvas => {
     }
   }
 
+  const clearAirPlane3d = () => {
+    if (airPlaneRoot) {
+      console.log("clear");
+      airPlaneRoot.position.set(0, 0, 0);
+    }
+  };
+
   function updatePosition(position, waypoints) {
     const plane = scene.getObjectByName("realTimePlane");
     // const center = new THREE.Vector3(0, 0, 0);
     if (airPlaneRoot && plane) {
       airPlaneRoot.points = plane.points;
-      const index = airPlaneRoot.points.length - 1;
+      const index = airPlaneRoot.points.length - 2;
       const current = Math.floor((position / 100) * index);
+      airPlaneRoot.up = new THREE.Vector3(0, 1, 0);
+      const endPosition = coordinateToPosition(
+        waypoints[waypoints.length - 1].position.latitude,
+        waypoints[waypoints.length - 1].position.longitude,
+        5
+      );
+      console.log(endPosition);
       airPlaneRoot.position.lerp(airPlaneRoot.points[current], 1);
-      // airPlaneRoot.lookAt(center);
-      airPlaneRoot.rotation.z = (Math.PI / 180) * 10;
-      airPlaneRoot.rotation.x = (Math.PI / 180) * 10;
-      airPlaneRoot.rotation.y =
-        -(Math.PI / 180) * (waypoints[current].position.direction + 200);
+
+      airPlaneRoot.lookAt(airPlaneRoot.points[current + 1]);
+      airPlaneRoot.rotation.z = -(Math.PI / 180) * 320;
     } else if (plane) {
       const index = plane.points.length - 1;
       const current = Math.floor((position / 100) * index);
@@ -285,6 +298,7 @@ export default canvas => {
     addEntity,
     onMouseEnter,
     onMouseLeave,
-    updatePosition
+    updatePosition,
+    clearAirPlane3d
   };
 };
