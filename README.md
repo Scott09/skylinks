@@ -1,3 +1,9 @@
+# SkyLinks
+
+SkyLinks is a 3D Flight Visualization Application. App that is used to visualize flight routes around the world and allows users to select a specific departure and arrival and see current flights traveling on that route.
+
+By [Rene Roger](https://github.com/renemroger), [Scott Appleton](https://github.com/Scott09), and [Haibin Zhu](https://github.com/ssspiderzzz)
+
 # React + Express No-Fluff Boilerplate
 
 A boilerplate project for anyone interested in making a project that uses React and Express.
@@ -29,6 +35,7 @@ If this doesn't work, please message me!
 3. run \c databasename to connect to the database.
 4. run \password databasename and select a password - EX: 123456
 5. create a .env at the express-back-end root
+
 ###### .env sample
 
 DB_HOST=localhost
@@ -57,8 +64,8 @@ And don't forget to update the README!
 
 You might want to look at examples of projects that have used this boilerplate for hints on how to extend it. Here are a few:
 
-* [Later Cart](https://github.com/bonitac/later-cart)
-* [Buddi.io](https://github.com/Danny-Tran/buddi.io)
+- [Later Cart](https://github.com/bonitac/later-cart)
+- [Buddi.io](https://github.com/Danny-Tran/buddi.io)
 
 If you'd like your project added to the list, please shoot me a message.
 
