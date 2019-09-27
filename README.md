@@ -2,9 +2,11 @@
 
 SkyLinks is a 3D Flight Visualization Application. App that is used to visualize flight routes around the world and allows users to select a specific departure and arrival and see current flights traveling on that route.
 
-This repository is a bootleg of @NimaBoscarino's [React Rails Boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate). It uses the same React app, but replaces the Rails server with an Express server.
+Bulit in 2 weeks with a bootleg of @NimaBoscarino's [React Rails Boilerplate](https://github.com/NimaBoscarino/react-rails-boilerplate). It uses the same React app, but replaces the Rails server with an Express server.
 
 By [Rene Roger](https://github.com/renemroger), [Scott Appleton](https://github.com/Scott09), and [Haibin Zhu](https://github.com/ssspiderzzz)
+
+# Features
 
 ## Running the projects
 
