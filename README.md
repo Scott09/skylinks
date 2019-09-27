@@ -9,15 +9,19 @@ By [Rene Roger](https://github.com/renemroger), [Scott Appleton](https://github.
 # Main Features
 
 Skylinks is a 3D webpage app that allows users to observe the Earth from space. Users can also control the camera - rotating and zooming base on the Earth.
+
 !["Screenshot for Skylinks Feature 1"](https://github.com/Scott09/skylinks/blob/spider/readme/react-front-end/public/gifs/Skylinks%20-%20gif%20-%2001.gif)
 
 Users can enter the FS or IATA code of an airport to find all the depature routes from this specific airport. When interacting with the 3D route path on Earth, users highlight a path and show the destination airport.
+
 !["Screenshot for Skylinks Feature 1"](https://github.com/Scott09/skylinks/blob/spider/readme/react-front-end/public/gifs/Skylinks%20-%20gif%20-%2002.gif)
 
 When users click on a destination in the routes list at the right side of the screen. Skylinks will send api reqeust to aquire all the flight schedules for today. The schedules list will show on the left side of the screen.
+
 !["Screenshot for Skylinks Feature 1"](https://github.com/Scott09/skylinks/blob/spider/readme/react-front-end/public/gifs/Skylinks%20-%20gif%20-%2003.gif)
 
 All the flight routes depart from Vancouver(YVR) airport have a real flight path which contains waypoints from an airplane. Users can drag the slider at the bottom to see all the detailed information for the plane.
+
 !["Screenshot for Skylinks Feature 1"](https://github.com/Scott09/skylinks/blob/spider/readme/react-front-end/public/gifs/Skylinks%20-%20gif%20-%2004.gif)
 
 ## Running the projects
