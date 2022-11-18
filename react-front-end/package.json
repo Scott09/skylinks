@@ -16,7 +16,7 @@
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "three": "^0.108.0"
   },
   "scripts": {
@@ -40,6 +40,6 @@
     "@storybook/addon-actions": "^5.1.11",
     "@storybook/addon-links": "^5.1.11",
     "@storybook/addons": "^5.1.11",
-    "@storybook/react": "^5.1.11"
+    "@storybook/react": "^6.5.13"
   }
 }
